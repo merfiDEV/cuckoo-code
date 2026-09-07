@@ -1,0 +1,607 @@
+- generic [active] [ref=f10e1]:
+  - main [ref=f10e3]:
+    - generic [ref=f10e7]:
+      - generic [ref=f10e9]:
+        - link [ref=f10e10] [cursor=pointer]:
+          - /url: /
+          - img "exteraGram" [ref=f10e11]
+          - text: exteraGram
+        - button "Toggle Sidebar" [ref=f10e12] [cursor=pointer]
+      - list [ref=f10e16]:
+        - generic [ref=f10e17]: Getting Started
+        - listitem [ref=f10e18]:
+          - link "Introduction" [ref=f10e19] [cursor=pointer]:
+            - /url: /docs
+        - listitem [ref=f10e26]:
+          - link "Setup" [ref=f10e27] [cursor=pointer]:
+            - /url: /docs/setup
+        - listitem [ref=f10e33]:
+          - link "First Plugin" [ref=f10e34] [cursor=pointer]:
+            - /url: /docs/first-plugin
+        - generic [ref=f10e42]: Elyx Structured Plugins
+        - generic [ref=f10e43]:
+          - link [ref=f10e44] [cursor=pointer]:
+            - /url: /docs/elyx
+          - list [ref=f10e58]:
+            - listitem [ref=f10e59]:
+              - link "Elyx" [ref=f10e60] [cursor=pointer]:
+                - /url: /docs/elyx
+            - listitem [ref=f10e73]:
+              - link "Quick Start" [ref=f10e74] [cursor=pointer]:
+                - /url: /docs/elyx/quick-start
+            - listitem [ref=f10e82]:
+              - link "ElyxBuilder" [ref=f10e83] [cursor=pointer]:
+                - /url: /docs/elyx/elyxbuilder
+            - listitem [ref=f10e90]:
+              - link "Project Structure" [ref=f10e91] [cursor=pointer]:
+                - /url: /docs/elyx/project-structure
+            - listitem [ref=f10e99]:
+              - link "Metadata" [ref=f10e100] [cursor=pointer]:
+                - /url: /docs/elyx/metadata
+            - listitem [ref=f10e108]:
+              - link "Modules and Imports" [ref=f10e109] [cursor=pointer]:
+                - /url: /docs/elyx/modules-and-imports
+            - listitem [ref=f10e117]:
+              - link "Assets" [ref=f10e118] [cursor=pointer]:
+                - /url: /docs/elyx/assets
+            - listitem [ref=f10e126]:
+              - link "Localization" [ref=f10e127] [cursor=pointer]:
+                - /url: /docs/elyx/localization
+            - listitem [ref=f10e134]:
+              - link "Settings Storage" [ref=f10e135] [cursor=pointer]:
+                - /url: /docs/elyx/settings
+            - listitem [ref=f10e139]:
+              - link "Dependencies" [ref=f10e140] [cursor=pointer]:
+                - /url: /docs/elyx/dependencies
+            - listitem [ref=f10e149]:
+              - link "Development and Build" [ref=f10e150] [cursor=pointer]:
+                - /url: /docs/elyx/development
+            - listitem [ref=f10e158]:
+              - link "Public API" [ref=f10e159] [cursor=pointer]:
+                - /url: /docs/elyx/public-api
+            - listitem [ref=f10e165]:
+              - link "Troubleshooting" [ref=f10e166] [cursor=pointer]:
+                - /url: /docs/elyx/troubleshooting
+        - generic [ref=f10e171]: Basics
+        - listitem [ref=f10e172]:
+          - link "Plugin Class" [ref=f10e173] [cursor=pointer]:
+            - /url: /docs/plugin-class
+        - listitem [ref=f10e178]:
+          - link "Multi-account" [ref=f10e179] [cursor=pointer]:
+            - /url: /docs/multi-account
+        - listitem [ref=f10e187]:
+          - link "Plugin Settings" [ref=f10e188] [cursor=pointer]:
+            - /url: /docs/plugin-settings
+        - listitem [ref=f10e194]:
+          - link "Class Proxy" [ref=f10e195] [cursor=pointer]:
+            - /url: /docs/class-proxy
+        - listitem [ref=f10e208]:
+          - link "Xposed Method Hooking" [ref=f10e209] [cursor=pointer]:
+            - /url: /docs/xposed-hooking
+        - generic [ref=f10e216]: Utils
+        - listitem [ref=f10e217]:
+          - link "Android Utilities" [ref=f10e218] [cursor=pointer]:
+            - /url: /docs/android-utils
+        - listitem [ref=f10e223]:
+          - link "Client Utilities" [ref=f10e224] [cursor=pointer]:
+            - /url: /docs/client-utils
+        - listitem [ref=f10e231]:
+          - link "Text Formatting" [ref=f10e232] [cursor=pointer]:
+            - /url: /docs/text-formatting
+        - listitem [ref=f10e237]:
+          - link "Hook Utilities (Reflection)" [ref=f10e238] [cursor=pointer]:
+            - /url: /docs/hook-utils
+        - listitem [ref=f10e246]:
+          - link "File Utilities" [ref=f10e247] [cursor=pointer]:
+            - /url: /docs/file-utils
+        - listitem [ref=f10e255]:
+          - link "Intents" [ref=f10e256] [cursor=pointer]:
+            - /url: /docs/intents
+        - listitem [ref=f10e262]:
+          - link "Alert Dialog Builder" [ref=f10e263] [cursor=pointer]:
+            - /url: /docs/alert-dialog-builder
+        - listitem [ref=f10e268]:
+          - link "Bulletin Helper" [ref=f10e269] [cursor=pointer]:
+            - /url: /docs/bulletin-helper
+        - generic [ref=f10e275]: Other
+        - listitem [ref=f10e276]:
+          - link "Development Server" [ref=f10e277] [cursor=pointer]:
+            - /url: /docs/dev-server
+        - listitem [ref=f10e286]:
+          - link "PIP & Dependencies" [ref=f10e287] [cursor=pointer]:
+            - /url: /docs/pip
+        - listitem [ref=f10e294]:
+          - link "Available Libraries" [ref=f10e295] [cursor=pointer]:
+            - /url: /docs/available-libraries
+        - listitem [ref=f10e300]:
+          - link "Common Telegram Classes" [ref=f10e301] [cursor=pointer]:
+            - /url: /docs/common-source-classes
+    - main [ref=f10e307]:
+      - generic [ref=f10e308]:
+        - generic [ref=f10e309]:
+          - button "Search ⌘ K" [ref=f10e310] [cursor=pointer]:
+            - text: Search
+            - generic [ref=f10e314]:
+              - generic [ref=f10e315]: ⌘
+              - generic [ref=f10e316]: K
+          - button "Toggle Theme" [ref=f10e317] [cursor=pointer]
+          - link [ref=f10e326] [cursor=pointer]:
+            - /url: https://github.com/exteraSquad
+        - generic [ref=f10e329]:
+          - article [ref=f10e331]:
+            - heading "Client Utilities" [level=1] [ref=f10e332]
+            - paragraph [ref=f10e333]: Helpers for queues, requests, notifications, controllers, fragments, and sending or editing messages.
+            - generic [ref=f10e334]:
+              - paragraph [ref=f10e335]: This module contains the higher-level helpers most plugins use when they need to interact with Telegram internals without dropping into raw Java code every time.
+              - paragraph [ref=f10e336]: "Typical uses:"
+              - list [ref=f10e337]:
+                - listitem [ref=f10e338]: queueing work off the UI thread
+                - listitem [ref=f10e339]: sending Telegram requests
+                - listitem [ref=f10e340]: sending or editing messages and media
+                - listitem [ref=f10e341]: reaching the current fragment or account controllers
+                - listitem [ref=f10e342]:
+                  - text: listening to
+                  - code [ref=f10e343]: NotificationCenter
+              - heading [level=2] [ref=f10e344]:
+                - link "Queues (Background Threads)" [ref=f10e345] [cursor=pointer]:
+                  - /url: "#queues-background-threads"
+                - img "Link to section" [ref=f10e346]
+              - paragraph [ref=f10e349]:
+                - text: Use
+                - code [ref=f10e350]: run_on_queue(...)
+                - text: "for work that should not block the UI thread: network requests, file I/O, heavy parsing, or long computations."
+              - figure [ref=f10e351]:
+                - button "Copy Text" [ref=f10e352] [cursor=pointer]
+                - code [ref=f10e360]:
+                  - generic [ref=f10e361]: import time
+                  - generic [ref=f10e363]: from android_utils import log
+                  - generic [ref=f10e364]: from client_utils import run_on_queue
+                  - generic [ref=f10e367]: "def my_long_task(parameter: str):"
+                  - generic [ref=f10e368]: "log(f\"Task started with: {parameter}\")"
+                  - generic [ref=f10e369]: "time.sleep(5) # Simulate a long operation."
+                  - generic [ref=f10e370]: "log(f\"Task finished for: {parameter}\")"
+                  - generic [ref=f10e373]: "# Run on the default PLUGINS_QUEUE."
+                  - generic [ref=f10e374]: "run_on_queue(lambda: my_long_task(\"some_data\"))"
+              - paragraph [ref=f10e375]: "You can target a specific queue and add a delay in milliseconds:"
+              - figure [ref=f10e376]:
+                - button "Copy Text" [ref=f10e377] [cursor=pointer]
+                - code [ref=f10e385]:
+                  - generic [ref=f10e386]: from client_utils import GLOBAL_QUEUE, run_on_queue
+                  - generic [ref=f10e389]: "# Run on GLOBAL_QUEUE after a 2.5 second delay."
+                  - generic [ref=f10e390]: "run_on_queue(lambda: my_long_task(\"other_data\"), GLOBAL_QUEUE, 2500)"
+              - paragraph [ref=f10e391]: "Available queue-name constants:"
+              - figure [ref=f10e392]:
+                - button "Copy Text" [ref=f10e393] [cursor=pointer]
+                - code [ref=f10e401]:
+                  - generic [ref=f10e402]: STAGE_QUEUE = "stageQueue"
+                  - generic [ref=f10e403]: GLOBAL_QUEUE = "globalQueue"
+                  - generic [ref=f10e404]: CACHE_CLEAR_QUEUE = "cacheClearQueue"
+                  - generic [ref=f10e405]: SEARCH_QUEUE = "searchQueue"
+                  - generic [ref=f10e406]: PHONE_BOOK_QUEUE = "phoneBookQueue"
+                  - generic [ref=f10e407]: THEME_QUEUE = "themeQueue"
+                  - generic [ref=f10e408]: EXTERNAL_NETWORK_QUEUE = "externalNetworkQueue"
+                  - generic [ref=f10e409]: PLUGINS_QUEUE = "pluginsQueue"
+              - paragraph [ref=f10e410]:
+                - text: If you need the raw Java
+                - code [ref=f10e411]: DispatchQueue
+                - text: ", use"
+                - code [ref=f10e412]: get_queue_by_name(...)
+                - text: ":"
+              - figure [ref=f10e413]:
+                - button "Copy Text" [ref=f10e414] [cursor=pointer]
+                - code [ref=f10e422]:
+                  - generic [ref=f10e423]: from client_utils import PLUGINS_QUEUE, get_queue_by_name
+                  - generic [ref=f10e426]: plugins_dispatch_queue = get_queue_by_name(PLUGINS_QUEUE)
+                  - generic [ref=f10e427]: "if plugins_dispatch_queue:"
+                  - generic [ref=f10e428]: "# You can call DispatchQueue methods directly here."
+                  - generic [ref=f10e429]: pass
+              - heading [level=2] [ref=f10e430]:
+                - link "Sending Telegram API Requests" [ref=f10e431] [cursor=pointer]:
+                  - /url: "#sending-telegram-api-requests"
+                - img "Link to section" [ref=f10e432]
+              - paragraph [ref=f10e435]:
+                - code [ref=f10e436]: send_request(request, fn)
+                - text: sends a raw Telegram
+                - code [ref=f10e437]: TLObject
+                - text: through the
+                - code [ref=f10e438]: ConnectionsManager
+                - text: of the account selected in the UI, or of
+                - code [ref=f10e439]: account=
+                - text: when you pass one. Your callback runs with that account in scope, so helpers you call from it can follow it — see
+                - link "Multi-account" [ref=f10e440] [cursor=pointer]:
+                  - /url: /docs/multi-account
+                - text: .
+              - paragraph [ref=f10e441]:
+                - text: You pass a normal Python callback. The SDK wraps it into a
+                - code [ref=f10e442]: RequestDelegate
+                - text: for you.
+              - figure [ref=f10e443]:
+                - button "Copy Text" [ref=f10e444] [cursor=pointer]
+                - code [ref=f10e452]:
+                  - generic [ref=f10e453]: from java.lang import Integer
+                  - generic [ref=f10e454]: from org.telegram.tgnet import TLRPC
+                  - generic [ref=f10e456]: from android_utils import log
+                  - generic [ref=f10e457]: from client_utils import send_request
+                  - generic [ref=f10e460]: "def handle_read_contents_response(response, error):"
+                  - generic [ref=f10e461]: "if error:"
+                  - generic [ref=f10e462]: "log(f\"Error reading message contents: {error.text}\")"
+                  - generic [ref=f10e463]: return
+                  - generic [ref=f10e465]: "if response and isinstance(response, TLRPC.TL_messages_affectedMessages):"
+                  - generic [ref=f10e466]: "log(f\"Successfully read contents. PTS: {response.pts}, Count: {response.pts_count}\")"
+                  - generic [ref=f10e467]: "else:"
+                  - generic [ref=f10e468]: "log(f\"Unexpected response type: {type(response)}\")"
+                  - generic [ref=f10e471]: "# Create the request object."
+                  - generic [ref=f10e472]: req = TLRPC.TL_messages_readMessageContents()
+                  - generic [ref=f10e473]: req.id.add(Integer(12345))
+                  - generic [ref=f10e475]: "# Send the request. The return value is the ConnectionsManager request id."
+                  - generic [ref=f10e476]: request_id = send_request(req, handle_read_contents_response)
+                  - generic [ref=f10e477]: "log(f\"Sent TL_messages_readMessageContents, request ID: {request_id}\")"
+              - paragraph [ref=f10e478]:
+                - text: You usually do not need to instantiate
+                - code [ref=f10e479]: RequestCallback
+                - text: manually unless you specifically want the proxy class itself.
+              - heading [level=2] [ref=f10e480]:
+                - link "Sending Messages and Media" [ref=f10e481] [cursor=pointer]:
+                  - /url: "#sending-messages-and-media"
+                - img "Link to section" [ref=f10e482]
+              - paragraph [ref=f10e485]:
+                - text: The
+                - code [ref=f10e486]: send_*
+                - text: helpers build the proper
+                - code [ref=f10e487]: SendMessageParams
+                - text: ", prepare media objects when needed, and send the final operation on the correct thread."
+              - paragraph [ref=f10e488]:
+                - text: All
+                - code [ref=f10e489]: send_*
+                - text: helpers accept optional
+                - code [ref=f10e490]: parse_mode="HTML"
+                - text: or
+                - code [ref=f10e491]: parse_mode="Markdown"
+                - text: .
+              - heading [level=3] [ref=f10e492]:
+                - link [ref=f10e493] [cursor=pointer]:
+                  - /url: "#send_text"
+                  - code [ref=f10e494]: send_text
+                - img "Link to section" [ref=f10e495]
+              - figure [ref=f10e498]:
+                - button "Copy Text" [ref=f10e499] [cursor=pointer]
+                - code [ref=f10e507]:
+                  - generic [ref=f10e508]: from client_utils import send_text
+                  - generic [ref=f10e511]: peer_id = 123456789
+                  - generic [ref=f10e513]: "# Send a plain text message."
+                  - generic [ref=f10e514]: send_text(peer_id, "Hello from my plugin!")
+                  - generic [ref=f10e516]: "# Send a reply."
+                  - generic [ref=f10e517]: send_text(peer_id, "This is a reply.", replyToMsg=9876)
+                  - generic [ref=f10e519]: "# Send a message with Markdown formatting."
+                  - generic [ref=f10e520]: send_text(peer_id, "**Hello** from my *plugin*!", parse_mode="Markdown")
+              - heading [level=3] [ref=f10e521]:
+                - link [ref=f10e522] [cursor=pointer]:
+                  - /url: "#send_photo"
+                  - code [ref=f10e523]: send_photo
+                - img "Link to section" [ref=f10e524]
+              - figure [ref=f10e527]:
+                - button "Copy Text" [ref=f10e528] [cursor=pointer]
+                - code [ref=f10e536]:
+                  - generic [ref=f10e537]: from client_utils import send_photo
+                  - generic [ref=f10e540]: peer_id = 123456789
+                  - generic [ref=f10e541]: photo_path = "/path/to/your/image.jpg"
+                  - generic [ref=f10e543]: "# Send a photo with a caption."
+                  - generic [ref=f10e544]: send_photo(peer_id, photo_path, caption="Here is a photo!")
+                  - generic [ref=f10e546]: "# Send a high-quality photo with HTML caption."
+                  - generic [ref=f10e547]: send_photo(
+                  - generic [ref=f10e548]: peer_id,
+                  - generic [ref=f10e549]: photo_path,
+                  - generic [ref=f10e550]: caption="<b>High quality</b> photo.",
+                  - generic [ref=f10e551]: high_quality=True,
+                  - generic [ref=f10e552]: parse_mode="HTML",
+                  - generic [ref=f10e553]: )
+              - heading [level=3] [ref=f10e554]:
+                - link [ref=f10e555] [cursor=pointer]:
+                  - /url: "#send_document"
+                  - code [ref=f10e556]: send_document
+                - img "Link to section" [ref=f10e557]
+              - figure [ref=f10e560]:
+                - button "Copy Text" [ref=f10e561] [cursor=pointer]
+                - code [ref=f10e569]:
+                  - generic [ref=f10e570]: from client_utils import send_document
+                  - generic [ref=f10e573]: peer_id = 123456789
+                  - generic [ref=f10e574]: file_path = "/path/to/your/file.zip"
+                  - generic [ref=f10e576]: send_document(peer_id, file_path, caption="Here is the zip file.")
+              - heading [level=3] [ref=f10e577]:
+                - link [ref=f10e578] [cursor=pointer]:
+                  - /url: "#send_video"
+                  - code [ref=f10e579]: send_video
+                - img "Link to section" [ref=f10e580]
+              - figure [ref=f10e583]:
+                - button "Copy Text" [ref=f10e584] [cursor=pointer]
+                - code [ref=f10e592]:
+                  - generic [ref=f10e593]: from client_utils import send_video
+                  - generic [ref=f10e596]: peer_id = 123456789
+                  - generic [ref=f10e597]: video_path = "/path/to/your/video.mp4"
+                  - generic [ref=f10e599]: "# The SDK will fill common video attributes such as size and duration."
+                  - generic [ref=f10e600]: send_video(peer_id, video_path, caption="Check out this video!")
+              - heading [level=3] [ref=f10e601]:
+                - link [ref=f10e602] [cursor=pointer]:
+                  - /url: "#send_audio"
+                  - code [ref=f10e603]: send_audio
+                - img "Link to section" [ref=f10e604]
+              - figure [ref=f10e607]:
+                - button "Copy Text" [ref=f10e608] [cursor=pointer]
+                - code [ref=f10e616]:
+                  - generic [ref=f10e617]: from client_utils import send_audio
+                  - generic [ref=f10e620]: peer_id = 123456789
+                  - generic [ref=f10e621]: audio_path = "/path/to/your/song.mp3"
+                  - generic [ref=f10e623]: "# The SDK will fill common audio metadata when possible."
+                  - generic [ref=f10e624]: send_audio(peer_id, audio_path, caption="Listen to this!")
+              - heading [level=3] [ref=f10e625]:
+                - link [ref=f10e626] [cursor=pointer]:
+                  - /url: "#low-level-send_message"
+                  - text: Low-level
+                  - code [ref=f10e627]: send_message
+                - img "Link to section" [ref=f10e628]
+              - paragraph [ref=f10e631]:
+                - text: If you need more control, use
+                - code [ref=f10e632]: send_message(params, parse_mode=None)
+                - text: directly.
+              - paragraph [ref=f10e633]:
+                - text: It accepts a dictionary of fields that map onto
+                - code [ref=f10e634]: SendMessagesHelper.SendMessageParams
+                - text: .
+              - figure [ref=f10e635]:
+                - button "Copy Text" [ref=f10e636] [cursor=pointer]
+                - code [ref=f10e644]:
+                  - generic [ref=f10e645]: from client_utils import send_message
+                  - generic [ref=f10e648]: send_message(
+                  - generic [ref=f10e649]: "{"
+                  - generic [ref=f10e650]: "\"peer\": 123456789,"
+                  - generic [ref=f10e651]: "\"message\": \"Scheduled message from plugin\","
+                  - generic [ref=f10e652]: "\"scheduleDate\": 1735689600,"
+                  - generic [ref=f10e653]: "\"notify\": False,"
+                  - generic [ref=f10e654]: "}"
+                  - generic [ref=f10e655]: )
+              - paragraph [ref=f10e656]: "Commonly used keys include:"
+              - list [ref=f10e657]:
+                - listitem [ref=f10e658]:
+                  - code [ref=f10e659]: peer
+                - listitem [ref=f10e660]:
+                  - code [ref=f10e661]: message
+                - listitem [ref=f10e662]:
+                  - code [ref=f10e663]: caption
+                - listitem [ref=f10e664]:
+                  - code [ref=f10e665]: photo
+                - listitem [ref=f10e666]:
+                  - code [ref=f10e667]: document
+                - listitem [ref=f10e668]:
+                  - code [ref=f10e669]: path
+                - listitem [ref=f10e670]:
+                  - code [ref=f10e671]: replyToMsg
+                - listitem [ref=f10e672]:
+                  - code [ref=f10e673]: replyMarkup
+                - listitem [ref=f10e674]:
+                  - code [ref=f10e675]: params
+                - listitem [ref=f10e676]:
+                  - code [ref=f10e677]: notify
+                - listitem [ref=f10e678]:
+                  - code [ref=f10e679]: scheduleDate
+                - listitem [ref=f10e680]:
+                  - code [ref=f10e681]: ttl
+                - listitem [ref=f10e682]:
+                  - code [ref=f10e683]: hasMediaSpoilers
+                - listitem [ref=f10e684]:
+                  - code [ref=f10e685]: sendingHighQuality
+              - generic [ref=f10e689]:
+                - paragraph [ref=f10e690]: Parse mode
+                - paragraph [ref=f10e692]:
+                  - code [ref=f10e693]: parse_mode
+                  - text: is case-insensitive and currently supports only
+                  - code [ref=f10e694]: html
+                  - text: and
+                  - code [ref=f10e695]: markdown
+                  - text: . When it is provided, the SDK parses either
+                  - code [ref=f10e696]: message
+                  - text: or
+                  - code [ref=f10e697]: caption
+                  - text: and fills
+                  - code [ref=f10e698]: entities
+                  - text: for you.
+              - heading [level=2] [ref=f10e699]:
+                - link "Editing Messages" [ref=f10e700] [cursor=pointer]:
+                  - /url: "#editing-messages"
+                - img "Link to section" [ref=f10e701]
+              - paragraph [ref=f10e704]:
+                - code [ref=f10e705]: edit_message(...)
+                - text: edits an existing
+                - code [ref=f10e706]: MessageObject
+                - text: .
+              - paragraph [ref=f10e707]: "You can change:"
+              - list [ref=f10e708]:
+                - listitem [ref=f10e709]: textual content
+                - listitem [ref=f10e710]: replacement media file
+                - listitem [ref=f10e711]: spoiler state for replaced media
+              - figure [ref=f10e712]:
+                - button "Copy Text" [ref=f10e713] [cursor=pointer]
+                - code [ref=f10e721]:
+                  - generic [ref=f10e722]: from client_utils import edit_message
+                  - generic [ref=f10e725]: "# Assume `message_obj` is a valid MessageObject instance."
+                  - generic [ref=f10e727]: "# Edit the text of a message."
+                  - generic [ref=f10e728]: edit_message(message_obj, text="This is the new, edited text.")
+                  - generic [ref=f10e730]: "# Edit text with HTML formatting."
+                  - generic [ref=f10e731]: edit_message(message_obj, text="This is <b>bold</b> text.", parse_mode="HTML")
+                  - generic [ref=f10e733]: "# Replace the media in a message and update the text at the same time."
+                  - generic [ref=f10e734]: new_photo_path = "/path/to/another/image.jpg"
+                  - generic [ref=f10e735]: edit_message(message_obj, file_path=new_photo_path, text="Here is a new photo instead.")
+                  - generic [ref=f10e737]: "# Replace media with spoiler enabled."
+                  - generic [ref=f10e738]: edit_message(message_obj, file_path=new_photo_path, with_spoiler=True)
+              - paragraph [ref=f10e739]: "Notes:"
+              - list [ref=f10e740]:
+                - listitem [ref=f10e741]:
+                  - code [ref=f10e742]: message_obj
+                  - text: must be a real
+                  - code [ref=f10e743]: org.telegram.messenger.MessageObject
+                - listitem [ref=f10e744]:
+                  - text: pass
+                  - code [ref=f10e745]: text=
+                  - text: when you want to replace message text or caption text
+                - listitem [ref=f10e746]:
+                  - text: pass
+                  - code [ref=f10e747]: file_path=
+                  - text: when you want to replace attached media
+                - listitem [ref=f10e748]:
+                  - text: unsupported
+                  - code [ref=f10e749]: parse_mode
+                  - text: values raise
+                  - code [ref=f10e750]: ValueError
+              - heading [level=2] [ref=f10e751]:
+                - link "Fragments, Controllers, and Account Helpers" [ref=f10e752] [cursor=pointer]:
+                  - /url: "#fragments-controllers-and-account-helpers"
+                - img "Link to section" [ref=f10e753]
+              - paragraph [ref=f10e756]:
+                - text: These helpers return commonly used Telegram components for
+                - strong [ref=f10e757]: the account selected in the UI
+                - text: ", unless you pass an explicit"
+                - code [ref=f10e758]: account=
+                - text: . See
+                - link "Multi-account" [ref=f10e759] [cursor=pointer]:
+                  - /url: /docs/multi-account
+                - text: — inside a hook, the account you are handling is often not the selected one.
+              - figure [ref=f10e760]:
+                - button "Copy Text" [ref=f10e761] [cursor=pointer]
+                - code [ref=f10e769]:
+                  - generic [ref=f10e770]: from client_utils import (
+                  - generic [ref=f10e771]: get_last_fragment,
+                  - generic [ref=f10e772]: get_account_instance,
+                  - generic [ref=f10e773]: get_messages_controller,
+                  - generic [ref=f10e774]: get_contacts_controller,
+                  - generic [ref=f10e775]: get_media_data_controller,
+                  - generic [ref=f10e776]: get_connections_manager,
+                  - generic [ref=f10e777]: get_location_controller,
+                  - generic [ref=f10e778]: get_notifications_controller,
+                  - generic [ref=f10e779]: get_messages_storage,
+                  - generic [ref=f10e780]: get_send_messages_helper,
+                  - generic [ref=f10e781]: get_file_loader,
+                  - generic [ref=f10e782]: get_secret_chat_helper,
+                  - generic [ref=f10e783]: get_download_controller,
+                  - generic [ref=f10e784]: get_notifications_settings,
+                  - generic [ref=f10e785]: get_notification_center,
+                  - generic [ref=f10e786]: get_media_controller,
+                  - generic [ref=f10e787]: get_user_config,
+                  - generic [ref=f10e788]: )
+                  - generic [ref=f10e791]: fragment = get_last_fragment()
+                  - generic [ref=f10e792]: account_instance = get_account_instance()
+                  - generic [ref=f10e793]: messages_controller = get_messages_controller()
+                  - generic [ref=f10e794]: connections_manager = get_connections_manager()
+                  - generic [ref=f10e795]: send_helper = get_send_messages_helper()
+                  - generic [ref=f10e796]: user_cfg = get_user_config()
+                  - generic [ref=f10e798]: "if user_cfg.getCurrentUser():"
+                  - generic [ref=f10e799]: current_user = user_cfg.getCurrentUser()
+                  - generic [ref=f10e801]: "# Every one of them also takes an explicit account:"
+                  - generic [ref=f10e802]: messages_controller = get_messages_controller(1)
+              - paragraph [ref=f10e803]: These helpers are thin convenience wrappers, but they keep plugin code much cleaner.
+              - paragraph [ref=f10e804]:
+                - code [ref=f10e805]: get_media_controller()
+                - text: is the one exception with no
+                - code [ref=f10e806]: account
+                - text: "parameter:"
+                - code [ref=f10e807]: MediaController
+                - text: is a single global instance, not per-account.
+              - heading [level=2] [ref=f10e808]:
+                - link "NotificationCenterDelegate" [ref=f10e809] [cursor=pointer]:
+                  - /url: "#notificationcenterdelegate"
+                - img "Link to section" [ref=f10e810]
+              - paragraph [ref=f10e813]:
+                - code [ref=f10e814]: NotificationCenterDelegate
+                - text: is a ready-made Python base class for implementing
+                - code [ref=f10e815]: NotificationCenter.NotificationCenterDelegate
+                - text: .
+              - paragraph [ref=f10e816]: It is useful when you want to listen to client-side notifications from Telegram.
+              - figure [ref=f10e817]:
+                - button "Copy Text" [ref=f10e818] [cursor=pointer]
+                - code [ref=f10e826]:
+                  - generic [ref=f10e827]: from java.lang import Object
+                  - generic [ref=f10e828]: from java import jarray
+                  - generic [ref=f10e830]: from client_utils import NotificationCenterDelegate, get_notification_center
+                  - generic [ref=f10e831]: from org.telegram.messenger import NotificationCenter
+                  - generic [ref=f10e834]: "class MyDelegate(NotificationCenterDelegate):"
+                  - generic [ref=f10e835]: "def didReceivedNotification(self, id: int, account: int, args: jarray(Object)):"
+                  - generic [ref=f10e836]: "if id == NotificationCenter.didUpdateConnectionState:"
+                  - generic [ref=f10e837]: print("Connection state changed:", args)
+                  - generic [ref=f10e840]: delegate = MyDelegate()
+                  - generic [ref=f10e841]: notification_center = get_notification_center()
+                  - generic [ref=f10e842]: notification_center.addObserver(delegate, NotificationCenter.didUpdateConnectionState)
+                  - generic [ref=f10e844]: "# Later, when you no longer need it:"
+                  - generic [ref=f10e845]: "# notification_center.removeObserver(delegate, NotificationCenter.didUpdateConnectionState)"
+              - paragraph [ref=f10e846]:
+                - text: You do not need to wrap
+                - code [ref=f10e847]: NotificationCenterDelegate
+                - text: with
+                - code [ref=f10e848]: dynamic_proxy(...)
+                - text: yourself. Subclassing it is enough.
+              - paragraph [ref=f10e849]:
+                - text: If you need a generated Java subclass instead of a simple interface proxy, see
+                - link "Class Proxy" [ref=f10e850] [cursor=pointer]:
+                  - /url: /docs/class-proxy
+                - text: .
+              - heading [level=2] [ref=f10e851]:
+                - link "Displaying Bulletins" [ref=f10e852] [cursor=pointer]:
+                  - /url: "#displaying-bulletins"
+                - img "Link to section" [ref=f10e853]
+              - paragraph [ref=f10e856]:
+                - text: For bulletins and bottom notifications, use
+                - code [ref=f10e857]: ui.bulletin.BulletinHelper
+                - text: .
+              - figure [ref=f10e858]:
+                - button "Copy Text" [ref=f10e859] [cursor=pointer]
+                - code [ref=f10e867]:
+                  - generic [ref=f10e868]: from ui.bulletin import BulletinHelper
+                  - generic [ref=f10e871]: BulletinHelper.show_info("This is an informational message.")
+              - paragraph [ref=f10e872]:
+                - text: For the full list of supported bulletin helpers and examples, see
+                - link "Bulletin Helper" [ref=f10e873] [cursor=pointer]:
+                  - /url: /docs/bulletin-helper
+                - text: .
+            - generic [ref=f10e874]:
+              - link [ref=f10e875] [cursor=pointer]:
+                - /url: /docs/android-utils
+                - paragraph [ref=f10e879]: Previous
+                - paragraph [ref=f10e880]: Android Utilities
+              - link [ref=f10e881] [cursor=pointer]:
+                - /url: /docs/text-formatting
+                - paragraph [ref=f10e885]: Next
+                - paragraph [ref=f10e886]: Text Formatting
+          - generic [ref=f10e888]:
+            - heading "On this page" [level=3] [ref=f10e889]
+            - generic [ref=f10e894]:
+              - link "Queues (Background Threads)" [ref=f10e895] [cursor=pointer]:
+                - /url: "#queues-background-threads"
+              - link "Sending Telegram API Requests" [ref=f10e897] [cursor=pointer]:
+                - /url: "#sending-telegram-api-requests"
+              - link "Sending Messages and Media" [ref=f10e899] [cursor=pointer]:
+                - /url: "#sending-messages-and-media"
+              - link [ref=f10e901] [cursor=pointer]:
+                - /url: "#send_text"
+                - code [ref=f10e905]: send_text
+              - link [ref=f10e906] [cursor=pointer]:
+                - /url: "#send_photo"
+                - code [ref=f10e908]: send_photo
+              - link [ref=f10e909] [cursor=pointer]:
+                - /url: "#send_document"
+                - code [ref=f10e911]: send_document
+              - link [ref=f10e912] [cursor=pointer]:
+                - /url: "#send_video"
+                - code [ref=f10e914]: send_video
+              - link [ref=f10e915] [cursor=pointer]:
+                - /url: "#send_audio"
+                - code [ref=f10e917]: send_audio
+              - link [ref=f10e918] [cursor=pointer]:
+                - /url: "#low-level-send_message"
+                - text: Low-level
+                - code [ref=f10e920]: send_message
+              - link "Editing Messages" [ref=f10e921] [cursor=pointer]:
+                - /url: "#editing-messages"
+              - link "Fragments, Controllers, and Account Helpers" [ref=f10e925] [cursor=pointer]:
+                - /url: "#fragments-controllers-and-account-helpers"
+              - link "NotificationCenterDelegate" [ref=f10e927] [cursor=pointer]:
+                - /url: "#notificationcenterdelegate"
+              - link "Displaying Bulletins" [ref=f10e929] [cursor=pointer]:
+                - /url: "#displaying-bulletins"
+  - region "Notifications alt+T"

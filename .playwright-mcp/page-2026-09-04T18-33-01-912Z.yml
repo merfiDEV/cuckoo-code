@@ -1,0 +1,1109 @@
+- generic [ref=f4e2]:
+  - generic [ref=f4e4]:
+    - text: Подписывайтесь на наш Telegram и не пропускайте важные новости!
+    - link "Перейти" [ref=f4e8] [cursor=pointer]:
+      - /url: https://t.me/yougame_official
+    - button "Скрыть" [ref=f4e10] [cursor=pointer]
+  - generic [ref=f4e15]:
+    - link "Вход" [ref=f4e16] [cursor=pointer]:
+      - /url: /login/
+    - link "Регистрация" [ref=f4e17] [cursor=pointer]:
+      - /url: /register/
+  - banner [ref=f4e18]:
+    - generic [ref=f4e20]:
+      - link [ref=f4e22] [cursor=pointer]:
+        - /url: /
+        - img "Сайт читов, скриптов и кодов для онлайн игр - YouGame.Biz" [ref=f4e24]
+      - navigation [ref=f4e25]:
+        - generic [ref=f4e26]:
+          - list [ref=f4e28]:
+            - listitem [ref=f4e29]:
+              - generic [ref=f4e30]:
+                - link "Правила" [ref=f4e31] [cursor=pointer]:
+                  - /url: /rules/
+                - button "Toggle expanded" [ref=f4e32] [cursor=pointer]
+            - listitem [ref=f4e33]:
+              - generic [ref=f4e34]:
+                - link "Услуги форума" [ref=f4e35] [cursor=pointer]:
+                  - /url: /threads/88568/
+                - button "Toggle expanded" [ref=f4e36] [cursor=pointer]
+            - listitem [ref=f4e37]:
+              - generic [ref=f4e38]:
+                - link "Пользователи" [ref=f4e39] [cursor=pointer]:
+                  - /url: /members/
+                - button "Toggle expanded" [ref=f4e40] [cursor=pointer]
+            - listitem [ref=f4e41]:
+              - link "Дешёвые читы" [ref=f4e43] [cursor=pointer]:
+                - /url: https://up-game.pro/
+            - listitem [ref=f4e44]:
+              - link "Читы у лисы" [ref=f4e46] [cursor=pointer]:
+                - /url: https://gamebreaker.ru/?utm_source=yougame&utm_medium=text&utm_campaign=header
+            - listitem [ref=f4e47]:
+              - link "Халявные читы" [ref=f4e49] [cursor=pointer]:
+                - /url: https://dragon-hack.pro/
+            - listitem [ref=f4e50]:
+              - link "Приватные читы" [ref=f4e52] [cursor=pointer]:
+                - /url: https://wh-satano.ru/?utm_source=yougame&utm_medium=banner&utm_campaign=header
+            - listitem [ref=f4e53]:
+              - link "Купить читы" [ref=f4e55] [cursor=pointer]:
+                - /url: https://getcheats.io/?utm_source=yougame&utm_medium=link&utm_campaign=04&utm_content=header
+          - generic [aria-hidden] [ref=f4e56] [cursor=pointer]
+  - list [ref=f4e60]:
+    - listitem [ref=f4e61]:
+      - link "Реклама тут за 40к" [ref=f4e63] [cursor=pointer]:
+        - /url: https://t.me/mrGOVARD
+    - listitem [ref=f4e64]:
+      - link "Магазин читов" [ref=f4e66] [cursor=pointer]:
+        - /url: https://wh-satano.ru/?utm_source=yougame&utm_medium=banner&utm_campaign=header2
+    - listitem [ref=f4e67]:
+      - link "Последняя активность" [ref=f4e69] [cursor=pointer]:
+        - /url: /whats-new/latest-activity
+    - listitem [ref=f4e70]:
+      - link "Регистрация" [ref=f4e72] [cursor=pointer]:
+        - /url: /register/
+  - generic [ref=f4e74]:
+    - list [ref=f4e76]:
+      - listitem [ref=f4e77]:
+        - link "Глобальный игровой раздел" [ref=f4e78] [cursor=pointer]:
+          - /url: /categories/437/
+      - listitem [ref=f4e79]:
+        - link "Читы для Minecraft" [ref=f4e80] [cursor=pointer]:
+          - /url: /forums/1178/
+    - table [ref=f4e83]:
+      - rowgroup [ref=f4e84]:
+        - row [ref=f4e85]:
+          - cell [ref=f4e86]:
+            - link [ref=f4e87] [cursor=pointer]:
+              - /url: https://psbproxy.io/
+    - paragraph [ref=f4e89]:
+      - link [ref=f4e90] [cursor=pointer]:
+        - /url: https://yougame.biz/threads/339105/
+    - heading "Бесплатные читы Minecraft" [level=1] [ref=f4e93]
+    - generic [ref=f4e96]:
+      - generic [ref=f4e97]:
+        - navigation [ref=f4e100]:
+          - generic [ref=f4e101]:
+            - list [ref=f4e102]:
+              - listitem [ref=f4e103] [cursor=pointer]:
+                - link "1" [ref=f4e104]:
+                  - /url: /forums/64/
+              - listitem [ref=f4e105]:
+                - link "2" [ref=f4e106] [cursor=pointer]:
+                  - /url: /forums/64/page-2
+              - listitem [ref=f4e107]:
+                - link "3" [ref=f4e108] [cursor=pointer]:
+                  - /url: /forums/64/page-3
+              - listitem [ref=f4e109]:
+                - button "Перейти к странице" [ref=f4e110] [cursor=pointer]: ...
+              - listitem [ref=f4e111]:
+                - link "86" [ref=f4e112] [cursor=pointer]:
+                  - /url: /forums/64/page-86
+            - link "Вперёд" [ref=f4e113] [cursor=pointer]:
+              - /url: /forums/64/page-2
+        - generic [ref=f4e114]:
+          - generic [ref=f4e115]:
+            - generic [ref=f4e118]:
+              - button "Показать фильтры" [ref=f4e119] [cursor=pointer]
+              - button "Очистить фильтры" [ref=f4e120]
+            - generic [ref=f4e121]:
+              - generic [ref=f4e122]:
+                - generic [ref=f4e123]: "Префикс:"
+                - combobox "Префикс" [ref=f4e125]:
+                  - option "(Учитывать все)" [selected]
+                  - option "Free"
+                  - option "Undetected"
+                  - option "Detected"
+                  - option "Outdated"
+                  - option "Crack"
+                  - option "On update"
+                  - option "Leaked"
+                  - option "Конфиг"
+                  - option "Важно"
+                  - option "Отказано"
+                  - option "Принято"
+                  - option "Решено"
+                  - option "Обновление"
+                  - option "Конкурс"
+                  - option "Опрос"
+                  - option "Розыгрыш"
+              - generic [ref=f4e126]:
+                - generic [ref=f4e127]: "Автор:"
+                - searchbox "Автор:" [ref=f4e129]
+              - generic [ref=f4e130]:
+                - generic [ref=f4e131]: "Последнее обновление:"
+                - combobox "Последнее обновление:" [ref=f4e133]:
+                  - option "Всё время" [selected]
+                  - option "7 дней"
+                  - option "14 дней"
+                  - option "30 дней"
+                  - option "2 месяцев"
+                  - option "3 месяцев"
+                  - option "6 месяцев"
+                  - option "1 год"
+              - generic [ref=f4e134]:
+                - generic [ref=f4e135]: "Тип темы:"
+                - combobox "Тип темы:" [ref=f4e137]:
+                  - option "(Учитывать все)" [selected]
+                  - option "Обсуждение"
+                  - option "Опрос"
+              - generic [ref=f4e138]:
+                - generic [ref=f4e139]: "Сортировка:"
+                - generic [ref=f4e141]:
+                  - generic [ref=f4e142]: Порядок сортировки
+                  - combobox "Порядок сортировки" [ref=f4e143]:
+                    - option "Последнее сообщение" [selected]
+                    - option "Первое сообщение"
+                    - option "Заголовок"
+                    - option "Ответы"
+                    - option "Просмотры"
+                    - option "Количество реакций для первого сообщения"
+                  - generic [ref=f4e145]: Направление сортировки
+                  - combobox "Направление сортировки" [ref=f4e146]:
+                    - option "По убыванию" [selected]
+                    - option "По возрастанию"
+          - generic [ref=f4e148]:
+            - generic [ref=f4e149]: Закреплённые темы
+            - generic [ref=f4e152]:
+              - link [ref=f4e155] [cursor=pointer]:
+                - /url: /members/1/
+                - img "GOVARD" [ref=f4e156]
+              - generic [ref=f4e157]:
+                - list [ref=f4e158]:
+                  - listitem [ref=f4e159]:
+                    - generic [ref=f4e161]: Закрыта
+                  - listitem [ref=f4e162]:
+                    - generic [ref=f4e164]: Закреплено
+                - generic [ref=f4e165]:
+                  - link "Важно" [ref=f4e166] [cursor=pointer]:
+                    - /url: /forums/64/?prefix_id=43
+                  - link "Правила раздела" [ref=f4e168] [cursor=pointer]:
+                    - /url: /threads/329735/
+                - list [ref=f4e170]:
+                  - listitem [ref=f4e171]:
+                    - link "GOVARD" [ref=f4e172] [cursor=pointer]:
+                      - /url: /members/1/
+                  - listitem [ref=f4e173]:
+                    - text: ·
+                    - link [ref=f4e174] [cursor=pointer]:
+                      - /url: /threads/329735/
+                      - time [ref=f4e175]: 17 Сен 2024
+              - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e176]':
+                - generic [ref=f4e177]:
+                  - term [ref=f4e178]: "Ответы:"
+                  - definition [ref=f4e179]: "0"
+                - generic [ref=f4e180]:
+                  - term [ref=f4e181]: "Просмотры:"
+                  - definition [ref=f4e182]: 5K
+              - generic [ref=f4e183]:
+                - link [ref=f4e184] [cursor=pointer]:
+                  - /url: /threads/329735/#post-3150872
+                  - time [ref=f4e185]: 17 Сен 2024
+                - link "GOVARD" [ref=f4e187] [cursor=pointer]:
+                  - /url: /members/1/
+              - link [ref=f4e190] [cursor=pointer]:
+                - /url: /members/1/
+                - img "GOVARD" [ref=f4e191]
+            - generic [ref=f4e192]: Обычные темы
+            - generic [ref=f4e194]:
+              - generic [ref=f4e195]:
+                - link [ref=f4e198] [cursor=pointer]:
+                  - /url: /members/2003362/
+                  - img "speed9ne" [ref=f4e199]
+                - generic [ref=f4e200]:
+                  - generic [ref=f4e201]:
+                    - link "Crack" [ref=f4e202] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Winlend DLC | 1.21.4 fabric" [ref=f4e204] [cursor=pointer]:
+                      - /url: /threads/389608/
+                  - list [ref=f4e206]:
+                    - listitem [ref=f4e207]:
+                      - link "speed9ne" [ref=f4e208] [cursor=pointer]:
+                        - /url: /members/2003362/
+                    - listitem [ref=f4e209]:
+                      - text: ·
+                      - link [ref=f4e210] [cursor=pointer]:
+                        - /url: /threads/389608/
+                        - time [ref=f4e211]: Сегодня в 03:33
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e212]':
+                  - generic [ref=f4e213]:
+                    - term [ref=f4e214]: "Ответы:"
+                    - definition [ref=f4e215]: "4"
+                  - generic [ref=f4e216]:
+                    - term [ref=f4e217]: "Просмотры:"
+                    - definition [ref=f4e218]: "411"
+                - generic [ref=f4e219]:
+                  - link [ref=f4e220] [cursor=pointer]:
+                    - /url: /threads/389608/#post-3631644
+                    - time [ref=f4e221]: 19 мин. назад
+                  - link "lizalpesdui" [ref=f4e223] [cursor=pointer]:
+                    - /url: /members/1781620/
+                - link [ref=f4e226] [cursor=pointer]:
+                  - /url: /members/1781620/
+                  - img "lizalpesdui" [ref=f4e227]
+              - generic [ref=f4e228]:
+                - link [ref=f4e231] [cursor=pointer]:
+                  - /url: /members/912185/
+                  - img "blong" [ref=f4e232]
+                - generic [ref=f4e233]:
+                  - generic [ref=f4e234]:
+                    - link "Crack" [ref=f4e235] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Rockstar Beta 2.0 Latest | Crack by goonglang" [ref=f4e237] [cursor=pointer]:
+                      - /url: /threads/369964/
+                  - generic [ref=f4e238]:
+                    - list [ref=f4e239]:
+                      - listitem [ref=f4e240]:
+                        - link "blong" [ref=f4e241] [cursor=pointer]:
+                          - /url: /members/912185/
+                      - listitem [ref=f4e242]:
+                        - text: ·
+                        - link [ref=f4e243] [cursor=pointer]:
+                          - /url: /threads/369964/
+                          - time [ref=f4e244]: 27 Янв 2026
+                    - generic [ref=f4e245]:
+                      - link "2" [ref=f4e246] [cursor=pointer]:
+                        - /url: /threads/369964/page-2
+                      - link "3" [ref=f4e247] [cursor=pointer]:
+                        - /url: /threads/369964/page-3
+                      - link "4" [ref=f4e248] [cursor=pointer]:
+                        - /url: /threads/369964/page-4
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e249]':
+                  - generic [ref=f4e250]:
+                    - term [ref=f4e251]: "Ответы:"
+                    - definition [ref=f4e252]: "60"
+                  - generic [ref=f4e253]:
+                    - term [ref=f4e254]: "Просмотры:"
+                    - definition [ref=f4e255]: 24K
+                - generic [ref=f4e256]:
+                  - link [ref=f4e257] [cursor=pointer]:
+                    - /url: /threads/369964/page-4#post-3631588
+                    - time [ref=f4e258]: Сегодня в 20:07
+                  - link "satsumovi" [ref=f4e260] [cursor=pointer]:
+                    - /url: /members/1996570/
+                - link [ref=f4e263] [cursor=pointer]:
+                  - /url: /members/1996570/
+                  - img "satsumovi" [ref=f4e264]
+              - generic [ref=f4e265]:
+                - link [ref=f4e268] [cursor=pointer]:
+                  - /url: /members/633960/
+                  - img "cr4wlyy" [ref=f4e269]
+                - generic [ref=f4e270]:
+                  - generic [ref=f4e271]:
+                    - link "Free" [ref=f4e272] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=165
+                    - link "Бесплатный чит на RustMe Launcher | Aethelis" [ref=f4e274] [cursor=pointer]:
+                      - /url: /threads/381008/
+                  - generic [ref=f4e275]:
+                    - list [ref=f4e276]:
+                      - listitem [ref=f4e277]:
+                        - link "cr4wlyy" [ref=f4e278] [cursor=pointer]:
+                          - /url: /members/633960/
+                      - listitem [ref=f4e279]:
+                        - text: ·
+                        - link [ref=f4e280] [cursor=pointer]:
+                          - /url: /threads/381008/
+                          - time [ref=f4e281]: 2 Июн 2026
+                    - generic [ref=f4e282]:
+                      - link "4" [ref=f4e283] [cursor=pointer]:
+                        - /url: /threads/381008/page-4
+                      - link "5" [ref=f4e284] [cursor=pointer]:
+                        - /url: /threads/381008/page-5
+                      - link "6" [ref=f4e285] [cursor=pointer]:
+                        - /url: /threads/381008/page-6
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e286]':
+                  - generic [ref=f4e287]:
+                    - term [ref=f4e288]: "Ответы:"
+                    - definition [ref=f4e289]: "111"
+                  - generic [ref=f4e290]:
+                    - term [ref=f4e291]: "Просмотры:"
+                    - definition [ref=f4e292]: 12K
+                - generic [ref=f4e293]:
+                  - link [ref=f4e294] [cursor=pointer]:
+                    - /url: /threads/381008/page-6#post-3631498
+                    - time [ref=f4e295]: Сегодня в 17:48
+                  - link "kifikifi_9911" [ref=f4e297] [cursor=pointer]:
+                    - /url: /members/1934514/
+                - link [ref=f4e300] [cursor=pointer]:
+                  - /url: /members/1934514/
+                  - img "kifikifi_9911" [ref=f4e301]: K
+              - generic [ref=f4e302]:
+                - link [ref=f4e305] [cursor=pointer]:
+                  - /url: /members/1901869/
+                  - img "astral1" [ref=f4e306]
+                - generic [ref=f4e307]:
+                  - generic [ref=f4e308]:
+                    - link "Crack" [ref=f4e309] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Really ReallyVisuals crack by PasterEnd" [ref=f4e311] [cursor=pointer]:
+                      - /url: /threads/387222/
+                  - generic [ref=f4e312]:
+                    - list [ref=f4e313]:
+                      - listitem [ref=f4e314]:
+                        - link "astral1" [ref=f4e315] [cursor=pointer]:
+                          - /url: /members/1901869/
+                      - listitem [ref=f4e316]:
+                        - text: ·
+                        - link [ref=f4e317] [cursor=pointer]:
+                          - /url: /threads/387222/
+                          - time [ref=f4e318]: 8 Авг 2026
+                    - link "2" [ref=f4e320] [cursor=pointer]:
+                      - /url: /threads/387222/page-2
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e321]':
+                  - generic [ref=f4e322]:
+                    - term [ref=f4e323]: "Ответы:"
+                    - definition [ref=f4e324]: "22"
+                  - generic [ref=f4e325]:
+                    - term [ref=f4e326]: "Просмотры:"
+                    - definition [ref=f4e327]: 3K
+                - generic [ref=f4e328]:
+                  - link [ref=f4e329] [cursor=pointer]:
+                    - /url: /threads/387222/page-2#post-3631450
+                    - time [ref=f4e330]: Сегодня в 16:28
+                  - link "legenda22800" [ref=f4e332] [cursor=pointer]:
+                    - /url: /members/2052599/
+                - link [ref=f4e335] [cursor=pointer]:
+                  - /url: /members/2052599/
+                  - img "legenda22800" [ref=f4e336]
+              - generic [ref=f4e337]:
+                - link [ref=f4e340] [cursor=pointer]:
+                  - /url: /members/1813820/
+                  - img "maekeev" [ref=f4e341]
+                - generic [ref=f4e342]:
+                  - generic [ref=f4e343]:
+                    - link "Free" [ref=f4e344] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=165
+                    - link "Luminous Client - Мощный клиент / Mod для Minecraft 1.21.11" [ref=f4e346] [cursor=pointer]:
+                      - /url: /threads/389056/
+                  - list [ref=f4e348]:
+                    - listitem [ref=f4e349]:
+                      - link "maekeev" [ref=f4e350] [cursor=pointer]:
+                        - /url: /members/1813820/
+                    - listitem [ref=f4e351]:
+                      - text: ·
+                      - link [ref=f4e352] [cursor=pointer]:
+                        - /url: /threads/389056/
+                        - time [ref=f4e353]: 26 Авг 2026
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e354]':
+                  - generic [ref=f4e355]:
+                    - term [ref=f4e356]: "Ответы:"
+                    - definition [ref=f4e357]: "16"
+                  - generic [ref=f4e358]:
+                    - term [ref=f4e359]: "Просмотры:"
+                    - definition [ref=f4e360]: 2K
+                - generic [ref=f4e361]:
+                  - link [ref=f4e362] [cursor=pointer]:
+                    - /url: /threads/389056/#post-3631225
+                    - time [ref=f4e363]: Сегодня в 06:39
+                  - link "maekeev" [ref=f4e365] [cursor=pointer]:
+                    - /url: /members/1813820/
+                - link [ref=f4e368] [cursor=pointer]:
+                  - /url: /members/1813820/
+                  - img "maekeev" [ref=f4e369]
+              - generic [ref=f4e370]:
+                - link [ref=f4e373] [cursor=pointer]:
+                  - /url: /members/2053447/
+                  - img "foureverlovedrug" [ref=f4e374]
+                - generic [ref=f4e375]:
+                  - generic [ref=f4e376]:
+                    - link "Crack" [ref=f4e377] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Кряк чита на STALCUBE Suicide hack" [ref=f4e379] [cursor=pointer]:
+                      - /url: /threads/388691/
+                  - generic [ref=f4e380]:
+                    - list [ref=f4e381]:
+                      - listitem [ref=f4e382]:
+                        - link "foureverlovedrug" [ref=f4e383] [cursor=pointer]:
+                          - /url: /members/2053447/
+                      - listitem [ref=f4e384]:
+                        - text: ·
+                        - link [ref=f4e385] [cursor=pointer]:
+                          - /url: /threads/388691/
+                          - time [ref=f4e386]: 24 Авг 2026
+                    - link "2" [ref=f4e388] [cursor=pointer]:
+                      - /url: /threads/388691/page-2
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e389]':
+                  - generic [ref=f4e390]:
+                    - term [ref=f4e391]: "Ответы:"
+                    - definition [ref=f4e392]: "33"
+                  - generic [ref=f4e393]:
+                    - term [ref=f4e394]: "Просмотры:"
+                    - definition [ref=f4e395]: 1K
+                - generic [ref=f4e396]:
+                  - link [ref=f4e397] [cursor=pointer]:
+                    - /url: /threads/388691/page-2#post-3631215
+                    - time [ref=f4e398]: Сегодня в 05:48
+                  - link "Noxid" [ref=f4e400] [cursor=pointer]:
+                    - /url: /members/1685262/
+                - link [ref=f4e403] [cursor=pointer]:
+                  - /url: /members/1685262/
+                  - img "Noxid" [ref=f4e404]
+              - generic [ref=f4e405]:
+                - link [ref=f4e408] [cursor=pointer]:
+                  - /url: /members/2014617/
+                  - img "dezolator5" [ref=f4e409]
+                - generic [ref=f4e410]:
+                  - generic [ref=f4e411]:
+                    - link "Crack" [ref=f4e412] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Ghost client 1.21.8 Fabric Latest" [ref=f4e414] [cursor=pointer]:
+                      - /url: /threads/389256/
+                  - list [ref=f4e416]:
+                    - listitem [ref=f4e417]:
+                      - link "dezolator5" [ref=f4e418] [cursor=pointer]:
+                        - /url: /members/2014617/
+                    - listitem [ref=f4e419]:
+                      - text: ·
+                      - link [ref=f4e420] [cursor=pointer]:
+                        - /url: /threads/389256/
+                        - time [ref=f4e421]: Среда в 19:06
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e422]':
+                  - generic [ref=f4e423]:
+                    - term [ref=f4e424]: "Ответы:"
+                    - definition [ref=f4e425]: "7"
+                  - generic [ref=f4e426]:
+                    - term [ref=f4e427]: "Просмотры:"
+                    - definition [ref=f4e428]: "281"
+                - generic [ref=f4e429]:
+                  - link [ref=f4e430] [cursor=pointer]:
+                    - /url: /threads/389256/#post-3631152
+                    - time [ref=f4e431]: Вчера в 23:20
+                  - link "dezolator5" [ref=f4e433] [cursor=pointer]:
+                    - /url: /members/2014617/
+                - link [ref=f4e436] [cursor=pointer]:
+                  - /url: /members/2014617/
+                  - img "dezolator5" [ref=f4e437]
+              - generic [ref=f4e438]:
+                - link [ref=f4e441] [cursor=pointer]:
+                  - /url: /members/1941416/
+                  - img "Plavi Orkestar" [ref=f4e442]
+                - generic [ref=f4e443]:
+                  - generic [ref=f4e444]:
+                    - link "Free" [ref=f4e445] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=165
+                    - link "Casual Free Cheat | RustMe RML" [ref=f4e447] [cursor=pointer]:
+                      - /url: /threads/377704/
+                  - generic [ref=f4e448]:
+                    - list [ref=f4e449]:
+                      - listitem [ref=f4e450]:
+                        - link "Plavi Orkestar" [ref=f4e451] [cursor=pointer]:
+                          - /url: /members/1941416/
+                      - listitem [ref=f4e452]:
+                        - text: ·
+                        - link [ref=f4e453] [cursor=pointer]:
+                          - /url: /threads/377704/
+                          - time [ref=f4e454]: 24 Июн 2026
+                    - generic [ref=f4e455]:
+                      - link "5" [ref=f4e456] [cursor=pointer]:
+                        - /url: /threads/377704/page-5
+                      - link "6" [ref=f4e457] [cursor=pointer]:
+                        - /url: /threads/377704/page-6
+                      - link "7" [ref=f4e458] [cursor=pointer]:
+                        - /url: /threads/377704/page-7
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e459]':
+                  - generic [ref=f4e460]:
+                    - term [ref=f4e461]: "Ответы:"
+                    - definition [ref=f4e462]: "131"
+                  - generic [ref=f4e463]:
+                    - term [ref=f4e464]: "Просмотры:"
+                    - definition [ref=f4e465]: 23K
+                - generic [ref=f4e466]:
+                  - link [ref=f4e467] [cursor=pointer]:
+                    - /url: /threads/377704/page-7#post-3631137
+                    - time [ref=f4e468]: Вчера в 22:59
+                  - link "Plavi Orkestar" [ref=f4e470] [cursor=pointer]:
+                    - /url: /members/1941416/
+                - link [ref=f4e473] [cursor=pointer]:
+                  - /url: /members/1941416/
+                  - img "Plavi Orkestar" [ref=f4e474]
+              - generic [ref=f4e475]:
+                - link [ref=f4e478] [cursor=pointer]:
+                  - /url: /members/1271624/
+                  - img "LastOne_44" [ref=f4e479]
+                - generic [ref=f4e480]:
+                  - generic [ref=f4e481]:
+                    - link "Free" [ref=f4e482] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=165
+                    - link "Clarity Legit (webgui) 1.21.11" [ref=f4e484] [cursor=pointer]:
+                      - /url: /threads/381232/
+                  - generic [ref=f4e485]:
+                    - list [ref=f4e486]:
+                      - listitem [ref=f4e487]:
+                        - link "LastOne_44" [ref=f4e488] [cursor=pointer]:
+                          - /url: /members/1271624/
+                      - listitem [ref=f4e489]:
+                        - text: ·
+                        - link [ref=f4e490] [cursor=pointer]:
+                          - /url: /threads/381232/
+                          - time [ref=f4e491]: 28 Май 2026
+                    - link "2" [ref=f4e493] [cursor=pointer]:
+                      - /url: /threads/381232/page-2
+                - 'generic "Количество реакций к первому сообщению: 1" [ref=f4e494]':
+                  - generic [ref=f4e495]:
+                    - term [ref=f4e496]: "Ответы:"
+                    - definition [ref=f4e497]: "26"
+                  - generic [ref=f4e498]:
+                    - term [ref=f4e499]: "Просмотры:"
+                    - definition [ref=f4e500]: 4K
+                - generic [ref=f4e501]:
+                  - link [ref=f4e502] [cursor=pointer]:
+                    - /url: /threads/381232/page-2#post-3631034
+                    - time [ref=f4e503]: Вчера в 20:51
+                  - link "LastOne_44" [ref=f4e505] [cursor=pointer]:
+                    - /url: /members/1271624/
+                - link [ref=f4e508] [cursor=pointer]:
+                  - /url: /members/1271624/
+                  - img "LastOne_44" [ref=f4e509]
+              - generic [ref=f4e510]:
+                - link [ref=f4e513] [cursor=pointer]:
+                  - /url: /members/1288164/
+                  - img "Marafedov_hackerok" [ref=f4e514]
+                - generic [ref=f4e515]:
+                  - generic [ref=f4e516]:
+                    - link "Crack" [ref=f4e517] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Celestial Client | LATEST BUILD | By PasterEnd" [ref=f4e519] [cursor=pointer]:
+                      - /url: /threads/388989/
+                  - list [ref=f4e521]:
+                    - listitem [ref=f4e522]:
+                      - link "Marafedov_hackerok" [ref=f4e523] [cursor=pointer]:
+                        - /url: /members/1288164/
+                    - listitem [ref=f4e524]:
+                      - text: ·
+                      - link [ref=f4e525] [cursor=pointer]:
+                        - /url: /threads/388989/
+                        - time [ref=f4e526]: 26 Авг 2026
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e527]':
+                  - generic [ref=f4e528]:
+                    - term [ref=f4e529]: "Ответы:"
+                    - definition [ref=f4e530]: "19"
+                  - generic [ref=f4e531]:
+                    - term [ref=f4e532]: "Просмотры:"
+                    - definition [ref=f4e533]: 2K
+                - generic [ref=f4e534]:
+                  - link [ref=f4e535] [cursor=pointer]:
+                    - /url: /threads/388989/#post-3630869
+                    - time [ref=f4e536]: Вчера в 17:37
+                  - link "tipuliya" [ref=f4e538] [cursor=pointer]:
+                    - /url: /members/1977312/
+                - link [ref=f4e541] [cursor=pointer]:
+                  - /url: /members/1977312/
+                  - img "tipuliya" [ref=f4e542]: T
+              - generic [ref=f4e543]:
+                - link [ref=f4e546] [cursor=pointer]:
+                  - /url: /members/1308077/
+                  - img "kors992" [ref=f4e547]
+                - generic [ref=f4e548]:
+                  - generic [ref=f4e549]:
+                    - link "Crack" [ref=f4e550] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Vape v4.21 last build" [ref=f4e552] [cursor=pointer]:
+                      - /url: /threads/388937/
+                  - generic [ref=f4e553]:
+                    - list [ref=f4e554]:
+                      - listitem [ref=f4e555]:
+                        - link "kors992" [ref=f4e556] [cursor=pointer]:
+                          - /url: /members/1308077/
+                      - listitem [ref=f4e557]:
+                        - text: ·
+                        - link [ref=f4e558] [cursor=pointer]:
+                          - /url: /threads/388937/
+                          - time [ref=f4e559]: 27 Авг 2026
+                    - link "2" [ref=f4e561] [cursor=pointer]:
+                      - /url: /threads/388937/page-2
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e562]':
+                  - generic [ref=f4e563]:
+                    - term [ref=f4e564]: "Ответы:"
+                    - definition [ref=f4e565]: "32"
+                  - generic [ref=f4e566]:
+                    - term [ref=f4e567]: "Просмотры:"
+                    - definition [ref=f4e568]: 1K
+                - generic [ref=f4e569]:
+                  - link [ref=f4e570] [cursor=pointer]:
+                    - /url: /threads/388937/page-2#post-3630834
+                    - time [ref=f4e571]: Вчера в 16:50
+                  - link "XIII1337" [ref=f4e573] [cursor=pointer]:
+                    - /url: /q/
+                - link [ref=f4e576] [cursor=pointer]:
+                  - /url: /q/
+                  - img "XIII1337" [ref=f4e577]
+              - generic [ref=f4e578]:
+                - link [ref=f4e581] [cursor=pointer]:
+                  - /url: /members/1919200/
+                  - img "Flaskka" [ref=f4e582]
+                - generic [ref=f4e583]:
+                  - generic [ref=f4e584]:
+                    - link "Crack" [ref=f4e585] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Boze.dev 2.0.4 crack 1.21.11 / 2.0.5 on 26.3" [ref=f4e587] [cursor=pointer]:
+                      - /url: /threads/387149/
+                  - list [ref=f4e589]:
+                    - listitem [ref=f4e590]:
+                      - link "Flaskka" [ref=f4e591] [cursor=pointer]:
+                        - /url: /members/1919200/
+                    - listitem [ref=f4e592]:
+                      - text: ·
+                      - link [ref=f4e593] [cursor=pointer]:
+                        - /url: /threads/387149/
+                        - time [ref=f4e594]: 13 Авг 2026
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e595]':
+                  - generic [ref=f4e596]:
+                    - term [ref=f4e597]: "Ответы:"
+                    - definition [ref=f4e598]: "5"
+                  - generic [ref=f4e599]:
+                    - term [ref=f4e600]: "Просмотры:"
+                    - definition [ref=f4e601]: "758"
+                - generic [ref=f4e602]:
+                  - link [ref=f4e603] [cursor=pointer]:
+                    - /url: /threads/387149/#post-3630497
+                    - time [ref=f4e604]: Вчера в 00:39
+                  - link "Limon4ick09" [ref=f4e606] [cursor=pointer]:
+                    - /url: /members/1886367/
+                - link [ref=f4e609] [cursor=pointer]:
+                  - /url: /members/1886367/
+                  - img "Limon4ick09" [ref=f4e610]
+              - generic [ref=f4e611]:
+                - link [ref=f4e614] [cursor=pointer]:
+                  - /url: /members/1178000/
+                  - img "whywen" [ref=f4e615]
+                - generic [ref=f4e616]:
+                  - generic [ref=f4e617]:
+                    - link "Free" [ref=f4e618] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=165
+                    - link "TriggerBot 1.21.4 fabric" [ref=f4e620] [cursor=pointer]:
+                      - /url: /threads/370142/
+                  - generic [ref=f4e621]:
+                    - list [ref=f4e622]:
+                      - listitem [ref=f4e623]:
+                        - link "whywen" [ref=f4e624] [cursor=pointer]:
+                          - /url: /members/1178000/
+                      - listitem [ref=f4e625]:
+                        - text: ·
+                        - link [ref=f4e626] [cursor=pointer]:
+                          - /url: /threads/370142/
+                          - time [ref=f4e627]: 28 Янв 2026
+                    - generic [ref=f4e628]:
+                      - link "2" [ref=f4e629] [cursor=pointer]:
+                        - /url: /threads/370142/page-2
+                      - link "3" [ref=f4e630] [cursor=pointer]:
+                        - /url: /threads/370142/page-3
+                      - link "4" [ref=f4e631] [cursor=pointer]:
+                        - /url: /threads/370142/page-4
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e632]':
+                  - generic [ref=f4e633]:
+                    - term [ref=f4e634]: "Ответы:"
+                    - definition [ref=f4e635]: "76"
+                  - generic [ref=f4e636]:
+                    - term [ref=f4e637]: "Просмотры:"
+                    - definition [ref=f4e638]: 22K
+                - generic [ref=f4e639]:
+                  - link [ref=f4e640] [cursor=pointer]:
+                    - /url: /threads/370142/page-4#post-3630281
+                    - time [ref=f4e641]: Среда в 20:22
+                  - link "chlenosos12" [ref=f4e643] [cursor=pointer]:
+                    - /url: /members/1935305/
+                - link [ref=f4e646] [cursor=pointer]:
+                  - /url: /members/1935305/
+                  - img "chlenosos12" [ref=f4e647]: C
+              - generic [ref=f4e648]:
+                - link [ref=f4e651] [cursor=pointer]:
+                  - /url: /members/1739967/
+                  - img "RERWEWNikitos" [ref=f4e652]: R
+                - generic [ref=f4e653]:
+                  - generic [ref=f4e654]:
+                    - link "Free" [ref=f4e655] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=165
+                    - link "SZero Client Visuals" [ref=f4e657] [cursor=pointer]:
+                      - /url: /threads/387666/
+                  - generic [ref=f4e658]:
+                    - list [ref=f4e659]:
+                      - listitem [ref=f4e660]:
+                        - link "RERWEWNikitos" [ref=f4e661] [cursor=pointer]:
+                          - /url: /members/1739967/
+                      - listitem [ref=f4e662]:
+                        - text: ·
+                        - link [ref=f4e663] [cursor=pointer]:
+                          - /url: /threads/387666/
+                          - time [ref=f4e664]: 20 Авг 2026
+                    - link "2" [ref=f4e666] [cursor=pointer]:
+                      - /url: /threads/387666/page-2
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e667]':
+                  - generic [ref=f4e668]:
+                    - term [ref=f4e669]: "Ответы:"
+                    - definition [ref=f4e670]: "21"
+                  - generic [ref=f4e671]:
+                    - term [ref=f4e672]: "Просмотры:"
+                    - definition [ref=f4e673]: "739"
+                - generic [ref=f4e674]:
+                  - link [ref=f4e675] [cursor=pointer]:
+                    - /url: /threads/387666/page-2#post-3629959
+                    - time [ref=f4e676]: Среда в 15:28
+                  - link "RERWEWNikitos" [ref=f4e678] [cursor=pointer]:
+                    - /url: /members/1739967/
+                - link [ref=f4e681] [cursor=pointer]:
+                  - /url: /members/1739967/
+                  - img "RERWEWNikitos" [ref=f4e682]: R
+              - generic [ref=f4e683]:
+                - link [ref=f4e686] [cursor=pointer]:
+                  - /url: /members/1288164/
+                  - img "Marafedov_hackerok" [ref=f4e687]
+                - generic [ref=f4e688]:
+                  - generic [ref=f4e689]:
+                    - link "Crack" [ref=f4e690] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "SystemDLC | Latest | Fix Crack" [ref=f4e692] [cursor=pointer]:
+                      - /url: /threads/388949/
+                  - list [ref=f4e694]:
+                    - listitem [ref=f4e695]:
+                      - link "Marafedov_hackerok" [ref=f4e696] [cursor=pointer]:
+                        - /url: /members/1288164/
+                    - listitem [ref=f4e697]:
+                      - text: ·
+                      - link [ref=f4e698] [cursor=pointer]:
+                        - /url: /threads/388949/
+                        - time [ref=f4e699]: 26 Авг 2026
+                - 'generic "Количество реакций к первому сообщению: 1" [ref=f4e700]':
+                  - generic [ref=f4e701]:
+                    - term [ref=f4e702]: "Ответы:"
+                    - definition [ref=f4e703]: "6"
+                  - generic [ref=f4e704]:
+                    - term [ref=f4e705]: "Просмотры:"
+                    - definition [ref=f4e706]: "713"
+                - generic [ref=f4e707]:
+                  - link [ref=f4e708] [cursor=pointer]:
+                    - /url: /threads/388949/#post-3629837
+                    - time [ref=f4e709]: Среда в 12:02
+                  - link "skurubary" [ref=f4e711] [cursor=pointer]:
+                    - /url: /members/2063005/
+                - link [ref=f4e714] [cursor=pointer]:
+                  - /url: /members/2063005/
+                  - img "skurubary" [ref=f4e715]: S
+              - generic [ref=f4e716]:
+                - link [ref=f4e719] [cursor=pointer]:
+                  - /url: /members/688791/
+                  - img "Purpl3" [ref=f4e720]
+                - generic [ref=f4e721]:
+                  - generic [ref=f4e722]:
+                    - link "Free" [ref=f4e723] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=165
+                    - link "CollapseLoader" [ref=f4e725] [cursor=pointer]:
+                      - /url: /threads/319219/
+                  - generic [ref=f4e726]:
+                    - list [ref=f4e727]:
+                      - listitem [ref=f4e728]:
+                        - link "Purpl3" [ref=f4e729] [cursor=pointer]:
+                          - /url: /members/688791/
+                      - listitem [ref=f4e730]:
+                        - text: ·
+                        - link [ref=f4e731] [cursor=pointer]:
+                          - /url: /threads/319219/
+                          - time [ref=f4e732]: 5 Май 2026
+                    - generic [ref=f4e733]:
+                      - link "15" [ref=f4e734] [cursor=pointer]:
+                        - /url: /threads/319219/page-15
+                      - link "16" [ref=f4e735] [cursor=pointer]:
+                        - /url: /threads/319219/page-16
+                      - link "17" [ref=f4e736] [cursor=pointer]:
+                        - /url: /threads/319219/page-17
+                - 'generic "Количество реакций к первому сообщению: 6" [ref=f4e737]':
+                  - generic [ref=f4e738]:
+                    - term [ref=f4e739]: "Ответы:"
+                    - definition [ref=f4e740]: "332"
+                  - generic [ref=f4e741]:
+                    - term [ref=f4e742]: "Просмотры:"
+                    - definition [ref=f4e743]: 79K
+                - generic [ref=f4e744]:
+                  - link [ref=f4e745] [cursor=pointer]:
+                    - /url: /threads/319219/page-17#post-3629599
+                    - time [ref=f4e746]: Вторник в 23:59
+                  - link "Purpl3" [ref=f4e748] [cursor=pointer]:
+                    - /url: /members/688791/
+                - link [ref=f4e751] [cursor=pointer]:
+                  - /url: /members/688791/
+                  - img "Purpl3" [ref=f4e752]
+              - generic [ref=f4e753]:
+                - link [ref=f4e756] [cursor=pointer]:
+                  - /url: /members/1781620/
+                  - img "lizalpesdui" [ref=f4e757]
+                - generic [ref=f4e758]:
+                  - generic [ref=f4e759]:
+                    - link "Crack" [ref=f4e760] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Wild 1.21.4 - crack" [ref=f4e762] [cursor=pointer]:
+                      - /url: /threads/378932/
+                  - generic [ref=f4e763]:
+                    - list [ref=f4e764]:
+                      - listitem [ref=f4e765]:
+                        - link "lizalpesdui" [ref=f4e766] [cursor=pointer]:
+                          - /url: /members/1781620/
+                      - listitem [ref=f4e767]:
+                        - text: ·
+                        - link [ref=f4e768] [cursor=pointer]:
+                          - /url: /threads/378932/
+                          - time [ref=f4e769]: 2 Май 2026
+                    - link "2" [ref=f4e771] [cursor=pointer]:
+                      - /url: /threads/378932/page-2
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e772]':
+                  - generic [ref=f4e773]:
+                    - term [ref=f4e774]: "Ответы:"
+                    - definition [ref=f4e775]: "33"
+                  - generic [ref=f4e776]:
+                    - term [ref=f4e777]: "Просмотры:"
+                    - definition [ref=f4e778]: 12K
+                - generic [ref=f4e779]:
+                  - link [ref=f4e780] [cursor=pointer]:
+                    - /url: /threads/378932/page-2#post-3629512
+                    - time [ref=f4e781]: Вторник в 21:50
+                  - link "asd1312312321asd" [ref=f4e783] [cursor=pointer]:
+                    - /url: /members/2060368/
+                - link [ref=f4e786] [cursor=pointer]:
+                  - /url: /members/2060368/
+                  - img "asd1312312321asd" [ref=f4e787]: A
+              - generic [ref=f4e788]:
+                - link [ref=f4e791] [cursor=pointer]:
+                  - /url: /members/2033649/
+                  - img "abusing" [ref=f4e792]: A
+                - generic [ref=f4e793]:
+                  - generic [ref=f4e794]:
+                    - link "Crack" [ref=f4e795] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Breeze 2.3 forge" [ref=f4e797] [cursor=pointer]:
+                      - /url: /threads/386871/
+                  - list [ref=f4e799]:
+                    - listitem [ref=f4e800]:
+                      - link "abusing" [ref=f4e801] [cursor=pointer]:
+                        - /url: /members/2033649/
+                    - listitem [ref=f4e802]:
+                      - text: ·
+                      - link [ref=f4e803] [cursor=pointer]:
+                        - /url: /threads/386871/
+                        - time [ref=f4e804]: 13 Авг 2026
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e805]':
+                  - generic [ref=f4e806]:
+                    - term [ref=f4e807]: "Ответы:"
+                    - definition [ref=f4e808]: "2"
+                  - generic [ref=f4e809]:
+                    - term [ref=f4e810]: "Просмотры:"
+                    - definition [ref=f4e811]: "369"
+                - generic [ref=f4e812]:
+                  - link [ref=f4e813] [cursor=pointer]:
+                    - /url: /threads/386871/#post-3629468
+                    - time [ref=f4e814]: Вторник в 21:13
+                  - link "SLASH_TPS" [ref=f4e816] [cursor=pointer]:
+                    - /url: /members/1673161/
+                - link [ref=f4e819] [cursor=pointer]:
+                  - /url: /members/1673161/
+                  - img "SLASH_TPS" [ref=f4e820]: S
+              - generic [ref=f4e821]:
+                - link [ref=f4e824] [cursor=pointer]:
+                  - /url: /members/1606391/
+                  - img "Karrys" [ref=f4e825]
+                - generic [ref=f4e826]:
+                  - generic [ref=f4e827]:
+                    - link "Crack" [ref=f4e828] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Apple DLC - SCAM goolang" [ref=f4e830] [cursor=pointer]:
+                      - /url: /threads/386863/
+                  - generic [ref=f4e831]:
+                    - list [ref=f4e832]:
+                      - listitem [ref=f4e833]:
+                        - link "Karrys" [ref=f4e834] [cursor=pointer]:
+                          - /url: /members/1606391/
+                      - listitem [ref=f4e835]:
+                        - text: ·
+                        - link [ref=f4e836] [cursor=pointer]:
+                          - /url: /threads/386863/
+                          - time [ref=f4e837]: 4 Авг 2026
+                    - link "2" [ref=f4e839] [cursor=pointer]:
+                      - /url: /threads/386863/page-2
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e840]':
+                  - generic [ref=f4e841]:
+                    - term [ref=f4e842]: "Ответы:"
+                    - definition [ref=f4e843]: "35"
+                  - generic [ref=f4e844]:
+                    - term [ref=f4e845]: "Просмотры:"
+                    - definition [ref=f4e846]: 3K
+                - generic [ref=f4e847]:
+                  - link [ref=f4e848] [cursor=pointer]:
+                    - /url: /threads/386863/page-2#post-3629096
+                    - time [ref=f4e849]: Вторник в 15:50
+                  - link "speed9ne" [ref=f4e851] [cursor=pointer]:
+                    - /url: /members/2003362/
+                - link [ref=f4e854] [cursor=pointer]:
+                  - /url: /members/2003362/
+                  - img "speed9ne" [ref=f4e855]
+              - generic [ref=f4e856]:
+                - link [ref=f4e859] [cursor=pointer]:
+                  - /url: /members/1847100/
+                  - img "MyltuWW" [ref=f4e860]: M
+                - generic [ref=f4e861]:
+                  - generic [ref=f4e862]:
+                    - link "Crack" [ref=f4e863] [cursor=pointer]:
+                      - /url: /forums/64/?prefix_id=15
+                    - link "Pulse Visual 1.21.11 last build" [ref=f4e865] [cursor=pointer]:
+                      - /url: /threads/386925/
+                  - generic [ref=f4e866]:
+                    - list [ref=f4e867]:
+                      - listitem [ref=f4e868]:
+                        - link "MyltuWW" [ref=f4e869] [cursor=pointer]:
+                          - /url: /members/1847100/
+                      - listitem [ref=f4e870]:
+                        - text: ·
+                        - link [ref=f4e871] [cursor=pointer]:
+                          - /url: /threads/386925/
+                          - time [ref=f4e872]: 8 Авг 2026
+                    - link "2" [ref=f4e874] [cursor=pointer]:
+                      - /url: /threads/386925/page-2
+                - 'generic "Количество реакций к первому сообщению: 0" [ref=f4e875]':
+                  - generic [ref=f4e876]:
+                    - term [ref=f4e877]: "Ответы:"
+                    - definition [ref=f4e878]: "25"
+                  - generic [ref=f4e879]:
+                    - term [ref=f4e880]: "Просмотры:"
+                    - definition [ref=f4e881]: 5K
+                - generic [ref=f4e882]:
+                  - link [ref=f4e883] [cursor=pointer]:
+                    - /url: /threads/386925/page-2#post-3628799
+                    - time [ref=f4e884]: Вторник в 05:49
+                  - link "yarik213131" [ref=f4e886] [cursor=pointer]:
+                    - /url: /members/1542867/
+                - link [ref=f4e889] [cursor=pointer]:
+                  - /url: /members/1542867/
+                  - img "yarik213131" [ref=f4e890]: "Y"
+        - generic [ref=f4e891]:
+          - navigation [ref=f4e893]:
+            - generic [ref=f4e894]:
+              - list [ref=f4e895]:
+                - listitem [ref=f4e896] [cursor=pointer]:
+                  - link "1" [ref=f4e897]:
+                    - /url: /forums/64/
+                - listitem [ref=f4e898]:
+                  - link "2" [ref=f4e899] [cursor=pointer]:
+                    - /url: /forums/64/page-2
+                - listitem [ref=f4e900]:
+                  - link "3" [ref=f4e901] [cursor=pointer]:
+                    - /url: /forums/64/page-3
+                - listitem [ref=f4e902]:
+                  - button "Перейти к странице" [ref=f4e903] [cursor=pointer]: ...
+                - listitem [ref=f4e904]:
+                  - link "86" [ref=f4e905] [cursor=pointer]:
+                    - /url: /forums/64/page-86
+              - link "Вперёд" [ref=f4e906] [cursor=pointer]:
+                - /url: /forums/64/page-2
+          - link "Войдите или зарегистрируйтесь для ответа." [ref=f4e908] [cursor=pointer]:
+            - /url: /login/
+      - paragraph [ref=f4e910]: Легендарная игра Minecraft задала новое течение развитию игр. Проект создан в 2009 году, а полноценная компьютерная версия вышла в свет в 2011 году. За непродолжительное время «Майнкрафт» стал одним из лидеров в своем сегменте. Непосредственно сама игра представлена песочницей, она не ограничивает игроков, а дает им возможность творческой реализации. Пользователи со всего мира в игре создают уникальные произведения искусства, живописные пейзажи, и целые миры. Здесь можно практически все, начиная от исследования большущей карты, добычи полезных ископаемых для крафта, заканчивая борьбой с монстрами. Присутствуют различные режимы, включая выживание, творчество, редстоун. Последний предполагает возможность создания сложных логических схем, что позволяет использовать «Майнкрафт» для обучения специалистов.
+      - paragraph [ref=f4e911]: В последующие годы игру портировали на Linux, macOS, а позже – на все остальные платформы. В 2014 году «Майкрософт» полностью выкупила студию вместе с правами на игру. Уже под руководительством Microsoft была создана отдельная версия для обучения. На выбор предоставляется одиночная игра и мультиплеер. Если с одиночкой все понятно, то с мультиплеером не все однозначно. Старожилы серверов имеют целые империи в «Майнкрафте», не давая новичкам возможности противостоять, что, естественно, увеличивает недовольство последних.
+      - paragraph [ref=f4e912]:
+        - text: Но игровой портал YouGame принялся исправлять эту ситуацию – предоставляет
+        - strong [ref=f4e913]: читы на майнкрафт
+        - text: ", что делает игру более простой, и позволяет максимально быстро наверстать упущенное без особых усилий. Больше не придется тратить баснословное количество времени, чтобы отвоевать свое место под солнцем – теперь вы покажите старожилам, на что способны новички."
+      - paragraph [ref=f4e914]:
+        - text: Устали терпеть проигрыши? Хотите быстрой проблемы?
+        - strong [ref=f4e915]: Читы на майнкрафт
+        - text: – вот, что вам нужно. Нет необходимости в трате времени – скачивайте, и получаете все игровые преимущества без задродства.
+      - heading "Какие читы на майнкрафт есть на форуме YouGame?" [level=2] [ref=f4e916]
+      - paragraph [ref=f4e917]:
+        - text: Спустя годы, Minecraft стал нечто большим, чем довольно обычной игрой – песочницей. На базе «Майнкрафта» создана целая культура взаимодействия с окружающим цифровым миром. На просторах серверов присутствует регулярно большое количество пользователей со всего мира. Но у этого есть и обратная сторона медали – большое отставание новых игроков от старых, что создает дисбаланс,
+        - strong [ref=f4e918]: читы на майнкрафт
+        - text: призваны исправить это.
+      - paragraph [ref=f4e919]:
+        - strong [ref=f4e920]: Скачать читы на майнкрафт бесплатно
+        - text: ":"
+      - list [ref=f4e921]:
+        - listitem [ref=f4e922]: старый – добрый аимбот – отличный выбор для пвп игроков. Автоматически наводит на цель, что упрощает борьбу даже с несколькими противниками одновременно. Обычно используется в шутерах, но и в майнкрафте нашел способ применения;
+        - listitem [ref=f4e923]: антибот – обеспечивает обход ботов, созданных защитой сервера. Упрощает игру, снижает вероятность обнаружения античитами;
+        - listitem [ref=f4e924]: серия читов AUTO – сюда входят различные автокликеры, автоэквипы, автототемы. Они предназначены для автоматического совершения определенных действий, например, надевания экипировки или использования тотема;
+        - listitem [ref=f4e925]: bow autoboot и criticals – довольно мощная связка. Первый – автоматически наводит во время стрельбы из лука, а второй – обеспечивает постоянную критическую атаку;
+        - listitem [ref=f4e926]: hunt – функция охотника позволяет отслеживать определенных игроков, например, для отмщения.
+      - paragraph [ref=f4e927]: На форуме представлены серия читов – эксплоитов, снижающих или полностью отключающих отрицательное воздействие окружающей среды на игрока. Присутствует чит, открывающий порталы – исследование открытого мира становится еще проще.
+      - heading "Скачать читы на майнкрафт на портале YouGame" [level=2] [ref=f4e928]
+      - paragraph [ref=f4e929]: Каждый чит оснащен вспомогательной защитой от обнаружения – предотвращает блокировку по железу, которая активно используется современными серверами. Программы, размещенные в разделах форума, проверяются командой администрации – мы заботимся о безопасности наших пользователей, а потому пресекаем любые попытки мошенничества, стиллинга и фишинга.
+      - paragraph [ref=f4e930]: Прокачав определенный уровень репутации, каждый сможет создавать новые темы. Такой подход с ранжированием применяется, чтобы избежать массового спама и флуда ботами из сети. Модераторы регулярно проверяют каждую тему, сообщения, что позволяет оперативно убирать мусор – флуд и спам.
+      - paragraph [ref=f4e931]:
+        - text: Доступны не только
+        - strong [ref=f4e932]: читы на майнкрафт
+        - text: ", но и полезные советы по луттингу, эксплорингу, фармингу, абузингу. Присутствуют актуальные способы дюпа, и соответствующий софт под него. В FAQ юзеры ознакомятся с обновлениями, новостями по игре, с исходниками новых читов. Обнаружили спам или флуд? В личные сообщения написал мошенник? Свяжитесь с нами по электронной почте"
+        - link "admin@yougame.biz" [ref=f4e933] [cursor=pointer]:
+          - /url: mailto:admin@yougame.biz
+        - text: ", и мы максимально быстро устраним проблему."
+    - list [ref=f4e934]:
+      - listitem [ref=f4e935]:
+        - link "Глобальный игровой раздел" [ref=f4e936] [cursor=pointer]:
+          - /url: /categories/437/
+      - listitem [ref=f4e937]:
+        - link "Читы для Minecraft" [ref=f4e938] [cursor=pointer]:
+          - /url: /forums/1178/
+  - generic [ref=f4e940]:
+    - generic [ref=f4e943]:
+      - generic [ref=f4e944]: Наши услуги
+      - list [ref=f4e945]:
+        - listitem [ref=f4e946]:
+          - link "Прибрести рекламу" [ref=f4e947] [cursor=pointer]:
+            - /url: https://yougame.biz/threads/29445/#post-228036
+        - listitem [ref=f4e948]:
+          - link "Платное повышение группы" [ref=f4e949] [cursor=pointer]:
+            - /url: https://yougame.biz/account/upgrades
+        - listitem [ref=f4e950]:
+          - link "Поиск вирусов в файлах" [ref=f4e951] [cursor=pointer]:
+            - /url: https://yougame.biz/forums/531/
+        - listitem [ref=f4e952]:
+          - link "Маркетплейс по услугам" [ref=f4e953] [cursor=pointer]:
+            - /url: "https://yougame.biz/forums/1385/>Маркетплейс по читам</a></li>\n<li><a href="
+    - generic [ref=f4e956]:
+      - generic [ref=f4e957]: Полезные ссылки
+      - list [ref=f4e958]:
+        - listitem [ref=f4e959]:
+          - link "Новости форума" [ref=f4e960] [cursor=pointer]:
+            - /url: https://yougame.biz/forums/222/
+        - listitem [ref=f4e961]:
+          - link "Канал в Telegram" [ref=f4e962] [cursor=pointer]:
+            - /url: https://t.me/yougame_official
+        - listitem [ref=f4e963]:
+          - link "Канал вр. админ. форума" [ref=f4e964] [cursor=pointer]:
+            - /url: https://t.me/govthing
+        - listitem [ref=f4e965]:
+          - link "Главные чит. разделы" [ref=f4e966] [cursor=pointer]:
+            - /url: "https://yougame.biz/downloads/>Безопасные беспл. читы</a></li>\n<li><a href="
+    - generic [ref=f4e969]:
+      - generic [ref=f4e970]: О нас
+      - paragraph [ref=f4e971]: "YouGame — крупнейшее русскоязычное сообщество по читам, разработке игрового ПО, реверс-инжинирингу и программированию. По вопросам и жалобам: admin@yougame.biz"
+    - generic [ref=f4e975]:
+      - generic [ref=f4e976]: Поделиться страницей
+      - generic [ref=f4e979]:
+        - generic [ref=f4e980]: Vkontakte
+        - generic [ref=f4e983]: Odnoklassniki
+        - generic [ref=f4e986]: Mail.ru
+        - link "Bluesky" [ref=f4e989] [cursor=pointer]:
+          - /url: "#_xfUid-1-1788546743"
+        - link "WhatsApp" [ref=f4e994] [cursor=pointer]:
+          - /url: "#_xfUid-1-1788546743"
+        - generic [ref=f4e999]: Telegram
+        - link "Viber" [ref=f4e1002] [cursor=pointer]:
+          - /url: https://3p3x.adj.st/?adjust_t=u783g1_kw9yml&adjust_fallback=https%3A%2F%2Fwww.viber.com%2F%3Futm_source%3DPartner%26utm_medium%3DSharebutton%26utm_campaign%3DDefualt&adjust_campaign=Sharebutton&adjust_deeplink=viber%3A%2F%2Fforward%3Ftext%3D%257Btitle%257D%2520https%253A%252F%252Fyougame.biz%252Fforums%252F64%252F
+        - link "Электронная почта" [ref=f4e1005] [cursor=pointer]:
+          - /url: "#_xfUid-1-1788546743"
+        - link "Ссылка" [ref=f4e1010] [cursor=pointer]:
+          - /url: "#_xfUid-1-1788546743"
+  - contentinfo [ref=f4e1015]:
+    - generic [ref=f4e1018]:
+      - list [ref=f4e1019]:
+        - listitem [ref=f4e1020]:
+          - link "Russian (RU) Custom" [ref=f4e1021] [cursor=pointer]:
+            - /url: /misc/language
+      - list [ref=f4e1025]:
+        - listitem [ref=f4e1026]:
+          - link "Обратная связь" [ref=f4e1027] [cursor=pointer]:
+            - /url: https://yougame.biz/contact/
+        - listitem [ref=f4e1028]:
+          - link "Условия и правила" [ref=f4e1029] [cursor=pointer]:
+            - /url: /pages/rules/
+        - listitem [ref=f4e1030]:
+          - link "Политика конфиденциальности" [ref=f4e1031] [cursor=pointer]:
+            - /url: /help/privacy-policy/
+        - listitem [ref=f4e1032]:
+          - link "Помощь" [ref=f4e1033] [cursor=pointer]:
+            - /url: /help/
+        - listitem [ref=f4e1034]:
+          - link "RSS" [ref=f4e1035] [cursor=pointer]:
+            - /url: /forums/-/index.rss
+            - generic [ref=f4e1040]: RSS

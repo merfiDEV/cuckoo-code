@@ -1,0 +1,700 @@
+- generic [active] [ref=f3e1]:
+  - main [ref=f3e3]:
+    - generic [ref=f3e7]:
+      - generic [ref=f3e9]:
+        - link [ref=f3e10] [cursor=pointer]:
+          - /url: /
+          - img "exteraGram" [ref=f3e11]
+          - text: exteraGram
+        - button "Toggle Sidebar" [ref=f3e12] [cursor=pointer]
+      - list [ref=f3e16]:
+        - generic [ref=f3e17]: Getting Started
+        - listitem [ref=f3e18]:
+          - link "Introduction" [ref=f3e19] [cursor=pointer]:
+            - /url: /docs
+        - listitem [ref=f3e26]:
+          - link "Setup" [ref=f3e27] [cursor=pointer]:
+            - /url: /docs/setup
+        - listitem [ref=f3e33]:
+          - link "First Plugin" [ref=f3e34] [cursor=pointer]:
+            - /url: /docs/first-plugin
+        - generic [ref=f3e42]: Elyx Structured Plugins
+        - generic [ref=f3e43]:
+          - link [ref=f3e44] [cursor=pointer]:
+            - /url: /docs/elyx
+          - list [ref=f3e58]:
+            - listitem [ref=f3e59]:
+              - link "Elyx" [ref=f3e60] [cursor=pointer]:
+                - /url: /docs/elyx
+            - listitem [ref=f3e73]:
+              - link "Quick Start" [ref=f3e74] [cursor=pointer]:
+                - /url: /docs/elyx/quick-start
+            - listitem [ref=f3e82]:
+              - link "ElyxBuilder" [ref=f3e83] [cursor=pointer]:
+                - /url: /docs/elyx/elyxbuilder
+            - listitem [ref=f3e90]:
+              - link "Project Structure" [ref=f3e91] [cursor=pointer]:
+                - /url: /docs/elyx/project-structure
+            - listitem [ref=f3e99]:
+              - link "Metadata" [ref=f3e100] [cursor=pointer]:
+                - /url: /docs/elyx/metadata
+            - listitem [ref=f3e108]:
+              - link "Modules and Imports" [ref=f3e109] [cursor=pointer]:
+                - /url: /docs/elyx/modules-and-imports
+            - listitem [ref=f3e117]:
+              - link "Assets" [ref=f3e118] [cursor=pointer]:
+                - /url: /docs/elyx/assets
+            - listitem [ref=f3e126]:
+              - link "Localization" [ref=f3e127] [cursor=pointer]:
+                - /url: /docs/elyx/localization
+            - listitem [ref=f3e134]:
+              - link "Settings Storage" [ref=f3e135] [cursor=pointer]:
+                - /url: /docs/elyx/settings
+            - listitem [ref=f3e139]:
+              - link "Dependencies" [ref=f3e140] [cursor=pointer]:
+                - /url: /docs/elyx/dependencies
+            - listitem [ref=f3e149]:
+              - link "Development and Build" [ref=f3e150] [cursor=pointer]:
+                - /url: /docs/elyx/development
+            - listitem [ref=f3e158]:
+              - link "Public API" [ref=f3e159] [cursor=pointer]:
+                - /url: /docs/elyx/public-api
+            - listitem [ref=f3e165]:
+              - link "Troubleshooting" [ref=f3e166] [cursor=pointer]:
+                - /url: /docs/elyx/troubleshooting
+        - generic [ref=f3e171]: Basics
+        - listitem [ref=f3e172]:
+          - link "Plugin Class" [ref=f3e173] [cursor=pointer]:
+            - /url: /docs/plugin-class
+        - listitem [ref=f3e178]:
+          - link "Multi-account" [ref=f3e179] [cursor=pointer]:
+            - /url: /docs/multi-account
+        - listitem [ref=f3e187]:
+          - link "Plugin Settings" [ref=f3e188] [cursor=pointer]:
+            - /url: /docs/plugin-settings
+        - listitem [ref=f3e194]:
+          - link "Class Proxy" [ref=f3e195] [cursor=pointer]:
+            - /url: /docs/class-proxy
+        - listitem [ref=f3e208]:
+          - link "Xposed Method Hooking" [ref=f3e209] [cursor=pointer]:
+            - /url: /docs/xposed-hooking
+        - generic [ref=f3e216]: Utils
+        - listitem [ref=f3e217]:
+          - link "Android Utilities" [ref=f3e218] [cursor=pointer]:
+            - /url: /docs/android-utils
+        - listitem [ref=f3e223]:
+          - link "Client Utilities" [ref=f3e224] [cursor=pointer]:
+            - /url: /docs/client-utils
+        - listitem [ref=f3e231]:
+          - link "Text Formatting" [ref=f3e232] [cursor=pointer]:
+            - /url: /docs/text-formatting
+        - listitem [ref=f3e237]:
+          - link "Hook Utilities (Reflection)" [ref=f3e238] [cursor=pointer]:
+            - /url: /docs/hook-utils
+        - listitem [ref=f3e246]:
+          - link "File Utilities" [ref=f3e247] [cursor=pointer]:
+            - /url: /docs/file-utils
+        - listitem [ref=f3e255]:
+          - link "Intents" [ref=f3e256] [cursor=pointer]:
+            - /url: /docs/intents
+        - listitem [ref=f3e262]:
+          - link "Alert Dialog Builder" [ref=f3e263] [cursor=pointer]:
+            - /url: /docs/alert-dialog-builder
+        - listitem [ref=f3e268]:
+          - link "Bulletin Helper" [ref=f3e269] [cursor=pointer]:
+            - /url: /docs/bulletin-helper
+        - generic [ref=f3e275]: Other
+        - listitem [ref=f3e276]:
+          - link "Development Server" [ref=f3e277] [cursor=pointer]:
+            - /url: /docs/dev-server
+        - listitem [ref=f3e286]:
+          - link "PIP & Dependencies" [ref=f3e287] [cursor=pointer]:
+            - /url: /docs/pip
+        - listitem [ref=f3e294]:
+          - link "Available Libraries" [ref=f3e295] [cursor=pointer]:
+            - /url: /docs/available-libraries
+        - listitem [ref=f3e300]:
+          - link "Common Telegram Classes" [ref=f3e301] [cursor=pointer]:
+            - /url: /docs/common-source-classes
+    - main [ref=f3e307]:
+      - generic [ref=f3e308]:
+        - generic [ref=f3e309]:
+          - button "Search ⌘ K" [ref=f3e310] [cursor=pointer]:
+            - text: Search
+            - generic [ref=f3e314]:
+              - generic [ref=f3e315]: ⌘
+              - generic [ref=f3e316]: K
+          - button "Toggle Theme" [ref=f3e317] [cursor=pointer]
+          - link [ref=f3e326] [cursor=pointer]:
+            - /url: https://github.com/exteraSquad
+        - generic [ref=f3e329]:
+          - article [ref=f3e331]:
+            - heading "Plugin Class" [level=1] [ref=f3e332]
+            - paragraph [ref=f3e333]: Understand plugin metadata, lifecycle hooks, menu items, and request or update interception.
+            - generic [ref=f3e334]:
+              - heading [level=2] [ref=f3e335]:
+                - link "Metadata" [ref=f3e336] [cursor=pointer]:
+                  - /url: "#metadata"
+                - img "Link to section" [ref=f3e337]
+              - paragraph [ref=f3e340]:
+                - text: Plugin metadata must be defined as plain top-level values. Do not build them dynamically, because the loader parses them from the source file with
+                - code [ref=f3e341]: AST
+                - text: .
+              - figure [ref=f3e342]:
+                - button "Copy Text" [ref=f3e343] [cursor=pointer]
+                - code [ref=f3e351]:
+                  - generic [ref=f3e352]: __id__ = "better_previews"
+                  - generic [ref=f3e353]: __name__ = "Better Previews"
+                  - generic [ref=f3e354]: __description__ = "Modifies specific URLs for better previews"
+                  - generic [ref=f3e355]: __author__ = "@immat0x1"
+                  - generic [ref=f3e356]: __version__ = "1.0.0"
+                  - generic [ref=f3e357]: __icon__ = "exteraPlugins/1"
+                  - generic [ref=f3e358]: __app_version__ = ">=12.5.1"
+                  - generic [ref=f3e359]: __sdk_version__ = ">=1.4.4.3"
+                  - generic [ref=f3e360]: __requirements__ = ["mpmath", "tinydb"]
+              - paragraph [ref=f3e361]: "Supported metadata keys:"
+              - list [ref=f3e362]:
+                - listitem [ref=f3e363]:
+                  - code [ref=f3e364]: __id__
+                - listitem [ref=f3e365]:
+                  - code [ref=f3e366]: __name__
+                - listitem [ref=f3e367]:
+                  - code [ref=f3e368]: __description__
+                - listitem [ref=f3e369]:
+                  - code [ref=f3e370]: __author__
+                - listitem [ref=f3e371]:
+                  - code [ref=f3e372]: __version__
+                - listitem [ref=f3e373]:
+                  - code [ref=f3e374]: __icon__
+                - listitem [ref=f3e375]:
+                  - code [ref=f3e376]: __app_version__
+                - listitem [ref=f3e377]:
+                  - code [ref=f3e378]: __sdk_version__
+                - listitem [ref=f3e379]:
+                  - code [ref=f3e380]: __requirements__
+              - paragraph [ref=f3e381]: "Legacy compatibility:"
+              - list [ref=f3e382]:
+                - listitem [ref=f3e383]:
+                  - code [ref=f3e384]: __min_version__
+                  - text: is still accepted, but it is treated as
+                  - code [ref=f3e385]: __app_version__ = ">=..."
+                  - text: .
+              - paragraph [ref=f3e386]: "Important details:"
+              - list [ref=f3e387]:
+                - listitem [ref=f3e388]:
+                  - code [ref=f3e389]: __id__
+                  - text: and
+                  - code [ref=f3e390]: __name__
+                  - text: are the only truly required fields.
+                - listitem [ref=f3e391]:
+                  - code [ref=f3e392]: __id__
+                  - text: must be 2-32 characters long, start with a letter, and contain only latin letters, digits,
+                  - code [ref=f3e393]: _
+                  - text: ", or"
+                  - code [ref=f3e394]: "-"
+                  - text: .
+                - listitem [ref=f3e395]:
+                  - code [ref=f3e396]: __requirements__
+                  - text: is a list of packages to install through
+                  - link "PIP" [ref=f3e397] [cursor=pointer]:
+                    - /url: /docs/pip
+                  - text: .
+                - listitem [ref=f3e398]:
+                  - code [ref=f3e399]: __description__
+                  - text: supports basic markdown rendering in the UI.
+                - listitem [ref=f3e400]:
+                  - code [ref=f3e401]: __author__
+                  - text: may be plain text or a Telegram-style handle such as
+                  - code [ref=f3e402]: "@yourUsername"
+                  - text: .
+                - listitem [ref=f3e403]:
+                  - code [ref=f3e404]: __version__
+                  - text: defaults to
+                  - code [ref=f3e405]: "1.0"
+                  - text: if omitted.
+                - listitem [ref=f3e406]:
+                  - code [ref=f3e407]: __icon__
+                  - text: uses the format
+                  - code [ref=f3e408]: StickerPackShortName/index
+                  - text: ", for example"
+                  - code [ref=f3e409]: exteraPlugins/1
+                  - text: .
+                - listitem [ref=f3e410]:
+                  - code [ref=f3e411]: __app_version__
+                  - text: supports operators such as
+                  - code [ref=f3e412]: ">="
+                  - text: ","
+                  - code [ref=f3e413]: <=
+                  - text: ","
+                  - code [ref=f3e414]: ==
+                  - text: ","
+                  - code [ref=f3e415]: ">"
+                  - text: ", and"
+                  - code [ref=f3e416]: <
+                  - text: .
+                - listitem [ref=f3e417]:
+                  - code [ref=f3e418]: __sdk_version__
+                  - text: lets you require a minimum plugin SDK version when your plugin depends on newer APIs.
+              - generic [ref=f3e422]:
+                - paragraph [ref=f3e423]: Practical baseline
+                - paragraph [ref=f3e425]:
+                  - text: The SDK in this repository targets the current
+                  - code [ref=f3e426]: 1.4.4.3
+                  - text: API surface and expects exteraGram
+                  - code [ref=f3e427]: 12.5.1+
+                  - text: for normal initialization.
+              - heading [level=2] [ref=f3e428]:
+                - link "Basic Structure" [ref=f3e429] [cursor=pointer]:
+                  - /url: "#basic-structure"
+                - img "Link to section" [ref=f3e430]
+              - paragraph [ref=f3e433]:
+                - text: Every plugin file should define one class inheriting from
+                - code [ref=f3e434]: BasePlugin
+                - text: .
+              - figure [ref=f3e435]:
+                - button "Copy Text" [ref=f3e436] [cursor=pointer]
+                - code [ref=f3e444]:
+                  - generic [ref=f3e445]: from base_plugin import BasePlugin
+                  - generic [ref=f3e448]: __id__ = "weather"
+                  - generic [ref=f3e449]: __name__ = "Weather"
+                  - generic [ref=f3e452]: "class WeatherPlugin(BasePlugin):"
+                  - generic [ref=f3e453]: pass
+              - heading [level=2] [ref=f3e454]:
+                - link "Settings" [ref=f3e455] [cursor=pointer]:
+                  - /url: "#settings"
+                - img "Link to section" [ref=f3e456]
+              - paragraph [ref=f3e459]:
+                - text: To expose a settings screen, implement
+                - code [ref=f3e460]: create_settings(self) -> List[Any]
+                - text: .
+              - figure [ref=f3e461]:
+                - button "Copy Text" [ref=f3e462] [cursor=pointer]
+                - code [ref=f3e470]:
+                  - generic [ref=f3e471]: from typing import Any, List
+                  - generic [ref=f3e473]: from base_plugin import BasePlugin
+                  - generic [ref=f3e474]: from ui.settings import Header, Switch
+                  - generic [ref=f3e477]: "class MyPlugin(BasePlugin):"
+                  - generic [ref=f3e478]: "def create_settings(self) -> List[Any]:"
+                  - generic [ref=f3e479]: return [
+                  - generic [ref=f3e480]: Header(text="General"),
+                  - generic [ref=f3e481]: Switch(key="enabled", text="Enable feature", default=True),
+                  - generic [ref=f3e482]: "]"
+              - paragraph [ref=f3e483]:
+                - text: For the full settings UI system, see
+                - link "Plugin Settings" [ref=f3e484] [cursor=pointer]:
+                  - /url: /docs/plugin-settings
+                - text: .
+              - heading [level=2] [ref=f3e485]:
+                - link "Plugin Events" [ref=f3e486] [cursor=pointer]:
+                  - /url: "#plugin-events"
+                - img "Link to section" [ref=f3e487]
+              - heading [level=3] [ref=f3e490]:
+                - link "Load and unload" [ref=f3e491] [cursor=pointer]:
+                  - /url: "#load-and-unload"
+                - img "Link to section" [ref=f3e492]
+              - figure [ref=f3e495]:
+                - button "Copy Text" [ref=f3e496] [cursor=pointer]
+                - code [ref=f3e504]:
+                  - generic [ref=f3e505]: from base_plugin import BasePlugin
+                  - generic [ref=f3e508]: "class DebugPlugin(BasePlugin):"
+                  - generic [ref=f3e509]: "def on_plugin_load(self):"
+                  - generic [ref=f3e510]: "# Good place to register hooks, listeners, or background tasks."
+                  - generic [ref=f3e511]: self.log("Plugin loaded!")
+                  - generic [ref=f3e513]: "def on_plugin_unload(self):"
+                  - generic [ref=f3e514]: "# Good place for cleanup that is not handled automatically."
+                  - generic [ref=f3e515]: self.log("Plugin unloaded!")
+              - list [ref=f3e516]:
+                - listitem [ref=f3e517]:
+                  - code [ref=f3e518]: on_plugin_load
+                  - text: runs when the plugin is enabled or restored during app startup.
+                - listitem [ref=f3e519]:
+                  - code [ref=f3e520]: on_plugin_unload
+                  - text: runs when the plugin is disabled or the app is shutting down.
+              - heading [level=3] [ref=f3e521]:
+                - link "Application events" [ref=f3e522] [cursor=pointer]:
+                  - /url: "#application-events"
+                - img "Link to section" [ref=f3e523]
+              - figure [ref=f3e526]:
+                - button "Copy Text" [ref=f3e527] [cursor=pointer]
+                - code [ref=f3e535]:
+                  - generic [ref=f3e536]: from base_plugin import AppEvent, BasePlugin
+                  - generic [ref=f3e539]: "class DebugPlugin(BasePlugin):"
+                  - generic [ref=f3e540]: "def on_app_event(self, event_type: AppEvent):"
+                  - generic [ref=f3e541]: "if event_type == AppEvent.START:"
+                  - generic [ref=f3e542]: self.log("App is starting")
+                  - generic [ref=f3e543]: "elif event_type == AppEvent.STOP:"
+                  - generic [ref=f3e544]: self.log("App is stopping")
+                  - generic [ref=f3e545]: "elif event_type == AppEvent.PAUSE:"
+                  - generic [ref=f3e546]: self.log("App moved to background")
+                  - generic [ref=f3e547]: "elif event_type == AppEvent.RESUME:"
+                  - generic [ref=f3e548]: self.log("App returned to foreground")
+              - paragraph [ref=f3e549]:
+                - code [ref=f3e550]: AppEvent
+                - text: "values:"
+              - list [ref=f3e551]:
+                - listitem [ref=f3e552]:
+                  - code [ref=f3e553]: START
+                - listitem [ref=f3e554]:
+                  - code [ref=f3e555]: STOP
+                - listitem [ref=f3e556]:
+                  - code [ref=f3e557]: PAUSE
+                - listitem [ref=f3e558]:
+                  - code [ref=f3e559]: RESUME
+              - heading [level=2] [ref=f3e560]:
+                - link "Settings Storage Helpers" [ref=f3e561] [cursor=pointer]:
+                  - /url: "#settings-storage-helpers"
+                - img "Link to section" [ref=f3e562]
+              - paragraph [ref=f3e565]:
+                - code [ref=f3e566]: BasePlugin
+                - text: "already includes small helpers for persistent plugin settings:"
+              - list [ref=f3e567]:
+                - listitem [ref=f3e568]:
+                  - code [ref=f3e569]: self.get_setting(key, default=None)
+                - listitem [ref=f3e570]:
+                  - code [ref=f3e571]: self.set_setting(key, value, reload_settings=False)
+                - listitem [ref=f3e572]:
+                  - code [ref=f3e573]: self.export_settings()
+                - listitem [ref=f3e574]:
+                  - code [ref=f3e575]: self.import_settings(settings, reload_settings=True)
+              - figure [ref=f3e576]:
+                - button "Copy Text" [ref=f3e577] [cursor=pointer]
+                - code [ref=f3e585]:
+                  - generic [ref=f3e586]: current_value = self.get_setting("enabled", True)
+                  - generic [ref=f3e587]: self.set_setting("enabled", not current_value, reload_settings=True)
+                  - generic [ref=f3e589]: backup = self.export_settings()
+                  - generic [ref=f3e590]: self.import_settings(backup, reload_settings=False)
+              - heading [level=2] [ref=f3e591]:
+                - link "Menu Items" [ref=f3e592] [cursor=pointer]:
+                  - /url: "#menu-items"
+                - img "Link to section" [ref=f3e593]
+              - paragraph [ref=f3e596]:
+                - text: You can add menu entries to several app menus through
+                - code [ref=f3e597]: MenuItemData
+                - text: .
+              - figure [ref=f3e598]:
+                - button "Copy Text" [ref=f3e599] [cursor=pointer]
+                - code [ref=f3e607]:
+                  - generic [ref=f3e608]: from typing import Any, Dict
+                  - generic [ref=f3e610]: from base_plugin import BasePlugin, MenuItemData, MenuItemType
+                  - generic [ref=f3e613]: "class MyMenuPlugin(BasePlugin):"
+                  - generic [ref=f3e614]: "def on_plugin_load(self):"
+                  - generic [ref=f3e615]: self.message_item_id = self.add_menu_item(
+                  - generic [ref=f3e616]: MenuItemData(
+                  - generic [ref=f3e617]: menu_type=MenuItemType.MESSAGE_CONTEXT_MENU,
+                  - generic [ref=f3e618]: text="Log Message Info",
+                  - generic [ref=f3e619]: on_click=self.handle_message_click,
+                  - generic [ref=f3e620]: icon="msg_info",
+                  - generic [ref=f3e621]: subtext="Debug helper",
+                  - generic [ref=f3e622]: priority=10,
+                  - generic [ref=f3e623]: )
+                  - generic [ref=f3e624]: )
+                  - generic [ref=f3e626]: self.profile_item_id = self.add_menu_item(
+                  - generic [ref=f3e627]: MenuItemData(
+                  - generic [ref=f3e628]: menu_type=MenuItemType.PROFILE_ACTION_MENU,
+                  - generic [ref=f3e629]: text="Log User Info",
+                  - generic [ref=f3e630]: on_click=self.handle_profile_click,
+                  - generic [ref=f3e631]: icon="user_search",
+                  - generic [ref=f3e632]: )
+                  - generic [ref=f3e633]: )
+                  - generic [ref=f3e635]: "def handle_message_click(self, context: Dict[str, Any]):"
+                  - generic [ref=f3e636]: "self.log(f\"Message menu item clicked. Context keys: {list(context.keys())}\")"
+                  - generic [ref=f3e638]: message = context.get("message")
+                  - generic [ref=f3e639]: "if message:"
+                  - generic [ref=f3e640]: "self.log(f\"Clicked on message ID: {message.getId()}\")"
+                  - generic [ref=f3e641]: "self.log(f\"Message text: {message.messageText}\")"
+                  - generic [ref=f3e643]: "def handle_profile_click(self, context: Dict[str, Any]):"
+                  - generic [ref=f3e644]: "self.log(f\"Profile menu item clicked. Context keys: {list(context.keys())}\")"
+                  - generic [ref=f3e646]: user = context.get("user")
+                  - generic [ref=f3e647]: "if user:"
+                  - generic [ref=f3e648]: "self.log(f\"Profile opened for user: {user.first_name} (ID: {user.id})\")"
+              - heading [level=3] [ref=f3e649]:
+                - link "MenuItemData" [ref=f3e650] [cursor=pointer]:
+                  - /url: "#menuitemdata"
+                - img "Link to section" [ref=f3e651]
+              - paragraph [ref=f3e654]:
+                - code [ref=f3e655]: MenuItemData
+                - text: "fields:"
+              - list [ref=f3e656]:
+                - listitem [ref=f3e657]:
+                  - code [ref=f3e658]: "menu_type: MenuItemType"
+                  - text: "- required target menu"
+                - listitem [ref=f3e659]:
+                  - code [ref=f3e660]: "text: str"
+                  - text: "- required visible title"
+                - listitem [ref=f3e661]:
+                  - code [ref=f3e662]: "on_click: Callable[[Dict[str, Any]], None]"
+                  - text: "- required click handler"
+                - listitem [ref=f3e663]:
+                  - code [ref=f3e664]: "item_id: Optional[str]"
+                  - text: "- optional stable id if you want to remove the item later"
+                - listitem [ref=f3e665]:
+                  - code [ref=f3e666]: "icon: Optional[str]"
+                  - text: "- drawable name, such as"
+                  - code [ref=f3e667]: "\"msg_info\""
+                - listitem [ref=f3e668]:
+                  - code [ref=f3e669]: "subtext: Optional[str]"
+                  - text: "- secondary line below the title"
+                - listitem [ref=f3e670]:
+                  - code [ref=f3e671]: "condition: Optional[str]"
+                  - text: "- MVEL expression which controls visibility"
+                - listitem [ref=f3e672]:
+                  - code [ref=f3e673]: "priority: int"
+                  - text: "- larger values usually appear earlier"
+              - heading [level=3] [ref=f3e674]:
+                - link "MenuItemType" [ref=f3e675] [cursor=pointer]:
+                  - /url: "#menuitemtype"
+                - img "Link to section" [ref=f3e676]
+              - paragraph [ref=f3e679]: "Current menu types exposed by the SDK:"
+              - list [ref=f3e680]:
+                - listitem [ref=f3e681]:
+                  - code [ref=f3e682]: MenuItemType.MESSAGE_CONTEXT_MENU
+                - listitem [ref=f3e683]:
+                  - code [ref=f3e684]: MenuItemType.DRAWER_MENU
+                - listitem [ref=f3e685]:
+                  - code [ref=f3e686]: MenuItemType.MAIN_MENU
+                - listitem [ref=f3e687]:
+                  - code [ref=f3e688]: MenuItemType.CHAT_ACTION_MENU
+                - listitem [ref=f3e689]:
+                  - code [ref=f3e690]: MenuItemType.PROFILE_ACTION_MENU
+              - heading [level=3] [ref=f3e691]:
+                - link [ref=f3e692] [cursor=pointer]:
+                  - /url: "#the-on_click-context"
+                  - text: The
+                  - code [ref=f3e693]: on_click
+                  - text: Context
+                - img "Link to section" [ref=f3e694]
+              - paragraph [ref=f3e697]: The callback receives a dictionary with context-dependent values.
+              - paragraph [ref=f3e698]: "Common keys include:"
+              - list [ref=f3e699]:
+                - listitem [ref=f3e700]:
+                  - code [ref=f3e701]: account
+                - listitem [ref=f3e702]:
+                  - code [ref=f3e703]: context
+                - listitem [ref=f3e704]:
+                  - code [ref=f3e705]: fragment
+                - listitem [ref=f3e706]:
+                  - code [ref=f3e707]: dialog_id
+                - listitem [ref=f3e708]:
+                  - code [ref=f3e709]: user
+                - listitem [ref=f3e710]:
+                  - code [ref=f3e711]: userId
+                - listitem [ref=f3e712]:
+                  - code [ref=f3e713]: userFull
+                - listitem [ref=f3e714]:
+                  - code [ref=f3e715]: chat
+                - listitem [ref=f3e716]:
+                  - code [ref=f3e717]: chatId
+                - listitem [ref=f3e718]:
+                  - code [ref=f3e719]: chatFull
+                - listitem [ref=f3e720]:
+                  - code [ref=f3e721]: encryptedChat
+                - listitem [ref=f3e722]:
+                  - code [ref=f3e723]: message
+                - listitem [ref=f3e724]:
+                  - code [ref=f3e725]: groupedMessages
+                - listitem [ref=f3e726]:
+                  - code [ref=f3e727]: botInfo
+              - paragraph [ref=f3e728]: "Because the exact set depends on the menu type and screen, it is best to inspect the available keys during development:"
+              - figure [ref=f3e729]:
+                - button "Copy Text" [ref=f3e730] [cursor=pointer]
+                - code [ref=f3e738]:
+                  - generic [ref=f3e739]: "def handle_click(self, context):"
+                  - generic [ref=f3e740]: "self.log(f\"Available keys: {list(context.keys())}\")"
+              - heading [level=3] [ref=f3e741]:
+                - link "Removing Menu Items" [ref=f3e742] [cursor=pointer]:
+                  - /url: "#removing-menu-items"
+                - img "Link to section" [ref=f3e743]
+              - paragraph [ref=f3e746]: "Menu items are removed automatically when the plugin unloads, but you can also remove one manually:"
+              - figure [ref=f3e747]:
+                - button "Copy Text" [ref=f3e748] [cursor=pointer]
+                - code [ref=f3e756]:
+                  - generic [ref=f3e757]: "if self.message_item_id:"
+                  - generic [ref=f3e758]: self.remove_menu_item(self.message_item_id)
+              - heading [level=2] [ref=f3e759]:
+                - link "Event Hooks" [ref=f3e760] [cursor=pointer]:
+                  - /url: "#event-hooks"
+                - img "Link to section" [ref=f3e761]
+              - paragraph [ref=f3e764]: Event hooks let your plugin intercept Telegram requests, responses, updates, or outgoing message parameters.
+              - paragraph [ref=f3e765]: "You register them with:"
+              - list [ref=f3e766]:
+                - listitem [ref=f3e767]:
+                  - code [ref=f3e768]: self.add_hook(name, match_substring=False, priority=0)
+                - listitem [ref=f3e769]:
+                  - code [ref=f3e770]: self.add_on_send_message_hook(priority=0)
+              - figure [ref=f3e771]:
+                - button "Copy Text" [ref=f3e772] [cursor=pointer]
+                - code [ref=f3e780]:
+                  - generic [ref=f3e781]: "class GhostModePlugin(BasePlugin):"
+                  - generic [ref=f3e782]: "def on_plugin_load(self):"
+                  - generic [ref=f3e783]: self.add_hook("TL_messages_setTyping")
+                  - generic [ref=f3e784]: self.add_hook("TL_messages_setEncryptedTyping")
+                  - generic [ref=f3e785]: self.add_hook("TL_account_updateStatus")
+                  - generic [ref=f3e786]: self.add_on_send_message_hook()
+              - paragraph [ref=f3e787]:
+                - text: Every hook receives the
+                - code [ref=f3e788]: account
+                - text: it fired for, and it is often
+                - strong [ref=f3e789]: not
+                - text: the account selected in the UI — background accounts stay connected and keep firing hooks. Modifying the hooked object, as the examples below do, needs no special care. But the moment you send, request, or read something in response, use
+                - code [ref=f3e790]: self.client(account)
+                - text: or an explicit
+                - code [ref=f3e791]: account=
+                - text: ", or you will act on whichever account happens to be on screen. See"
+                - link "Multi-account" [ref=f3e792] [cursor=pointer]:
+                  - /url: /docs/multi-account
+                - text: .
+              - paragraph [ref=f3e793]:
+                - text: Hook results are returned as
+                - code [ref=f3e794]: HookResult
+                - text: with a
+                - code [ref=f3e795]: HookStrategy
+                - text: .
+              - figure [ref=f3e796]:
+                - button "Copy Text" [ref=f3e797] [cursor=pointer]
+                - code [ref=f3e805]:
+                  - generic [ref=f3e806]: from typing import Any, List
+                  - generic [ref=f3e808]: from base_plugin import BasePlugin, HookResult, HookStrategy
+                  - generic [ref=f3e809]: from ui.settings import Switch
+                  - generic [ref=f3e812]: TYPING_REQUESTS = ["TL_messages_setTyping", "TL_messages_setEncryptedTyping"]
+                  - generic [ref=f3e815]: "class GhostModePlugin(BasePlugin):"
+                  - generic [ref=f3e816]: "def on_plugin_load(self):"
+                  - generic [ref=f3e817]: "for req_name in TYPING_REQUESTS:"
+                  - generic [ref=f3e818]: self.add_hook(req_name)
+                  - generic [ref=f3e820]: self.add_hook("TL_account_updateStatus")
+                  - generic [ref=f3e822]: "def pre_request_hook(self, request_name: str, account: int, request: Any) -> HookResult:"
+                  - generic [ref=f3e823]: "if request_name in TYPING_REQUESTS and self.get_setting(\"dont_send_typing\", True):"
+                  - generic [ref=f3e824]: "self.log(f\"Blocking request: {request_name}\")"
+                  - generic [ref=f3e825]: return HookResult(strategy=HookStrategy.CANCEL)
+                  - generic [ref=f3e827]: "if request_name == \"TL_account_updateStatus\" and self.get_setting(\"force_offline\", True):"
+                  - generic [ref=f3e828]: request.offline = True
+                  - generic [ref=f3e829]: return HookResult(strategy=HookStrategy.MODIFY, request=request)
+                  - generic [ref=f3e831]: return HookResult()
+                  - generic [ref=f3e833]: "def post_request_hook(self, request_name: str, account: int, response: Any, error: Any) -> HookResult:"
+                  - generic [ref=f3e834]: "if request_name == \"TL_messages_sendMessage\" and not error:"
+                  - generic [ref=f3e835]: self.log("Successfully sent a message!")
+                  - generic [ref=f3e836]: return HookResult()
+                  - generic [ref=f3e838]: "def create_settings(self) -> List[Any]:"
+                  - generic [ref=f3e839]: return [
+                  - generic [ref=f3e840]: Switch(key="dont_send_typing", text="Don't send typing status", default=True),
+                  - generic [ref=f3e841]: Switch(key="force_offline", text="Always appear offline", default=True),
+                  - generic [ref=f3e842]: "]"
+              - heading [level=3] [ref=f3e843]:
+                - link "Hook strategies" [ref=f3e844] [cursor=pointer]:
+                  - /url: "#hook-strategies"
+                - img "Link to section" [ref=f3e845]
+              - list [ref=f3e848]:
+                - listitem [ref=f3e849]:
+                  - code [ref=f3e850]: HookStrategy.DEFAULT
+                  - text: ": do nothing special"
+                - listitem [ref=f3e851]:
+                  - code [ref=f3e852]: HookStrategy.CANCEL
+                  - text: ": stop the operation"
+                - listitem [ref=f3e853]:
+                  - code [ref=f3e854]: HookStrategy.MODIFY
+                  - text: ": return a modified object"
+                - listitem [ref=f3e855]:
+                  - code [ref=f3e856]: HookStrategy.MODIFY_FINAL
+                  - text: ": return a modified object and stop further plugin processing for that event"
+              - paragraph [ref=f3e857]: "Depending on the hook type, the modified object should be assigned to:"
+              - list [ref=f3e858]:
+                - listitem [ref=f3e859]:
+                  - code [ref=f3e860]: HookResult.request
+                - listitem [ref=f3e861]:
+                  - code [ref=f3e862]: HookResult.response
+                - listitem [ref=f3e863]:
+                  - code [ref=f3e864]: HookResult.update
+                - listitem [ref=f3e865]:
+                  - code [ref=f3e866]: HookResult.updates
+                - listitem [ref=f3e867]:
+                  - code [ref=f3e868]: HookResult.params
+              - heading [level=3] [ref=f3e869]:
+                - link "Update hooks" [ref=f3e870] [cursor=pointer]:
+                  - /url: "#update-hooks"
+                - img "Link to section" [ref=f3e871]
+              - figure [ref=f3e874]:
+                - button "Copy Text" [ref=f3e875] [cursor=pointer]
+                - code [ref=f3e883]:
+                  - generic [ref=f3e884]: "def on_update_hook(self, update_name: str, account: int, update: Any) -> HookResult:"
+                  - generic [ref=f3e885]: result = HookResult()
+                  - generic [ref=f3e887]: "if update_name == \"TL_updateNewMessage\":"
+                  - generic [ref=f3e888]: "self.log(f\"Intercepted update: {update_name}\")"
+                  - generic [ref=f3e890]: return result
+                  - generic [ref=f3e893]: "def on_updates_hook(self, container_name: str, account: int, updates: Any) -> HookResult:"
+                  - generic [ref=f3e894]: result = HookResult()
+                  - generic [ref=f3e896]: "if container_name == \"TL_updates\":"
+                  - generic [ref=f3e897]: "self.log(f\"Received updates container: {container_name}\")"
+                  - generic [ref=f3e899]: return result
+              - heading [level=3] [ref=f3e900]:
+                - link "Outgoing message hook" [ref=f3e901] [cursor=pointer]:
+                  - /url: "#outgoing-message-hook"
+                - img "Link to section" [ref=f3e902]
+              - figure [ref=f3e905]:
+                - button "Copy Text" [ref=f3e906] [cursor=pointer]
+                - code [ref=f3e914]:
+                  - generic [ref=f3e915]: "def on_send_message_hook(self, account: int, params: Any) -> HookResult:"
+                  - generic [ref=f3e916]: result = HookResult()
+                  - generic [ref=f3e918]: "if hasattr(params, \"message\") and isinstance(params.message, str):"
+                  - generic [ref=f3e919]: "if params.message.startswith(\".hello\"):"
+                  - generic [ref=f3e920]: params.message = params.message.replace(".hello", "Hello from plugin")
+                  - generic [ref=f3e921]: result.strategy = HookStrategy.MODIFY
+                  - generic [ref=f3e922]: result.params = params
+                  - generic [ref=f3e924]: return result
+              - heading [level=2] [ref=f3e925]:
+                - link "Xposed Method Hooking" [ref=f3e926] [cursor=pointer]:
+                  - /url: "#xposed-method-hooking"
+                - img "Link to section" [ref=f3e927]
+              - paragraph [ref=f3e930]:
+                - text: For low-level Java method hooking through LSPosed/Xposed-style APIs, see the dedicated
+                - link "Xposed Method Hooking" [ref=f3e931] [cursor=pointer]:
+                  - /url: /docs/xposed-hooking
+                - text: page.
+            - generic [ref=f3e932]:
+              - link [ref=f3e933] [cursor=pointer]:
+                - /url: /docs/elyx/troubleshooting
+                - paragraph [ref=f3e937]: Previous
+                - paragraph [ref=f3e938]: Troubleshooting
+              - link [ref=f3e939] [cursor=pointer]:
+                - /url: /docs/multi-account
+                - paragraph [ref=f3e943]: Next
+                - paragraph [ref=f3e944]: Multi-account
+          - generic [ref=f3e946]:
+            - heading "On this page" [level=3] [ref=f3e947]
+            - generic [ref=f3e952]:
+              - link "Metadata" [ref=f3e953] [cursor=pointer]:
+                - /url: "#metadata"
+              - link "Basic Structure" [ref=f3e955] [cursor=pointer]:
+                - /url: "#basic-structure"
+              - link "Settings" [ref=f3e957] [cursor=pointer]:
+                - /url: "#settings"
+              - link "Plugin Events" [ref=f3e959] [cursor=pointer]:
+                - /url: "#plugin-events"
+              - link "Load and unload" [ref=f3e961] [cursor=pointer]:
+                - /url: "#load-and-unload"
+              - link "Application events" [ref=f3e965] [cursor=pointer]:
+                - /url: "#application-events"
+              - link "Settings Storage Helpers" [ref=f3e967] [cursor=pointer]:
+                - /url: "#settings-storage-helpers"
+              - link "Menu Items" [ref=f3e971] [cursor=pointer]:
+                - /url: "#menu-items"
+              - link "MenuItemData" [ref=f3e973] [cursor=pointer]:
+                - /url: "#menuitemdata"
+              - link "MenuItemType" [ref=f3e977] [cursor=pointer]:
+                - /url: "#menuitemtype"
+              - link [ref=f3e979] [cursor=pointer]:
+                - /url: "#the-on_click-context"
+                - text: The
+                - code [ref=f3e981]: on_click
+                - text: Context
+              - link "Removing Menu Items" [ref=f3e982] [cursor=pointer]:
+                - /url: "#removing-menu-items"
+              - link "Event Hooks" [ref=f3e984] [cursor=pointer]:
+                - /url: "#event-hooks"
+              - link "Hook strategies" [ref=f3e988] [cursor=pointer]:
+                - /url: "#hook-strategies"
+              - link "Update hooks" [ref=f3e992] [cursor=pointer]:
+                - /url: "#update-hooks"
+              - link "Outgoing message hook" [ref=f3e994] [cursor=pointer]:
+                - /url: "#outgoing-message-hook"
+              - link "Xposed Method Hooking" [ref=f3e996] [cursor=pointer]:
+                - /url: "#xposed-method-hooking"
+  - region "Notifications alt+T"

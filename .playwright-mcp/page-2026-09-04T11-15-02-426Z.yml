@@ -1,0 +1,759 @@
+- generic [active] [ref=f1e1]:
+  - link "Skip to Content" [ref=f1e2] [cursor=pointer]:
+    - /url: "#nextra-skip-nav"
+  - banner [ref=f1e3]:
+    - navigation [ref=f1e5]:
+      - link "Home page" [ref=f1e6] [cursor=pointer]:
+        - /url: /
+        - generic [ref=f1e7]: ZwyLib
+      - combobox "Search documentation…" [ref=f1e11]
+  - generic [ref=f1e12]:
+    - complementary [ref=f1e13]:
+      - list [ref=f1e16]:
+        - listitem [ref=f1e17]:
+          - link "Introduction" [ref=f1e18] [cursor=pointer]:
+            - /url: /
+        - listitem [ref=f1e19]:
+          - link "Async" [ref=f1e20] [cursor=pointer]:
+            - /url: /async
+        - listitem [ref=f1e21]:
+          - link "Auto-update" [ref=f1e22] [cursor=pointer]:
+            - /url: /autoupdater
+        - listitem [ref=f1e23]:
+          - link "Cache Files" [ref=f1e24] [cursor=pointer]:
+            - /url: /cachefiles
+        - listitem [ref=f1e25]:
+          - link "Command System" [ref=f1e26] [cursor=pointer]:
+            - /url: /commands
+        - listitem [ref=f1e27]:
+          - link "Hooks" [ref=f1e28] [cursor=pointer]:
+            - /url: /hooks
+        - listitem [ref=f1e29]:
+          - link "Localization" [ref=f1e30] [cursor=pointer]:
+            - /url: /localization
+        - listitem [ref=f1e31]:
+          - link "Logging and Notifications" [ref=f1e32] [cursor=pointer]:
+            - /url: /logging-and-notifications
+        - listitem [ref=f1e33]:
+          - link "Plugin Management" [ref=f1e34] [cursor=pointer]:
+            - /url: /plugins
+        - listitem [ref=f1e35]:
+          - link "Requests" [ref=f1e36] [cursor=pointer]:
+            - /url: /requests
+        - listitem [ref=f1e37]:
+          - link "Settings" [ref=f1e38] [cursor=pointer]:
+            - /url: /settings
+        - listitem [ref=f1e39]:
+          - link "UI" [ref=f1e40] [cursor=pointer]:
+            - /url: /ui
+        - listitem [ref=f1e41]:
+          - link "Utilities" [ref=f1e42] [cursor=pointer]:
+            - /url: /utilities
+      - generic [ref=f1e43]:
+        - button "Light" [ref=f1e44] [cursor=pointer]
+        - button "Collapse sidebar" [expanded] [ref=f1e47] [cursor=pointer]
+    - article [ref=f1e51]:
+      - generic "Utilities" [ref=f1e53]
+      - main [ref=f1e54]:
+        - heading "Utilities" [level=1] [ref=f1e55]
+        - heading [level=2] [ref=f1e56]:
+          - code [ref=f1e57]: zwylib.SingletonMeta
+          - link "Permalink for this section" [ref=f1e58] [cursor=pointer]:
+            - /url: "#zwylibsingletonmeta"
+            - text: "#"
+        - generic [ref=f1e60]:
+          - button "Copy code" [ref=f1e62] [cursor=pointer]
+          - code [ref=f1e66]:
+            - generic [ref=f1e67]: class SingletonMeta(type)
+        - paragraph [ref=f1e68]: Metaclass implementing the singleton pattern. Use it as the metaclass for any class that must have only one instance.
+        - paragraph [ref=f1e69]:
+          - strong [ref=f1e70]: Example
+        - generic [ref=f1e72]:
+          - button "Copy code" [ref=f1e74] [cursor=pointer]
+          - code [ref=f1e78]:
+            - generic [ref=f1e79]: "class MyManager(metaclass=SingletonMeta):"
+            - generic [ref=f1e80]: ...
+            - generic [ref=f1e82]: a = MyManager()
+            - generic [ref=f1e83]: b = MyManager()
+            - generic [ref=f1e85]: "assert a is b # True"
+        - separator [ref=f1e86]
+        - heading [level=2] [ref=f1e87]:
+          - code [ref=f1e88]: zwylib.Callback1
+          - link "Permalink for this section" [ref=f1e89] [cursor=pointer]:
+            - /url: "#zwylibcallback1"
+            - text: "#"
+        - generic [ref=f1e91]:
+          - button "Copy code" [ref=f1e93] [cursor=pointer]
+          - code [ref=f1e97]:
+            - generic [ref=f1e98]: "zwylib.Callback1(fn: (Any) -> None)"
+        - paragraph [ref=f1e99]:
+          - text: Wrapper class allowing a Python function to be passed into Java code via Chaquopy, emulating the
+          - link [ref=f1e100] [cursor=pointer]:
+            - /url: https://github.com/DrKLO/Telegram/blob/master/TMessagesProj/src/main/java/org/telegram/messenger/Utilities.java#L519
+            - code [ref=f1e101]: Utilities.Callback
+          - text: Java interface.
+        - paragraph [ref=f1e102]:
+          - strong [ref=f1e103]: Constructor Arguments
+        - list [ref=f1e104]:
+          - listitem [ref=f1e105]:
+            - code [ref=f1e106]: fn
+            - text: ((
+            - code [ref=f1e107]: Any
+            - text: ) ->
+            - code [ref=f1e108]: None
+            - text: "): A Python function that accepts a single argument and returns nothing. Called from Java via"
+            - code [ref=f1e109]: .run(...)
+            - text: .
+        - heading [level=3] [ref=f1e110]:
+          - text: Methods
+          - link "Permalink for this section" [ref=f1e111] [cursor=pointer]:
+            - /url: "#methods"
+            - text: "#"
+        - heading [level=4] [ref=f1e112]:
+          - code [ref=f1e113]: run
+          - link "Permalink for this section" [ref=f1e114] [cursor=pointer]:
+            - /url: "#run"
+            - text: "#"
+        - generic [ref=f1e116]:
+          - button "Copy code" [ref=f1e118] [cursor=pointer]
+          - code [ref=f1e122]:
+            - generic [ref=f1e123]: "Callback1.run(arg: Any) -> None"
+        - paragraph [ref=f1e124]: Called from Java, forwards the provided argument to the Python function. Exceptions are logged internally and not raised.
+        - paragraph [ref=f1e125]:
+          - strong [ref=f1e126]: Example
+        - generic [ref=f1e128]:
+          - button "Copy code" [ref=f1e130] [cursor=pointer]
+          - code [ref=f1e134]:
+            - generic [ref=f1e135]: "def my_python_callback(value):"
+            - generic [ref=f1e136]: "print(f\"Received from Java: {value}\")"
+            - generic [ref=f1e138]: callback = zwylib.Callback1(my_python_callback)
+            - generic [ref=f1e139]: some_java_object.setCallback(callback)
+        - separator [ref=f1e140]
+        - heading [level=2] [ref=f1e141]:
+          - code [ref=f1e142]: zwylib.PyRunnable
+          - link "Permalink for this section" [ref=f1e143] [cursor=pointer]:
+            - /url: "#zwylibpyrunnable"
+            - text: "#"
+        - generic [ref=f1e145]:
+          - button "Copy code" [ref=f1e147] [cursor=pointer]
+          - code [ref=f1e151]:
+            - generic [ref=f1e152]: "zwylib.PyRunnable(fn: () -> None)"
+        - paragraph [ref=f1e153]:
+          - text: Wrapper class allowing a no-argument Python function to be passed into Java code as a
+          - link [ref=f1e154] [cursor=pointer]:
+            - /url: https://docs.oracle.com/javase/8/docs/api/java/lang/Runnable.html
+            - code [ref=f1e155]: java.lang.Runnable
+          - text: . Useful for Java setters that expect a
+          - code [ref=f1e156]: Runnable
+          - text: callback (e.g.
+          - code [ref=f1e157]: setOnDismissListener
+          - text: ).
+        - paragraph [ref=f1e158]:
+          - strong [ref=f1e159]: Constructor Arguments
+        - list [ref=f1e160]:
+          - listitem [ref=f1e161]:
+            - code [ref=f1e162]: fn
+            - text: (() ->
+            - code [ref=f1e163]: None
+            - text: "): A Python function that accepts no arguments and returns nothing. Called from Java via"
+            - code [ref=f1e164]: .run()
+            - text: .
+        - heading [level=3] [ref=f1e165]:
+          - text: Methods
+          - link "Permalink for this section" [ref=f1e166] [cursor=pointer]:
+            - /url: "#methods-1"
+            - text: "#"
+        - heading [level=4] [ref=f1e167]:
+          - code [ref=f1e168]: run
+          - link "Permalink for this section" [ref=f1e169] [cursor=pointer]:
+            - /url: "#run-1"
+            - text: "#"
+        - generic [ref=f1e171]:
+          - button "Copy code" [ref=f1e173] [cursor=pointer]
+          - code [ref=f1e177]:
+            - generic [ref=f1e178]: PyRunnable.run() -> None
+        - paragraph [ref=f1e179]: Called from Java, invokes the wrapped Python function. Exceptions are logged internally and not raised.
+        - paragraph [ref=f1e180]:
+          - strong [ref=f1e181]: Example
+        - generic [ref=f1e183]:
+          - button "Copy code" [ref=f1e185] [cursor=pointer]
+          - code [ref=f1e189]:
+            - generic [ref=f1e190]: "def on_dismiss():"
+            - generic [ref=f1e191]: print("Dismissed!")
+            - generic [ref=f1e193]: sheet.setOnDismissListener(zwylib.PyRunnable(on_dismiss))
+        - heading [level=2] [ref=f1e194]:
+          - text: Java Interop Helpers
+          - link "Permalink for this section" [ref=f1e195] [cursor=pointer]:
+            - /url: "#java-interop-helpers"
+            - text: "#"
+        - heading [level=3] [ref=f1e196]:
+          - code [ref=f1e197]: zwylib.iterable_to_arraylist
+          - link "Permalink for this section" [ref=f1e198] [cursor=pointer]:
+            - /url: "#zwylibiterable_to_arraylist"
+            - text: "#"
+        - generic [ref=f1e200]:
+          - button "Copy code" [ref=f1e202] [cursor=pointer]
+          - code [ref=f1e206]:
+            - generic [ref=f1e207]: zwylib.iterable_to_arraylist(
+            - generic [ref=f1e208]: "iterable: Optional[Iterable[Any]],"
+            - generic [ref=f1e209]: int_auto_convert=True
+            - generic [ref=f1e210]: ) -> Optional[ArrayList]
+        - paragraph [ref=f1e211]:
+          - text: Converts any Python iterable to a Java
+          - code [ref=f1e212]: ArrayList
+          - text: ", optionally auto-converting Python integers to Java"
+          - code [ref=f1e213]: jint
+          - text: to avoid overflow/type mismatches.
+        - paragraph [ref=f1e214]:
+          - strong [ref=f1e215]: Arguments
+        - list [ref=f1e216]:
+          - listitem [ref=f1e217]:
+            - code [ref=f1e218]: iterable
+            - text: (
+            - code [ref=f1e219]: Optional[Iterable[Any]]
+            - text: "): The iterable to convert. If"
+            - code [ref=f1e220]: None
+            - text: ", returns"
+            - code [ref=f1e221]: None
+            - text: .
+          - listitem [ref=f1e222]:
+            - code [ref=f1e223]: int_auto_convert
+            - text: (
+            - code [ref=f1e224]: bool
+            - text: ", default"
+            - code [ref=f1e225]: "True"
+            - text: "): If"
+            - code [ref=f1e226]: "True"
+            - text: ", converts Python"
+            - code [ref=f1e227]: int
+            - text: values to Java
+            - code [ref=f1e228]: jint
+            - text: when adding to the
+            - code [ref=f1e229]: ArrayList
+            - text: (falling back to a plain add on overflow).
+        - paragraph [ref=f1e230]:
+          - strong [ref=f1e231]: Returns
+        - list [ref=f1e232]:
+          - listitem [ref=f1e233]:
+            - code [ref=f1e234]: Optional[ArrayList]
+            - text: ": A Java"
+            - code [ref=f1e235]: ArrayList
+            - text: containing the elements of the input iterable, or
+            - code [ref=f1e236]: None
+            - text: if the input is
+            - code [ref=f1e237]: None
+            - text: .
+        - paragraph [ref=f1e238]:
+          - strong [ref=f1e239]: Example
+        - generic [ref=f1e241]:
+          - button "Copy code" [ref=f1e243] [cursor=pointer]
+          - code [ref=f1e247]:
+            - generic [ref=f1e248]: java_array = zwylib.iterable_to_arraylist([1, "item2"])
+            - generic [ref=f1e249]: "# java_array contains [jint(1), \"item2\"]"
+        - separator [ref=f1e250]
+        - heading [level=3] [ref=f1e251]:
+          - code [ref=f1e252]: zwylib.arraylist_to_list
+          - link "Permalink for this section" [ref=f1e253] [cursor=pointer]:
+            - /url: "#zwylibarraylist_to_list"
+            - text: "#"
+        - generic [ref=f1e255]:
+          - button "Copy code" [ref=f1e257] [cursor=pointer]
+          - code [ref=f1e261]:
+            - generic [ref=f1e262]: "zwylib.arraylist_to_list(j_array_list: Optional[ArrayList]) -> Optional[List]"
+        - paragraph [ref=f1e263]:
+          - text: Converts a Java
+          - code [ref=f1e264]: ArrayList
+          - text: to a Python list.
+        - paragraph [ref=f1e265]:
+          - strong [ref=f1e266]: Arguments
+        - list [ref=f1e267]:
+          - listitem [ref=f1e268]:
+            - code [ref=f1e269]: j_array_list
+            - text: (
+            - code [ref=f1e270]: Optional[ArrayList]
+            - text: "): The Java"
+            - code [ref=f1e271]: ArrayList
+            - text: to convert. If
+            - code [ref=f1e272]: None
+            - text: ", returns"
+            - code [ref=f1e273]: None
+            - text: .
+        - paragraph [ref=f1e274]:
+          - strong [ref=f1e275]: Returns
+        - list [ref=f1e276]:
+          - listitem [ref=f1e277]:
+            - code [ref=f1e278]: Optional[List]
+            - text: ": A Python list containing the elements of the"
+            - code [ref=f1e279]: ArrayList
+            - text: ", or"
+            - code [ref=f1e280]: None
+            - text: if the input is
+            - code [ref=f1e281]: None
+            - text: .
+        - paragraph [ref=f1e282]:
+          - strong [ref=f1e283]: Example
+        - generic [ref=f1e285]:
+          - button "Copy code" [ref=f1e287] [cursor=pointer]
+          - code [ref=f1e291]:
+            - generic [ref=f1e292]: java_array = ArrayList()
+            - generic [ref=f1e293]: java_array.add("item1")
+            - generic [ref=f1e294]: java_array.add("item2")
+            - generic [ref=f1e295]: python_list = zwylib.arraylist_to_list(java_array)
+            - generic [ref=f1e296]: "# python_list is [\"item1\", \"item2\"]"
+        - separator [ref=f1e297]
+        - heading [level=3] [ref=f1e298]:
+          - code [ref=f1e299]: zwylib.list_to_arraylist
+          - link "Permalink for this section" [ref=f1e300] [cursor=pointer]:
+            - /url: "#zwyliblist_to_arraylist"
+            - text: "#"
+        - generic [ref=f1e302]:
+          - button "Copy code" [ref=f1e304] [cursor=pointer]
+          - code [ref=f1e308]:
+            - generic [ref=f1e309]: "zwylib.list_to_arraylist(python_list: Optional[List], int_auto_convert=True)"
+        - blockquote [ref=f1e310]:
+          - paragraph [ref=f1e311]:
+            - strong [ref=f1e312]: Deprecated
+            - text: ": Use"
+            - link [ref=f1e313] [cursor=pointer]:
+              - /url: "#zwylibiterable_to_arraylist"
+              - code [ref=f1e314]: iterable_to_arraylist
+            - text: instead.
+        - paragraph [ref=f1e315]:
+          - text: Kept for backward compatibility — internally delegates to
+          - code [ref=f1e316]: iterable_to_arraylist
+          - text: . Calling it emits a deprecation warning.
+        - heading [level=2] [ref=f1e317]:
+          - text: Exception Formatting
+          - link "Permalink for this section" [ref=f1e318] [cursor=pointer]:
+            - /url: "#exception-formatting"
+            - text: "#"
+        - heading [level=3] [ref=f1e319]:
+          - code [ref=f1e320]: zwylib.format_exc
+          - link "Permalink for this section" [ref=f1e321] [cursor=pointer]:
+            - /url: "#zwylibformat_exc"
+            - text: "#"
+        - generic [ref=f1e323]:
+          - button "Copy code" [ref=f1e325] [cursor=pointer]
+          - code [ref=f1e329]:
+            - generic [ref=f1e330]: zwylib.format_exc() -> str
+        - paragraph [ref=f1e331]:
+          - text: Formats the current exception traceback as a string, similar to
+          - code [ref=f1e332]: traceback.format_exc()
+          - text: .
+        - paragraph [ref=f1e333]:
+          - strong [ref=f1e334]: Returns
+        - list [ref=f1e335]:
+          - listitem [ref=f1e336]:
+            - code [ref=f1e337]: str
+            - text: ": A string containing the formatted traceback of the current exception, stripped of leading/trailing whitespace."
+        - paragraph [ref=f1e338]:
+          - strong [ref=f1e339]: Example
+        - generic [ref=f1e341]:
+          - button "Copy code" [ref=f1e343] [cursor=pointer]
+          - code [ref=f1e347]:
+            - generic [ref=f1e348]: "try:"
+            - generic [ref=f1e349]: 1 / 0
+            - generic [ref=f1e350]: "except ZeroDivisionError:"
+            - generic [ref=f1e351]: error_trace = zwylib.format_exc()
+            - generic [ref=f1e352]: "print(error_trace) # Prints the formatted traceback"
+        - separator [ref=f1e353]
+        - heading [level=3] [ref=f1e354]:
+          - code [ref=f1e355]: zwylib.format_exc_from
+          - link "Permalink for this section" [ref=f1e356] [cursor=pointer]:
+            - /url: "#zwylibformat_exc_from"
+            - text: "#"
+        - generic [ref=f1e358]:
+          - button "Copy code" [ref=f1e360] [cursor=pointer]
+          - code [ref=f1e364]:
+            - generic [ref=f1e365]: "zwylib.format_exc_from(e: Exception) -> str"
+        - paragraph [ref=f1e366]: Formats the full traceback of a specific exception as a string.
+        - paragraph [ref=f1e367]:
+          - strong [ref=f1e368]: Arguments
+        - list [ref=f1e369]:
+          - listitem [ref=f1e370]:
+            - code [ref=f1e371]: e
+            - text: (
+            - code [ref=f1e372]: Exception
+            - text: "): The exception whose traceback should be formatted."
+        - paragraph [ref=f1e373]:
+          - strong [ref=f1e374]: Returns
+        - list [ref=f1e375]:
+          - listitem [ref=f1e376]:
+            - code [ref=f1e377]: str
+            - text: ": A string containing the formatted traceback of the exception, stripped of leading/trailing whitespace."
+        - paragraph [ref=f1e378]:
+          - strong [ref=f1e379]: Example
+        - generic [ref=f1e381]:
+          - button "Copy code" [ref=f1e383] [cursor=pointer]
+          - code [ref=f1e387]:
+            - generic [ref=f1e388]: "try:"
+            - generic [ref=f1e389]: 1 / 0
+            - generic [ref=f1e390]: "except ZeroDivisionError as e:"
+            - generic [ref=f1e391]: error_trace = zwylib.format_exc_from(e)
+            - generic [ref=f1e392]: "print(error_trace) # Prints the formatted traceback"
+        - separator [ref=f1e393]
+        - heading [level=3] [ref=f1e394]:
+          - code [ref=f1e395]: zwylib.format_exc_only
+          - link "Permalink for this section" [ref=f1e396] [cursor=pointer]:
+            - /url: "#zwylibformat_exc_only"
+            - text: "#"
+        - generic [ref=f1e398]:
+          - button "Copy code" [ref=f1e400] [cursor=pointer]
+          - code [ref=f1e404]:
+            - generic [ref=f1e405]: "zwylib.format_exc_only(e: Exception) -> str"
+        - paragraph [ref=f1e406]: Formats only the exception message and type (without the full traceback) as a string.
+        - paragraph [ref=f1e407]:
+          - strong [ref=f1e408]: Arguments
+        - list [ref=f1e409]:
+          - listitem [ref=f1e410]:
+            - code [ref=f1e411]: e
+            - text: (
+            - code [ref=f1e412]: Exception
+            - text: "): The exception whose message and type should be formatted."
+        - paragraph [ref=f1e413]:
+          - strong [ref=f1e414]: Returns
+        - list [ref=f1e415]:
+          - listitem [ref=f1e416]:
+            - code [ref=f1e417]: str
+            - text: ": A string containing the formatted exception message and type, stripped of leading/trailing whitespace."
+        - paragraph [ref=f1e418]:
+          - strong [ref=f1e419]: Example
+        - generic [ref=f1e421]:
+          - button "Copy code" [ref=f1e423] [cursor=pointer]
+          - code [ref=f1e427]:
+            - generic [ref=f1e428]: "try:"
+            - generic [ref=f1e429]: 1 / 0
+            - generic [ref=f1e430]: "except ZeroDivisionError as e:"
+            - generic [ref=f1e431]: error_msg = zwylib.format_exc_only(e)
+            - generic [ref=f1e432]: "print(error_msg) # Prints: ZeroDivisionError: division by zero"
+        - heading [level=2] [ref=f1e433]:
+          - text: Version Checks
+          - link "Permalink for this section" [ref=f1e434] [cursor=pointer]:
+            - /url: "#version-checks"
+            - text: "#"
+        - heading [level=3] [ref=f1e435]:
+          - code [ref=f1e436]: zwylib.is_zwylib_version_sufficient
+          - link "Permalink for this section" [ref=f1e437] [cursor=pointer]:
+            - /url: "#zwylibis_zwylib_version_sufficient"
+            - text: "#"
+        - generic [ref=f1e439]:
+          - button "Copy code" [ref=f1e441] [cursor=pointer]
+          - code [ref=f1e445]:
+            - generic [ref=f1e446]: zwylib.is_zwylib_version_sufficient(
+            - generic [ref=f1e447]: "plugin_name: str,"
+            - generic [ref=f1e448]: "version: str,"
+            - generic [ref=f1e449]: "notify: bool = True"
+            - generic [ref=f1e450]: ) -> bool
+        - paragraph [ref=f1e451]:
+          - text: Checks whether the current ZwyLib version is greater than or equal to the required
+          - code [ref=f1e452]: version
+          - text: . If the version is insufficient and
+          - code [ref=f1e453]: notify
+          - text: is
+          - code [ref=f1e454]: "True"
+          - text: ", a bulletin is shown with a button allowing the user to navigate to the update."
+        - paragraph [ref=f1e455]:
+          - strong [ref=f1e456]: Arguments
+        - list [ref=f1e457]:
+          - listitem [ref=f1e458]:
+            - code [ref=f1e459]: plugin_name
+            - text: (
+            - code [ref=f1e460]: str
+            - text: "): Plugin name shown in the bulletin."
+          - listitem [ref=f1e461]:
+            - code [ref=f1e462]: version
+            - text: (
+            - code [ref=f1e463]: str
+            - text: "): Minimum required ZwyLib version."
+          - listitem [ref=f1e464]:
+            - code [ref=f1e465]: notify
+            - text: (
+            - code [ref=f1e466]: bool
+            - text: ", default"
+            - code [ref=f1e467]: "True"
+            - text: "): Whether to show a bulletin on version mismatch."
+        - paragraph [ref=f1e468]:
+          - strong [ref=f1e469]: Returns
+        - list [ref=f1e470]:
+          - listitem [ref=f1e471]:
+            - code [ref=f1e472]: bool
+            - text: ":"
+            - code [ref=f1e473]: "True"
+            - text: if current ZwyLib version is sufficient,
+            - code [ref=f1e474]: "False"
+            - text: otherwise.
+        - paragraph [ref=f1e475]:
+          - strong [ref=f1e476]: Example
+        - generic [ref=f1e478]:
+          - button "Copy code" [ref=f1e480] [cursor=pointer]
+          - code [ref=f1e484]:
+            - generic [ref=f1e485]: zwylib.is_zwylib_version_sufficient("MyPlugin", "1.2.0")
+        - separator [ref=f1e486]
+        - heading [level=3] [ref=f1e487]:
+          - code [ref=f1e488]: zwylib.is_client_version_sufficient
+          - link "Permalink for this section" [ref=f1e489] [cursor=pointer]:
+            - /url: "#zwylibis_client_version_sufficient"
+            - text: "#"
+        - generic [ref=f1e491]:
+          - button "Copy code" [ref=f1e493] [cursor=pointer]
+          - code [ref=f1e497]:
+            - generic [ref=f1e498]: "zwylib.is_client_version_sufficient(version_to_compare: str) -> bool"
+        - paragraph [ref=f1e499]:
+          - text: Checks whether the current exteraGram client build is greater than or equal to
+          - code [ref=f1e500]: version_to_compare
+          - text: . Returns
+          - code [ref=f1e501]: "False"
+          - text: (and logs the error) if the comparison fails for any reason.
+        - paragraph [ref=f1e502]:
+          - strong [ref=f1e503]: Arguments
+        - list [ref=f1e504]:
+          - listitem [ref=f1e505]:
+            - code [ref=f1e506]: version_to_compare
+            - text: (
+            - code [ref=f1e507]: str
+            - text: "): Minimum required client version."
+        - paragraph [ref=f1e508]:
+          - strong [ref=f1e509]: Returns
+        - list [ref=f1e510]:
+          - listitem [ref=f1e511]:
+            - code [ref=f1e512]: bool
+            - text: ":"
+            - code [ref=f1e513]: "True"
+            - text: if the current client version is sufficient,
+            - code [ref=f1e514]: "False"
+            - text: otherwise.
+        - paragraph [ref=f1e515]:
+          - strong [ref=f1e516]: Example
+        - generic [ref=f1e518]:
+          - button "Copy code" [ref=f1e520] [cursor=pointer]
+          - code [ref=f1e524]:
+            - generic [ref=f1e525]: "if not zwylib.is_client_version_sufficient(\"12.6.0\"):"
+            - generic [ref=f1e526]: bulletins.show_error("This plugin requires exteraGram 12.6.0 or newer.")
+        - heading [level=2] [ref=f1e527]:
+          - text: Helper Functions
+          - link "Permalink for this section" [ref=f1e528] [cursor=pointer]:
+            - /url: "#helper-functions"
+            - text: "#"
+        - heading [level=3] [ref=f1e529]:
+          - code [ref=f1e530]: zwylib.safe_func_call
+          - link "Permalink for this section" [ref=f1e531] [cursor=pointer]:
+            - /url: "#zwylibsafe_func_call"
+            - text: "#"
+        - generic [ref=f1e533]:
+          - button "Copy code" [ref=f1e535] [cursor=pointer]
+          - code [ref=f1e539]:
+            - generic [ref=f1e540]: "zwylib.safe_func_call(func: Optional[Callable], args: Optional[List[Any]] = None) -> Any"
+        - paragraph [ref=f1e541]:
+          - text: Calls
+          - code [ref=f1e542]: func
+          - text: with the given positional arguments, catching and logging any exception instead of letting it propagate. If
+          - code [ref=f1e543]: func
+          - text: returns a coroutine, it’s automatically scheduled via
+          - link [ref=f1e544] [cursor=pointer]:
+            - /url: /async#run_task
+            - code [ref=f1e545]: zwylib.async_manager.run_task
+          - text: and the resulting
+          - code [ref=f1e546]: Future
+          - text: is returned instead of the coroutine itself.
+        - paragraph [ref=f1e547]:
+          - strong [ref=f1e548]: Arguments
+        - list [ref=f1e549]:
+          - listitem [ref=f1e550]:
+            - code [ref=f1e551]: func
+            - text: (
+            - code [ref=f1e552]: Optional[Callable]
+            - text: "): The function to call. If"
+            - code [ref=f1e553]: None
+            - text: ", nothing happens."
+          - listitem [ref=f1e554]:
+            - code [ref=f1e555]: args
+            - text: (
+            - code [ref=f1e556]: Optional[List[Any]]
+            - text: ", default"
+            - code [ref=f1e557]: None
+            - text: "): Positional arguments to pass to"
+            - code [ref=f1e558]: func
+            - text: .
+        - paragraph [ref=f1e559]:
+          - strong [ref=f1e560]: Returns
+        - list [ref=f1e561]:
+          - listitem [ref=f1e562]:
+            - code [ref=f1e563]: Any
+            - text: ": Whatever"
+            - code [ref=f1e564]: func
+            - text: returns (or the scheduled
+            - code [ref=f1e565]: Future
+            - text: if it’s a coroutine function), or
+            - code [ref=f1e566]: None
+            - text: if
+            - code [ref=f1e567]: func
+            - text: is
+            - code [ref=f1e568]: None
+            - text: or raised.
+        - paragraph [ref=f1e569]:
+          - strong [ref=f1e570]: Example
+        - generic [ref=f1e572]:
+          - button "Copy code" [ref=f1e574] [cursor=pointer]
+          - code [ref=f1e578]:
+            - generic [ref=f1e579]: zwylib.safe_func_call(on_finish_callback, [self])
+        - separator [ref=f1e580]
+        - heading [level=3] [ref=f1e581]:
+          - code [ref=f1e582]: zwylib.create_bundle
+          - link "Permalink for this section" [ref=f1e583] [cursor=pointer]:
+            - /url: "#zwylibcreate_bundle"
+            - text: "#"
+        - generic [ref=f1e585]:
+          - button "Copy code" [ref=f1e587] [cursor=pointer]
+          - code [ref=f1e591]:
+            - generic [ref=f1e592]: "zwylib.create_bundle(args: Dict[str, Union[bool, int, str, float]]) -> Bundle"
+        - paragraph [ref=f1e593]:
+          - text: Builds an Android
+          - code [ref=f1e594]: Bundle
+          - text: from a plain Python dict, automatically picking the right
+          - code [ref=f1e595]: put*
+          - text: method based on each value’s type (
+          - code [ref=f1e596]: int
+          - text: ","
+          - code [ref=f1e597]: bool
+          - text: ","
+          - code [ref=f1e598]: str
+          - text: ","
+          - code [ref=f1e599]: float
+          - text: ). Keys whose value isn’t one of these types are silently skipped.
+        - paragraph [ref=f1e600]:
+          - strong [ref=f1e601]: Arguments
+        - list [ref=f1e602]:
+          - listitem [ref=f1e603]:
+            - code [ref=f1e604]: args
+            - text: (
+            - code [ref=f1e605]: Dict[str, Union[bool, int, str, float]]
+            - text: "): Mapping of keys to values to put into the bundle."
+        - paragraph [ref=f1e606]:
+          - strong [ref=f1e607]: Returns
+        - list [ref=f1e608]:
+          - listitem [ref=f1e609]:
+            - code [ref=f1e610]: Bundle
+            - text: ": The populated Android"
+            - code [ref=f1e611]: Bundle
+            - text: .
+        - paragraph [ref=f1e612]:
+          - strong [ref=f1e613]: Example
+        - generic [ref=f1e615]:
+          - button "Copy code" [ref=f1e617] [cursor=pointer]
+          - code [ref=f1e621]:
+            - generic [ref=f1e622]: "args = zwylib.create_bundle({\"isAlwaysShare\": True, \"chatAddType\": 2})"
+            - generic [ref=f1e623]: activity = GroupCreateActivity(args)
+        - separator [ref=f1e624]
+        - heading [level=3] [ref=f1e625]:
+          - code [ref=f1e626]: zwylib.open_message
+          - link "Permalink for this section" [ref=f1e627] [cursor=pointer]:
+            - /url: "#zwylibopen_message"
+            - text: "#"
+        - generic [ref=f1e629]:
+          - button "Copy code" [ref=f1e631] [cursor=pointer]
+          - code [ref=f1e635]:
+            - generic [ref=f1e636]: "zwylib.open_message(peer_id: int, msg_id: int, topic_id: Optional[int] = None) -> None"
+        - paragraph [ref=f1e637]:
+          - text: Opens a specific message in a chat, using the app’s currently active activity. Assumes the peer is already locally accessible (i.e. the app already has its access hash) — for chats/channels that might not be, use
+          - link [ref=f1e638] [cursor=pointer]:
+            - /url: "#zwylibsafe_open_message"
+            - code [ref=f1e639]: safe_open_message
+          - text: instead.
+        - paragraph [ref=f1e640]:
+          - strong [ref=f1e641]: Arguments
+        - list [ref=f1e642]:
+          - listitem [ref=f1e643]:
+            - code [ref=f1e644]: peer_id
+            - text: (
+            - code [ref=f1e645]: int
+            - text: "): ID of the peer (chat or user) to open."
+          - listitem [ref=f1e646]:
+            - code [ref=f1e647]: msg_id
+            - text: (
+            - code [ref=f1e648]: int
+            - text: "): ID of the message to scroll to."
+          - listitem [ref=f1e649]:
+            - code [ref=f1e650]: topic_id
+            - text: (
+            - code [ref=f1e651]: Optional[int]
+            - text: ", default"
+            - code [ref=f1e652]: None
+            - text: "): ID of the topic containing the message, if applicable."
+        - paragraph [ref=f1e653]:
+          - strong [ref=f1e654]: Example
+        - generic [ref=f1e656]:
+          - button "Copy code" [ref=f1e658] [cursor=pointer]
+          - code [ref=f1e662]:
+            - generic [ref=f1e663]: zwylib.open_message(-12345, 67890)
+        - separator [ref=f1e664]
+        - heading [level=3] [ref=f1e665]:
+          - code [ref=f1e666]: zwylib.safe_open_message
+          - link "Permalink for this section" [ref=f1e667] [cursor=pointer]:
+            - /url: "#zwylibsafe_open_message"
+            - text: "#"
+        - generic [ref=f1e669]:
+          - button "Copy code" [ref=f1e671] [cursor=pointer]
+          - code [ref=f1e675]:
+            - generic [ref=f1e676]: zwylib.safe_open_message(
+            - generic [ref=f1e677]: "peer_id: int,"
+            - generic [ref=f1e678]: "msg_id: int,"
+            - generic [ref=f1e679]: topic_id=0,
+            - generic [ref=f1e680]: "chat_username: Optional[str] = None"
+            - generic [ref=f1e681]: ) -> None
+        - paragraph [ref=f1e682]:
+          - text: Coroutine version of
+          - link [ref=f1e683] [cursor=pointer]:
+            - /url: "#zwylibopen_message"
+            - code [ref=f1e684]: open_message
+          - text: that resolves the peer’s access hash first if it isn’t already known locally, using
+          - code [ref=f1e685]: chat_username
+          - text: to look it up. This is what powers the bulletin
+          - code [ref=f1e686]: "*_with_post_redirect"
+          - text: methods in
+          - link [ref=f1e687] [cursor=pointer]:
+            - /url: /logging-and-notifications#zwylibinnerbulletinhelper
+            - code [ref=f1e688]: InnerBulletinHelper
+          - text: .
+        - paragraph [ref=f1e689]:
+          - strong [ref=f1e690]: Arguments
+        - list [ref=f1e691]:
+          - listitem [ref=f1e692]:
+            - code [ref=f1e693]: peer_id
+            - text: (
+            - code [ref=f1e694]: int
+            - text: "): ID of the peer (chat or user) to open."
+          - listitem [ref=f1e695]:
+            - code [ref=f1e696]: msg_id
+            - text: (
+            - code [ref=f1e697]: int
+            - text: "): ID of the message to scroll to."
+          - listitem [ref=f1e698]:
+            - code [ref=f1e699]: topic_id
+            - text: (
+            - code [ref=f1e700]: int
+            - text: ", default"
+            - code [ref=f1e701]: "0"
+            - text: "): ID of the topic containing the message, if applicable."
+          - listitem [ref=f1e702]:
+            - code [ref=f1e703]: chat_username
+            - text: (
+            - code [ref=f1e704]: Optional[str]
+            - text: ", default"
+            - code [ref=f1e705]: None
+            - text: "): Username used to resolve the peer if its access hash isn’t known locally yet. If it’s needed but not provided, the function logs an error and does nothing."
+        - paragraph [ref=f1e706]:
+          - strong [ref=f1e707]: Example
+        - generic [ref=f1e709]:
+          - button "Copy code" [ref=f1e711] [cursor=pointer]
+          - code [ref=f1e715]:
+            - generic [ref=f1e716]: "async def go_to_post():"
+            - generic [ref=f1e717]: await zwylib.safe_open_message(-12345, 67890, chat_username="somepublicchat")
+            - generic [ref=f1e719]: zwylib.async_manager.run_task(go_to_post())
+      - generic [ref=f1e720]:
+        - text: Last updated on
+        - time [ref=f1e721]: August 15, 2026
+      - link "UI" [ref=f1e723] [cursor=pointer]:
+        - /url: /ui
+  - generic [ref=f1e726]:
+    - separator [ref=f1e727]
+    - contentinfo [ref=f1e728]: MIT 2026 © Zwylair

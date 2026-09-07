@@ -1,0 +1,3318 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e2]:
+    - generic [ref=f3e4]:
+      - text: Подписывайтесь на наш Telegram и не пропускайте важные новости!
+      - link "Перейти" [ref=f3e8] [cursor=pointer]:
+        - /url: https://t.me/yougame_official
+      - button "Скрыть" [ref=f3e10] [cursor=pointer]
+    - generic [ref=f3e15]:
+      - link "Вход" [ref=f3e16] [cursor=pointer]:
+        - /url: /login/
+      - link "Регистрация" [ref=f3e17] [cursor=pointer]:
+        - /url: /register/
+    - banner [ref=f3e18]:
+      - generic [ref=f3e20]:
+        - link [ref=f3e22] [cursor=pointer]:
+          - /url: /
+          - img "Сайт читов, скриптов и кодов для онлайн игр - YouGame.Biz" [ref=f3e24]
+        - navigation [ref=f3e25]:
+          - generic [ref=f3e26]:
+            - list [ref=f3e28]:
+              - listitem [ref=f3e29]:
+                - generic [ref=f3e30]:
+                  - link "Правила" [ref=f3e31] [cursor=pointer]:
+                    - /url: /rules/
+                  - button "Toggle expanded" [ref=f3e32] [cursor=pointer]
+              - listitem [ref=f3e33]:
+                - generic [ref=f3e34]:
+                  - link "Услуги форума" [ref=f3e35] [cursor=pointer]:
+                    - /url: /threads/88568/
+                  - button "Toggle expanded" [ref=f3e36] [cursor=pointer]
+              - listitem [ref=f3e37]:
+                - generic [ref=f3e38]:
+                  - link "Пользователи" [ref=f3e39] [cursor=pointer]:
+                    - /url: /members/
+                  - button "Toggle expanded" [ref=f3e40] [cursor=pointer]
+              - listitem [ref=f3e41]:
+                - link "Дешёвые читы" [ref=f3e43] [cursor=pointer]:
+                  - /url: https://up-game.pro/
+              - listitem [ref=f3e44]:
+                - link "Читы у лисы" [ref=f3e46] [cursor=pointer]:
+                  - /url: https://gamebreaker.ru/?utm_source=yougame&utm_medium=text&utm_campaign=header
+              - listitem [ref=f3e47]:
+                - link "Халявные читы" [ref=f3e49] [cursor=pointer]:
+                  - /url: https://dragon-hack.pro/
+              - listitem [ref=f3e50]:
+                - link "Приватные читы" [ref=f3e52] [cursor=pointer]:
+                  - /url: https://wh-satano.ru/?utm_source=yougame&utm_medium=banner&utm_campaign=header
+              - listitem [ref=f3e53]:
+                - link "Купить читы" [ref=f3e55] [cursor=pointer]:
+                  - /url: https://getcheats.io/?utm_source=yougame&utm_medium=link&utm_campaign=04&utm_content=header
+            - generic [aria-hidden] [ref=f3e56] [cursor=pointer]
+    - list [ref=f3e60]:
+      - listitem [ref=f3e61]:
+        - link "Реклама тут за 40к" [ref=f3e63] [cursor=pointer]:
+          - /url: https://t.me/mrGOVARD
+      - listitem [ref=f3e64]:
+        - link "Магазин читов" [ref=f3e66] [cursor=pointer]:
+          - /url: https://wh-satano.ru/?utm_source=yougame&utm_medium=banner&utm_campaign=header2
+      - listitem [ref=f3e67]:
+        - link "Последняя активность" [ref=f3e69] [cursor=pointer]:
+          - /url: /whats-new/latest-activity
+      - listitem [ref=f3e70]:
+        - link "Регистрация" [ref=f3e72] [cursor=pointer]:
+          - /url: /register/
+    - generic [ref=f3e74]:
+      - generic [ref=f3e77]:
+        - generic [ref=f3e78]: ДОБРО ПОЖАЛОВАТЬ НА YOUGAME.BIZ
+        - generic [ref=f3e80]:
+          - heading "О сообществе YOUGAME" [level=2] [ref=f3e81]
+          - paragraph [ref=f3e82]:
+            - strong [ref=f3e83]: YOUGAME
+            - text: — русскоязычное сообщество, работающее с 2014 года. За годы развития форум стал одной из крупнейших площадок СНГ в сфере читов, гейм-хакинга и смежных технических направлений. Все разделы доступны бесплатно — это открытая платформа для обмена знаниями, практическим опытом и совместного развития.
+          - paragraph [ref=f3e84]: "Мы серьёзно относимся к безопасности пользователей: публикуемые файлы проходят проверку, а команда модераторов следит за порядком и качеством контента. Сообщество поддерживает комфортную, рабочую атмосферу, где ценятся компетентность, уважение и конструктивное общение. Проект развивается за счёт тематической рекламы, что позволяет сохранять полный и свободный доступ ко всем возможностям форума."
+          - heading "Статистика сообщества" [level=2] [ref=f3e85]
+          - paragraph [ref=f3e86]: "Пользователей: 2,063,015 Тем: 269,581 Сообщений: 2,651,663"
+          - paragraph [ref=f3e87]:
+            - strong [ref=f3e88]: "Важно:"
+            - text: запрещён незаконный и вредоносный контент. Материалы публикуются в образовательных целях.
+        - generic [ref=f3e89]:
+          - link "Регистрация" [ref=f3e90] [cursor=pointer]:
+            - /url: /register/
+          - link "Вход" [ref=f3e92] [cursor=pointer]:
+            - /url: /login/
+      - table [ref=f3e96]:
+        - rowgroup [ref=f3e97]:
+          - row [ref=f3e98]:
+            - cell [ref=f3e99]:
+              - link [ref=f3e100] [cursor=pointer]:
+                - /url: https://yougame.biz/threads/378977
+      - generic [ref=f3e102]:
+        - list [ref=f3e104]:
+          - listitem [ref=f3e105]:
+            - link "WH-Satano - лучший магазин приватных читов!" [ref=f3e110] [cursor=pointer]:
+              - /url: https://wh-satano.ru/?utm_source=yougame&utm_medium=link&utm_campaign=main
+          - listitem [ref=f3e111]:
+            - link "CSRDP.HOST - Серверы в Европе на AMD EPYC 9454 с NVMe SSD 🚀" [ref=f3e116] [cursor=pointer]:
+              - /url: https://csrdp.host/go/yougame
+          - listitem [ref=f3e117]:
+            - link "WAICORE | Германия 5–25Gbps | -25% на запуск 🔥" [ref=f3e122] [cursor=pointer]:
+              - /url: https://yougame.biz/threads/349153/
+          - listitem [ref=f3e123]:
+            - link "XONE — лучшие читы для КС 2" [ref=f3e128] [cursor=pointer]:
+              - /url: https://xone.fun/products/7-cs2-x1-internal
+          - listitem [ref=f3e129]:
+            - link "Сервера по низким ценам | до 25 Гбит/с | GPU | R9 9950X | EPYC 9454" [ref=f3e134] [cursor=pointer]:
+              - /url: https://yougame.biz/threads/378977
+          - listitem [ref=f3e135]:
+            - link "tamper.market — лучший маркетплейс nfa аккаунтов" [ref=f3e140] [cursor=pointer]:
+              - /url: https://tamper.market/
+          - listitem [ref=f3e141]:
+            - link "Арендовать место от 20000 руб/мес." [ref=f3e146] [cursor=pointer]:
+              - /url: https://t.me/mrGOVARD
+          - listitem [ref=f3e147]:
+            - link "Арендовать место от 20000 руб/мес." [ref=f3e152] [cursor=pointer]:
+              - /url: https://t.me/mrGOVARD
+        - generic [ref=f3e153]:
+          - list [ref=f3e155]:
+            - listitem [ref=f3e156] [cursor=pointer]: Последние ответы
+            - listitem [ref=f3e157] [cursor=pointer]: Новые темы
+            - listitem [ref=f3e158] [cursor=pointer]: Маркет
+            - listitem [ref=f3e159] [cursor=pointer]: Новости форума
+            - listitem [ref=f3e160] [cursor=pointer]: Популярные темы
+            - listitem [ref=f3e161] [cursor=pointer]: Розыгрыши
+          - generic [ref=f3e162] [cursor=pointer]
+        - list [ref=f3e171]:
+          - listitem [ref=f3e172]:
+            - generic [ref=f3e176]:
+              - generic [ref=f3e177]: Ищу скрипт
+              - link "Как обойти ui лимиты скита" [ref=f3e178] [cursor=pointer]:
+                - /url: /threads/389460/post-3631668
+            - time [ref=f3e180]: Только что
+            - link "HvHnnStar" [ref=f3e182] [cursor=pointer]:
+              - /url: /members/703113/
+          - listitem [ref=f3e183]:
+            - generic [ref=f3e187]:
+              - generic [ref=f3e188]: Вопрос
+              - link "Как научится писать свой клиент | Как писать с 0 на своей базе" [ref=f3e189] [cursor=pointer]:
+                - /url: /threads/389808/post-3631667
+            - time [ref=f3e191]: Только что
+            - link "#pragma" [ref=f3e193] [cursor=pointer]:
+              - /url: /members/1350230/
+          - listitem [ref=f3e194]:
+            - link "Deepseek удалили из Opencode!!!" [ref=f3e199] [cursor=pointer]:
+              - /url: /threads/388796/post-3631666
+            - time [ref=f3e201]: Только что
+            - link "wartyxx" [ref=f3e203] [cursor=pointer]:
+              - /url: /members/2056417/
+          - listitem [ref=f3e204]:
+            - generic [ref=f3e208]:
+              - generic [ref=f3e209]: Обсуждаем
+              - link "Gemini 3.8 Flash" [ref=f3e210] [cursor=pointer]:
+                - /url: /threads/389717/post-3631665
+            - time [ref=f3e212]: 1 минуту назад
+            - link "zzodiac" [ref=f3e214] [cursor=pointer]:
+              - /url: /members/1264839/
+          - listitem [ref=f3e215]:
+            - generic [ref=f3e219]:
+              - generic [ref=f3e220]: Исходник
+              - link "Csgo Fully Reversed Server Animations" [ref=f3e221] [cursor=pointer]:
+                - /url: /threads/388134/post-3631663
+            - time [ref=f3e223]: 1 минуту назад
+            - link "rivalhack" [ref=f3e225] [cursor=pointer]:
+              - /url: /members/2062991/
+          - listitem [ref=f3e226]:
+            - generic [ref=f3e230]:
+              - generic [ref=f3e231]: Вопрос
+              - link "Банит Polar после 15 минут пвп без среза урона и фоток" [ref=f3e232] [cursor=pointer]:
+                - /url: /threads/389324/post-3631661
+            - time [ref=f3e234]: 2 мин. назад
+            - link "AloneWithDog" [ref=f3e236] [cursor=pointer]:
+              - /url: /members/1724323/
+          - listitem [ref=f3e237]:
+            - generic [ref=f3e241]:
+              - generic [ref=f3e242]: Detected
+              - link "Nexoriabeta (не моё)" [ref=f3e243] [cursor=pointer]:
+                - /url: /threads/389705/post-3631659
+            - time [ref=f3e245]: 3 мин. назад
+            - link "#pragma" [ref=f3e247] [cursor=pointer]:
+              - /url: /members/1350230/
+          - listitem [ref=f3e248]:
+            - generic [ref=f3e252]:
+              - generic [ref=f3e253]: Исходник
+              - link "XRose Client 26.2" [ref=f3e254] [cursor=pointer]:
+                - /url: /threads/389724/post-3631658
+            - time [ref=f3e256]: 4 мин. назад
+            - link "Nonniixe" [ref=f3e258] [cursor=pointer]:
+              - /url: /members/1918636/
+          - listitem [ref=f3e259]:
+            - generic [ref=f3e263]:
+              - generic [ref=f3e264]: Вопрос
+              - link "OpenCode DeepSeek" [ref=f3e265] [cursor=pointer]:
+                - /url: /threads/389798/post-3631651
+            - time [ref=f3e267]: 9 мин. назад
+            - link "scg aka-nzv" [ref=f3e269] [cursor=pointer]:
+              - /url: /members/1922259/
+          - listitem [ref=f3e270]:
+            - generic [ref=f3e274]:
+              - generic [ref=f3e275]: Исходник
+              - link "SKEET PASTE by RAZECLUB src" [ref=f3e276] [cursor=pointer]:
+                - /url: /threads/389739/post-3631649
+            - time [ref=f3e278]: 12 мин. назад
+            - link "aerzik" [ref=f3e280] [cursor=pointer]:
+              - /url: /members/2048395/
+          - listitem [ref=f3e281]:
+            - generic [ref=f3e285]:
+              - generic [ref=f3e286]: Вопрос
+              - link "Сайлент килка" [ref=f3e287] [cursor=pointer]:
+                - /url: /threads/389793/post-3631648
+            - time [ref=f3e289]: 12 мин. назад
+            - link "alex212211221" [ref=f3e291] [cursor=pointer]:
+              - /url: /members/1391229/
+          - listitem [ref=f3e292]:
+            - generic [ref=f3e296]:
+              - generic [ref=f3e297]: Продам
+              - link "Аккаунты Telegram в форматах Tdata и Session+Json (Telethon)" [ref=f3e298] [cursor=pointer]:
+                - /url: /threads/335129/post-3630502
+            - time [ref=f3e300]: 16 мин. назад
+            - link "sashka123555" [ref=f3e302] [cursor=pointer]:
+              - /url: /alexanderl/
+          - listitem [ref=f3e303]:
+            - generic [ref=f3e307]:
+              - generic [ref=f3e308]: Crack
+              - link "Winlend DLC | 1.21.4 fabric" [ref=f3e309] [cursor=pointer]:
+                - /url: /threads/389608/post-3631644
+            - time [ref=f3e311]: 18 мин. назад
+            - link "lizalpesdui" [ref=f3e313] [cursor=pointer]:
+              - /url: /members/1781620/
+          - listitem [ref=f3e314]:
+            - generic [ref=f3e318]:
+              - generic [ref=f3e319]: Вопрос
+              - link "Обуз подписки Чита umbrella" [ref=f3e320] [cursor=pointer]:
+                - /url: /threads/375828/post-3631643
+            - time [ref=f3e322]: 21 мин. назад
+            - link "Aegis1310" [ref=f3e324] [cursor=pointer]:
+              - /url: /members/1310477/
+          - listitem [ref=f3e325]:
+            - generic [ref=f3e329]:
+              - generic [ref=f3e330]: Вопрос
+              - link "Create dumper for majestic/ragemp" [ref=f3e331] [cursor=pointer]:
+                - /url: /threads/389755/post-3631642
+            - time [ref=f3e333]: 22 мин. назад
+            - link "svoford gameplay" [ref=f3e335] [cursor=pointer]:
+              - /url: /members/1470683/
+          - listitem [ref=f3e336]:
+            - generic [ref=f3e340]:
+              - generic [ref=f3e341]: Вопрос
+              - link "Веллмайн ач" [ref=f3e342] [cursor=pointer]:
+                - /url: /threads/389773/post-3631641
+            - time [ref=f3e344]: 22 мин. назад
+            - link "kissesformy" [ref=f3e346] [cursor=pointer]:
+              - /url: /members/1308042/
+          - listitem [ref=f3e347]:
+            - generic [ref=f3e351]:
+              - generic [ref=f3e352]: Услуги
+              - link "Сделаю худ, клик гуи, таргет худ, или другие визуалы" [ref=f3e353] [cursor=pointer]:
+                - /url: /threads/386794/post-3631640
+            - time [ref=f3e355]: 22 мин. назад
+            - link "bagatyr" [ref=f3e357] [cursor=pointer]:
+              - /url: /members/1442102/
+          - listitem [ref=f3e358]:
+            - generic [ref=f3e362]:
+              - generic [ref=f3e363]: Обход античита
+              - 'link "KillAura: FunTime (Releon Client, 16.04 bypass) | Rich 1.21.4" [ref=f3e364] [cursor=pointer]':
+                - /url: /threads/377701/post-3631635
+            - time [ref=f3e366]: 31 мин. назад
+            - link "Arbyz52" [ref=f3e368] [cursor=pointer]:
+              - /url: /members/1997025/
+          - listitem [ref=f3e369]:
+            - generic [ref=f3e373]:
+              - generic [ref=f3e374]: Важно
+              - link "FAQ — Часто задаваемые вопросы и ответы на них. Изучите тему при наличии вопроса" [ref=f3e375] [cursor=pointer]:
+                - /url: /faq/post-3631240
+            - time [ref=f3e377]: 36 мин. назад
+            - link "serega svarka" [ref=f3e379] [cursor=pointer]:
+              - /url: /members/1292782/
+          - listitem [ref=f3e380]:
+            - generic [ref=f3e384]:
+              - generic [ref=f3e385]: Вопрос
+              - link "Обход античита Polar" [ref=f3e386] [cursor=pointer]:
+                - /url: /threads/389806/post-3631629
+            - time [ref=f3e388]: 39 мин. назад
+            - link "H0drich" [ref=f3e390] [cursor=pointer]:
+              - /url: /members/2060276/
+          - listitem [ref=f3e391]:
+            - generic [ref=f3e395]:
+              - generic [ref=f3e396]: Часть функционала
+              - link "FluxDLC | 1.21.4 | Modules" [ref=f3e397] [cursor=pointer]:
+                - /url: /threads/389750/post-3631628
+            - time [ref=f3e399]: 40 мин. назад
+            - link "Valzer" [ref=f3e401] [cursor=pointer]:
+              - /url: /members/1099294/
+          - listitem [ref=f3e402]:
+            - generic [ref=f3e406]:
+              - generic [ref=f3e407]: Undetected
+              - link "Octarine - Приватный чит для Dota 2 [10 дней БЕСПЛАТНО]" [ref=f3e408] [cursor=pointer]:
+                - /url: /threads/92953/post-3625616
+            - time [ref=f3e410]: 41 мин. назад
+            - link "ekyou" [ref=f3e412] [cursor=pointer]:
+              - /url: /members/1995599/
+          - listitem [ref=f3e413]:
+            - generic [ref=f3e417]:
+              - generic [ref=f3e418]: Предоставляю услуги
+              - link "VAC Bypass CS2 04.09.2026" [ref=f3e419] [cursor=pointer]:
+                - /url: /threads/389804/post-3631625
+            - time [ref=f3e421]: 43 мин. назад
+            - link "NeDIAD" [ref=f3e423] [cursor=pointer]:
+              - /url: /nediad/
+          - listitem [ref=f3e424]:
+            - generic [ref=f3e428]:
+              - generic [ref=f3e429]: Вопрос
+              - link "Как бесплатно обойти бан на Bummer Rust 286 ?" [ref=f3e430] [cursor=pointer]:
+                - /url: /threads/389805/post-3631624
+            - time [ref=f3e432]: 44 мин. назад
+            - link "dildo85849" [ref=f3e434] [cursor=pointer]:
+              - /url: /members/1465306/
+          - listitem [ref=f3e435]:
+            - generic [ref=f3e439]:
+              - generic [ref=f3e440]: Исходник
+              - link "Слив ультра крутого лаунчера буммер раста и сдк" [ref=f3e441] [cursor=pointer]:
+                - /url: /threads/389734/post-3631615
+            - time [ref=f3e443]: 50 мин. назад
+            - link "saym69" [ref=f3e445] [cursor=pointer]:
+              - /url: /members/1451932/
+          - listitem [ref=f3e446]:
+            - link "Нужна ли синхронизация тела в килки под mlsac ?" [ref=f3e451] [cursor=pointer]:
+              - /url: /threads/389771/post-3631608
+            - time [ref=f3e453]: 55 мин. назад
+            - link "Relod" [ref=f3e455] [cursor=pointer]:
+              - /url: /members/1629500/
+          - listitem [ref=f3e456]:
+            - generic [ref=f3e460]:
+              - generic [ref=f3e461]: Вопрос
+              - link "Сайлент килка" [ref=f3e462] [cursor=pointer]:
+                - /url: /threads/389787/post-3631604
+            - time [ref=f3e464]: 57 мин. назад
+            - link "yeskov" [ref=f3e466] [cursor=pointer]:
+              - /url: /members/2015808/
+          - listitem [ref=f3e467]:
+            - generic [ref=f3e471]:
+              - generic [ref=f3e472]: Crack
+              - link "ZeninExternal crack pc only" [ref=f3e473] [cursor=pointer]:
+                - /url: /threads/385307/post-3631603
+            - time [ref=f3e475]: 58 мин. назад
+            - link "saym69" [ref=f3e477] [cursor=pointer]:
+              - /url: /members/1451932/
+          - listitem [ref=f3e478]:
+            - generic [ref=f3e482]:
+              - generic [ref=f3e483]: Гайд
+              - link "Jailbreak Deepseek | Grok | Gemeni" [ref=f3e484] [cursor=pointer]:
+                - /url: /threads/389682/post-3631602
+            - time [ref=f3e486]: Сегодня в 20:27
+            - link "sashka123555" [ref=f3e488] [cursor=pointer]:
+              - /url: /alexanderl/
+          - listitem [ref=f3e489]:
+            - generic [ref=f3e493]:
+              - generic [ref=f3e494]: Обход античита
+              - link "Velocity new grim" [ref=f3e495] [cursor=pointer]:
+                - /url: /threads/389733/post-3631599
+            - time [ref=f3e497]: Сегодня в 20:22
+            - link "havelowiq3" [ref=f3e499] [cursor=pointer]:
+              - /url: /members/1906349/
+          - listitem [ref=f3e500]:
+            - link "Телеграм уведомления" [ref=f3e505] [cursor=pointer]:
+              - /url: /threads/387247/post-3631596
+            - time [ref=f3e507]: Сегодня в 20:17
+            - link "cvar" [ref=f3e509] [cursor=pointer]:
+              - /url: /cvar/
+          - listitem [ref=f3e510]:
+            - link "Какие у вас были телефоны?" [ref=f3e515] [cursor=pointer]:
+              - /url: /threads/389658/post-3631594
+            - time [ref=f3e517]: Сегодня в 20:16
+            - link "sane4kz" [ref=f3e519] [cursor=pointer]:
+              - /url: /members/1475115/
+          - listitem [ref=f3e520]:
+            - generic [ref=f3e524]:
+              - generic [ref=f3e525]: Визуальная часть
+              - link "Wexside like watermark | Evaware and other" [ref=f3e526] [cursor=pointer]:
+                - /url: /threads/347056/post-3631592
+            - time [ref=f3e528]: Сегодня в 20:15
+            - link "sours242352" [ref=f3e530] [cursor=pointer]:
+              - /url: /members/1181721/
+          - listitem [ref=f3e531]:
+            - generic [ref=f3e535]:
+              - generic [ref=f3e536]: Исходник
+              - link "Crystall Legit/JNI 1.7.10 - 1.21.11 Fabric/LabyMod | SelfLeak" [ref=f3e537] [cursor=pointer]:
+                - /url: /threads/389565/post-3631590
+            - time [ref=f3e539]: Сегодня в 20:11
+            - link "LastOne_44" [ref=f3e541] [cursor=pointer]:
+              - /url: /members/1271624/
+          - listitem [ref=f3e542]:
+            - generic [ref=f3e546]:
+              - generic [ref=f3e547]: Гайд
+              - link "Claude opus 4.7 jailbreak ода новые модели" [ref=f3e548] [cursor=pointer]:
+                - /url: /threads/389748/post-3631589
+            - time [ref=f3e550]: Сегодня в 20:08
+            - link "Baklan1337" [ref=f3e552] [cursor=pointer]:
+              - /url: /members/980962/
+          - listitem [ref=f3e553]:
+            - generic [ref=f3e557]:
+              - generic [ref=f3e558]: Crack
+              - link "Rockstar Beta 2.0 Latest | Crack by goonglang" [ref=f3e559] [cursor=pointer]:
+                - /url: /threads/369964/post-3631588
+            - time [ref=f3e561]: Сегодня в 20:07
+            - link "satsumovi" [ref=f3e563] [cursor=pointer]:
+              - /url: /members/1996570/
+          - listitem [ref=f3e564]:
+            - generic [ref=f3e568]:
+              - generic [ref=f3e569]: Исходник
+              - link "Source velocity(full fixed)" [ref=f3e570] [cursor=pointer]:
+                - /url: /threads/389201/post-3631585
+            - time [ref=f3e572]: Сегодня в 20:06
+            - link "zensiq" [ref=f3e574] [cursor=pointer]:
+              - /url: /members/2057028/
+          - listitem [ref=f3e575]:
+            - generic [ref=f3e579]:
+              - generic [ref=f3e580]: Вопрос
+              - link "Какое сдк будет нормальным под написанием легит говнохака интернал" [ref=f3e581] [cursor=pointer]:
+                - /url: /threads/388520/post-3631583
+            - time [ref=f3e583]: Сегодня в 20:02
+            - link "rivalhack" [ref=f3e585] [cursor=pointer]:
+              - /url: /members/2062991/
+          - listitem [ref=f3e586]:
+            - generic [ref=f3e590]:
+              - generic [ref=f3e591]: Вопрос
+              - link "Виртуальное пространство Standoff 2" [ref=f3e592] [cursor=pointer]:
+                - /url: /threads/386045/post-3631582
+            - time [ref=f3e594]: Сегодня в 20:02
+            - link "Santio_XD" [ref=f3e596] [cursor=pointer]:
+              - /url: /members/1880823/
+          - listitem [ref=f3e597]:
+            - generic [ref=f3e601]:
+              - generic [ref=f3e602]: Вопрос
+              - link "Как сделать обход FunAc?" [ref=f3e603] [cursor=pointer]:
+                - /url: /threads/389639/post-3631581
+            - time [ref=f3e605]: Сегодня в 20:00
+            - link "phobia_1337" [ref=f3e607] [cursor=pointer]:
+              - /url: /members/1004982/
+          - listitem [ref=f3e608]:
+            - generic [ref=f3e612]:
+              - generic [ref=f3e613]: Вопрос
+              - link "Мувмент фичи" [ref=f3e614] [cursor=pointer]:
+                - /url: /threads/388762/post-3631580
+            - time [ref=f3e616]: Сегодня в 20:00
+            - link "k4x0zov" [ref=f3e618] [cursor=pointer]:
+              - /url: /members/1959507/
+          - listitem [ref=f3e619]:
+            - generic [ref=f3e623]:
+              - generic [ref=f3e624]: Предоставляю услуги
+              - link "100% абузоустойчивых оффшорных серверов | Virtualine.net" [ref=f3e625] [cursor=pointer]:
+                - /url: /threads/329095/post-3631579
+            - time [ref=f3e627]: Сегодня в 19:58
+            - link "Virtualine" [ref=f3e629] [cursor=pointer]:
+              - /url: /members/1335382/
+          - listitem [ref=f3e630]:
+            - generic [ref=f3e634]:
+              - generic [ref=f3e635]: Исходник
+              - link "Wyvern client | ready (pre-last)" [ref=f3e636] [cursor=pointer]:
+                - /url: /threads/389625/post-3631575
+            - time [ref=f3e638]: Сегодня в 19:48
+            - link "trfxcvii" [ref=f3e640] [cursor=pointer]:
+              - /url: /members/1471416/
+          - listitem [ref=f3e641]:
+            - link "MainMenu | Figma" [ref=f3e646] [cursor=pointer]:
+              - /url: /threads/389790/post-3631567
+            - time [ref=f3e648]: Сегодня в 19:41
+            - link "loaded1337" [ref=f3e650] [cursor=pointer]:
+              - /url: /members/1748016/
+          - listitem [ref=f3e651]:
+            - generic [ref=f3e655]:
+              - generic [ref=f3e656]: Вопрос
+              - link "Как сдапмить Mobile Legends Bang Bang" [ref=f3e657] [cursor=pointer]:
+                - /url: /threads/389630/post-3631560
+            - time [ref=f3e659]: Сегодня в 19:29
+            - link "ChronoKeys" [ref=f3e661] [cursor=pointer]:
+              - /url: /chronokeys/
+          - listitem [ref=f3e662]:
+            - generic [ref=f3e666]:
+              - generic [ref=f3e667]: Вопрос
+              - link "Как реализовать infinity jump" [ref=f3e668] [cursor=pointer]:
+                - /url: /threads/389701/post-3631557
+            - time [ref=f3e670]: Сегодня в 19:25
+            - link "D3BctB3HHuk" [ref=f3e672] [cursor=pointer]:
+              - /url: /members/2031018/
+          - listitem [ref=f3e673]:
+            - generic [ref=f3e677]:
+              - generic [ref=f3e678]: Продам
+              - link "Bayonet | marble Fade Steam trade ban аккаунт 1500$ инв" [ref=f3e679] [cursor=pointer]:
+                - /url: /threads/357761/post-3620724
+            - time [ref=f3e681]: Сегодня в 19:23
+            - link "Bezpalev" [ref=f3e683] [cursor=pointer]:
+              - /url: /members/296601/
+          - listitem [ref=f3e684]:
+            - generic [ref=f3e688]:
+              - generic [ref=f3e689]: Вопрос
+              - link "Airstrafe" [ref=f3e690] [cursor=pointer]:
+                - /url: /threads/389725/post-3631552
+            - time [ref=f3e692]: Сегодня в 19:16
+            - link "FameForYougame" [ref=f3e694] [cursor=pointer]:
+              - /url: /members/1698593/
+          - listitem [ref=f3e695]:
+            - generic [ref=f3e699]:
+              - generic [ref=f3e700]: Исходник
+              - link "Delta 26.2" [ref=f3e701] [cursor=pointer]:
+                - /url: /threads/388490/post-3631550
+            - time [ref=f3e703]: Сегодня в 19:10
+            - link "gama56" [ref=f3e705] [cursor=pointer]:
+              - /url: /members/1465135/
+          - listitem [ref=f3e706]:
+            - generic [ref=f3e710]:
+              - generic [ref=f3e711]: Гайд
+              - link "Полный гайд на инжект neverlose.cc (crack) без сервера." [ref=f3e712] [cursor=pointer]:
+                - /url: /threads/388110/post-3631546
+            - time [ref=f3e714]: Сегодня в 18:54
+            - link "kitamine quasimodo13" [ref=f3e716] [cursor=pointer]:
+              - /url: /members/1739548/
+          - listitem [ref=f3e717]:
+            - generic [ref=f3e721]:
+              - generic [ref=f3e722]: Исходник
+              - link "Homyachok // gta5rp trigger" [ref=f3e723] [cursor=pointer]:
+                - /url: /threads/380482/post-3631544
+            - time [ref=f3e725]: Сегодня в 18:52
+            - link "timsof" [ref=f3e727] [cursor=pointer]:
+              - /url: /members/1902155/
+          - listitem [ref=f3e728]:
+            - generic [ref=f3e732]:
+              - generic [ref=f3e733]: Вопрос
+              - link "Какие есть девблоги раста без сильного клиент сайд античита чисто для тестов софта" [ref=f3e734] [cursor=pointer]:
+                - /url: /threads/389753/post-3631538
+            - time [ref=f3e736]: Сегодня в 18:48
+            - link "wartyxx" [ref=f3e738] [cursor=pointer]:
+              - /url: /members/2056417/
+          - listitem [ref=f3e739]:
+            - generic [ref=f3e743]:
+              - generic [ref=f3e744]: Исходник
+              - link "NeverLose source for Roblox" [ref=f3e745] [cursor=pointer]:
+                - /url: /threads/389483/post-3631536
+            - time [ref=f3e747]: Сегодня в 18:46
+            - link "lizalpesdui" [ref=f3e749] [cursor=pointer]:
+              - /url: /members/1781620/
+          - listitem [ref=f3e750]:
+            - generic [ref=f3e754]:
+              - generic [ref=f3e755]: Вопрос
+              - link "Инвайт в скит" [ref=f3e756] [cursor=pointer]:
+                - /url: /threads/389779/post-3631534
+            - time [ref=f3e758]: Сегодня в 18:46
+            - link "shouldddddddd" [ref=f3e760] [cursor=pointer]:
+              - /url: /members/1422018/
+          - listitem [ref=f3e761]:
+            - generic [ref=f3e765]:
+              - generic [ref=f3e766]: Куплю
+              - link "Куплю инвайт в Fatality 100-250р" [ref=f3e767] [cursor=pointer]:
+                - /url: /threads/389786/post-3631527
+            - time [ref=f3e769]: Сегодня в 18:39
+            - link "kofe1337" [ref=f3e771] [cursor=pointer]:
+              - /url: /members/1547168/
+          - listitem [ref=f3e772]:
+            - generic [ref=f3e776]:
+              - generic [ref=f3e777]: Исходник
+              - link "[Internal] Micro-AI 3.0 | Humanized Aimbot + Recoil Control | CS2" [ref=f3e778] [cursor=pointer]:
+                - /url: /threads/388219/post-3631524
+            - time [ref=f3e780]: Сегодня в 18:37
+            - link "fermlon300" [ref=f3e782] [cursor=pointer]:
+              - /url: /members/2023570/
+          - listitem [ref=f3e783]:
+            - generic [ref=f3e787]:
+              - generic [ref=f3e788]: Исходник
+              - link "Wild 1.21.8 I Latest I READY" [ref=f3e789] [cursor=pointer]:
+                - /url: /threads/389698/post-3631522
+            - time [ref=f3e791]: Сегодня в 18:34
+            - link "Marafedov_hackerok" [ref=f3e793] [cursor=pointer]:
+              - /url: /members/1288164/
+          - listitem [ref=f3e794]:
+            - generic [ref=f3e798]:
+              - generic [ref=f3e799]: Продам
+              - link "Neverlose CS2 [15D) 30D]" [ref=f3e800] [cursor=pointer]:
+                - /url: /threads/389714/post-3630707
+            - time [ref=f3e802]: Сегодня в 18:18
+            - link "mogon" [ref=f3e804] [cursor=pointer]:
+              - /url: /members/2063431/
+          - listitem [ref=f3e805]:
+            - generic [ref=f3e809]:
+              - generic [ref=f3e810]: Undetected
+              - link "Velocity.cat fixed full" [ref=f3e811] [cursor=pointer]:
+                - /url: /threads/386694/post-3631512
+            - time [ref=f3e813]: Сегодня в 18:10
+            - link "gleboctocat" [ref=f3e815] [cursor=pointer]:
+              - /url: /members/2052574/
+          - listitem [ref=f3e816]:
+            - link "Жалоба от Colortune112 на tamper.market" [ref=f3e821] [cursor=pointer]:
+              - /url: /threads/389395/post-3631507
+            - time [ref=f3e823]: Сегодня в 18:02
+            - link "Colortune112" [ref=f3e825] [cursor=pointer]:
+              - /url: /colortune112/
+          - listitem [ref=f3e826]:
+            - generic [ref=f3e830]:
+              - generic [ref=f3e831]: Часть функционала
+              - link "UiCache 1.16.5 Modules" [ref=f3e832] [cursor=pointer]:
+                - /url: /threads/388733/post-3631504
+            - time [ref=f3e834]: Сегодня в 18:00
+            - link "VkSwag" [ref=f3e836] [cursor=pointer]:
+              - /url: /members/2053306/
+          - listitem [ref=f3e837]:
+            - generic [ref=f3e841]:
+              - generic [ref=f3e842]: Исходник
+              - link "Crystall Guard - AntiNyaLeak | SelfLeak" [ref=f3e843] [cursor=pointer]:
+                - /url: /threads/389562/post-3631500
+            - time [ref=f3e845]: Сегодня в 17:50
+            - link "forevernever" [ref=f3e847] [cursor=pointer]:
+              - /url: /members/2004744/
+          - listitem [ref=f3e848]:
+            - generic [ref=f3e852]:
+              - generic [ref=f3e853]: Софт
+              - link "Cross Cleaner v2.0.2.6 [Linux/Windows/MacOS]" [ref=f3e854] [cursor=pointer]:
+                - /url: /threads/336179/post-3631499
+            - time [ref=f3e856]: Сегодня в 17:49
+            - link "Neki_play" [ref=f3e858] [cursor=pointer]:
+              - /url: /members/71629/
+          - listitem [ref=f3e859]:
+            - generic [ref=f3e863]:
+              - generic [ref=f3e864]: Free
+              - link "Бесплатный чит на RustMe Launcher | Aethelis" [ref=f3e865] [cursor=pointer]:
+                - /url: /threads/381008/post-3631498
+            - time [ref=f3e867]: Сегодня в 17:48
+            - link "kifikifi_9911" [ref=f3e869] [cursor=pointer]:
+              - /url: /members/1934514/
+          - listitem [ref=f3e870]:
+            - generic [ref=f3e874]:
+              - generic [ref=f3e875]: Обменяю
+              - link "Инвайт в ФТ" [ref=f3e876] [cursor=pointer]:
+                - /url: /threads/389795/post-3631497
+            - time [ref=f3e878]: Сегодня в 17:47
+            - link "kodi4ka1338" [ref=f3e880] [cursor=pointer]:
+              - /url: /members/1299987/
+          - listitem [ref=f3e881]:
+            - generic [ref=f3e885]:
+              - generic [ref=f3e886]: Гайд
+              - link "Хуки. Что это такое и как Анти-Чит может обнаружить их?" [ref=f3e887] [cursor=pointer]:
+                - /url: /threads/389672/post-3631495
+            - time [ref=f3e889]: Сегодня в 17:44
+            - link "d1mger" [ref=f3e891] [cursor=pointer]:
+              - /url: /members/2042753/
+          - listitem [ref=f3e892]:
+            - generic [ref=f3e896]:
+              - generic [ref=f3e897]: Прочее
+              - link "Fatality invite" [ref=f3e898] [cursor=pointer]:
+                - /url: /threads/389794/post-3631488
+            - time [ref=f3e900]: Сегодня в 17:40
+            - link "Freekerz1337" [ref=f3e902] [cursor=pointer]:
+              - /url: /members/1245542/
+          - listitem [ref=f3e903]:
+            - generic [ref=f3e907]:
+              - generic [ref=f3e908]: Исходник
+              - link "База 26.2" [ref=f3e909] [cursor=pointer]:
+                - /url: /threads/385374/post-3631487
+            - time [ref=f3e911]: Сегодня в 17:39
+            - link "ffff345tgv" [ref=f3e913] [cursor=pointer]:
+              - /url: /members/1967893/
+          - listitem [ref=f3e914]:
+            - generic [ref=f3e918]:
+              - generic [ref=f3e919]: Вопрос
+              - link "Нл кряк" [ref=f3e920] [cursor=pointer]:
+                - /url: /threads/385026/post-3631483
+            - time [ref=f3e922]: Сегодня в 17:37
+            - link "popugapopugay" [ref=f3e924] [cursor=pointer]:
+              - /url: /members/270030/
+          - listitem [ref=f3e925]:
+            - generic [ref=f3e929]:
+              - generic [ref=f3e930]: Undetected
+              - link "Читы для WARDOGS Arcane Приватный чит на Wardogs" [ref=f3e931] [cursor=pointer]:
+                - /url: /threads/388791/post-3621258
+            - time [ref=f3e933]: Сегодня в 17:34
+            - link "WizeWanter" [ref=f3e935] [cursor=pointer]:
+              - /url: /members/147985/
+      - generic [ref=f3e937]:
+        - generic [ref=f3e939]:
+          - heading [level=3] [ref=f3e948]:
+            - link "ДМА карта для читов без банов" [ref=f3e949] [cursor=pointer]:
+              - /url: /pages/dma-card-from-yougame/
+          - generic [ref=f3e951]:
+            - heading [level=2] [ref=f3e952]:
+              - link "Разработка читов и скриптов для игр" [ref=f3e953] [cursor=pointer]:
+                - /url: /categories/731/
+            - generic [ref=f3e954]:
+              - generic [ref=f3e956]:
+                - generic [ref=f3e959]:
+                  - heading [level=2] [ref=f3e960]:
+                    - link "Общий раздел" [ref=f3e961] [cursor=pointer]:
+                      - /url: /forums/1293/
+                  - generic [ref=f3e963]:
+                    - generic [ref=f3e964]:
+                      - term [ref=f3e965]: "Темы:"
+                      - definition [ref=f3e966]: "468"
+                    - generic [ref=f3e967]:
+                      - term [ref=f3e968]: "Сообщения:"
+                      - definition [ref=f3e969]: 2.9K
+                  - list [ref=f3e971]:
+                    - listitem [ref=f3e972]:
+                      - link "Обход античитов" [ref=f3e973] [cursor=pointer]:
+                        - /url: /forums/1303/
+                    - listitem [ref=f3e974]:
+                      - link "Cheat Engine" [ref=f3e975] [cursor=pointer]:
+                        - /url: /forums/1305/
+                    - listitem [ref=f3e976]:
+                      - link "PC Hardware & Software" [ref=f3e977] [cursor=pointer]:
+                        - /url: /forums/1304/
+                - generic [ref=f3e978]:
+                  - link "Как бесплатно обойти бан на Bummer Rust 286 ?" [ref=f3e980] [cursor=pointer]:
+                    - /url: /threads/389805/post-3631624
+                  - list [ref=f3e982]:
+                    - listitem [ref=f3e983]:
+                      - time [ref=f3e984]: 44 мин. назад
+                    - listitem [ref=f3e985]:
+                      - text: ·
+                      - link "dildo85849" [ref=f3e986] [cursor=pointer]:
+                        - /url: /members/1465306/
+              - generic [ref=f3e988]:
+                - generic [ref=f3e991]:
+                  - heading [level=2] [ref=f3e992]:
+                    - link "Реверс-инжиниринг" [ref=f3e993] [cursor=pointer]:
+                      - /url: /forums/908/
+                  - generic [ref=f3e995]:
+                    - generic [ref=f3e996]:
+                      - term [ref=f3e997]: "Темы:"
+                      - definition [ref=f3e998]: 1.2K
+                    - generic [ref=f3e999]:
+                      - term [ref=f3e1000]: "Сообщения:"
+                      - definition [ref=f3e1001]: 11.1K
+                  - list [ref=f3e1003]:
+                    - listitem [ref=f3e1004]:
+                      - link "Помощь в реверсинге" [ref=f3e1005] [cursor=pointer]:
+                        - /url: /forums/910/
+                    - listitem [ref=f3e1006]:
+                      - link "Статьи и программы" [ref=f3e1007] [cursor=pointer]:
+                        - /url: /forums/909/
+                    - listitem [ref=f3e1008]:
+                      - link "Задачи и решения CrackMe" [ref=f3e1009] [cursor=pointer]:
+                        - /url: /forums/911/
+                - generic [ref=f3e1010]:
+                  - link "CrossFire — Проблемы с дампом через ScyllaHide и сворачивание окна" [ref=f3e1012] [cursor=pointer]:
+                    - /url: /threads/376619/post-3631430
+                  - list [ref=f3e1014]:
+                    - listitem [ref=f3e1015]:
+                      - time [ref=f3e1016]: Сегодня в 15:56
+                    - listitem [ref=f3e1017]:
+                      - text: ·
+                      - link "KENZO6767" [ref=f3e1018] [cursor=pointer]:
+                        - /url: /members/249523/
+              - generic [ref=f3e1020]:
+                - generic [ref=f3e1023]:
+                  - heading [level=2] [ref=f3e1024]:
+                    - link "Мобильная и консольная разработка читов" [ref=f3e1025] [cursor=pointer]:
+                      - /url: /forums/1298/
+                  - generic [ref=f3e1027]:
+                    - generic [ref=f3e1028]:
+                      - term [ref=f3e1029]: "Темы:"
+                      - definition [ref=f3e1030]: "211"
+                    - generic [ref=f3e1031]:
+                      - term [ref=f3e1032]: "Сообщения:"
+                      - definition [ref=f3e1033]: 1.6K
+                  - list [ref=f3e1035]:
+                    - listitem [ref=f3e1036]:
+                      - link "Android" [ref=f3e1037] [cursor=pointer]:
+                        - /url: /forums/1299/
+                    - listitem [ref=f3e1038]:
+                      - link "iOS" [ref=f3e1039] [cursor=pointer]:
+                        - /url: /forums/1300/
+                    - listitem [ref=f3e1040]:
+                      - link "PlayStation" [ref=f3e1041] [cursor=pointer]:
+                        - /url: /forums/1301/
+                    - listitem [ref=f3e1042]:
+                      - link "Xbox" [ref=f3e1043] [cursor=pointer]:
+                        - /url: /forums/1302/
+                - generic [ref=f3e1044]:
+                  - link "Виртуальное пространство Standoff 2" [ref=f3e1046] [cursor=pointer]:
+                    - /url: /threads/386045/post-3631582
+                  - list [ref=f3e1048]:
+                    - listitem [ref=f3e1049]:
+                      - time [ref=f3e1050]: Сегодня в 20:02
+                    - listitem [ref=f3e1051]:
+                      - text: ·
+                      - link "Santio_XD" [ref=f3e1052] [cursor=pointer]:
+                        - /url: /members/1880823/
+              - generic [ref=f3e1054]:
+                - generic [ref=f3e1057]:
+                  - heading [level=2] [ref=f3e1058]:
+                    - link "Компьютерная разработка читов" [ref=f3e1059] [cursor=pointer]:
+                      - /url: /forums/873/
+                  - generic [ref=f3e1061]:
+                    - generic [ref=f3e1062]:
+                      - term [ref=f3e1063]: "Темы:"
+                      - definition [ref=f3e1064]: 47.4K
+                    - generic [ref=f3e1065]:
+                      - term [ref=f3e1066]: "Сообщения:"
+                      - definition [ref=f3e1067]: 442.7K
+                  - list [ref=f3e1069]:
+                    - listitem [ref=f3e1070]:
+                      - link "Разработка читов (общая секция)" [ref=f3e1071] [cursor=pointer]:
+                        - /url: /forums/791/
+                    - listitem [ref=f3e1072]:
+                      - link "Создание читов Apex Legends" [ref=f3e1073] [cursor=pointer]:
+                        - /url: /forums/831/
+                    - listitem [ref=f3e1074]:
+                      - link "Создание читов Battlefield" [ref=f3e1075] [cursor=pointer]:
+                        - /url: /forums/1311/
+                    - listitem [ref=f3e1076]:
+                      - link "Создание читов Call of Duty" [ref=f3e1077] [cursor=pointer]:
+                        - /url: /forums/1307/
+                    - listitem [ref=f3e1078]:
+                      - link "Создание читов Counter-Strike" [ref=f3e1079] [cursor=pointer]:
+                        - /url: /forums/1295/
+                    - listitem [ref=f3e1080]:
+                      - link "Создание читов Deadlock" [ref=f3e1081] [cursor=pointer]:
+                        - /url: /forums/1316/
+                    - listitem [ref=f3e1082]:
+                      - link "Создание читов DotA 2" [ref=f3e1083] [cursor=pointer]:
+                        - /url: /forums/738/
+                    - listitem [ref=f3e1084]:
+                      - link "Создание читов Escape From Tarkov" [ref=f3e1085] [cursor=pointer]:
+                        - /url: /forums/1317/
+                    - listitem [ref=f3e1086]:
+                      - link "Создание читов Grand Theft Auto" [ref=f3e1087] [cursor=pointer]:
+                        - /url: /forums/1306/
+                    - listitem [ref=f3e1088]:
+                      - link "Создание читов Minecraft" [ref=f3e1089] [cursor=pointer]:
+                        - /url: /forums/1046/
+                    - listitem [ref=f3e1090]:
+                      - link "Создание читов Roblox" [ref=f3e1091] [cursor=pointer]:
+                        - /url: /forums/1326/
+                    - listitem [ref=f3e1092]:
+                      - link "Создание читов RUST" [ref=f3e1093] [cursor=pointer]:
+                        - /url: /forums/1107/
+                    - listitem [ref=f3e1094]:
+                      - link "Создание читов Valorant" [ref=f3e1095] [cursor=pointer]:
+                        - /url: /forums/1319/
+                    - listitem [ref=f3e1096]:
+                      - link "Создание читов WarFace" [ref=f3e1097] [cursor=pointer]:
+                        - /url: /forums/743/
+                - generic [ref=f3e1098]:
+                  - link "Как научится писать свой клиент | Как писать с 0 на своей базе" [ref=f3e1100] [cursor=pointer]:
+                    - /url: /threads/389808/post-3631667
+                  - list [ref=f3e1102]:
+                    - listitem [ref=f3e1103]:
+                      - time [ref=f3e1104]: Только что
+                    - listitem [ref=f3e1105]:
+                      - text: ·
+                      - link "#pragma" [ref=f3e1106] [cursor=pointer]:
+                        - /url: /members/1350230/
+              - generic [ref=f3e1108]:
+                - generic [ref=f3e1111]:
+                  - heading [level=2] [ref=f3e1112]:
+                    - link "Разработка скриптов для читов" [ref=f3e1113] [cursor=pointer]:
+                      - /url: /forums/874/
+                  - generic [ref=f3e1115]:
+                    - generic [ref=f3e1116]:
+                      - term [ref=f3e1117]: "Темы:"
+                      - definition [ref=f3e1118]: 9.6K
+                    - generic [ref=f3e1119]:
+                      - term [ref=f3e1120]: "Сообщения:"
+                      - definition [ref=f3e1121]: 80.3K
+                  - list [ref=f3e1123]:
+                    - listitem [ref=f3e1124]:
+                      - link "Разработка скриптов (общая секция)" [ref=f3e1125] [cursor=pointer]:
+                        - /url: /forums/879/
+                    - listitem [ref=f3e1126]:
+                      - link "AHK-скриптинг" [ref=f3e1127] [cursor=pointer]:
+                        - /url: /forums/878/
+                    - listitem [ref=f3e1128]:
+                      - link "JS-скриптинг" [ref=f3e1129] [cursor=pointer]:
+                        - /url: /forums/1365/
+                    - listitem [ref=f3e1130]:
+                      - link "LUA-скриптинг" [ref=f3e1131] [cursor=pointer]:
+                        - /url: /forums/875/
+                    - listitem [ref=f3e1132]:
+                      - link "Python-скриптинг" [ref=f3e1133] [cursor=pointer]:
+                        - /url: /forums/1248/
+                - generic [ref=f3e1134]:
+                  - link "Как обойти ui лимиты скита" [ref=f3e1136] [cursor=pointer]:
+                    - /url: /threads/389460/post-3631668
+                  - list [ref=f3e1138]:
+                    - listitem [ref=f3e1139]:
+                      - time [ref=f3e1140]: Только что
+                    - listitem [ref=f3e1141]:
+                      - text: ·
+                      - link "HvHnnStar" [ref=f3e1142] [cursor=pointer]:
+                        - /url: /members/703113/
+          - generic [ref=f3e1144]:
+            - heading [level=2] [ref=f3e1145]:
+              - link "Лаборатория разработчиков" [ref=f3e1146] [cursor=pointer]:
+                - /url: /categories/642/
+            - generic [ref=f3e1147]:
+              - generic [ref=f3e1149]:
+                - generic [ref=f3e1152]:
+                  - heading [level=2] [ref=f3e1153]:
+                    - link "Программирование" [ref=f3e1154] [cursor=pointer]:
+                      - /url: /forums/869/
+                  - generic [ref=f3e1156]:
+                    - generic [ref=f3e1157]:
+                      - term [ref=f3e1158]: "Темы:"
+                      - definition [ref=f3e1159]: 3.8K
+                    - generic [ref=f3e1160]:
+                      - term [ref=f3e1161]: "Сообщения:"
+                      - definition [ref=f3e1162]: 30.6K
+                  - list [ref=f3e1164]:
+                    - listitem [ref=f3e1165]:
+                      - link "Общее программирование" [ref=f3e1166] [cursor=pointer]:
+                        - /url: /forums/946/
+                    - listitem [ref=f3e1167]:
+                      - link "C / C++" [ref=f3e1168] [cursor=pointer]:
+                        - /url: /forums/891/
+                    - listitem [ref=f3e1169]:
+                      - link "C#" [ref=f3e1170] [cursor=pointer]:
+                        - /url: /forums/892/
+                    - listitem [ref=f3e1171]:
+                      - link "Java" [ref=f3e1172] [cursor=pointer]:
+                        - /url: /forums/893/
+                - generic [ref=f3e1173]:
+                  - link "Cross Cleaner v2.0.2.6 [Linux/Windows/MacOS]" [ref=f3e1175] [cursor=pointer]:
+                    - /url: /threads/336179/post-3631499
+                  - list [ref=f3e1177]:
+                    - listitem [ref=f3e1178]:
+                      - time [ref=f3e1179]: Сегодня в 17:49
+                    - listitem [ref=f3e1180]:
+                      - text: ·
+                      - link "Neki_play" [ref=f3e1181] [cursor=pointer]:
+                        - /url: /members/71629/
+              - generic [ref=f3e1183]:
+                - generic [ref=f3e1186]:
+                  - heading [level=2] [ref=f3e1187]:
+                    - link "Веб-программирование" [ref=f3e1188] [cursor=pointer]:
+                      - /url: /forums/894/
+                  - generic [ref=f3e1190]:
+                    - generic [ref=f3e1191]:
+                      - term [ref=f3e1192]: "Темы:"
+                      - definition [ref=f3e1193]: "795"
+                    - generic [ref=f3e1194]:
+                      - term [ref=f3e1195]: "Сообщения:"
+                      - definition [ref=f3e1196]: 5K
+                  - list [ref=f3e1198]:
+                    - listitem [ref=f3e1199]:
+                      - link "Backend разработка" [ref=f3e1200] [cursor=pointer]:
+                        - /url: /forums/1127/
+                    - listitem [ref=f3e1201]:
+                      - link "Frontend разработка" [ref=f3e1202] [cursor=pointer]:
+                        - /url: /forums/1128/
+                    - listitem [ref=f3e1203]:
+                      - link "PHP / Python / Ruby / NodeJS" [ref=f3e1204] [cursor=pointer]:
+                        - /url: /forums/895/
+                    - listitem [ref=f3e1205]:
+                      - link "HTML / CSS / JS" [ref=f3e1206] [cursor=pointer]:
+                        - /url: /forums/896/
+                    - listitem [ref=f3e1207]:
+                      - link "Общий раздел по Web" [ref=f3e1208] [cursor=pointer]:
+                        - /url: /forums/933/
+                - generic [ref=f3e1209]:
+                  - link "Сайт скидгуарда (sk3dguard)" [ref=f3e1211] [cursor=pointer]:
+                    - /url: /threads/385818/post-3631161
+                  - list [ref=f3e1213]:
+                    - listitem [ref=f3e1214]:
+                      - time [ref=f3e1215]: Вчера в 23:45
+                    - listitem [ref=f3e1216]:
+                      - text: ·
+                      - link "eybnfp" [ref=f3e1217] [cursor=pointer]:
+                        - /url: /members/1390974/
+              - generic [ref=f3e1219]:
+                - generic [ref=f3e1222]:
+                  - heading [level=2] [ref=f3e1223]:
+                    - link "Разработка игр" [ref=f3e1224] [cursor=pointer]:
+                      - /url: /forums/757/
+                  - generic [ref=f3e1226]:
+                    - generic [ref=f3e1227]:
+                      - term [ref=f3e1228]: "Темы:"
+                      - definition [ref=f3e1229]: 13.9K
+                    - generic [ref=f3e1230]:
+                      - term [ref=f3e1231]: "Сообщения:"
+                      - definition [ref=f3e1232]: 61.7K
+                  - list [ref=f3e1234]:
+                    - listitem [ref=f3e1235]:
+                      - link "Unreal Engine" [ref=f3e1236] [cursor=pointer]:
+                        - /url: /forums/897/
+                    - listitem [ref=f3e1237]:
+                      - link "Unity" [ref=f3e1238] [cursor=pointer]:
+                        - /url: /forums/902/
+                    - listitem [ref=f3e1239]:
+                      - link "Reallusion Software" [ref=f3e1240] [cursor=pointer]:
+                        - /url: /forums/915/
+                    - listitem [ref=f3e1241]:
+                      - link "CryEngine" [ref=f3e1242] [cursor=pointer]:
+                        - /url: /forums/925/
+                    - listitem [ref=f3e1243]:
+                      - link "3D-моделирование" [ref=f3e1244] [cursor=pointer]:
+                        - /url: /forums/934/
+                    - listitem [ref=f3e1245]:
+                      - link "Другие движки" [ref=f3e1246] [cursor=pointer]:
+                        - /url: /forums/907/
+                - generic [ref=f3e1247]:
+                  - link "Post Soviet Pipes and Vents" [ref=f3e1249] [cursor=pointer]:
+                    - /url: /threads/312724/post-3627956
+                  - list [ref=f3e1251]:
+                    - listitem [ref=f3e1252]:
+                      - time [ref=f3e1253]: Понедельник в 10:28
+                    - listitem [ref=f3e1254]:
+                      - text: ·
+                      - link "KTt" [ref=f3e1255] [cursor=pointer]:
+                        - /url: /members/418122/
+              - generic [ref=f3e1257]:
+                - generic [ref=f3e1260]:
+                  - heading [level=2] [ref=f3e1261]:
+                    - link "Скрипты сайтов" [ref=f3e1262] [cursor=pointer]:
+                      - /url: /forums/706/
+                  - generic [ref=f3e1264]:
+                    - generic [ref=f3e1265]:
+                      - term [ref=f3e1266]: "Темы:"
+                      - definition [ref=f3e1267]: "2"
+                    - generic [ref=f3e1268]:
+                      - term [ref=f3e1269]: "Сообщения:"
+                      - definition [ref=f3e1270]: "2"
+                  - list [ref=f3e1272]:
+                    - listitem [ref=f3e1273]:
+                      - link "Готовые скрипты сайтов" [ref=f3e1274] [cursor=pointer]:
+                        - /url: /forums/707/
+                    - listitem [ref=f3e1275]:
+                      - link "Маркетплейс (сайты-рулетки)" [ref=f3e1276] [cursor=pointer]:
+                        - /url: /forums/709/
+                    - listitem [ref=f3e1277]:
+                      - link "Обсуждения и гайды по скриптам" [ref=f3e1278] [cursor=pointer]:
+                        - /url: /forums/712/
+                - generic [ref=f3e1279]:
+                  - link "Правила раздела" [ref=f3e1281] [cursor=pointer]:
+                    - /url: /threads/335569/post-3190315
+                  - list [ref=f3e1283]:
+                    - listitem [ref=f3e1284]:
+                      - time [ref=f3e1285]: 20 Ноя 2024
+                    - listitem [ref=f3e1286]:
+                      - text: ·
+                      - link "GOVARD" [ref=f3e1287] [cursor=pointer]:
+                        - /url: /members/1/
+          - generic [ref=f3e1289]:
+            - heading [level=2] [ref=f3e1290]:
+              - link "Глобальный игровой раздел" [ref=f3e1291] [cursor=pointer]:
+                - /url: /categories/437/
+            - generic [ref=f3e1292]:
+              - generic [ref=f3e1294]:
+                - generic [ref=f3e1297]:
+                  - heading [level=2] [ref=f3e1298]:
+                    - link "Общий раздел" [ref=f3e1299] [cursor=pointer]:
+                      - /url: /forums/1291/
+                  - generic [ref=f3e1301]:
+                    - generic [ref=f3e1302]:
+                      - term [ref=f3e1303]: "Темы:"
+                      - definition [ref=f3e1304]: 2.1K
+                    - generic [ref=f3e1305]:
+                      - term [ref=f3e1306]: "Сообщения:"
+                      - definition [ref=f3e1307]: 11K
+                  - list [ref=f3e1309]:
+                    - listitem [ref=f3e1310]:
+                      - link "Бесплатные читы на ПК" [ref=f3e1311] [cursor=pointer]:
+                        - /url: /forums/771/
+                    - listitem [ref=f3e1312]:
+                      - link "Приватные читы на ПК" [ref=f3e1313] [cursor=pointer]:
+                        - /url: /forums/772/
+                    - listitem [ref=f3e1314]:
+                      - link "Бесплатные спуферы для игр" [ref=f3e1315] [cursor=pointer]:
+                        - /url: /forums/1292/
+                    - listitem [ref=f3e1316]:
+                      - link "Приватные спуферы для игр" [ref=f3e1317] [cursor=pointer]:
+                        - /url: /forums/1097/
+                    - listitem [ref=f3e1318]:
+                      - link "Эмуляторы" [ref=f3e1319] [cursor=pointer]:
+                        - /url: /forums/1285/
+                    - listitem [ref=f3e1320]:
+                      - link "Обсуждения и гайды (общий раздел)" [ref=f3e1321] [cursor=pointer]:
+                        - /url: /forums/1290/
+                - generic [ref=f3e1322]:
+                  - link "Купить приватный Спуфер Раст | SHIELD HWID Spoofer железа" [ref=f3e1324] [cursor=pointer]:
+                    - /url: /threads/378004/post-3550535
+                  - list [ref=f3e1326]:
+                    - listitem [ref=f3e1327]:
+                      - time [ref=f3e1328]: 14 мин. назад
+                    - listitem [ref=f3e1329]:
+                      - text: ·
+                      - link "Kosmiwjo" [ref=f3e1330] [cursor=pointer]:
+                        - /url: /members/1973310/
+              - generic [ref=f3e1332]:
+                - generic [ref=f3e1335]:
+                  - heading [level=2] [ref=f3e1336]:
+                    - link "Читы для Apex Legends" [ref=f3e1337] [cursor=pointer]:
+                      - /url: /forums/827/
+                  - generic [ref=f3e1339]:
+                    - generic [ref=f3e1340]:
+                      - term [ref=f3e1341]: "Темы:"
+                      - definition [ref=f3e1342]: "361"
+                    - generic [ref=f3e1343]:
+                      - term [ref=f3e1344]: "Сообщения:"
+                      - definition [ref=f3e1345]: 2.7K
+                  - list [ref=f3e1347]:
+                    - listitem [ref=f3e1348]:
+                      - link "Бесплатные читы Apex Legends" [ref=f3e1349] [cursor=pointer]:
+                        - /url: /forums/1175/
+                    - listitem [ref=f3e1350]:
+                      - link "DMA читы Apex Legends" [ref=f3e1351] [cursor=pointer]:
+                        - /url: /forums/1416/
+                    - listitem [ref=f3e1352]:
+                      - link "Макросы для Apex Legends" [ref=f3e1353] [cursor=pointer]:
+                        - /url: /forums/1578/
+                    - listitem [ref=f3e1354]:
+                      - link "Маркетплейс Apex Legends" [ref=f3e1355] [cursor=pointer]:
+                        - /url: /forums/1174/
+                    - listitem [ref=f3e1356]:
+                      - link "Обсуждения и гайды Apex Legends" [ref=f3e1357] [cursor=pointer]:
+                        - /url: /forums/828/
+                    - listitem [ref=f3e1358]:
+                      - link "Разработка читов Apex Legends" [ref=f3e1359] [cursor=pointer]:
+                        - /url: /link-forums/1327/
+                - generic [ref=f3e1360]:
+                  - link "OneMacro – Макросы на Apex Legends для любых мышек" [ref=f3e1362] [cursor=pointer]:
+                    - /url: /threads/305801/post-3007116
+                  - list [ref=f3e1364]:
+                    - listitem [ref=f3e1365]:
+                      - time [ref=f3e1366]: 1 минуту назад
+                    - listitem [ref=f3e1367]:
+                      - text: ·
+                      - link "Joffed" [ref=f3e1368] [cursor=pointer]:
+                        - /url: /joffed/
+              - generic [ref=f3e1370]:
+                - generic [ref=f3e1373]:
+                  - heading [level=2] [ref=f3e1374]:
+                    - link "Читы для ARC Raiders" [ref=f3e1375] [cursor=pointer]:
+                      - /url: /forums/1557/
+                  - generic [ref=f3e1377]:
+                    - generic [ref=f3e1378]:
+                      - term [ref=f3e1379]: "Темы:"
+                      - definition [ref=f3e1380]: "38"
+                    - generic [ref=f3e1381]:
+                      - term [ref=f3e1382]: "Сообщения:"
+                      - definition [ref=f3e1383]: "113"
+                  - list [ref=f3e1385]:
+                    - listitem [ref=f3e1386]:
+                      - link "Бесплатные читы ARC Raiders" [ref=f3e1387] [cursor=pointer]:
+                        - /url: /forums/1558/
+                    - listitem [ref=f3e1388]:
+                      - link "DMA читы ARC Raiders" [ref=f3e1389] [cursor=pointer]:
+                        - /url: /forums/1559/
+                    - listitem [ref=f3e1390]:
+                      - link "Макросы для ARC Raiders" [ref=f3e1391] [cursor=pointer]:
+                        - /url: /forums/1579/
+                    - listitem [ref=f3e1392]:
+                      - link "Маркетплейс ARC Raiders" [ref=f3e1393] [cursor=pointer]:
+                        - /url: /forums/1560/
+                    - listitem [ref=f3e1394]:
+                      - link "Обсуждения и гайды ARC Raiders" [ref=f3e1395] [cursor=pointer]:
+                        - /url: /forums/1561/
+                - generic [ref=f3e1396]:
+                  - link "Приватный чит BellTower для Арк Райдерс - AimBot, ESP, Objects" [ref=f3e1398] [cursor=pointer]:
+                    - /url: /threads/366540/post-3404805
+                  - list [ref=f3e1400]:
+                    - listitem [ref=f3e1401]:
+                      - time [ref=f3e1402]: 1 минуту назад
+                    - listitem [ref=f3e1403]:
+                      - text: ·
+                      - link "HewHewLalalay" [ref=f3e1404] [cursor=pointer]:
+                        - /url: /members/98711/
+              - generic [ref=f3e1406]:
+                - generic [ref=f3e1409]:
+                  - heading [level=2] [ref=f3e1410]:
+                    - link "Читы для Arena Breakout" [ref=f3e1411] [cursor=pointer]:
+                      - /url: /forums/1405/
+                  - generic [ref=f3e1413]:
+                    - generic [ref=f3e1414]:
+                      - term [ref=f3e1415]: "Темы:"
+                      - definition [ref=f3e1416]: "62"
+                    - generic [ref=f3e1417]:
+                      - term [ref=f3e1418]: "Сообщения:"
+                      - definition [ref=f3e1419]: "213"
+                  - list [ref=f3e1421]:
+                    - listitem [ref=f3e1422]:
+                      - 'link "Читы для Arena Breakout: Infinite" [ref=f3e1423] [cursor=pointer]':
+                        - /url: /forums/1124/
+                    - listitem [ref=f3e1424]:
+                      - link "Читы для Arena Breakout Mobile" [ref=f3e1425] [cursor=pointer]:
+                        - /url: /forums/1406/
+                - generic [ref=f3e1426]:
+                  - link "Ancient [Radar] для Arena Breakout | Веб радар, Фильтр лута, ESP" [ref=f3e1428] [cursor=pointer]:
+                    - /url: /threads/378540/post-3525755
+                  - list [ref=f3e1430]:
+                    - listitem [ref=f3e1431]:
+                      - time [ref=f3e1432]: 21 мин. назад
+                    - listitem [ref=f3e1433]:
+                      - text: ·
+                      - link "HewHewLalalay" [ref=f3e1434] [cursor=pointer]:
+                        - /url: /members/98711/
+              - generic [ref=f3e1436]:
+                - generic [ref=f3e1439]:
+                  - heading [level=2] [ref=f3e1440]:
+                    - link "Читы для Battlefield" [ref=f3e1441] [cursor=pointer]:
+                      - /url: /forums/1239/
+                  - generic [ref=f3e1443]:
+                    - generic [ref=f3e1444]:
+                      - term [ref=f3e1445]: "Темы:"
+                      - definition [ref=f3e1446]: "204"
+                    - generic [ref=f3e1447]:
+                      - term [ref=f3e1448]: "Сообщения:"
+                      - definition [ref=f3e1449]: "715"
+                  - list [ref=f3e1451]:
+                    - listitem [ref=f3e1452]:
+                      - link "Бесплатные читы BF" [ref=f3e1453] [cursor=pointer]:
+                        - /url: /forums/1241/
+                    - listitem [ref=f3e1454]:
+                      - link "DMA читы BF" [ref=f3e1455] [cursor=pointer]:
+                        - /url: /forums/1429/
+                    - listitem [ref=f3e1456]:
+                      - link "Маркетплейс BF" [ref=f3e1457] [cursor=pointer]:
+                        - /url: /forums/1242/
+                    - listitem [ref=f3e1458]:
+                      - link "Обсуждения и гайды BF" [ref=f3e1459] [cursor=pointer]:
+                        - /url: /forums/1243/
+                    - listitem [ref=f3e1460]:
+                      - link "Читы для BF REDSEC" [ref=f3e1461] [cursor=pointer]:
+                        - /url: /forums/1563/
+                    - listitem [ref=f3e1462]:
+                      - link "Читы для BF 6" [ref=f3e1463] [cursor=pointer]:
+                        - /url: /forums/1481/
+                    - listitem [ref=f3e1464]:
+                      - link "Читы для BF 2042" [ref=f3e1465] [cursor=pointer]:
+                        - /url: /forums/1240/
+                    - listitem [ref=f3e1466]:
+                      - link "Читы для BF 5" [ref=f3e1467] [cursor=pointer]:
+                        - /url: /forums/1244/
+                    - listitem [ref=f3e1468]:
+                      - link "Читы для BF 4" [ref=f3e1469] [cursor=pointer]:
+                        - /url: /forums/1245/
+                    - listitem [ref=f3e1470]:
+                      - link "Читы для BF 3" [ref=f3e1471] [cursor=pointer]:
+                        - /url: /forums/1246/
+                    - listitem [ref=f3e1472]:
+                      - link "Читы для BF 1" [ref=f3e1473] [cursor=pointer]:
+                        - /url: /forums/1247/
+                    - listitem [ref=f3e1474]:
+                      - link "Разработка читов Battlefield" [ref=f3e1475] [cursor=pointer]:
+                        - /url: /link-forums/1328/
+                - generic [ref=f3e1476]:
+                  - link "Приватный чит для Battlefield 6 | Купить читы на BF6 DullWave" [ref=f3e1478] [cursor=pointer]:
+                    - /url: /threads/365326/post-3392063
+                  - list [ref=f3e1480]:
+                    - listitem [ref=f3e1481]:
+                      - time [ref=f3e1482]: 19 мин. назад
+                    - listitem [ref=f3e1483]:
+                      - text: ·
+                      - link "kilad" [ref=f3e1484] [cursor=pointer]:
+                        - /url: /cmd/
+              - generic [ref=f3e1486]:
+                - generic [ref=f3e1489]:
+                  - heading [level=2] [ref=f3e1490]:
+                    - link "Читы для Call of Duty" [ref=f3e1491] [cursor=pointer]:
+                      - /url: /forums/1182/
+                  - generic [ref=f3e1493]:
+                    - generic [ref=f3e1494]:
+                      - term [ref=f3e1495]: "Темы:"
+                      - definition [ref=f3e1496]: "567"
+                    - generic [ref=f3e1497]:
+                      - term [ref=f3e1498]: "Сообщения:"
+                      - definition [ref=f3e1499]: 4K
+                  - list [ref=f3e1501]:
+                    - listitem [ref=f3e1502]:
+                      - link "Бесплатные читы CoD" [ref=f3e1503] [cursor=pointer]:
+                        - /url: /forums/1183/
+                    - listitem [ref=f3e1504]:
+                      - link "DMA читы CoD" [ref=f3e1505] [cursor=pointer]:
+                        - /url: /forums/1419/
+                    - listitem [ref=f3e1506]:
+                      - link "Маркетплейс CoD" [ref=f3e1507] [cursor=pointer]:
+                        - /url: /forums/1184/
+                    - listitem [ref=f3e1508]:
+                      - link "Обсуждения и гайды CoD" [ref=f3e1509] [cursor=pointer]:
+                        - /url: /forums/1185/
+                    - listitem [ref=f3e1510]:
+                      - 'link "Читы для CoD: Warzone" [ref=f3e1511] [cursor=pointer]':
+                        - /url: /forums/1186/
+                    - listitem [ref=f3e1512]:
+                      - 'link "Читы для CoD: BO CW" [ref=f3e1513] [cursor=pointer]':
+                        - /url: /forums/938/
+                    - listitem [ref=f3e1514]:
+                      - 'link "Читы для CoD: BO 6" [ref=f3e1515] [cursor=pointer]':
+                        - /url: /forums/1140/
+                    - listitem [ref=f3e1516]:
+                      - 'link "Читы для CoD: BO 7" [ref=f3e1517] [cursor=pointer]':
+                        - /url: /forums/1513/
+                    - listitem [ref=f3e1518]:
+                      - 'link "Читы для CoD: MW 1" [ref=f3e1519] [cursor=pointer]':
+                        - /url: /forums/854/
+                    - listitem [ref=f3e1520]:
+                      - 'link "Читы для CoD: MW 2" [ref=f3e1521] [cursor=pointer]':
+                        - /url: /forums/1052/
+                    - listitem [ref=f3e1522]:
+                      - 'link "Читы для CoD: MW 3" [ref=f3e1523] [cursor=pointer]':
+                        - /url: /forums/1098/
+                    - listitem [ref=f3e1524]:
+                      - 'link "Читы для CoD: MW 4" [ref=f3e1525] [cursor=pointer]':
+                        - /url: /forums/1592/
+                    - listitem [ref=f3e1526]:
+                      - 'link "Читы для CoD: Mobile" [ref=f3e1527] [cursor=pointer]':
+                        - /url: /forums/1014/
+                    - listitem [ref=f3e1528]:
+                      - 'link "Читы для CoD: WZ Mobile" [ref=f3e1529] [cursor=pointer]':
+                        - /url: /forums/1116/
+                    - listitem [ref=f3e1530]:
+                      - link "Разработка читов Call of Duty" [ref=f3e1531] [cursor=pointer]:
+                        - /url: /link-forums/1329/
+                - generic [ref=f3e1532]:
+                  - 'link "Купить чит МВ2. Приватные читы для CoD: MW2 steam&BattleNet" [ref=f3e1534] [cursor=pointer]':
+                    - /url: /threads/272194/post-2800452
+                  - list [ref=f3e1536]:
+                    - listitem [ref=f3e1537]:
+                      - time [ref=f3e1538]: 51 мин. назад
+                    - listitem [ref=f3e1539]:
+                      - text: ·
+                      - link "GOVARD" [ref=f3e1540] [cursor=pointer]:
+                        - /url: /members/1/
+              - generic [ref=f3e1542]:
+                - generic [ref=f3e1545]:
+                  - heading [level=2] [ref=f3e1546]:
+                    - link "Читы для Counter-Strike" [ref=f3e1547] [cursor=pointer]:
+                      - /url: /forums/1253/
+                  - generic [ref=f3e1549]:
+                    - generic [ref=f3e1550]:
+                      - term [ref=f3e1551]: "Темы:"
+                      - definition [ref=f3e1552]: 26K
+                    - generic [ref=f3e1553]:
+                      - term [ref=f3e1554]: "Сообщения:"
+                      - definition [ref=f3e1555]: 455.7K
+                  - list [ref=f3e1557]:
+                    - listitem [ref=f3e1558]:
+                      - link "Читы для CS 2" [ref=f3e1559] [cursor=pointer]:
+                        - /url: /forums/1070/
+                    - listitem [ref=f3e1560]:
+                      - link "Читы для CS 1.6" [ref=f3e1561] [cursor=pointer]:
+                        - /url: /forums/768/
+                    - listitem [ref=f3e1562]:
+                      - 'link "Читы для CS: Source" [ref=f3e1563] [cursor=pointer]':
+                        - /url: /forums/609/
+                    - listitem [ref=f3e1564]:
+                      - 'link "Читы для CS: GO" [ref=f3e1565] [cursor=pointer]':
+                        - /url: /forums/34/
+                - generic [ref=f3e1566]:
+                  - link "RET9 - Приватный чит для CS 2 [ WH , AIM ]" [ref=f3e1568] [cursor=pointer]:
+                    - /url: /threads/382727/post-3564994
+                  - list [ref=f3e1570]:
+                    - listitem [ref=f3e1571]:
+                      - time [ref=f3e1572]: 1 минуту назад
+                    - listitem [ref=f3e1573]:
+                      - text: ·
+                      - link "UP-GAMES" [ref=f3e1574] [cursor=pointer]:
+                        - /url: /members/548002/
+              - generic [ref=f3e1576]:
+                - generic [ref=f3e1579]:
+                  - heading [level=2] [ref=f3e1580]:
+                    - link "Читы для DayZ" [ref=f3e1581] [cursor=pointer]:
+                      - /url: /forums/983/
+                  - generic [ref=f3e1583]:
+                    - generic [ref=f3e1584]:
+                      - term [ref=f3e1585]: "Темы:"
+                      - definition [ref=f3e1586]: "125"
+                    - generic [ref=f3e1587]:
+                      - term [ref=f3e1588]: "Сообщения:"
+                      - definition [ref=f3e1589]: "961"
+                  - list [ref=f3e1591]:
+                    - listitem [ref=f3e1592]:
+                      - link "Бесплатные читы DayZ" [ref=f3e1593] [cursor=pointer]:
+                        - /url: /forums/1261/
+                    - listitem [ref=f3e1594]:
+                      - link "DMA читы DayZ" [ref=f3e1595] [cursor=pointer]:
+                        - /url: /forums/1422/
+                    - listitem [ref=f3e1596]:
+                      - link "Макросы для DayZ" [ref=f3e1597] [cursor=pointer]:
+                        - /url: /forums/1581/
+                    - listitem [ref=f3e1598]:
+                      - link "Маркетплейс DayZ" [ref=f3e1599] [cursor=pointer]:
+                        - /url: /forums/1262/
+                    - listitem [ref=f3e1600]:
+                      - link "Обсуждения и гайды DayZ" [ref=f3e1601] [cursor=pointer]:
+                        - /url: /forums/984/
+                - generic [ref=f3e1602]:
+                  - link "ChudVision - Приватный чит для DayZ [ WH , AIM ]" [ref=f3e1604] [cursor=pointer]:
+                    - /url: /threads/374046/post-3482734
+                  - list [ref=f3e1606]:
+                    - listitem [ref=f3e1607]:
+                      - time [ref=f3e1608]: 11 мин. назад
+                    - listitem [ref=f3e1609]:
+                      - text: ·
+                      - link "UP-GAMES" [ref=f3e1610] [cursor=pointer]:
+                        - /url: /members/548002/
+              - generic [ref=f3e1612]:
+                - generic [ref=f3e1615]:
+                  - heading [level=2] [ref=f3e1616]:
+                    - link "Читы для Dead by Daylight" [ref=f3e1617] [cursor=pointer]:
+                      - /url: /forums/996/
+                  - generic [ref=f3e1619]:
+                    - generic [ref=f3e1620]:
+                      - term [ref=f3e1621]: "Темы:"
+                      - definition [ref=f3e1622]: "93"
+                    - generic [ref=f3e1623]:
+                      - term [ref=f3e1624]: "Сообщения:"
+                      - definition [ref=f3e1625]: "504"
+                  - list [ref=f3e1627]:
+                    - listitem [ref=f3e1628]:
+                      - link "Бесплатные читы DBD" [ref=f3e1629] [cursor=pointer]:
+                        - /url: /forums/1202/
+                    - listitem [ref=f3e1630]:
+                      - link "DMA читы DBD" [ref=f3e1631] [cursor=pointer]:
+                        - /url: /forums/1428/
+                    - listitem [ref=f3e1632]:
+                      - link "Маркетплейс DBD" [ref=f3e1633] [cursor=pointer]:
+                        - /url: /forums/1203/
+                    - listitem [ref=f3e1634]:
+                      - link "Обсуждения и гайды DBD" [ref=f3e1635] [cursor=pointer]:
+                        - /url: /forums/998/
+                - generic [ref=f3e1636]:
+                  - link "Купить читы для Dead by Daylight | Arcane DBD private Hack" [ref=f3e1638] [cursor=pointer]:
+                    - /url: /threads/330668/post-3157476
+                  - list [ref=f3e1640]:
+                    - listitem [ref=f3e1641]:
+                      - time [ref=f3e1642]: 8 мин. назад
+                    - listitem [ref=f3e1643]:
+                      - text: ·
+                      - link "kilad" [ref=f3e1644] [cursor=pointer]:
+                        - /url: /cmd/
+              - generic [ref=f3e1646]:
+                - generic [ref=f3e1649]:
+                  - heading [level=2] [ref=f3e1650]:
+                    - link "Читы для Deadlock" [ref=f3e1651] [cursor=pointer]:
+                      - /url: /forums/1135/
+                  - generic [ref=f3e1653]:
+                    - generic [ref=f3e1654]:
+                      - term [ref=f3e1655]: "Темы:"
+                      - definition [ref=f3e1656]: "143"
+                    - generic [ref=f3e1657]:
+                      - term [ref=f3e1658]: "Сообщения:"
+                      - definition [ref=f3e1659]: "894"
+                  - list [ref=f3e1661]:
+                    - listitem [ref=f3e1662]:
+                      - link "Бесплатные читы Deadlock" [ref=f3e1663] [cursor=pointer]:
+                        - /url: /forums/1263/
+                    - listitem [ref=f3e1664]:
+                      - link "Маркетплейс Deadlock" [ref=f3e1665] [cursor=pointer]:
+                        - /url: /forums/1264/
+                    - listitem [ref=f3e1666]:
+                      - link "Обсуждения и гайды Deadlock" [ref=f3e1667] [cursor=pointer]:
+                        - /url: /forums/1136/
+                    - listitem [ref=f3e1668]:
+                      - link "Разработка читов Deadlock" [ref=f3e1669] [cursor=pointer]:
+                        - /url: /link-forums/1335/
+                - generic [ref=f3e1670]:
+                  - link "Купить приватный чит на Дедлок | Coconut Deadlock Private Hack" [ref=f3e1672] [cursor=pointer]:
+                    - /url: /threads/329299/post-3147522
+                  - list [ref=f3e1674]:
+                    - listitem [ref=f3e1675]:
+                      - time [ref=f3e1676]: 19 мин. назад
+                    - listitem [ref=f3e1677]:
+                      - text: ·
+                      - link "kilad" [ref=f3e1678] [cursor=pointer]:
+                        - /url: /cmd/
+              - generic [ref=f3e1680]:
+                - generic [ref=f3e1683]:
+                  - heading [level=2] [ref=f3e1684]:
+                    - link "Читы для Delta Force" [ref=f3e1685] [cursor=pointer]:
+                      - /url: /forums/1492/
+                  - generic [ref=f3e1687]:
+                    - generic [ref=f3e1688]:
+                      - term [ref=f3e1689]: "Темы:"
+                      - definition [ref=f3e1690]: "32"
+                    - generic [ref=f3e1691]:
+                      - term [ref=f3e1692]: "Сообщения:"
+                      - definition [ref=f3e1693]: "74"
+                  - list [ref=f3e1695]:
+                    - listitem [ref=f3e1696]:
+                      - link "Читы для Delta Force" [ref=f3e1697] [cursor=pointer]:
+                        - /url: /forums/1173/
+                    - listitem [ref=f3e1698]:
+                      - link "Читы для Delta Force Mobile" [ref=f3e1699] [cursor=pointer]:
+                        - /url: /forums/1493/
+                - generic [ref=f3e1700]:
+                  - link "Shxdown - Приватный Radar для Delta Force [ РАДАР ]" [ref=f3e1702] [cursor=pointer]:
+                    - /url: /threads/380491/post-3545834
+                  - list [ref=f3e1704]:
+                    - listitem [ref=f3e1705]:
+                      - time [ref=f3e1706]: 51 мин. назад
+                    - listitem [ref=f3e1707]:
+                      - text: ·
+                      - link "UP-GAMES" [ref=f3e1708] [cursor=pointer]:
+                        - /url: /members/548002/
+              - generic [ref=f3e1710]:
+                - generic [ref=f3e1713]:
+                  - heading [level=2] [ref=f3e1714]:
+                    - link "Читы для DotA 2" [ref=f3e1715] [cursor=pointer]:
+                      - /url: /forums/40/
+                  - generic [ref=f3e1717]:
+                    - generic [ref=f3e1718]:
+                      - term [ref=f3e1719]: "Темы:"
+                      - definition [ref=f3e1720]: "590"
+                    - generic [ref=f3e1721]:
+                      - term [ref=f3e1722]: "Сообщения:"
+                      - definition [ref=f3e1723]: 7K
+                  - list [ref=f3e1725]:
+                    - listitem [ref=f3e1726]:
+                      - link "Бесплатные читы Dota 2" [ref=f3e1727] [cursor=pointer]:
+                        - /url: /forums/1205/
+                    - listitem [ref=f3e1728]:
+                      - link "Маркетплейс Dota 2" [ref=f3e1729] [cursor=pointer]:
+                        - /url: /forums/1204/
+                    - listitem [ref=f3e1730]:
+                      - link "Обсуждения и гайды Dota 2" [ref=f3e1731] [cursor=pointer]:
+                        - /url: /forums/764/
+                    - listitem [ref=f3e1732]:
+                      - link "Разработка читов DotA 2" [ref=f3e1733] [cursor=pointer]:
+                        - /url: /link-forums/1334/
+                - generic [ref=f3e1734]:
+                  - link "Обуз подписки Чита umbrella" [ref=f3e1736] [cursor=pointer]:
+                    - /url: /threads/375828/post-3631643
+                  - list [ref=f3e1738]:
+                    - listitem [ref=f3e1739]:
+                      - time [ref=f3e1740]: 21 мин. назад
+                    - listitem [ref=f3e1741]:
+                      - text: ·
+                      - link "Aegis1310" [ref=f3e1742] [cursor=pointer]:
+                        - /url: /members/1310477/
+              - generic [ref=f3e1744]:
+                - generic [ref=f3e1747]:
+                  - heading [level=2] [ref=f3e1748]:
+                    - link "Читы для EFT" [ref=f3e1749] [cursor=pointer]:
+                      - /url: /forums/1266/
+                  - generic [ref=f3e1751]:
+                    - generic [ref=f3e1752]:
+                      - term [ref=f3e1753]: "Темы:"
+                      - definition [ref=f3e1754]: "383"
+                    - generic [ref=f3e1755]:
+                      - term [ref=f3e1756]: "Сообщения:"
+                      - definition [ref=f3e1757]: 3.1K
+                  - list [ref=f3e1759]:
+                    - listitem [ref=f3e1760]:
+                      - link "Читы для Escape From Tarkov" [ref=f3e1761] [cursor=pointer]:
+                        - /url: /forums/954/
+                    - listitem [ref=f3e1762]:
+                      - 'link "Читы для EFT: Arena" [ref=f3e1763] [cursor=pointer]':
+                        - /url: /forums/1101/
+                - generic [ref=f3e1764]:
+                  - link "Чит Ancient Full для EFT • АимБот, ЕСП, Лут Сквозь Стены + Спуфер" [ref=f3e1766] [cursor=pointer]:
+                    - /url: /threads/380087/post-3541414
+                  - list [ref=f3e1768]:
+                    - listitem [ref=f3e1769]:
+                      - time [ref=f3e1770]: 11 мин. назад
+                    - listitem [ref=f3e1771]:
+                      - text: ·
+                      - link "HewHewLalalay" [ref=f3e1772] [cursor=pointer]:
+                        - /url: /members/98711/
+              - generic [ref=f3e1774]:
+                - generic [ref=f3e1777]:
+                  - heading [level=2] [ref=f3e1778]:
+                    - link "Читы для Fortnite" [ref=f3e1779] [cursor=pointer]:
+                      - /url: /forums/698/
+                  - generic [ref=f3e1781]:
+                    - generic [ref=f3e1782]:
+                      - term [ref=f3e1783]: "Темы:"
+                      - definition [ref=f3e1784]: "448"
+                    - generic [ref=f3e1785]:
+                      - term [ref=f3e1786]: "Сообщения:"
+                      - definition [ref=f3e1787]: 2.3K
+                  - list [ref=f3e1789]:
+                    - listitem [ref=f3e1790]:
+                      - link "Бесплатные читы Fortnite" [ref=f3e1791] [cursor=pointer]:
+                        - /url: /forums/1206/
+                    - listitem [ref=f3e1792]:
+                      - link "DMA читы Fortnite" [ref=f3e1793] [cursor=pointer]:
+                        - /url: /forums/1418/
+                    - listitem [ref=f3e1794]:
+                      - link "Маркетплейс Fortnite" [ref=f3e1795] [cursor=pointer]:
+                        - /url: /forums/1207/
+                    - listitem [ref=f3e1796]:
+                      - link "Обсуждения и гайды Fortnite" [ref=f3e1797] [cursor=pointer]:
+                        - /url: /forums/754/
+                - generic [ref=f3e1798]:
+                  - link "Купить приватный чит на Фортнайт | Covcheg Fortnite hack" [ref=f3e1800] [cursor=pointer]:
+                    - /url: /threads/351900/post-3291687
+                  - list [ref=f3e1802]:
+                    - listitem [ref=f3e1803]:
+                      - time [ref=f3e1804]: 19 мин. назад
+                    - listitem [ref=f3e1805]:
+                      - text: ·
+                      - link "kilad" [ref=f3e1806] [cursor=pointer]:
+                        - /url: /cmd/
+              - generic [ref=f3e1808]:
+                - generic [ref=f3e1811]:
+                  - heading [level=2] [ref=f3e1812]:
+                    - link "Читы для Genshin Impact" [ref=f3e1813] [cursor=pointer]:
+                      - /url: /forums/930/
+                  - generic [ref=f3e1815]:
+                    - generic [ref=f3e1816]:
+                      - term [ref=f3e1817]: "Темы:"
+                      - definition [ref=f3e1818]: "144"
+                    - generic [ref=f3e1819]:
+                      - term [ref=f3e1820]: "Сообщения:"
+                      - definition [ref=f3e1821]: 3.7K
+                  - list [ref=f3e1823]:
+                    - listitem [ref=f3e1824]:
+                      - link "Бесплатные читы Genshin Impact" [ref=f3e1825] [cursor=pointer]:
+                        - /url: /forums/1212/
+                    - listitem [ref=f3e1826]:
+                      - link "Маркетплейс Genshin Impact" [ref=f3e1827] [cursor=pointer]:
+                        - /url: /forums/1213/
+                    - listitem [ref=f3e1828]:
+                      - link "Обсуждения и гайды Genshin Impact" [ref=f3e1829] [cursor=pointer]:
+                        - /url: /forums/931/
+                - generic [ref=f3e1830]:
+                  - link "Поиск media креаторов по игре Genshin [Youtube, Tiktok и тд]" [ref=f3e1832] [cursor=pointer]:
+                    - /url: /threads/384281/post-3578862
+                  - list [ref=f3e1834]:
+                    - listitem [ref=f3e1835]:
+                      - time [ref=f3e1836]: Сегодня в 07:25
+                    - listitem [ref=f3e1837]:
+                      - text: ·
+                      - link "FreshFocus" [ref=f3e1838] [cursor=pointer]:
+                        - /url: /members/1894340/
+              - generic [ref=f3e1840]:
+                - generic [ref=f3e1843]:
+                  - heading [level=2] [ref=f3e1844]:
+                    - link "Читы для GTA" [ref=f3e1845] [cursor=pointer]:
+                      - /url: /forums/1216/
+                  - generic [ref=f3e1847]:
+                    - generic [ref=f3e1848]:
+                      - term [ref=f3e1849]: "Темы:"
+                      - definition [ref=f3e1850]: "887"
+                    - generic [ref=f3e1851]:
+                      - term [ref=f3e1852]: "Сообщения:"
+                      - definition [ref=f3e1853]: 8K
+                  - list [ref=f3e1855]:
+                    - listitem [ref=f3e1856]:
+                      - link "Читы для GTA 5 RP" [ref=f3e1857] [cursor=pointer]:
+                        - /url: /forums/142/
+                    - listitem [ref=f3e1858]:
+                      - link "Читы для GTA 5 Online" [ref=f3e1859] [cursor=pointer]:
+                        - /url: /forums/1217/
+                    - listitem [ref=f3e1860]:
+                      - 'link "Читы для GTA: San Andreas" [ref=f3e1861] [cursor=pointer]':
+                        - /url: /forums/559/
+                    - listitem [ref=f3e1862]:
+                      - link "Читы для GTA 6" [ref=f3e1863] [cursor=pointer]:
+                        - /url: /forums/1224/
+                - generic [ref=f3e1864]:
+                  - link "Купить приватный чит ГТА 5 RageMP GTA RP + Alt:V Majestic" [ref=f3e1866] [cursor=pointer]:
+                    - /url: /threads/292919/post-3596689
+                  - list [ref=f3e1868]:
+                    - listitem [ref=f3e1869]:
+                      - time [ref=f3e1870]: 19 мин. назад
+                    - listitem [ref=f3e1871]:
+                      - text: ·
+                      - link "Yaik" [ref=f3e1872] [cursor=pointer]:
+                        - /url: /members/941138/
+              - generic [ref=f3e1874]:
+                - generic [ref=f3e1877]:
+                  - heading [level=2] [ref=f3e1878]:
+                    - link "Читы для Minecraft" [ref=f3e1879] [cursor=pointer]:
+                      - /url: /forums/1178/
+                  - generic [ref=f3e1881]:
+                    - generic [ref=f3e1882]:
+                      - term [ref=f3e1883]: "Темы:"
+                      - definition [ref=f3e1884]: 4.5K
+                    - generic [ref=f3e1885]:
+                      - term [ref=f3e1886]: "Сообщения:"
+                      - definition [ref=f3e1887]: 43.1K
+                  - list [ref=f3e1889]:
+                    - listitem [ref=f3e1890]:
+                      - link "Бесплатные читы Minecraft" [ref=f3e1891] [cursor=pointer]:
+                        - /url: /forums/64/
+                    - listitem [ref=f3e1892]:
+                      - link "Маркетплейс Minecraft" [ref=f3e1893] [cursor=pointer]:
+                        - /url: /forums/1179/
+                    - listitem [ref=f3e1894]:
+                      - link "Обсуждения и гайды Minecraft" [ref=f3e1895] [cursor=pointer]:
+                        - /url: /forums/763/
+                    - listitem [ref=f3e1896]:
+                      - link "Разработка читов Minecraft" [ref=f3e1897] [cursor=pointer]:
+                        - /url: /link-forums/1341/
+                - generic [ref=f3e1898]:
+                  - link "Winlend DLC | 1.21.4 fabric" [ref=f3e1900] [cursor=pointer]:
+                    - /url: /threads/389608/post-3631644
+                  - list [ref=f3e1902]:
+                    - listitem [ref=f3e1903]:
+                      - time [ref=f3e1904]: 18 мин. назад
+                    - listitem [ref=f3e1905]:
+                      - text: ·
+                      - link "lizalpesdui" [ref=f3e1906] [cursor=pointer]:
+                        - /url: /members/1781620/
+              - generic [ref=f3e1908]:
+                - generic [ref=f3e1911]:
+                  - heading [level=2] [ref=f3e1912]:
+                    - 'link "Читы для PUBG: Battlegrounds" [ref=f3e1913] [cursor=pointer]':
+                      - /url: /forums/1229/
+                  - generic [ref=f3e1915]:
+                    - generic [ref=f3e1916]:
+                      - term [ref=f3e1917]: "Темы:"
+                      - definition [ref=f3e1918]: "758"
+                    - generic [ref=f3e1919]:
+                      - term [ref=f3e1920]: "Сообщения:"
+                      - definition [ref=f3e1921]: 5.8K
+                  - list [ref=f3e1923]:
+                    - listitem [ref=f3e1924]:
+                      - link "Читы для PUBG" [ref=f3e1925] [cursor=pointer]:
+                        - /url: /forums/pubg-cheats/
+                    - listitem [ref=f3e1926]:
+                      - link "ПАБГ Блек Бюджет" [ref=f3e1927] [cursor=pointer]:
+                        - /url: /forums/1572/
+                    - listitem [ref=f3e1928]:
+                      - 'link "Читы для PUBG: BLINDSPOT" [ref=f3e1929] [cursor=pointer]':
+                        - /url: /forums/pubg_blindspot_cheats/
+                    - listitem [ref=f3e1930]:
+                      - link "Читы для PUBG Mobile" [ref=f3e1931] [cursor=pointer]:
+                        - /url: /forums/pubg_mobile_undetected_cheats/
+                    - listitem [ref=f3e1932]:
+                      - link "Читы для PUBG Mobile (телефон)" [ref=f3e1933] [cursor=pointer]:
+                        - /url: /forums/pubg_mobile_ios_android/
+                - generic [ref=f3e1934]:
+                  - link "Макросы PUBG, ПАБГ для любых мышек Без отдачи – OneMacro" [ref=f3e1936] [cursor=pointer]:
+                    - /url: /threads/305807/post-3363839
+                  - list [ref=f3e1938]:
+                    - listitem [ref=f3e1939]:
+                      - time [ref=f3e1940]: 1 минуту назад
+                    - listitem [ref=f3e1941]:
+                      - text: ·
+                      - link "Joffed" [ref=f3e1942] [cursor=pointer]:
+                        - /url: /joffed/
+              - generic [ref=f3e1944]:
+                - generic [ref=f3e1947]:
+                  - heading [level=2] [ref=f3e1948]:
+                    - link "Читы для RUST" [ref=f3e1949] [cursor=pointer]:
+                      - /url: /forums/568/
+                  - generic [ref=f3e1951]:
+                    - generic [ref=f3e1952]:
+                      - term [ref=f3e1953]: "Темы:"
+                      - definition [ref=f3e1954]: 2K
+                    - generic [ref=f3e1955]:
+                      - term [ref=f3e1956]: "Сообщения:"
+                      - definition [ref=f3e1957]: 19.6K
+                  - list [ref=f3e1959]:
+                    - listitem [ref=f3e1960]:
+                      - link "Бесплатные читы RUST" [ref=f3e1961] [cursor=pointer]:
+                        - /url: /forums/942/
+                    - listitem [ref=f3e1962]:
+                      - link "DMA читы RUST" [ref=f3e1963] [cursor=pointer]:
+                        - /url: /forums/1417/
+                    - listitem [ref=f3e1964]:
+                      - link "Макросы для RUST" [ref=f3e1965] [cursor=pointer]:
+                        - /url: /forums/1584/
+                    - listitem [ref=f3e1966]:
+                      - link "Маркетплейс RUST" [ref=f3e1967] [cursor=pointer]:
+                        - /url: /forums/1198/
+                    - listitem [ref=f3e1968]:
+                      - link "Обсуждения и гайды RUST" [ref=f3e1969] [cursor=pointer]:
+                        - /url: /forums/713/
+                    - listitem [ref=f3e1970]:
+                      - link "Создание читов RUST" [ref=f3e1971] [cursor=pointer]:
+                        - /url: /link-forums/1352/
+                - generic [ref=f3e1972]:
+                  - link "MR.PRO | Безопасный продукт для Rust | UD с релиза 1.7 года" [ref=f3e1974] [cursor=pointer]:
+                    - /url: /threads/338586/post-3522410
+                  - list [ref=f3e1976]:
+                    - listitem [ref=f3e1977]:
+                      - time [ref=f3e1978]: 19 мин. назад
+                    - listitem [ref=f3e1979]:
+                      - text: ·
+                      - link "karashi1337" [ref=f3e1980] [cursor=pointer]:
+                        - /url: /members/1207976/
+              - generic [ref=f3e1982]:
+                - generic [ref=f3e1985]:
+                  - heading [level=2] [ref=f3e1986]:
+                    - link "Читы для Valorant" [ref=f3e1987] [cursor=pointer]:
+                      - /url: /forums/1495/
+                  - generic [ref=f3e1989]:
+                    - generic [ref=f3e1990]:
+                      - term [ref=f3e1991]: "Темы:"
+                      - definition [ref=f3e1992]: "376"
+                    - generic [ref=f3e1993]:
+                      - term [ref=f3e1994]: "Сообщения:"
+                      - definition [ref=f3e1995]: 4K
+                  - list [ref=f3e1997]:
+                    - listitem [ref=f3e1998]:
+                      - link "Читы для Valorant" [ref=f3e1999] [cursor=pointer]:
+                        - /url: /forums/866/
+                    - listitem [ref=f3e2000]:
+                      - link "Читы для Valorant Mobile" [ref=f3e2001] [cursor=pointer]:
+                        - /url: /forums/1496/
+                - generic [ref=f3e2002]:
+                  - link "SAPH - Приватный Radar для Valorant [ Радар ]" [ref=f3e2004] [cursor=pointer]:
+                    - /url: /threads/382836/post-3582069
+                  - list [ref=f3e2006]:
+                    - listitem [ref=f3e2007]:
+                      - time [ref=f3e2008]: 21 мин. назад
+                    - listitem [ref=f3e2009]:
+                      - text: ·
+                      - link "Requeste9" [ref=f3e2010] [cursor=pointer]:
+                        - /url: /members/1610938/
+              - generic [ref=f3e2012]:
+                - generic [ref=f3e2015]:
+                  - heading [level=2] [ref=f3e2016]:
+                    - link "Читы для Warface" [ref=f3e2017] [cursor=pointer]:
+                      - /url: /forums/575/
+                  - generic [ref=f3e2019]:
+                    - generic [ref=f3e2020]:
+                      - term [ref=f3e2021]: "Темы:"
+                      - definition [ref=f3e2022]: "654"
+                    - generic [ref=f3e2023]:
+                      - term [ref=f3e2024]: "Сообщения:"
+                      - definition [ref=f3e2025]: 6.5K
+                  - list [ref=f3e2027]:
+                    - listitem [ref=f3e2028]:
+                      - link "Бесплатные читы Warface" [ref=f3e2029] [cursor=pointer]:
+                        - /url: /forums/1252/
+                    - listitem [ref=f3e2030]:
+                      - link "DMA читы Warface" [ref=f3e2031] [cursor=pointer]:
+                        - /url: /forums/1453/
+                    - listitem [ref=f3e2032]:
+                      - link "Маркетплейс Warface" [ref=f3e2033] [cursor=pointer]:
+                        - /url: /forums/1251/
+                    - listitem [ref=f3e2034]:
+                      - link "Обсуждения и гайды Warface" [ref=f3e2035] [cursor=pointer]:
+                        - /url: /forums/766/
+                    - listitem [ref=f3e2036]:
+                      - link "Создание читов Warface" [ref=f3e2037] [cursor=pointer]:
+                        - /url: /link-forums/1354/
+                - generic [ref=f3e2038]:
+                  - link "[HYPER] Чит для Warface (варфейс) + HWID SPOOFER | AIM & WH" [ref=f3e2040] [cursor=pointer]:
+                    - /url: /threads/344831/post-3350144
+                  - list [ref=f3e2042]:
+                    - listitem [ref=f3e2043]:
+                      - time [ref=f3e2044]: 6 мин. назад
+                    - listitem [ref=f3e2045]:
+                      - text: ·
+                      - link "Best Cheats" [ref=f3e2046] [cursor=pointer]:
+                        - /url: /members/730677/
+              - generic [ref=f3e2048]:
+                - generic [ref=f3e2051]:
+                  - heading [level=2] [ref=f3e2052]:
+                    - link "Читы на Роблокс" [ref=f3e2053] [cursor=pointer]:
+                      - /url: /forums/1187/
+                  - generic [ref=f3e2055]:
+                    - generic [ref=f3e2056]:
+                      - term [ref=f3e2057]: "Темы:"
+                      - definition [ref=f3e2058]: "671"
+                    - generic [ref=f3e2059]:
+                      - term [ref=f3e2060]: "Сообщения:"
+                      - definition [ref=f3e2061]: 12.2K
+                  - list [ref=f3e2063]:
+                    - listitem [ref=f3e2064]:
+                      - link "Бесплатные читы Роблокс (ПК&телефон)" [ref=f3e2065] [cursor=pointer]:
+                        - /url: /forums/860/
+                    - listitem [ref=f3e2066]:
+                      - link "Бесплатные экзекуторы Роблокс (ПК&телефон)" [ref=f3e2067] [cursor=pointer]:
+                        - /url: /forums/1191/
+                    - listitem [ref=f3e2068]:
+                      - link "Взломанные клиенты Роблокс (телефон)" [ref=f3e2069] [cursor=pointer]:
+                        - /url: /forums/1192/
+                    - listitem [ref=f3e2070]:
+                      - link "Маркетплейс Роблокс" [ref=f3e2071] [cursor=pointer]:
+                        - /url: /forums/1189/
+                    - listitem [ref=f3e2072]:
+                      - link "Обсуждения и гайды Роблокс" [ref=f3e2073] [cursor=pointer]:
+                        - /url: /forums/861/
+                    - listitem [ref=f3e2074]:
+                      - link "Создание читов Роблокс" [ref=f3e2075] [cursor=pointer]:
+                        - /url: /link-forums/1351/
+                - generic [ref=f3e2076]:
+                  - link "Купить приватный чит инжектор Seliware на Роблокс | Seliware Roblox Executor 2026" [ref=f3e2078] [cursor=pointer]:
+                    - /url: /threads/345947/post-3611187
+                  - list [ref=f3e2080]:
+                    - listitem [ref=f3e2081]:
+                      - time [ref=f3e2082]: 19 мин. назад
+                    - listitem [ref=f3e2083]:
+                      - text: ·
+                      - link "kilad" [ref=f3e2084] [cursor=pointer]:
+                        - /url: /cmd/
+              - generic [ref=f3e2086]:
+                - generic [ref=f3e2089]:
+                  - heading [level=2] [ref=f3e2090]:
+                    - link "Другие разделы по читам" [ref=f3e2091] [cursor=pointer]:
+                      - /url: /forums/563/
+                  - generic [ref=f3e2093]:
+                    - generic [ref=f3e2094]:
+                      - term [ref=f3e2095]: "Темы:"
+                      - definition [ref=f3e2096]: 1.1K
+                    - generic [ref=f3e2097]:
+                      - term [ref=f3e2098]: "Сообщения:"
+                      - definition [ref=f3e2099]: 6K
+                  - list [ref=f3e2101]:
+                    - listitem [ref=f3e2102]:
+                      - 'link "Читы для ARK: Survival Evolved" [ref=f3e2103] [cursor=pointer]':
+                        - /url: /forums/1425/
+                    - listitem [ref=f3e2104]:
+                      - link "Читы для BattleBit Remastered" [ref=f3e2105] [cursor=pointer]:
+                        - /url: /forums/1086/
+                    - listitem [ref=f3e2106]:
+                      - link "Читы для Bloodhunt" [ref=f3e2107] [cursor=pointer]:
+                        - /url: /forums/1031/
+                    - listitem [ref=f3e2108]:
+                      - link "Читы для Deadside" [ref=f3e2109] [cursor=pointer]:
+                        - /url: /forums/1005/
+                    - listitem [ref=f3e2110]:
+                      - link "Читы для EA SPORTS FC 25 (FIFA 25)" [ref=f3e2111] [cursor=pointer]:
+                        - /url: /forums/1171/
+                    - listitem [ref=f3e2112]:
+                      - link "Читы для EA SPORTS FC 26 (FIFA 26)" [ref=f3e2113] [cursor=pointer]:
+                        - /url: /forums/1506/
+                    - listitem [ref=f3e2114]:
+                      - link "Читы для Fragpunk" [ref=f3e2115] [cursor=pointer]:
+                        - /url: /forums/1408/
+                    - listitem [ref=f3e2116]:
+                      - link "Читы для Garry's Mod" [ref=f3e2117] [cursor=pointer]:
+                        - /url: /forums/888/
+                    - listitem [ref=f3e2118]:
+                      - link "Читы для Gray Zone Warfare" [ref=f3e2119] [cursor=pointer]:
+                        - /url: /forums/1120/
+                    - listitem [ref=f3e2120]:
+                      - link "Читы для Hunt Showdown" [ref=f3e2121] [cursor=pointer]:
+                        - /url: /forums/1208/
+                    - listitem [ref=f3e2122]:
+                      - link "Читы для Marvel Rivals" [ref=f3e2123] [cursor=pointer]:
+                        - /url: /forums/1412/
+                    - listitem [ref=f3e2124]:
+                      - link "Читы для Overwatch 2" [ref=f3e2125] [cursor=pointer]:
+                        - /url: /forums/398/
+                    - listitem [ref=f3e2126]:
+                      - link "Читы для PalWorld" [ref=f3e2127] [cursor=pointer]:
+                        - /url: /forums/1104/
+                    - listitem [ref=f3e2128]:
+                      - link "Читы для R6S" [ref=f3e2129] [cursor=pointer]:
+                        - /url: /forums/796/
+                    - listitem [ref=f3e2130]:
+                      - link "Читы для RDR2" [ref=f3e2131] [cursor=pointer]:
+                        - /url: /forums/863/
+                    - listitem [ref=f3e2132]:
+                      - link "Читы для Scum" [ref=f3e2133] [cursor=pointer]:
+                        - /url: /forums/976/
+                    - listitem [ref=f3e2134]:
+                      - link "Читы для Sea of Thieves" [ref=f3e2135] [cursor=pointer]:
+                        - /url: /forums/1144/
+                    - listitem [ref=f3e2136]:
+                      - link "Читы для Squad" [ref=f3e2137] [cursor=pointer]:
+                        - /url: /forums/1193/
+                    - listitem [ref=f3e2138]:
+                      - link "Читы для The Finals" [ref=f3e2139] [cursor=pointer]:
+                        - /url: /forums/1094/
+                    - listitem [ref=f3e2140]:
+                      - link "Читы для Tower of Fantasy" [ref=f3e2141] [cursor=pointer]:
+                        - /url: /forums/1042/
+                    - listitem [ref=f3e2142]:
+                      - 'link "Читы для Honkai: Star Rail" [ref=f3e2143] [cursor=pointer]':
+                        - /url: /forums/1079/
+                    - listitem [ref=f3e2144]:
+                      - link "Читы для Wardogs" [ref=f3e2145] [cursor=pointer]:
+                        - /url: /forums/1589/
+                    - listitem [ref=f3e2146]:
+                      - link "Читы для Wuthering Waves" [ref=f3e2147] [cursor=pointer]:
+                        - /url: /forums/1138/
+                    - listitem [ref=f3e2148]:
+                      - link "Читы для Zenless Zone Zero" [ref=f3e2149] [cursor=pointer]:
+                        - /url: /forums/1146/
+                - generic [ref=f3e2150]:
+                  - link "Купить читы на SCUM | Приватный чит SMG на СКАМ" [ref=f3e2152] [cursor=pointer]:
+                    - /url: /threads/377392/post-3515421
+                  - list [ref=f3e2154]:
+                    - listitem [ref=f3e2155]:
+                      - time [ref=f3e2156]: 1 минуту назад
+                    - listitem [ref=f3e2157]:
+                      - text: ·
+                      - link "kilad" [ref=f3e2158] [cursor=pointer]:
+                        - /url: /cmd/
+              - generic [ref=f3e2160]:
+                - generic [ref=f3e2163]:
+                  - heading [level=2] [ref=f3e2164]:
+                    - link "Читы для мобильных игр" [ref=f3e2165] [cursor=pointer]:
+                      - /url: /forums/912/
+                  - generic [ref=f3e2167]:
+                    - generic [ref=f3e2168]:
+                      - term [ref=f3e2169]: "Темы:"
+                      - definition [ref=f3e2170]: "677"
+                    - generic [ref=f3e2171]:
+                      - term [ref=f3e2172]: "Сообщения:"
+                      - definition [ref=f3e2173]: 3.6K
+                  - list [ref=f3e2175]:
+                    - listitem [ref=f3e2176]:
+                      - link "Читы для Among Us" [ref=f3e2177] [cursor=pointer]:
+                        - /url: /forums/922/
+                    - listitem [ref=f3e2178]:
+                      - link "Читы на Brawl Stars" [ref=f3e2179] [cursor=pointer]:
+                        - /url: /forums/1008/
+                    - listitem [ref=f3e2180]:
+                      - 'link "Читы для Mobile Legends: Bang Bang" [ref=f3e2181] [cursor=pointer]':
+                        - /url: /forums/1286/
+                    - listitem [ref=f3e2182]:
+                      - link "Читы для Standoff 2" [ref=f3e2183] [cursor=pointer]:
+                        - /url: /forums/857/
+                    - listitem [ref=f3e2184]:
+                      - link "Бесплатные читы на мобилки" [ref=f3e2185] [cursor=pointer]:
+                        - /url: /forums/913/
+                    - listitem [ref=f3e2186]:
+                      - link "Платные читы на мобилки" [ref=f3e2187] [cursor=pointer]:
+                        - /url: /forums/1283/
+                    - listitem [ref=f3e2188]:
+                      - link "Обсуждения и гайды по мобильным играм" [ref=f3e2189] [cursor=pointer]:
+                        - /url: /forums/914/
+                - generic [ref=f3e2190]:
+                  - link "ZeninExternal crack pc only" [ref=f3e2192] [cursor=pointer]:
+                    - /url: /threads/385307/post-3631603
+                  - list [ref=f3e2194]:
+                    - listitem [ref=f3e2195]:
+                      - time [ref=f3e2196]: 58 мин. назад
+                    - listitem [ref=f3e2197]:
+                      - text: ·
+                      - link "saym69" [ref=f3e2198] [cursor=pointer]:
+                        - /url: /members/1451932/
+          - generic [ref=f3e2200]:
+            - heading [level=2] [ref=f3e2201]:
+              - link "Рынок товаров и услуг" [ref=f3e2202] [cursor=pointer]:
+                - /url: /categories/82/
+            - generic [ref=f3e2203]:
+              - generic [ref=f3e2205]:
+                - generic [ref=f3e2208]:
+                  - heading [level=2] [ref=f3e2209]:
+                    - link "Читерский маркет" [ref=f3e2210] [cursor=pointer]:
+                      - /url: /forums/1385/
+                  - generic [ref=f3e2212]:
+                    - generic [ref=f3e2213]:
+                      - term [ref=f3e2214]: "Темы:"
+                      - definition [ref=f3e2215]: 13.4K
+                    - generic [ref=f3e2216]:
+                      - term [ref=f3e2217]: "Сообщения:"
+                      - definition [ref=f3e2218]: 57.1K
+                  - list [ref=f3e2220]:
+                    - listitem [ref=f3e2221]:
+                      - link "Подписки на читы" [ref=f3e2222] [cursor=pointer]:
+                        - /url: /forums/782/
+                    - listitem [ref=f3e2223]:
+                      - link "Рынок инвайтов" [ref=f3e2224] [cursor=pointer]:
+                        - /url: /forums/1386/
+                    - listitem [ref=f3e2225]:
+                      - link "Пати с читером, буст аккаунта" [ref=f3e2226] [cursor=pointer]:
+                        - /url: /forums/941/
+                    - listitem [ref=f3e2227]:
+                      - link "Поиск исполнителей (крупные проекты)" [ref=f3e2228] [cursor=pointer]:
+                        - /url: /forums/810/
+                    - listitem [ref=f3e2229]:
+                      - link "Поиск исполнителей (мелкие проекты)" [ref=f3e2230] [cursor=pointer]:
+                        - /url: /forums/1387/
+                    - listitem [ref=f3e2231]:
+                      - link "Предоставляю услуги (чит-сфера)" [ref=f3e2232] [cursor=pointer]:
+                        - /url: /forums/1388/
+                - generic [ref=f3e2233]:
+                  - link "Sunrise — система защиты и дистрибуции DLL-модулей" [ref=f3e2235] [cursor=pointer]:
+                    - /url: /threads/360315/post-3538281
+                  - list [ref=f3e2237]:
+                    - listitem [ref=f3e2238]:
+                      - time [ref=f3e2239]: 14 мин. назад
+                    - listitem [ref=f3e2240]:
+                      - text: ·
+                      - link "Antoxa1337" [ref=f3e2241] [cursor=pointer]:
+                        - /url: /members/265462/
+              - generic [ref=f3e2243]:
+                - generic [ref=f3e2246]:
+                  - heading [level=2] [ref=f3e2247]:
+                    - link "DMA рынок" [ref=f3e2248] [cursor=pointer]:
+                      - /url: /forums/1111/
+                  - generic [ref=f3e2250]:
+                    - generic [ref=f3e2251]:
+                      - term [ref=f3e2252]: "Темы:"
+                      - definition [ref=f3e2253]: "37"
+                    - generic [ref=f3e2254]:
+                      - term [ref=f3e2255]: "Сообщения:"
+                      - definition [ref=f3e2256]: "109"
+                  - list [ref=f3e2258]:
+                    - listitem [ref=f3e2259]:
+                      - link "DMA карты" [ref=f3e2260] [cursor=pointer]:
+                        - /url: /forums/1430/
+                    - listitem [ref=f3e2261]:
+                      - link "DMA фьюзеры" [ref=f3e2262] [cursor=pointer]:
+                        - /url: /forums/1431/
+                    - listitem [ref=f3e2263]:
+                      - link "Контроллеры ввода (KMBox / Makcu и аналоги)" [ref=f3e2264] [cursor=pointer]:
+                        - /url: /forums/1432/
+                    - listitem [ref=f3e2265]:
+                      - link "Аксессуары и комплектующие для DMA" [ref=f3e2266] [cursor=pointer]:
+                        - /url: /forums/1433/
+                    - listitem [ref=f3e2267]:
+                      - link "Готовые решения под ключ (DMA комплекты)" [ref=f3e2268] [cursor=pointer]:
+                        - /url: /forums/1434/
+                    - listitem [ref=f3e2269]:
+                      - link "DMA прошивки" [ref=f3e2270] [cursor=pointer]:
+                        - /url: /forums/1435/
+                - generic [ref=f3e2271]:
+                  - link "Прошивка для DMA карт 75T/100T. EAC/BE/MRAC | Гарантия 30 дней" [ref=f3e2273] [cursor=pointer]:
+                    - /url: /threads/380559/post-3631083
+                  - list [ref=f3e2275]:
+                    - listitem [ref=f3e2276]:
+                      - time [ref=f3e2277]: Вчера в 21:57
+                    - listitem [ref=f3e2278]:
+                      - text: ·
+                      - link "femininepie" [ref=f3e2279] [cursor=pointer]:
+                        - /url: /members/892999/
+              - generic [ref=f3e2281]:
+                - generic [ref=f3e2284]:
+                  - heading [level=2] [ref=f3e2285]:
+                    - link "Аккаунты" [ref=f3e2286] [cursor=pointer]:
+                      - /url: /forums/1389/
+                  - generic [ref=f3e2288]:
+                    - generic [ref=f3e2289]:
+                      - term [ref=f3e2290]: "Темы:"
+                      - definition [ref=f3e2291]: "228"
+                    - generic [ref=f3e2292]:
+                      - term [ref=f3e2293]: "Сообщения:"
+                      - definition [ref=f3e2294]: "773"
+                  - list [ref=f3e2296]:
+                    - listitem [ref=f3e2297]:
+                      - link "Игровые аккаунты" [ref=f3e2298] [cursor=pointer]:
+                        - /url: /forums/424/
+                    - listitem [ref=f3e2299]:
+                      - link "Аккаунты для консолей" [ref=f3e2300] [cursor=pointer]:
+                        - /url: /forums/1390/
+                    - listitem [ref=f3e2301]:
+                      - link "Аккаунты социальных сетей" [ref=f3e2302] [cursor=pointer]:
+                        - /url: /forums/1391/
+                    - listitem [ref=f3e2303]:
+                      - link "Прочие аккаунты" [ref=f3e2304] [cursor=pointer]:
+                        - /url: /forums/1392/
+                - generic [ref=f3e2305]:
+                  - link "Аккаунты Telegram в форматах Tdata и Session+Json (Telethon)" [ref=f3e2307] [cursor=pointer]:
+                    - /url: /threads/335129/post-3630502
+                  - list [ref=f3e2309]:
+                    - listitem [ref=f3e2310]:
+                      - time [ref=f3e2311]: 16 мин. назад
+                    - listitem [ref=f3e2312]:
+                      - text: ·
+                      - link "sashka123555" [ref=f3e2313] [cursor=pointer]:
+                        - /url: /alexanderl/
+              - generic [ref=f3e2315]:
+                - generic [ref=f3e2318]:
+                  - heading [level=2] [ref=f3e2319]:
+                    - link "Игровая атрибутика и услуги" [ref=f3e2320] [cursor=pointer]:
+                      - /url: /forums/1393/
+                  - generic [ref=f3e2322]:
+                    - generic [ref=f3e2323]:
+                      - term [ref=f3e2324]: "Темы:"
+                      - definition [ref=f3e2325]: "9"
+                    - generic [ref=f3e2326]:
+                      - term [ref=f3e2327]: "Сообщения:"
+                      - definition [ref=f3e2328]: "56"
+                  - list [ref=f3e2330]:
+                    - listitem [ref=f3e2331]:
+                      - link "Игровые предметы" [ref=f3e2332] [cursor=pointer]:
+                        - /url: /forums/640/
+                    - listitem [ref=f3e2333]:
+                      - link "Игровые скины" [ref=f3e2334] [cursor=pointer]:
+                        - /url: /forums/1394/
+                    - listitem [ref=f3e2335]:
+                      - link "Игровые гифты" [ref=f3e2336] [cursor=pointer]:
+                        - /url: /forums/1395/
+                    - listitem [ref=f3e2337]:
+                      - link "Игровые ключи" [ref=f3e2338] [cursor=pointer]:
+                        - /url: /forums/1396/
+                    - listitem [ref=f3e2339]:
+                      - link "Прокачка игровых аккаунтов (без читов)" [ref=f3e2340] [cursor=pointer]:
+                        - /url: /forums/811/
+                    - listitem [ref=f3e2341]:
+                      - link "Прочая торговля" [ref=f3e2342] [cursor=pointer]:
+                        - /url: /forums/1397/
+                - generic [ref=f3e2343]:
+                  - link "Скупаю все виды Gift Cards и игровых ключей, , STEAM/ PSN / XBOX / ITUNES / GOOGLE PLAY / NINTENDO / NETFLIX, до 85%" [ref=f3e2345] [cursor=pointer]:
+                    - /url: /threads/27727/post-3563333
+                  - list [ref=f3e2347]:
+                    - listitem [ref=f3e2348]:
+                      - time [ref=f3e2349]: 12 Июн 2026
+                    - listitem [ref=f3e2350]:
+                      - text: ·
+                      - link "Blackbro" [ref=f3e2351] [cursor=pointer]:
+                        - /url: /blackbro/
+              - generic [ref=f3e2353]:
+                - generic [ref=f3e2356]:
+                  - heading [level=2] [ref=f3e2357]:
+                    - link "Торговля и услуги" [ref=f3e2358] [cursor=pointer]:
+                      - /url: /forums/638/
+                  - generic [ref=f3e2360]:
+                    - generic [ref=f3e2361]:
+                      - term [ref=f3e2362]: "Темы:"
+                      - definition [ref=f3e2363]: "203"
+                    - generic [ref=f3e2364]:
+                      - term [ref=f3e2365]: "Сообщения:"
+                      - definition [ref=f3e2366]: 2K
+                  - list [ref=f3e2368]:
+                    - listitem [ref=f3e2369]:
+                      - link "Виртуальные номера и SMS-активации" [ref=f3e2370] [cursor=pointer]:
+                        - /url: /forums/1587/
+                    - listitem [ref=f3e2371]:
+                      - link "VPS/VDS и выделенные серверы" [ref=f3e2372] [cursor=pointer]:
+                        - /url: /forums/814/
+                    - listitem [ref=f3e2373]:
+                      - link "Ищу работу / исполнителя" [ref=f3e2374] [cursor=pointer]:
+                        - /url: /forums/818/
+                    - listitem [ref=f3e2375]:
+                      - link "Обмен валюты" [ref=f3e2376] [cursor=pointer]:
+                        - /url: /forums/1468/
+                    - listitem [ref=f3e2377]:
+                      - link "Оценка товара" [ref=f3e2378] [cursor=pointer]:
+                        - /url: /forums/639/
+                    - listitem [ref=f3e2379]:
+                      - link "Платные программы" [ref=f3e2380] [cursor=pointer]:
+                        - /url: /forums/804/
+                    - listitem [ref=f3e2381]:
+                      - link "Платный дизайн и графика" [ref=f3e2382] [cursor=pointer]:
+                        - /url: /forums/815/
+                    - listitem [ref=f3e2383]:
+                      - link "Предоставляю услуги" [ref=f3e2384] [cursor=pointer]:
+                        - /url: /forums/819/
+                    - listitem [ref=f3e2385]:
+                      - link "Услуги накрутки" [ref=f3e2386] [cursor=pointer]:
+                        - /url: /forums/813/
+                    - listitem [ref=f3e2387]:
+                      - link "Скрипты, сайты, домены" [ref=f3e2388] [cursor=pointer]:
+                        - /url: /forums/808/
+                    - listitem [ref=f3e2389]:
+                      - link "Прочее (если нет раздела)" [ref=f3e2390] [cursor=pointer]:
+                        - /url: /forums/809/
+                    - listitem [ref=f3e2391]:
+                      - link "Гарант-сервис" [ref=f3e2392] [cursor=pointer]:
+                        - /url: /link-forums/666/
+                - generic [ref=f3e2393]:
+                  - link "Продвижение вашего Twitch канала | Зрители | Подписчики |" [ref=f3e2395] [cursor=pointer]:
+                    - /url: /threads/186143/post-2761566
+                  - list [ref=f3e2397]:
+                    - listitem [ref=f3e2398]:
+                      - time [ref=f3e2399]: 8 мин. назад
+                    - listitem [ref=f3e2400]:
+                      - text: ·
+                      - link "c0ns7" [ref=f3e2401] [cursor=pointer]:
+                        - /url: /members/621495/
+              - generic [ref=f3e2403]:
+                - generic [ref=f3e2406]:
+                  - heading [level=2] [ref=f3e2407]:
+                    - link "Жалобы на пользователей. Арбитраж" [ref=f3e2408] [cursor=pointer]:
+                      - /url: /forums/99/
+                  - generic [ref=f3e2410]:
+                    - generic [ref=f3e2411]:
+                      - term [ref=f3e2412]: "Темы:"
+                      - definition [ref=f3e2413]: 4.8K
+                    - generic [ref=f3e2414]:
+                      - term [ref=f3e2415]: "Сообщения:"
+                      - definition [ref=f3e2416]: 50.3K
+                - generic [ref=f3e2417]:
+                  - link "Жалоба от Colortune112 на tamper.market" [ref=f3e2419] [cursor=pointer]:
+                    - /url: /threads/389395/post-3631507
+                  - list [ref=f3e2421]:
+                    - listitem [ref=f3e2422]:
+                      - time [ref=f3e2423]: Сегодня в 18:02
+                    - listitem [ref=f3e2424]:
+                      - text: ·
+                      - link "Colortune112" [ref=f3e2425] [cursor=pointer]:
+                        - /url: /colortune112/
+          - generic [ref=f3e2427]:
+            - heading [level=2] [ref=f3e2428]:
+              - link "Информационные технологии" [ref=f3e2429] [cursor=pointer]:
+                - /url: /categories/529/
+            - generic [ref=f3e2430]:
+              - generic [ref=f3e2432]:
+                - generic [ref=f3e2435]:
+                  - heading [level=2] [ref=f3e2436]:
+                    - link "Компьютерная безопасность" [ref=f3e2437] [cursor=pointer]:
+                      - /url: /forums/530/
+                  - generic [ref=f3e2439]:
+                    - generic [ref=f3e2440]:
+                      - term [ref=f3e2441]: "Темы:"
+                      - definition [ref=f3e2442]: "24"
+                    - generic [ref=f3e2443]:
+                      - term [ref=f3e2444]: "Сообщения:"
+                      - definition [ref=f3e2445]: "236"
+                  - list [ref=f3e2447]:
+                    - listitem [ref=f3e2448]:
+                      - link "Поиск вирусов" [ref=f3e2449] [cursor=pointer]:
+                        - /url: /forums/531/
+                    - listitem [ref=f3e2450]:
+                      - link "Информационная безопасность" [ref=f3e2451] [cursor=pointer]:
+                        - /url: /forums/532/
+                - generic [ref=f3e2452]:
+                  - link "CompanyRust - разбор плагинов клиента" [ref=f3e2454] [cursor=pointer]:
+                    - /url: /threads/386425/post-3611735
+                  - list [ref=f3e2456]:
+                    - listitem [ref=f3e2457]:
+                      - time [ref=f3e2458]: 13 Авг 2026
+                    - listitem [ref=f3e2459]:
+                      - text: ·
+                      - link "spikesonmyfacee" [ref=f3e2460] [cursor=pointer]:
+                        - /url: /members/2045306/
+              - generic [ref=f3e2462]:
+                - generic [ref=f3e2465]:
+                  - heading [level=2] [ref=f3e2466]:
+                    - link "ПО, гайды и помощь" [ref=f3e2467] [cursor=pointer]:
+                      - /url: /forums/533/
+                  - generic [ref=f3e2469]:
+                    - generic [ref=f3e2470]:
+                      - term [ref=f3e2471]: "Темы:"
+                      - definition [ref=f3e2472]: "263"
+                    - generic [ref=f3e2473]:
+                      - term [ref=f3e2474]: "Сообщения:"
+                      - definition [ref=f3e2475]: 3.8K
+                  - list [ref=f3e2477]:
+                    - listitem [ref=f3e2478]:
+                      - link "Искусственный интеллект" [ref=f3e2479] [cursor=pointer]:
+                        - /url: /forums/1444/
+                - generic [ref=f3e2480]:
+                  - link "Gemini 3.8 Flash" [ref=f3e2482] [cursor=pointer]:
+                    - /url: /threads/389717/post-3631665
+                  - list [ref=f3e2484]:
+                    - listitem [ref=f3e2485]:
+                      - time [ref=f3e2486]: 1 минуту назад
+                    - listitem [ref=f3e2487]:
+                      - text: ·
+                      - link "zzodiac" [ref=f3e2488] [cursor=pointer]:
+                        - /url: /members/1264839/
+              - generic [ref=f3e2490]:
+                - generic [ref=f3e2493]:
+                  - heading [level=2] [ref=f3e2494]:
+                    - link "Криптовалюта / Web3" [ref=f3e2495] [cursor=pointer]:
+                      - /url: /forums/1004/
+                  - generic [ref=f3e2497]:
+                    - generic [ref=f3e2498]:
+                      - term [ref=f3e2499]: "Темы:"
+                      - definition [ref=f3e2500]: "8"
+                    - generic [ref=f3e2501]:
+                      - term [ref=f3e2502]: "Сообщения:"
+                      - definition [ref=f3e2503]: "82"
+                  - list [ref=f3e2505]:
+                    - listitem [ref=f3e2506]:
+                      - link "Общий раздел" [ref=f3e2507] [cursor=pointer]:
+                        - /url: /forums/1379/
+                    - listitem [ref=f3e2508]:
+                      - link "Крипто игры" [ref=f3e2509] [cursor=pointer]:
+                        - /url: /forums/1380/
+                    - listitem [ref=f3e2510]:
+                      - link "Airdrop" [ref=f3e2511] [cursor=pointer]:
+                        - /url: /forums/1381/
+                - generic [ref=f3e2512]:
+                  - 'link "USDT vs USDC: Почему один стейблкоин надежнее другого?" [ref=f3e2514] [cursor=pointer]':
+                    - /url: /threads/364123/post-3626221
+                  - list [ref=f3e2516]:
+                    - listitem [ref=f3e2517]:
+                      - time [ref=f3e2518]: Суббота в 14:31
+                    - listitem [ref=f3e2519]:
+                      - text: ·
+                      - link "SMS ARENA" [ref=f3e2520] [cursor=pointer]:
+                        - /url: /members/2059827/
+              - generic [ref=f3e2522]:
+                - generic [ref=f3e2525]:
+                  - heading [level=2] [ref=f3e2526]:
+                    - link "Социальные сети" [ref=f3e2527] [cursor=pointer]:
+                      - /url: /forums/620/
+                  - generic [ref=f3e2529]:
+                    - generic [ref=f3e2530]:
+                      - term [ref=f3e2531]: "Темы:"
+                      - definition [ref=f3e2532]: "46"
+                    - generic [ref=f3e2533]:
+                      - term [ref=f3e2534]: "Сообщения:"
+                      - definition [ref=f3e2535]: "219"
+                  - list [ref=f3e2537]:
+                    - listitem [ref=f3e2538]:
+                      - link "Общий раздел" [ref=f3e2539] [cursor=pointer]:
+                        - /url: /forums/1382/
+                    - listitem [ref=f3e2540]:
+                      - link "Discord" [ref=f3e2541] [cursor=pointer]:
+                        - /url: /forums/1383/
+                    - listitem [ref=f3e2542]:
+                      - link "Telegram" [ref=f3e2543] [cursor=pointer]:
+                        - /url: /forums/1384/
+                    - listitem [ref=f3e2544]:
+                      - link "ВКонтакте" [ref=f3e2545] [cursor=pointer]:
+                        - /url: /forums/670/
+                - generic [ref=f3e2546]:
+                  - link "Русский Аккаунт Телеграм Telegram" [ref=f3e2548] [cursor=pointer]:
+                    - /url: /threads/386747/post-3607495
+                  - list [ref=f3e2550]:
+                    - listitem [ref=f3e2551]:
+                      - time [ref=f3e2552]: 8 Авг 2026
+                    - listitem [ref=f3e2553]:
+                      - text: ·
+                      - link "DrJoeNH" [ref=f3e2554] [cursor=pointer]:
+                        - /url: /members/349661/
+          - generic [ref=f3e2556]:
+            - heading [level=2] [ref=f3e2557]:
+              - link "Серверостроение" [ref=f3e2558] [cursor=pointer]:
+                - /url: /categories/1441/
+            - generic [ref=f3e2559]:
+              - generic [ref=f3e2561]:
+                - generic [ref=f3e2564]:
+                  - heading [level=2] [ref=f3e2565]:
+                    - link "Сервера Garry's Mod" [ref=f3e2566] [cursor=pointer]:
+                      - /url: /forums/1448/
+                  - generic [ref=f3e2568]:
+                    - generic [ref=f3e2569]:
+                      - term [ref=f3e2570]: "Темы:"
+                      - definition [ref=f3e2571]: "12"
+                    - generic [ref=f3e2572]:
+                      - term [ref=f3e2573]: "Сообщения:"
+                      - definition [ref=f3e2574]: "56"
+                  - list [ref=f3e2576]:
+                    - listitem [ref=f3e2577]:
+                      - link "Вопросы по серверам Garry's Mod" [ref=f3e2578] [cursor=pointer]:
+                        - /url: /forums/1514/
+                    - listitem [ref=f3e2579]:
+                      - link "Настройки серверов Garry's Mod" [ref=f3e2580] [cursor=pointer]:
+                        - /url: /forums/1515/
+                    - listitem [ref=f3e2581]:
+                      - link "Файловый архив Garry's Mod" [ref=f3e2582] [cursor=pointer]:
+                        - /url: /forums/1516/
+                    - listitem [ref=f3e2583]:
+                      - link "Скрипты Garry's Mod" [ref=f3e2584] [cursor=pointer]:
+                        - /url: /forums/1569/
+                    - listitem [ref=f3e2585]:
+                      - link "Коммерция Garry's Mod (сервера)" [ref=f3e2586] [cursor=pointer]:
+                        - /url: /forums/1570/
+                - generic [ref=f3e2587]:
+                  - link "Bail" [ref=f3e2589] [cursor=pointer]:
+                    - /url: /threads/369226/post-3431787
+                  - list [ref=f3e2591]:
+                    - listitem [ref=f3e2592]:
+                      - time [ref=f3e2593]: 17 Янв 2026
+                    - listitem [ref=f3e2594]:
+                      - text: ·
+                      - link "Senpaiiiiiiii" [ref=f3e2595] [cursor=pointer]:
+                        - /url: /members/218452/
+              - generic [ref=f3e2597]:
+                - generic [ref=f3e2600]:
+                  - heading [level=2] [ref=f3e2601]:
+                    - link "Сервера Minecraft" [ref=f3e2602] [cursor=pointer]:
+                      - /url: /forums/1443/
+                  - generic [ref=f3e2604]:
+                    - generic [ref=f3e2605]:
+                      - term [ref=f3e2606]: "Темы:"
+                      - definition [ref=f3e2607]: "136"
+                    - generic [ref=f3e2608]:
+                      - term [ref=f3e2609]: "Сообщения:"
+                      - definition [ref=f3e2610]: "589"
+                  - list [ref=f3e2612]:
+                    - listitem [ref=f3e2613]:
+                      - link "Вопросы по серверам Minecraft" [ref=f3e2614] [cursor=pointer]:
+                        - /url: /forums/1509/
+                    - listitem [ref=f3e2615]:
+                      - link "Настройка серверов Minecraft" [ref=f3e2616] [cursor=pointer]:
+                        - /url: /forums/1510/
+                    - listitem [ref=f3e2617]:
+                      - link "Ресурсы для серверов Minecraft" [ref=f3e2618] [cursor=pointer]:
+                        - /url: /forums/1511/
+                    - listitem [ref=f3e2619]:
+                      - link "Плагины Minecraft" [ref=f3e2620] [cursor=pointer]:
+                        - /url: /forums/1524/
+                    - listitem [ref=f3e2621]:
+                      - link "Коммерция Minecraft (сервера)" [ref=f3e2622] [cursor=pointer]:
+                        - /url: /forums/1564/
+                - generic [ref=f3e2623]:
+                  - 'link "Слив сборки ReallyWorld: сборка сервера Рили Ворлд" [ref=f3e2625] [cursor=pointer]':
+                    - /url: /threads/378797/post-3629552
+                  - list [ref=f3e2627]:
+                    - listitem [ref=f3e2628]:
+                      - time [ref=f3e2629]: Вторник в 22:40
+                    - listitem [ref=f3e2630]:
+                      - text: ·
+                      - link "azamat3232" [ref=f3e2631] [cursor=pointer]:
+                        - /url: /members/2044730/
+              - generic [ref=f3e2633]:
+                - generic [ref=f3e2636]:
+                  - heading [level=2] [ref=f3e2637]:
+                    - link "Сервера RUST" [ref=f3e2638] [cursor=pointer]:
+                      - /url: /forums/1442/
+                  - generic [ref=f3e2640]:
+                    - generic [ref=f3e2641]:
+                      - term [ref=f3e2642]: "Темы:"
+                      - definition [ref=f3e2643]: "95"
+                    - generic [ref=f3e2644]:
+                      - term [ref=f3e2645]: "Сообщения:"
+                      - definition [ref=f3e2646]: "117"
+                  - list [ref=f3e2648]:
+                    - listitem [ref=f3e2649]:
+                      - link "Вопросы по серверам RUST" [ref=f3e2650] [cursor=pointer]:
+                        - /url: /forums/1497/
+                    - listitem [ref=f3e2651]:
+                      - link "Настройка серверов RUST" [ref=f3e2652] [cursor=pointer]:
+                        - /url: /forums/1498/
+                    - listitem [ref=f3e2653]:
+                      - link "Файловый архив RUST" [ref=f3e2654] [cursor=pointer]:
+                        - /url: /forums/1499/
+                - generic [ref=f3e2655]:
+                  - link "Как создать локальный сервер?" [ref=f3e2657] [cursor=pointer]:
+                    - /url: /threads/383904/post-3575528
+                  - list [ref=f3e2659]:
+                    - listitem [ref=f3e2660]:
+                      - time [ref=f3e2661]: 29 Июн 2026
+                    - listitem [ref=f3e2662]:
+                      - text: ·
+                      - link "Veelico" [ref=f3e2663] [cursor=pointer]:
+                        - /url: /members/1989321/
+          - generic [ref=f3e2665]:
+            - heading [level=2] [ref=f3e2666]:
+              - link "Общий раздел YouGame.Biz" [ref=f3e2667] [cursor=pointer]:
+                - /url: /categories/4/
+            - generic [ref=f3e2670]:
+              - generic [ref=f3e2673]:
+                - heading [level=2] [ref=f3e2674]:
+                  - link "Работа форума" [ref=f3e2675] [cursor=pointer]:
+                    - /url: /forums/5/
+                - generic [ref=f3e2677]:
+                  - generic [ref=f3e2678]:
+                    - term [ref=f3e2679]: "Темы:"
+                    - definition [ref=f3e2680]: 2.4K
+                  - generic [ref=f3e2681]:
+                    - term [ref=f3e2682]: "Сообщения:"
+                    - definition [ref=f3e2683]: 28.9K
+                - list [ref=f3e2685]:
+                  - listitem [ref=f3e2686]:
+                    - link "Информационный раздел" [ref=f3e2687] [cursor=pointer]:
+                      - /url: /forums/222/
+                  - listitem [ref=f3e2688]:
+                    - link "Вопросы по форуму" [ref=f3e2689] [cursor=pointer]:
+                      - /url: /forums/13/
+                  - listitem [ref=f3e2690]:
+                    - link "Конкурсы и Акции" [ref=f3e2691] [cursor=pointer]:
+                      - /url: /forums/8/
+                  - listitem [ref=f3e2692]:
+                    - link "Баги и предложения по форуму" [ref=f3e2693] [cursor=pointer]:
+                      - /url: /forums/653/
+                  - listitem [ref=f3e2694]:
+                    - link "Жалобы на администрацию" [ref=f3e2695] [cursor=pointer]:
+                      - /url: /forums/721/
+                  - listitem [ref=f3e2696]:
+                    - link "Правила форума" [ref=f3e2697] [cursor=pointer]:
+                      - /url: /link-forums/152/
+                  - listitem [ref=f3e2698]:
+                    - link "Реклама и платные услуги" [ref=f3e2699] [cursor=pointer]:
+                      - /url: /link-forums/655/
+                  - listitem [ref=f3e2700]:
+                    - link "Интервью с пользователями форума" [ref=f3e2701] [cursor=pointer]:
+                      - /url: /forums/644/
+              - generic [ref=f3e2702]:
+                - link "FAQ — Часто задаваемые вопросы и ответы на них. Изучите тему при наличии вопроса" [ref=f3e2704] [cursor=pointer]:
+                  - /url: /faq/post-3631240
+                - list [ref=f3e2706]:
+                  - listitem [ref=f3e2707]:
+                    - time [ref=f3e2708]: 36 мин. назад
+                  - listitem [ref=f3e2709]:
+                    - text: ·
+                    - link "serega svarka" [ref=f3e2710] [cursor=pointer]:
+                      - /url: /members/1292782/
+          - generic [ref=f3e2712]:
+            - heading [level=2] [ref=f3e2713]:
+              - link "Оффтоп" [ref=f3e2714] [cursor=pointer]:
+                - /url: /categories/112/
+            - generic [ref=f3e2715]:
+              - generic [ref=f3e2717]:
+                - generic [ref=f3e2720]:
+                  - heading [level=2] [ref=f3e2721]:
+                    - link "Свободное общение" [ref=f3e2722] [cursor=pointer]:
+                      - /url: /forums/113/
+                  - generic [ref=f3e2724]:
+                    - generic [ref=f3e2725]:
+                      - term [ref=f3e2726]: "Темы:"
+                      - definition [ref=f3e2727]: 50.6K
+                    - generic [ref=f3e2728]:
+                      - term [ref=f3e2729]: "Сообщения:"
+                      - definition [ref=f3e2730]: 644.7K
+                  - list [ref=f3e2732]:
+                    - listitem [ref=f3e2733]:
+                      - link "Аниме" [ref=f3e2734] [cursor=pointer]:
+                        - /url: /forums/688/
+                - generic [ref=f3e2735]:
+                  - link "Deepseek удалили из Opencode!!!" [ref=f3e2737] [cursor=pointer]:
+                    - /url: /threads/388796/post-3631666
+                  - list [ref=f3e2739]:
+                    - listitem [ref=f3e2740]:
+                      - time [ref=f3e2741]: Только что
+                    - listitem [ref=f3e2742]:
+                      - text: ·
+                      - link "wartyxx" [ref=f3e2743] [cursor=pointer]:
+                        - /url: /members/2056417/
+              - generic [ref=f3e2745]:
+                - generic [ref=f3e2748]:
+                  - heading [level=2] [ref=f3e2749]:
+                    - link "Графика" [ref=f3e2750] [cursor=pointer]:
+                      - /url: /forums/556/
+                  - generic [ref=f3e2752]:
+                    - generic [ref=f3e2753]:
+                      - term [ref=f3e2754]: "Темы:"
+                      - definition [ref=f3e2755]: 2.2K
+                    - generic [ref=f3e2756]:
+                      - term [ref=f3e2757]: "Сообщения:"
+                      - definition [ref=f3e2758]: 28K
+                  - list [ref=f3e2760]:
+                    - listitem [ref=f3e2761]:
+                      - link "Полезные материалы" [ref=f3e2762] [cursor=pointer]:
+                        - /url: /forums/1077/
+                    - listitem [ref=f3e2763]:
+                      - link "Бесплатная графика" [ref=f3e2764] [cursor=pointer]:
+                        - /url: /forums/571/
+                    - listitem [ref=f3e2765]:
+                      - link "Оценка ваших работ" [ref=f3e2766] [cursor=pointer]:
+                        - /url: /forums/572/
+                    - listitem [ref=f3e2767]:
+                      - link "Уроки" [ref=f3e2768] [cursor=pointer]:
+                        - /url: /forums/573/
+                - generic [ref=f3e2769]:
+                  - link "MainMenu | Figma" [ref=f3e2771] [cursor=pointer]:
+                    - /url: /threads/389790/post-3631567
+                  - list [ref=f3e2773]:
+                    - listitem [ref=f3e2774]:
+                      - time [ref=f3e2775]: Сегодня в 19:41
+                    - listitem [ref=f3e2776]:
+                      - text: ·
+                      - link "loaded1337" [ref=f3e2777] [cursor=pointer]:
+                        - /url: /members/1748016/
+              - generic [ref=f3e2779]:
+                - generic [ref=f3e2782]:
+                  - heading [level=2] [ref=f3e2783]:
+                    - link "Прогнозы и ставки на спорт" [ref=f3e2784] [cursor=pointer]:
+                      - /url: /forums/525/
+                  - generic [ref=f3e2786]:
+                    - generic [ref=f3e2787]:
+                      - term [ref=f3e2788]: "Темы:"
+                      - definition [ref=f3e2789]: "156"
+                    - generic [ref=f3e2790]:
+                      - term [ref=f3e2791]: "Сообщения:"
+                      - definition [ref=f3e2792]: 6K
+                - generic [ref=f3e2793]:
+                  - link "Точные прогнозы на футбол" [ref=f3e2795] [cursor=pointer]:
+                    - /url: /threads/166747/post-3630506
+                  - list [ref=f3e2797]:
+                    - listitem [ref=f3e2798]:
+                      - time [ref=f3e2799]: Вчера в 00:57
+                    - listitem [ref=f3e2800]:
+                      - text: ·
+                      - link "Turbo_22" [ref=f3e2801] [cursor=pointer]:
+                        - /url: /members/442945/
+              - generic [ref=f3e2803]:
+                - generic [ref=f3e2806]:
+                  - heading [level=2] [ref=f3e2807]:
+                    - link "Архив" [ref=f3e2808] [cursor=pointer]:
+                      - /url: /forums/116/
+                  - generic [ref=f3e2810]:
+                    - generic [ref=f3e2811]:
+                      - term [ref=f3e2812]: "Темы:"
+                      - definition [ref=f3e2813]: 70.1K
+                    - generic [ref=f3e2814]:
+                      - term [ref=f3e2815]: "Сообщения:"
+                      - definition [ref=f3e2816]: 565.2K
+                - generic [ref=f3e2817]:
+                  - link "Xernel - Приватный чит для DayZ [ WH , AIM ]" [ref=f3e2819] [cursor=pointer]:
+                    - /url: /threads/378692/post-3527101
+                  - list [ref=f3e2821]:
+                    - listitem [ref=f3e2822]:
+                      - time [ref=f3e2823]: 1 минуту назад
+                    - listitem [ref=f3e2824]:
+                      - text: ·
+                      - link "UP-GAMES" [ref=f3e2825] [cursor=pointer]:
+                        - /url: /members/548002/
+        - generic [ref=f3e2826]:
+          - generic [ref=f3e2828]:
+            - generic [ref=f3e2829]:
+              - link "Пожертвования" [ref=f3e2830] [cursor=pointer]:
+                - /url: /donate/3/
+              - link [ref=f3e2831] [cursor=pointer]:
+                - /url: https://yougame.biz/threads/385354/
+            - generic [ref=f3e2835]:
+              - generic [ref=f3e2836]:
+                - generic [ref=f3e2837]: Топ месяца
+                - list [ref=f3e2838]:
+                  - listitem [ref=f3e2839]:
+                    - generic [ref=f3e2840]:
+                      - link [ref=f3e2842] [cursor=pointer]:
+                        - /url: /members/194628/
+                        - img "VKVKF" [ref=f3e2843]
+                      - generic [ref=f3e2844]:
+                        - generic [ref=f3e2845]: 666.00 ₽
+                        - heading [level=3] [ref=f3e2846]:
+                          - link "VKVKF" [ref=f3e2847] [cursor=pointer]:
+                            - /url: /members/194628/
+                  - listitem [ref=f3e2848]:
+                    - generic [ref=f3e2849]:
+                      - link [ref=f3e2851] [cursor=pointer]:
+                        - /url: /members/147985/
+                        - img "WizeWanter" [ref=f3e2852]
+                      - generic [ref=f3e2853]:
+                        - generic [ref=f3e2854]: 333.00 ₽
+                        - heading [level=3] [ref=f3e2855]:
+                          - link "WizeWanter" [ref=f3e2856] [cursor=pointer]:
+                            - /url: /members/147985/
+                  - listitem [ref=f3e2857]:
+                    - generic [ref=f3e2858]:
+                      - link [ref=f3e2860] [cursor=pointer]:
+                        - /url: /members/1349236/
+                        - img "backmoon" [ref=f3e2861]
+                      - generic [ref=f3e2862]:
+                        - generic [ref=f3e2863]: 111.00 ₽
+                        - heading [level=3] [ref=f3e2864]:
+                          - link "backmoon" [ref=f3e2865] [cursor=pointer]:
+                            - /url: /members/1349236/
+              - generic [ref=f3e2866]:
+                - generic [ref=f3e2867]: Топ прошлого месяца
+                - generic [ref=f3e2868]:
+                  - link [ref=f3e2870] [cursor=pointer]:
+                    - /url: /members/215411/
+                    - img "BebeRexha" [ref=f3e2871]
+                  - generic [ref=f3e2872]:
+                    - link "BebeRexha" [ref=f3e2873] [cursor=pointer]:
+                      - /url: /members/215411/
+                    - generic [ref=f3e2874]: 10,000.00 ₽
+              - generic [ref=f3e2875]: flowon слабый
+              - generic [ref=f3e2882]: До следующего месяца осталось 26д
+              - generic [ref=f3e2886]:
+                - link "Пожертвовать" [ref=f3e2887] [cursor=pointer]:
+                  - /url: /donate/3/donate
+                - link "Посмотреть" [ref=f3e2889] [cursor=pointer]:
+                  - /url: /donate/3/
+          - generic [ref=f3e2892]:
+            - heading "Партнёры" [level=3] [ref=f3e2893]
+            - generic [ref=f3e2895]:
+              - link "ДМА карты для читов и прошивки" [ref=f3e2896] [cursor=pointer]:
+                - /url: https://dma-market.com/
+              - link "Приватный чит на КС 2" [ref=f3e2898] [cursor=pointer]:
+                - /url: https://vredux.com/ru
+              - link "Читы на игры" [ref=f3e2900] [cursor=pointer]:
+                - /url: https://cheat.bz
+          - generic [ref=f3e2903]:
+            - heading "Пользователи онлайн 1,018" [level=3] [ref=f3e2904]:
+              - link "Пользователи онлайн" [ref=f3e2905] [cursor=pointer]:
+                - /url: /online/
+              - generic [ref=f3e2906]: 1,018
+            - generic [ref=f3e2908]:
+              - list [ref=f3e2909]:
+                - listitem [ref=f3e2910]:
+                  - link "dwaadwwad21" [ref=f3e2911] [cursor=pointer]:
+                    - /url: /members/2049402/
+                  - text: ","
+                - listitem [ref=f3e2912]:
+                  - link "xaxa666" [ref=f3e2913] [cursor=pointer]:
+                    - /url: /members/1841209/
+                  - text: ","
+                - listitem [ref=f3e2914]:
+                  - link "depreed1337" [ref=f3e2915] [cursor=pointer]:
+                    - /url: /members/2042069/
+                  - text: ","
+                - listitem [ref=f3e2916]:
+                  - link "letoos1337" [ref=f3e2917] [cursor=pointer]:
+                    - /url: /members/1813610/
+                  - text: ","
+                - listitem [ref=f3e2918]:
+                  - link "protimboy" [ref=f3e2919] [cursor=pointer]:
+                    - /url: /members/1309662/
+                  - text: ","
+                - listitem [ref=f3e2920]:
+                  - link "Popa2q13123" [ref=f3e2921] [cursor=pointer]:
+                    - /url: /members/1169215/
+                  - text: ","
+                - listitem [ref=f3e2922]:
+                  - link "AloneWithDog" [ref=f3e2923] [cursor=pointer]:
+                    - /url: /members/1724323/
+                  - text: ","
+                - listitem [ref=f3e2924]:
+                  - link "LollipopOfficial" [ref=f3e2925] [cursor=pointer]:
+                    - /url: /members/2004922/
+                  - text: ","
+                - listitem [ref=f3e2926]:
+                  - link "fff234r5tyt" [ref=f3e2927] [cursor=pointer]:
+                    - /url: /members/1645814/
+                  - text: ","
+                - listitem [ref=f3e2928]:
+                  - link "zmeysk1y" [ref=f3e2929] [cursor=pointer]:
+                    - /url: /members/1452058/
+                  - text: ","
+                - listitem [ref=f3e2930]:
+                  - link "Tymofii67" [ref=f3e2931] [cursor=pointer]:
+                    - /url: /members/2064644/
+                  - text: ","
+                - listitem [ref=f3e2932]:
+                  - link "caccasy" [ref=f3e2933] [cursor=pointer]:
+                    - /url: /members/1639059/
+                  - text: ","
+                - listitem [ref=f3e2934]:
+                  - link "hikashi333" [ref=f3e2935] [cursor=pointer]:
+                    - /url: /members/2047398/
+                  - text: ","
+                - listitem [ref=f3e2936]:
+                  - link "sikmaqez" [ref=f3e2937] [cursor=pointer]:
+                    - /url: /members/1989981/
+                  - text: ","
+                - listitem [ref=f3e2938]:
+                  - link "moncevv" [ref=f3e2939] [cursor=pointer]:
+                    - /url: /members/1833120/
+                  - text: ","
+                - listitem [ref=f3e2940]:
+                  - link "Kha0sK1ng" [ref=f3e2941] [cursor=pointer]:
+                    - /url: /members/1329411/
+                  - text: ","
+                - listitem [ref=f3e2942]:
+                  - link "akashigeny" [ref=f3e2943] [cursor=pointer]:
+                    - /url: /members/2033409/
+                  - text: ","
+                - listitem [ref=f3e2944]:
+                  - link "stimdotka5" [ref=f3e2945] [cursor=pointer]:
+                    - /url: /members/1964936/
+                  - text: ","
+                - listitem [ref=f3e2946]:
+                  - link "zipzip333" [ref=f3e2947] [cursor=pointer]:
+                    - /url: /members/1851420/
+                  - text: ","
+                - listitem [ref=f3e2948]:
+                  - link "Rob1hBust" [ref=f3e2949] [cursor=pointer]:
+                    - /url: /members/1850830/
+                  - text: ","
+                - listitem [ref=f3e2950]:
+                  - link "telepuz" [ref=f3e2951] [cursor=pointer]:
+                    - /url: /members/231283/
+                  - text: ","
+                - listitem [ref=f3e2952]:
+                  - link "Marcynekkkkk" [ref=f3e2953] [cursor=pointer]:
+                    - /url: /members/2028973/
+                  - text: ","
+                - listitem [ref=f3e2954]:
+                  - link "swator228" [ref=f3e2955] [cursor=pointer]:
+                    - /url: /members/1990666/
+                  - text: ","
+                - listitem [ref=f3e2956]:
+                  - link "timur32145" [ref=f3e2957] [cursor=pointer]:
+                    - /url: /members/2064484/
+                  - text: ","
+                - listitem [ref=f3e2958]:
+                  - link "petrovich14877" [ref=f3e2959] [cursor=pointer]:
+                    - /url: /members/2063724/
+                  - text: ","
+                - listitem [ref=f3e2960]:
+                  - link "bullik" [ref=f3e2961] [cursor=pointer]:
+                    - /url: /members/2063219/
+                  - text: ","
+                - listitem [ref=f3e2962]:
+                  - link "asfdasdfeease" [ref=f3e2963] [cursor=pointer]:
+                    - /url: /members/2056528/
+                  - text: ","
+                - listitem [ref=f3e2964]:
+                  - link "snapdragon" [ref=f3e2965] [cursor=pointer]:
+                    - /url: /members/2024778/
+                  - text: ","
+                - listitem [ref=f3e2966]:
+                  - link "toki4" [ref=f3e2967] [cursor=pointer]:
+                    - /url: /members/1833277/
+                  - text: ","
+                - listitem [ref=f3e2968]:
+                  - link "HvHnnStar" [ref=f3e2969] [cursor=pointer]:
+                    - /url: /members/703113/
+                  - text: ","
+                - listitem [ref=f3e2970]:
+                  - link "vensveychik" [ref=f3e2971] [cursor=pointer]:
+                    - /url: /members/1791625/
+                  - text: ","
+                - listitem [ref=f3e2972]:
+                  - link "Faper333" [ref=f3e2973] [cursor=pointer]:
+                    - /url: /members/1753806/
+                  - text: ","
+                - listitem [ref=f3e2974]:
+                  - link "Mainofomen" [ref=f3e2975] [cursor=pointer]:
+                    - /url: /members/1276811/
+                  - text: ","
+                - listitem [ref=f3e2976]:
+                  - link "Munchi145" [ref=f3e2977] [cursor=pointer]:
+                    - /url: /members/1638268/
+                  - text: ","
+                - listitem [ref=f3e2978]:
+                  - link "euplayer" [ref=f3e2979] [cursor=pointer]:
+                    - /url: /members/1014694/
+                  - text: ","
+                - listitem [ref=f3e2980]:
+                  - link "pierotveil" [ref=f3e2981] [cursor=pointer]:
+                    - /url: /members/2064598/
+                  - text: ","
+                - listitem [ref=f3e2982]:
+                  - link "wendyy" [ref=f3e2983] [cursor=pointer]:
+                    - /url: /members/2038454/
+                  - text: ","
+                - listitem [ref=f3e2984]:
+                  - link "nekefir4ik" [ref=f3e2985] [cursor=pointer]:
+                    - /url: /members/1841633/
+                  - text: ","
+                - listitem [ref=f3e2986]:
+                  - link "rivalhack" [ref=f3e2987] [cursor=pointer]:
+                    - /url: /members/2062991/
+                  - text: ","
+                - listitem [ref=f3e2988]:
+                  - link "sa fdajkdsaf" [ref=f3e2989] [cursor=pointer]:
+                    - /url: /members/1690501/
+                  - text: ","
+                - listitem [ref=f3e2990]:
+                  - link "ollyvs" [ref=f3e2991] [cursor=pointer]:
+                    - /url: /members/2049900/
+                  - text: ","
+                - listitem [ref=f3e2992]:
+                  - link "playKO" [ref=f3e2993] [cursor=pointer]:
+                    - /url: /members/231557/
+                  - text: ","
+                - listitem [ref=f3e2994]:
+                  - link "zodiaka4324" [ref=f3e2995] [cursor=pointer]:
+                    - /url: /members/1667499/
+                  - text: ","
+                - listitem [ref=f3e2996]:
+                  - link "Ewaxzzz" [ref=f3e2997] [cursor=pointer]:
+                    - /url: /members/2061753/
+                  - text: ","
+                - listitem [ref=f3e2998]:
+                  - link "wezxeshka" [ref=f3e2999] [cursor=pointer]:
+                    - /url: /members/1738113/
+                  - text: ","
+                - listitem [ref=f3e3000]:
+                  - link "zdxvzsf" [ref=f3e3001] [cursor=pointer]:
+                    - /url: /members/1777811/
+                  - text: ","
+                - listitem [ref=f3e3002]:
+                  - link "delifiner" [ref=f3e3003] [cursor=pointer]:
+                    - /url: /members/2001782/
+                  - text: ","
+                - listitem [ref=f3e3004]:
+                  - link "debil13371488" [ref=f3e3005] [cursor=pointer]:
+                    - /url: /members/1510903/
+                  - text: ","
+                - listitem [ref=f3e3006]:
+                  - link "quackityjr22" [ref=f3e3007] [cursor=pointer]:
+                    - /url: /members/430237/
+                  - text: ","
+                - listitem [ref=f3e3008]:
+                  - link "zxx42" [ref=f3e3009] [cursor=pointer]:
+                    - /url: /members/2043173/
+                  - text: ","
+                - listitem [ref=f3e3010]:
+                  - link "alusiss" [ref=f3e3011] [cursor=pointer]:
+                    - /url: /members/1803181/
+                  - text: ","
+                - listitem [ref=f3e3012]:
+                  - link "zzodiac" [ref=f3e3013] [cursor=pointer]:
+                    - /url: /members/1264839/
+                  - text: ","
+                - listitem [ref=f3e3014]:
+                  - link "paster gam" [ref=f3e3015] [cursor=pointer]:
+                    - /url: /members/2062245/
+                  - text: ","
+                - listitem [ref=f3e3016]:
+                  - link "serthtrserthrserh" [ref=f3e3017] [cursor=pointer]:
+                    - /url: /members/2044963/
+                  - text: ","
+                - listitem [ref=f3e3018]:
+                  - link "rich574" [ref=f3e3019] [cursor=pointer]:
+                    - /url: /members/1222841/
+                  - text: ","
+                - listitem [ref=f3e3020]:
+                  - link "bakor667465" [ref=f3e3021] [cursor=pointer]:
+                    - /url: /members/2050946/
+                  - text: ","
+                - listitem [ref=f3e3022]:
+                  - link "InternetArchive" [ref=f3e3023] [cursor=pointer]:
+                    - /url: /members/1980240/
+                  - text: ","
+                - listitem [ref=f3e3024]:
+                  - link "sliva88" [ref=f3e3025] [cursor=pointer]:
+                    - /url: /members/1766566/
+                  - text: ","
+                - listitem [ref=f3e3026]:
+                  - link "fadaws" [ref=f3e3027] [cursor=pointer]:
+                    - /url: /members/1694253/
+                  - text: ","
+                - listitem [ref=f3e3028]:
+                  - link "HewHewLalalay" [ref=f3e3029] [cursor=pointer]:
+                    - /url: /members/98711/
+                  - text: ","
+                - listitem [ref=f3e3030]:
+                  - link "sochniypast" [ref=f3e3031] [cursor=pointer]:
+                    - /url: /members/1296080/
+                  - text: ","
+                - listitem [ref=f3e3032]:
+                  - link "sisadmi" [ref=f3e3033] [cursor=pointer]:
+                    - /url: /members/1753090/
+                  - text: ","
+                - listitem [ref=f3e3034]:
+                  - link "Mishka836836" [ref=f3e3035] [cursor=pointer]:
+                    - /url: /members/1355913/
+                  - text: ","
+                - listitem [ref=f3e3036]:
+                  - link "wa1tik" [ref=f3e3037] [cursor=pointer]:
+                    - /url: /members/1798872/
+                  - text: ","
+                - listitem [ref=f3e3038]:
+                  - link "david153416g" [ref=f3e3039] [cursor=pointer]:
+                    - /url: /members/1621833/
+                  - text: ","
+                - listitem [ref=f3e3040]:
+                  - link "GERACLE" [ref=f3e3041] [cursor=pointer]:
+                    - /url: /members/1553465/
+                  - text: ","
+                - listitem [ref=f3e3042]:
+                  - link "Jameson1337" [ref=f3e3043] [cursor=pointer]:
+                    - /url: /members/198161/
+                  - text: ","
+                - listitem [ref=f3e3044]:
+                  - link "aarararfes123131" [ref=f3e3045] [cursor=pointer]:
+                    - /url: /members/1840828/
+                  - text: ","
+                - listitem [ref=f3e3046]:
+                  - link "LotterLove" [ref=f3e3047] [cursor=pointer]:
+                    - /url: /members/2045435/
+                  - text: ","
+                - listitem [ref=f3e3048]:
+                  - link "NAHEVENUS" [ref=f3e3049] [cursor=pointer]:
+                    - /url: /members/1527792/
+                  - text: ","
+                - listitem [ref=f3e3050]:
+                  - link "wartyxx" [ref=f3e3051] [cursor=pointer]:
+                    - /url: /members/2056417/
+                  - text: ","
+                - listitem [ref=f3e3052]:
+                  - link "vayneroff" [ref=f3e3053] [cursor=pointer]:
+                    - /url: /members/1273611/
+                  - text: ","
+                - listitem [ref=f3e3054]:
+                  - link "ttik00921" [ref=f3e3055] [cursor=pointer]:
+                    - /url: /members/1898509/
+                  - text: ","
+                - listitem [ref=f3e3056]:
+                  - link "FasterMain2" [ref=f3e3057] [cursor=pointer]:
+                    - /url: /members/1479323/
+                  - text: ","
+                - listitem [ref=f3e3058]:
+                  - link "splopex" [ref=f3e3059] [cursor=pointer]:
+                    - /url: /members/2064629/
+                  - text: ","
+                - listitem [ref=f3e3060]:
+                  - link "Lirikadev" [ref=f3e3061] [cursor=pointer]:
+                    - /url: /members/1337281/
+                  - text: ","
+                - listitem [ref=f3e3062]:
+                  - link "Masyana_lol" [ref=f3e3063] [cursor=pointer]:
+                    - /url: /members/1742331/
+                  - text: ","
+                - listitem [ref=f3e3064]:
+                  - link "dima_2868" [ref=f3e3065] [cursor=pointer]:
+                    - /url: /members/512626/
+                  - text: ","
+                - listitem [ref=f3e3066]:
+                  - link "idkwhtwriteee" [ref=f3e3067] [cursor=pointer]:
+                    - /url: /members/2061252/
+                  - text: ","
+                - listitem [ref=f3e3068]:
+                  - link "winfrom" [ref=f3e3069] [cursor=pointer]:
+                    - /url: /members/1637366/
+                  - text: ","
+                - listitem [ref=f3e3070]:
+                  - link "NogiBatia2" [ref=f3e3071] [cursor=pointer]:
+                    - /url: /members/1464768/
+                  - text: ","
+                - listitem [ref=f3e3072]:
+                  - link "ressewbyj" [ref=f3e3073] [cursor=pointer]:
+                    - /url: /members/2055756/
+                  - text: ","
+                - listitem [ref=f3e3074]:
+                  - link "apatiacode" [ref=f3e3075] [cursor=pointer]:
+                    - /url: /members/1716761/
+                  - text: ","
+                - listitem [ref=f3e3076]:
+                  - link "wequzr" [ref=f3e3077] [cursor=pointer]:
+                    - /url: /members/2043797/
+                  - text: ","
+                - listitem [ref=f3e3078]:
+                  - link "Marafedov_hackerok" [ref=f3e3079] [cursor=pointer]:
+                    - /url: /members/1288164/
+                  - text: ","
+                - listitem [ref=f3e3080]:
+                  - link "evildeaelrs" [ref=f3e3081] [cursor=pointer]:
+                    - /url: /members/1935097/
+                  - text: ","
+                - listitem [ref=f3e3082]:
+                  - link "AJJSJASJDJ" [ref=f3e3083] [cursor=pointer]:
+                    - /url: /members/2064593/
+                  - text: ","
+                - listitem [ref=f3e3084]:
+                  - link "Ofip" [ref=f3e3085] [cursor=pointer]:
+                    - /url: /members/1528241/
+                  - text: ","
+                - listitem [ref=f3e3086]:
+                  - link "Xbshwudhdryeus" [ref=f3e3087] [cursor=pointer]:
+                    - /url: /members/1782392/
+                  - text: ","
+                - listitem [ref=f3e3088]:
+                  - link "SweCheat" [ref=f3e3089] [cursor=pointer]:
+                    - /url: /members/2064600/
+                  - text: ","
+                - listitem [ref=f3e3090]:
+                  - link "dripful__" [ref=f3e3091] [cursor=pointer]:
+                    - /url: /members/1286120/
+                  - text: ","
+                - listitem [ref=f3e3092]:
+                  - link "quaziixs" [ref=f3e3093] [cursor=pointer]:
+                    - /url: /members/2023965/
+                  - text: ","
+                - listitem [ref=f3e3094]:
+                  - link "v3in777" [ref=f3e3095] [cursor=pointer]:
+                    - /url: /members/2063983/
+                  - text: ","
+                - listitem [ref=f3e3096]:
+                  - link "Koreez" [ref=f3e3097] [cursor=pointer]:
+                    - /url: /members/1968867/
+                  - text: ","
+                - listitem [ref=f3e3098]:
+                  - link "Pashlya4" [ref=f3e3099] [cursor=pointer]:
+                    - /url: /members/1641068/
+                  - text: ","
+                - listitem [ref=f3e3100]:
+                  - link "lurkink" [ref=f3e3101] [cursor=pointer]:
+                    - /url: /members/1769216/
+                  - text: ","
+                - listitem [ref=f3e3102]:
+                  - link "shestilapiy" [ref=f3e3103] [cursor=pointer]:
+                    - /url: /members/1623607/
+                  - text: ","
+                - listitem [ref=f3e3104]:
+                  - link "Vysipa" [ref=f3e3105] [cursor=pointer]:
+                    - /url: /members/1631239/
+                  - text: ","
+                - listitem [ref=f3e3106]:
+                  - link "wrfwfwftyjtyjy" [ref=f3e3107] [cursor=pointer]:
+                    - /url: /members/1984060/
+                  - text: ","
+                - listitem [ref=f3e3108]:
+                  - link "m1ios11111" [ref=f3e3109] [cursor=pointer]:
+                    - /url: /members/1736002/
+              - link "...и ещё 472." [ref=f3e3110] [cursor=pointer]:
+                - /url: /online/
+            - generic [ref=f3e3111]: "Всего: 1,018 (пользователей: 572, гостей: 446)"
+          - generic [ref=f3e3114]:
+            - heading [level=3] [ref=f3e3115]:
+              - link "Последние ресурсы" [ref=f3e3116] [cursor=pointer]:
+                - /url: /whats-new/resources/?skip=1
+            - list [ref=f3e3117]:
+              - listitem [ref=f3e3118]:
+                - generic [ref=f3e3119]:
+                  - link [ref=f3e3121] [cursor=pointer]:
+                    - /url: /resources/247/
+                    - 'img "Слив сборки ReallyWorld: сборка сервера Рили Ворлд" [ref=f3e3122]'
+                  - generic [ref=f3e3123]:
+                    - 'link "Сервер Слив сборки ReallyWorld: сборка сервера Рили Ворлд" [ref=f3e3124] [cursor=pointer]':
+                      - /url: /resources/247/
+                      - generic [ref=f3e3125]: Сервер
+                      - text: "Слив сборки ReallyWorld: сборка сервера Рили Ворлд"
+                    - generic [ref=f3e3127]: Майнкрафт сборка ReallyWorld
+                    - list [ref=f3e3129]:
+                      - listitem [ref=f3e3130]: nikokik
+                      - listitem [ref=f3e3131]:
+                        - text: "· Обновлено:"
+                        - time [ref=f3e3132]: 30 Апр 2026
+              - listitem [ref=f3e3133]:
+                - generic [ref=f3e3134]:
+                  - link [ref=f3e3136] [cursor=pointer]:
+                    - /url: /resources/244/
+                    - 'img "RTX шейдеры для Майнкрафт: VTXS Screen Space Demo Minecraft shader" [ref=f3e3137]'
+                  - generic [ref=f3e3138]:
+                    - 'link "RTX шейдеры для Майнкрафт: VTXS Screen Space Demo Minecraft shader" [ref=f3e3139] [cursor=pointer]':
+                      - /url: /resources/244/
+                    - generic [ref=f3e3140]: Майнкрафт RTX шейдеры
+                    - list [ref=f3e3142]:
+                      - listitem [ref=f3e3143]: nikokik
+                      - listitem [ref=f3e3144]:
+                        - text: "· Обновлено:"
+                        - time [ref=f3e3145]: 29 Апр 2026
+              - listitem [ref=f3e3146]:
+                - generic [ref=f3e3147]:
+                  - link [ref=f3e3149] [cursor=pointer]:
+                    - /url: /resources/243/
+                    - 'img "Текстур пак Xray Ultimate Minecraft: прозрачный текстурпак для Майнкрафт" [ref=f3e3150]'
+                  - generic [ref=f3e3151]:
+                    - 'link "Текстуры Текстур пак Xray Ultimate Minecraft: прозрачный текстурпак для Майнкрафт" [ref=f3e3152] [cursor=pointer]':
+                      - /url: /resources/243/
+                      - generic [ref=f3e3153]: Текстуры
+                      - text: "Текстур пак Xray Ultimate Minecraft: прозрачный текстурпак для Майнкрафт"
+                    - generic [ref=f3e3155]: Майнкрафт текстур пак Xray Ultimate
+                    - list [ref=f3e3157]:
+                      - listitem [ref=f3e3158]: nikokik
+                      - listitem [ref=f3e3159]:
+                        - text: "· Обновлено:"
+                        - time [ref=f3e3160]: 25 Апр 2026
+              - listitem [ref=f3e3161]:
+                - generic [ref=f3e3162]:
+                  - link [ref=f3e3164] [cursor=pointer]:
+                    - /url: /resources/241/
+                    - img "Сборка All the Mods 10 Майнкрафт (ATM 10)" [ref=f3e3165]
+                  - generic [ref=f3e3166]:
+                    - link "Сервер Сборка All the Mods 10 Майнкрафт (ATM 10)" [ref=f3e3167] [cursor=pointer]:
+                      - /url: /resources/241/
+                      - generic [ref=f3e3168]: Сервер
+                      - text: Сборка All the Mods 10 Майнкрафт (ATM 10)
+                    - generic [ref=f3e3170]: Майнкрафт сборка All the Mods 10
+                    - list [ref=f3e3172]:
+                      - listitem [ref=f3e3173]: nikokik
+                      - listitem [ref=f3e3174]:
+                        - text: "· Обновлено:"
+                        - time [ref=f3e3175]: 19 Апр 2026
+              - listitem [ref=f3e3176]:
+                - generic [ref=f3e3177]:
+                  - link [ref=f3e3179] [cursor=pointer]:
+                    - /url: /resources/240/
+                    - 'img "Сборка Prominence II RPG Hasturian Era: Майнкрафт сборка Проминанс 2" [ref=f3e3180]'
+                  - generic [ref=f3e3181]:
+                    - 'link "Сервер Сборка Prominence II RPG Hasturian Era: Майнкрафт сборка Проминанс 2" [ref=f3e3182] [cursor=pointer]':
+                      - /url: /resources/240/
+                      - generic [ref=f3e3183]: Сервер
+                      - text: "Сборка Prominence II RPG Hasturian Era: Майнкрафт сборка Проминанс 2"
+                    - generic [ref=f3e3185]: Майнкрафт сборка Prominence II RPG Hasturian Era
+                    - list [ref=f3e3187]:
+                      - listitem [ref=f3e3188]: nikokik
+                      - listitem [ref=f3e3189]:
+                        - text: "· Обновлено:"
+                        - time [ref=f3e3190]: 17 Апр 2026
+    - generic [ref=f3e3192]:
+      - generic [ref=f3e3195]:
+        - generic [ref=f3e3196]: Наши услуги
+        - list [ref=f3e3197]:
+          - listitem [ref=f3e3198]:
+            - link "Прибрести рекламу" [ref=f3e3199] [cursor=pointer]:
+              - /url: https://yougame.biz/threads/29445/#post-228036
+          - listitem [ref=f3e3200]:
+            - link "Платное повышение группы" [ref=f3e3201] [cursor=pointer]:
+              - /url: https://yougame.biz/account/upgrades
+          - listitem [ref=f3e3202]:
+            - link "Поиск вирусов в файлах" [ref=f3e3203] [cursor=pointer]:
+              - /url: https://yougame.biz/forums/531/
+          - listitem [ref=f3e3204]:
+            - link "Маркетплейс по услугам" [ref=f3e3205] [cursor=pointer]:
+              - /url: "https://yougame.biz/forums/1385/>Маркетплейс по читам</a></li>\n<li><a href="
+      - generic [ref=f3e3208]:
+        - generic [ref=f3e3209]: Полезные ссылки
+        - list [ref=f3e3210]:
+          - listitem [ref=f3e3211]:
+            - link "Новости форума" [ref=f3e3212] [cursor=pointer]:
+              - /url: https://yougame.biz/forums/222/
+          - listitem [ref=f3e3213]:
+            - link "Канал в Telegram" [ref=f3e3214] [cursor=pointer]:
+              - /url: https://t.me/yougame_official
+          - listitem [ref=f3e3215]:
+            - link "Канал вр. админ. форума" [ref=f3e3216] [cursor=pointer]:
+              - /url: https://t.me/govthing
+          - listitem [ref=f3e3217]:
+            - link "Главные чит. разделы" [ref=f3e3218] [cursor=pointer]:
+              - /url: "https://yougame.biz/downloads/>Безопасные беспл. читы</a></li>\n<li><a href="
+      - generic [ref=f3e3221]:
+        - generic [ref=f3e3222]: О нас
+        - paragraph [ref=f3e3223]: "YouGame — крупнейшее русскоязычное сообщество по читам, разработке игрового ПО, реверс-инжинирингу и программированию. По вопросам и жалобам: admin@yougame.biz"
+      - generic [ref=f3e3227]:
+        - generic [ref=f3e3228]: Поделиться страницей
+        - generic [ref=f3e3231]:
+          - generic [ref=f3e3232]: Vkontakte
+          - generic [ref=f3e3235]: Odnoklassniki
+          - generic [ref=f3e3238]: Mail.ru
+          - link "Bluesky" [ref=f3e3241] [cursor=pointer]:
+            - /url: "#_xfUid-1-1788546714"
+          - link "WhatsApp" [ref=f3e3246] [cursor=pointer]:
+            - /url: "#_xfUid-1-1788546714"
+          - generic [ref=f3e3251]: Telegram
+          - link "Viber" [ref=f3e3254] [cursor=pointer]:
+            - /url: https://3p3x.adj.st/?adjust_t=u783g1_kw9yml&adjust_fallback=https%3A%2F%2Fwww.viber.com%2F%3Futm_source%3DPartner%26utm_medium%3DSharebutton%26utm_campaign%3DDefualt&adjust_campaign=Sharebutton&adjust_deeplink=viber%3A%2F%2Fforward%3Ftext%3D%257Btitle%257D%2520https%253A%252F%252Fyougame.biz%252F
+          - link "Электронная почта" [ref=f3e3257] [cursor=pointer]:
+            - /url: "#_xfUid-1-1788546714"
+          - link "Ссылка" [ref=f3e3262] [cursor=pointer]:
+            - /url: "#_xfUid-1-1788546714"
+      - generic [ref=f3e3267]:
+        - paragraph [ref=f3e3268]:
+          - text: YOUGAME — сайт, где можно скачать читы для самых популярных онлайн-игр современности, начиная от лёгких шутеров, заканчивая сложными MOBA-направлениями. Основные секции форума представлены на главной странице, где основной уклон идёт на распространение бесплатных и платных хаков (программ) для игр. Большую часть контента можно просматривать бесплатно. Для скачивания некоторых читов необходимо
+          - link "зарегистрировать личный аккаунт" [ref=f3e3269] [cursor=pointer]:
+            - /url: https://yougame.biz/register
+          - text: "и продвигать его. Чем более прокаченный аккаунт вы имеете, тем больше скрытого контента сможете увидеть: всё как в игре!"
+        - paragraph [ref=f3e3270]:
+          - text: "Скачать бесплатный чит можно в любом соответствующем разделе форума. Все темы с такими файлами имеют префикс «Free» или же «Crack». Помните, что некоторые недобросовестные пользователи в очередном обновлении хака могут вшить вирус. Поэтому не спешите скачивать читы в момент, когда они только появились. Подождите проверки от модераторов или же загружайте хаки из раздела, где они уже проверены:"
+          - link "скачать читы без вирусов" [ref=f3e3271] [cursor=pointer]:
+            - /url: https://yougame.biz/downloads/
+          - text: "можно на странице \"загрузок\". Игры, которые имеют хороший античит, быстро банят за использование бесплатных хаков. Купить чит можно у любого проверенного селлера на форуме со статусом «Продавец». Обращайте внимание на дату регистрации пользователя и его отзывы. В крайнем случае, не забывайте пользоваться системой гаранта, которая предостережёт вас от мошенничества со стороны других людей. На форуме в свободном доступе есть читы для таких игр как RUST, Apex Legends, ПАБГ Мобайл, читы под андройд, Fortnite, GTA: San Andreas, Among Us, Roblox и Standoff 2. Не забывайте уточнять актуальный статус скачиваемых программ, чтобы спасти свой аккаунт от игровой блокировки."
+        - paragraph [ref=f3e3272]: "На югейме присутствуют и другие виды услуг:"
+        - paragraph [ref=f3e3273]: "- покупка и продажа игровых аккаунтов (Steam, Origin, Battle.Net, PSN, XBOX);"
+        - paragraph [ref=f3e3274]: "- пати с читером (актуально для CS:GO), буст аккаунтов в DOTA 2 и других играх, nvidia gamestream;"
+        - paragraph [ref=f3e3275]: "- покупка и продажа аккаунтов (и ключей) для приватных читов: aimware, neverlose (NL), инвайты в приватные читы (gamesense / skeet cc);"
+        - paragraph [ref=f3e3276]: "- услуги, связанные с голдой и виртуальной валютой (вирты) в других играх: WoW, SAMP, GTA 5."
+        - paragraph [ref=f3e3277]: Одним из популярных направлений форума выступает создание читов с нуля (майнкрафт, кс го, дота 2). В этой секции пользователи получают консультацию по программированию хаков разной сложности (с функциями aimbot, wallhack, esp) или же скачивают готовые исходники читов. YOUGAME.BIZ FORUM — лучший ресурс по данному направлению! Игровое программирование не обходится без создания игр. На форуме присутствуют разделы по разработке игр на популярных движках (Unreal Engine, Unity). В данных секциях находится достаточное количество бесплатных и платных ассетов (дополнений), которые помогут вам создавать новые игровые 3D-миры.
+        - paragraph [ref=f3e3278]: На югейме вы можете найти темы с бесплатной раздачей денег, раздачей аккаунтов стим, танков (world of tanks), вар тандер и бесплатной раздачей игр (ключей стим, ориджин).
+        - paragraph [ref=f3e3279]: Выбирая YOUGAME — вы выбираете своё будущее!
+    - contentinfo [ref=f3e3280]:
+      - generic [ref=f3e3283]:
+        - list [ref=f3e3284]:
+          - listitem [ref=f3e3285]:
+            - link "Russian (RU) Custom" [ref=f3e3286] [cursor=pointer]:
+              - /url: /misc/language
+        - list [ref=f3e3290]:
+          - listitem [ref=f3e3291]:
+            - link "Обратная связь" [ref=f3e3292] [cursor=pointer]:
+              - /url: https://yougame.biz/contact/
+          - listitem [ref=f3e3293]:
+            - link "Условия и правила" [ref=f3e3294] [cursor=pointer]:
+              - /url: /pages/rules/
+          - listitem [ref=f3e3295]:
+            - link "Политика конфиденциальности" [ref=f3e3296] [cursor=pointer]:
+              - /url: /help/privacy-policy/
+          - listitem [ref=f3e3297]:
+            - link "Помощь" [ref=f3e3298] [cursor=pointer]:
+              - /url: /help/
+          - listitem [ref=f3e3299]:
+            - link "RSS" [ref=f3e3300] [cursor=pointer]:
+              - /url: /forums/-/index.rss
+              - generic [ref=f3e3305]: RSS
+  - generic [ref=f3e3306]:
+    - link "Сверху" [ref=f3e3307] [cursor=pointer]:
+      - /url: "#top"
+    - link "Снизу" [ref=f3e3313] [cursor=pointer]:
+      - /url: "#footer"

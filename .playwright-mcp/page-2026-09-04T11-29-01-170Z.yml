@@ -1,0 +1,416 @@
+- generic [active] [ref=f12e1]:
+  - main [ref=f12e3]:
+    - generic [ref=f12e7]:
+      - generic [ref=f12e9]:
+        - link [ref=f12e10] [cursor=pointer]:
+          - /url: /
+          - img "exteraGram" [ref=f12e11]
+          - text: exteraGram
+        - button "Toggle Sidebar" [ref=f12e12] [cursor=pointer]
+      - list [ref=f12e16]:
+        - generic [ref=f12e17]: Getting Started
+        - listitem [ref=f12e18]:
+          - link "Introduction" [ref=f12e19] [cursor=pointer]:
+            - /url: /docs
+        - listitem [ref=f12e26]:
+          - link "Setup" [ref=f12e27] [cursor=pointer]:
+            - /url: /docs/setup
+        - listitem [ref=f12e33]:
+          - link "First Plugin" [ref=f12e34] [cursor=pointer]:
+            - /url: /docs/first-plugin
+        - generic [ref=f12e42]: Elyx Structured Plugins
+        - generic [ref=f12e43]:
+          - link [ref=f12e44] [cursor=pointer]:
+            - /url: /docs/elyx
+          - list [ref=f12e58]:
+            - listitem [ref=f12e59]:
+              - link "Elyx" [ref=f12e60] [cursor=pointer]:
+                - /url: /docs/elyx
+            - listitem [ref=f12e73]:
+              - link "Quick Start" [ref=f12e74] [cursor=pointer]:
+                - /url: /docs/elyx/quick-start
+            - listitem [ref=f12e82]:
+              - link "ElyxBuilder" [ref=f12e83] [cursor=pointer]:
+                - /url: /docs/elyx/elyxbuilder
+            - listitem [ref=f12e90]:
+              - link "Project Structure" [ref=f12e91] [cursor=pointer]:
+                - /url: /docs/elyx/project-structure
+            - listitem [ref=f12e99]:
+              - link "Metadata" [ref=f12e100] [cursor=pointer]:
+                - /url: /docs/elyx/metadata
+            - listitem [ref=f12e108]:
+              - link "Modules and Imports" [ref=f12e109] [cursor=pointer]:
+                - /url: /docs/elyx/modules-and-imports
+            - listitem [ref=f12e117]:
+              - link "Assets" [ref=f12e118] [cursor=pointer]:
+                - /url: /docs/elyx/assets
+            - listitem [ref=f12e126]:
+              - link "Localization" [ref=f12e127] [cursor=pointer]:
+                - /url: /docs/elyx/localization
+            - listitem [ref=f12e134]:
+              - link "Settings Storage" [ref=f12e135] [cursor=pointer]:
+                - /url: /docs/elyx/settings
+            - listitem [ref=f12e139]:
+              - link "Dependencies" [ref=f12e140] [cursor=pointer]:
+                - /url: /docs/elyx/dependencies
+            - listitem [ref=f12e149]:
+              - link "Development and Build" [ref=f12e150] [cursor=pointer]:
+                - /url: /docs/elyx/development
+            - listitem [ref=f12e158]:
+              - link "Public API" [ref=f12e159] [cursor=pointer]:
+                - /url: /docs/elyx/public-api
+            - listitem [ref=f12e165]:
+              - link "Troubleshooting" [ref=f12e166] [cursor=pointer]:
+                - /url: /docs/elyx/troubleshooting
+        - generic [ref=f12e171]: Basics
+        - listitem [ref=f12e172]:
+          - link "Plugin Class" [ref=f12e173] [cursor=pointer]:
+            - /url: /docs/plugin-class
+        - listitem [ref=f12e178]:
+          - link "Multi-account" [ref=f12e179] [cursor=pointer]:
+            - /url: /docs/multi-account
+        - listitem [ref=f12e187]:
+          - link "Plugin Settings" [ref=f12e188] [cursor=pointer]:
+            - /url: /docs/plugin-settings
+        - listitem [ref=f12e194]:
+          - link "Class Proxy" [ref=f12e195] [cursor=pointer]:
+            - /url: /docs/class-proxy
+        - listitem [ref=f12e208]:
+          - link "Xposed Method Hooking" [ref=f12e209] [cursor=pointer]:
+            - /url: /docs/xposed-hooking
+        - generic [ref=f12e216]: Utils
+        - listitem [ref=f12e217]:
+          - link "Android Utilities" [ref=f12e218] [cursor=pointer]:
+            - /url: /docs/android-utils
+        - listitem [ref=f12e223]:
+          - link "Client Utilities" [ref=f12e224] [cursor=pointer]:
+            - /url: /docs/client-utils
+        - listitem [ref=f12e231]:
+          - link "Text Formatting" [ref=f12e232] [cursor=pointer]:
+            - /url: /docs/text-formatting
+        - listitem [ref=f12e237]:
+          - link "Hook Utilities (Reflection)" [ref=f12e238] [cursor=pointer]:
+            - /url: /docs/hook-utils
+        - listitem [ref=f12e246]:
+          - link "File Utilities" [ref=f12e247] [cursor=pointer]:
+            - /url: /docs/file-utils
+        - listitem [ref=f12e255]:
+          - link "Intents" [ref=f12e256] [cursor=pointer]:
+            - /url: /docs/intents
+        - listitem [ref=f12e262]:
+          - link "Alert Dialog Builder" [ref=f12e263] [cursor=pointer]:
+            - /url: /docs/alert-dialog-builder
+        - listitem [ref=f12e268]:
+          - link "Bulletin Helper" [ref=f12e269] [cursor=pointer]:
+            - /url: /docs/bulletin-helper
+        - generic [ref=f12e275]: Other
+        - listitem [ref=f12e276]:
+          - link "Development Server" [ref=f12e277] [cursor=pointer]:
+            - /url: /docs/dev-server
+        - listitem [ref=f12e286]:
+          - link "PIP & Dependencies" [ref=f12e287] [cursor=pointer]:
+            - /url: /docs/pip
+        - listitem [ref=f12e294]:
+          - link "Available Libraries" [ref=f12e295] [cursor=pointer]:
+            - /url: /docs/available-libraries
+        - listitem [ref=f12e300]:
+          - link "Common Telegram Classes" [ref=f12e301] [cursor=pointer]:
+            - /url: /docs/common-source-classes
+    - main [ref=f12e307]:
+      - generic [ref=f12e308]:
+        - generic [ref=f12e309]:
+          - button "Search ⌘ K" [ref=f12e310] [cursor=pointer]:
+            - text: Search
+            - generic [ref=f12e314]:
+              - generic [ref=f12e315]: ⌘
+              - generic [ref=f12e316]: K
+          - button "Toggle Theme" [ref=f12e317] [cursor=pointer]
+          - link [ref=f12e326] [cursor=pointer]:
+            - /url: https://github.com/exteraSquad
+        - generic [ref=f12e329]:
+          - article [ref=f12e331]:
+            - heading "Development Server" [level=1] [ref=f12e332]
+            - paragraph [ref=f12e333]: Connect desktop tooling to exteraGram for plugin updates, reloads, and remote debugging.
+            - generic [ref=f12e334]:
+              - heading [level=1] [ref=f12e335]:
+                - link "Development server" [ref=f12e336] [cursor=pointer]:
+                  - /url: "#development-server"
+                - img "Link to section" [ref=f12e337]
+              - paragraph [ref=f12e340]: The SDK includes a small TCP development server for desktop tooling. It can inspect and reload regular Python plugins, and Elyx extends it with multi-file synchronization.
+              - paragraph [ref=f12e341]: "The default endpoint is:"
+              - figure [ref=f12e342]:
+                - button "Copy Text" [ref=f12e343] [cursor=pointer]
+                - code [ref=f12e351]:
+                  - generic [ref=f12e352]: 127.0.0.1:42690
+              - paragraph [ref=f12e353]: "Because the server binds to the phone's loopback interface, connect through ADB:"
+              - figure [ref=f12e354]:
+                - button "Copy Text" [ref=f12e355] [cursor=pointer]
+                - code [ref=f12e363]:
+                  - generic [ref=f12e364]: adb devices
+                  - generic [ref=f12e365]: adb forward tcp:42690 tcp:42690
+              - paragraph [ref=f12e366]:
+                - text: Then desktop clients connect to
+                - code [ref=f12e367]: 127.0.0.1:42690
+                - text: .
+              - generic [ref=f12e371]:
+                - paragraph [ref=f12e372]: Development use only
+                - paragraph [ref=f12e374]: Enable the server only while developing. Its protocol can install, rewrite, enable, disable, reload, and delete plugin code.
+              - heading [level=2] [ref=f12e375]:
+                - link "Message format" [ref=f12e376] [cursor=pointer]:
+                  - /url: "#message-format"
+                - img "Link to section" [ref=f12e377]
+              - paragraph [ref=f12e380]: "The connection carries consecutive UTF-8 JSON objects. A basic request uses:"
+              - figure [ref=f12e381]:
+                - button "Copy Text" [ref=f12e382] [cursor=pointer]
+                - code [ref=f12e390]:
+                  - generic [ref=f12e391]: "{"
+                  - generic [ref=f12e392]: "\"@\": \"ping\","
+                  - generic [ref=f12e393]: "\"#\": \"request-1\""
+                  - generic [ref=f12e394]: "}"
+              - list [ref=f12e395]:
+                - listitem [ref=f12e396]:
+                  - code [ref=f12e397]: "@"
+                  - text: is the command name
+                - listitem [ref=f12e398]:
+                  - code [ref=f12e399]: "#"
+                  - text: is a client-generated request id
+                - listitem [ref=f12e400]: additional fields depend on the command
+              - paragraph [ref=f12e401]: "The response repeats the request id:"
+              - figure [ref=f12e402]:
+                - button "Copy Text" [ref=f12e403] [cursor=pointer]
+                - code [ref=f12e411]:
+                  - generic [ref=f12e412]: "{"
+                  - generic [ref=f12e413]: "\"#\": \"request-1\","
+                  - generic [ref=f12e414]: "\"pong\": true"
+                  - generic [ref=f12e415]: "}"
+              - paragraph [ref=f12e416]:
+                - text: Clients should keep request ids unique while requests are in flight and match responses by
+                - code [ref=f12e417]: "#"
+                - text: .
+              - heading [level=2] [ref=f12e418]:
+                - link "Core commands" [ref=f12e419] [cursor=pointer]:
+                  - /url: "#core-commands"
+                - img "Link to section" [ref=f12e420]
+              - table [ref=f12e424]:
+                - rowgroup [ref=f12e425]:
+                  - row [ref=f12e426]:
+                    - columnheader "Command" [ref=f12e427]
+                    - columnheader "Additional fields" [ref=f12e428]
+                    - columnheader "Purpose" [ref=f12e429]
+                - rowgroup [ref=f12e430]:
+                  - row [ref=f12e431]:
+                    - cell [ref=f12e432]:
+                      - code [ref=f12e433]: ping
+                    - cell "—" [ref=f12e434]
+                    - cell "Test the connection" [ref=f12e435]
+                  - row [ref=f12e436]:
+                    - cell [ref=f12e437]:
+                      - code [ref=f12e438]: get_plugins
+                    - cell "—" [ref=f12e439]
+                    - cell "List loaded plugins and their current state" [ref=f12e440]
+                  - row [ref=f12e441]:
+                    - cell [ref=f12e442]:
+                      - code [ref=f12e443]: enable_plugin
+                    - cell [ref=f12e444]:
+                      - code [ref=f12e445]: plugin_id
+                    - cell "Enable an installed plugin" [ref=f12e446]
+                  - row [ref=f12e447]:
+                    - cell [ref=f12e448]:
+                      - code [ref=f12e449]: disable_plugin
+                    - cell [ref=f12e450]:
+                      - code [ref=f12e451]: plugin_id
+                    - cell "Disable an installed plugin" [ref=f12e452]
+                  - row [ref=f12e453]:
+                    - cell [ref=f12e454]:
+                      - code [ref=f12e455]: reload_plugin
+                    - cell [ref=f12e456]:
+                      - code [ref=f12e457]: plugin_id
+                    - cell "Reload a regular single-file plugin" [ref=f12e458]
+                  - row [ref=f12e459]:
+                    - cell [ref=f12e460]:
+                      - code [ref=f12e461]: write_plugin
+                    - cell [ref=f12e462]:
+                      - code [ref=f12e463]: plugin_id
+                      - text: ","
+                      - code [ref=f12e464]: content
+                    - cell "Install or update Python source" [ref=f12e465]
+                  - row [ref=f12e466]:
+                    - cell [ref=f12e467]:
+                      - code [ref=f12e468]: remove_plugin
+                    - cell [ref=f12e469]:
+                      - code [ref=f12e470]: plugin_id
+                    - cell "Delete an installed plugin" [ref=f12e471]
+                  - row [ref=f12e472]:
+                    - cell [ref=f12e473]:
+                      - code [ref=f12e474]: start_debugger
+                    - cell [ref=f12e475]:
+                      - code [ref=f12e476]: host
+                      - text: ","
+                      - code [ref=f12e477]: port
+                      - text: ","
+                      - code [ref=f12e478]: platform
+                    - cell "Start a remote debugger" [ref=f12e479]
+                  - row [ref=f12e480]:
+                    - cell [ref=f12e481]:
+                      - code [ref=f12e482]: stop_debugger
+                    - cell [ref=f12e483]:
+                      - code [ref=f12e484]: platform
+                    - cell "Stop a remote debugger" [ref=f12e485]
+              - paragraph [ref=f12e486]:
+                - code [ref=f12e487]: write_plugin.content
+                - text: contains the complete Python source as a JSON string. The server writes it to a temporary file and passes it through the normal plugin loader.
+              - heading [level=2] [ref=f12e488]:
+                - link "Elyx multi-file commands" [ref=f12e489] [cursor=pointer]:
+                  - /url: "#elyx-multi-file-commands"
+                - img "Link to section" [ref=f12e490]
+              - paragraph [ref=f12e493]: "Elyx adds incremental folder comparison and change batches:"
+              - table [ref=f12e495]:
+                - rowgroup [ref=f12e496]:
+                  - row [ref=f12e497]:
+                    - columnheader "Command" [ref=f12e498]
+                    - columnheader "Purpose" [ref=f12e499]
+                - rowgroup [ref=f12e500]:
+                  - row [ref=f12e501]:
+                    - cell [ref=f12e502]:
+                      - code [ref=f12e503]: elyx_ping
+                    - cell "Check that Elyx development support is active" [ref=f12e504]
+                  - row [ref=f12e505]:
+                    - cell [ref=f12e506]:
+                      - code [ref=f12e507]: get_elyx_plugins
+                    - cell "List loaded structured plugins" [ref=f12e508]
+                  - row [ref=f12e509]:
+                    - cell [ref=f12e510]:
+                      - code [ref=f12e511]: elyx_compare_folder
+                    - cell "Compare local hashes with installed files" [ref=f12e512]
+                  - row [ref=f12e513]:
+                    - cell [ref=f12e514]:
+                      - code [ref=f12e515]: elyx_changes
+                    - cell "Apply file changes and reload one Elyx plugin" [ref=f12e516]
+              - paragraph [ref=f12e517]:
+                - text: Elyx payloads are compressed JSON carried in a base64
+                - code [ref=f12e518]: data
+                - text: field. See
+                - link "Elyx development and build" [ref=f12e519] [cursor=pointer]:
+                  - /url: /docs/elyx/development
+                - text: for the payload format, initial installation requirement, and
+                - code [ref=f12e520]: elyx_dev_client.py
+                - text: workflow.
+              - heading [level=2] [ref=f12e521]:
+                - link "Remote debugging" [ref=f12e522] [cursor=pointer]:
+                  - /url: "#remote-debugging"
+                - img "Link to section" [ref=f12e523]
+              - paragraph [ref=f12e526]: "The server accepts:"
+              - figure [ref=f12e527]:
+                - button "Copy Text" [ref=f12e528] [cursor=pointer]
+                - code [ref=f12e536]:
+                  - generic [ref=f12e537]: "{"
+                  - generic [ref=f12e538]: "\"@\": \"start_debugger\","
+                  - generic [ref=f12e539]: "\"#\": \"debug-1\","
+                  - generic [ref=f12e540]: "\"host\": \"127.0.0.1\","
+                  - generic [ref=f12e541]: "\"port\": 5678,"
+                  - generic [ref=f12e542]: "\"platform\": \"vscode\""
+                  - generic [ref=f12e543]: "}"
+              - paragraph [ref=f12e544]: "Supported platform values:"
+              - list [ref=f12e545]:
+                - listitem [ref=f12e546]:
+                  - code [ref=f12e547]: vscode
+                - listitem [ref=f12e548]:
+                  - code [ref=f12e549]: pycharm
+              - paragraph [ref=f12e550]:
+                - text: The debugger port is separate from
+                - code [ref=f12e551]: "42690"
+                - text: . Configure the IDE and any required ADB reverse/forward rule for the direction used by that debugger.
+              - paragraph [ref=f12e552]: "VS Code attach example:"
+              - figure [ref=f12e553]:
+                - button "Copy Text" [ref=f12e554] [cursor=pointer]
+                - code [ref=f12e562]:
+                  - generic [ref=f12e563]: "{"
+                  - generic [ref=f12e564]: "\"version\": \"0.2.0\","
+                  - generic [ref=f12e565]: "\"configurations\": ["
+                  - generic [ref=f12e566]: "{"
+                  - generic [ref=f12e567]: "\"name\": \"Attach to exteraGram\","
+                  - generic [ref=f12e568]: "\"type\": \"debugpy\","
+                  - generic [ref=f12e569]: "\"request\": \"attach\","
+                  - generic [ref=f12e570]: "\"connect\": {"
+                  - generic [ref=f12e571]: "\"host\": \"127.0.0.1\","
+                  - generic [ref=f12e572]: "\"port\": 5678"
+                  - generic [ref=f12e573]: "},"
+                  - generic [ref=f12e574]: "\"pathMappings\": ["
+                  - generic [ref=f12e575]: "{"
+                  - generic [ref=f12e576]: "\"localRoot\": \"${workspaceFolder}\","
+                  - generic [ref=f12e577]: "\"remoteRoot\": \"/data/user/0/com.exteragram.messenger/files/plugins\""
+                  - generic [ref=f12e578]: "}"
+                  - generic [ref=f12e579]: "]"
+                  - generic [ref=f12e580]: "}"
+                  - generic [ref=f12e581]: "]"
+                  - generic [ref=f12e582]: "}"
+              - paragraph [ref=f12e583]: Debugger support also depends on the corresponding Python debugger package being available in the app runtime.
+              - heading [level=2] [ref=f12e584]:
+                - link "Client behavior" [ref=f12e585] [cursor=pointer]:
+                  - /url: "#client-behavior"
+                - img "Link to section" [ref=f12e586]
+              - paragraph [ref=f12e589]: "A robust custom client should:"
+              - list [ref=f12e590]:
+                - listitem [ref=f12e591]:
+                  - text: test
+                  - code [ref=f12e592]: ping
+                  - text: or
+                  - code [ref=f12e593]: elyx_ping
+                  - text: before sending changes
+                - listitem [ref=f12e594]: apply socket timeouts
+                - listitem [ref=f12e595]: preserve request ids
+                - listitem [ref=f12e596]: display complete server errors
+                - listitem [ref=f12e597]: ignore build caches and version-control directories
+                - listitem [ref=f12e598]: debounce rapid editor events into one change batch
+                - listitem [ref=f12e599]: reconnect after the app restarts
+              - paragraph [ref=f12e600]: The desktop client's CLI is not part of the SDK runtime API. Keep the exact client version and its usage instructions with the plugin project.
+              - heading [level=2] [ref=f12e601]:
+                - link "Connection troubleshooting" [ref=f12e602] [cursor=pointer]:
+                  - /url: "#connection-troubleshooting"
+                - img "Link to section" [ref=f12e603]
+              - paragraph [ref=f12e606]: "If the client cannot connect:"
+              - list [ref=f12e607]:
+                - listitem [ref=f12e608]: confirm developer mode and the server are enabled
+                - listitem [ref=f12e609]:
+                  - text: run
+                  - code [ref=f12e610]: adb devices
+                - listitem [ref=f12e611]:
+                  - text: recreate
+                  - code [ref=f12e612]: adb forward tcp:42690 tcp:42690
+                - listitem [ref=f12e613]:
+                  - text: check that no other process owns local port
+                  - code [ref=f12e614]: "42690"
+                - listitem [ref=f12e615]: restart the server after changing device
+              - paragraph [ref=f12e616]:
+                - text: If core
+                - code [ref=f12e617]: ping
+                - text: works but
+                - code [ref=f12e618]: elyx_ping
+                - text: does not, the regular server is running but Elyx development support has not initialized.
+            - generic [ref=f12e619]:
+              - link [ref=f12e620] [cursor=pointer]:
+                - /url: /docs/bulletin-helper
+                - paragraph [ref=f12e624]: Previous
+                - paragraph [ref=f12e625]: Bulletin Helper
+              - link [ref=f12e626] [cursor=pointer]:
+                - /url: /docs/pip
+                - paragraph [ref=f12e630]: Next
+                - paragraph [ref=f12e631]: PIP & Dependencies
+          - generic [ref=f12e633]:
+            - heading "On this page" [level=3] [ref=f12e634]
+            - generic [ref=f12e639]:
+              - link "Development server" [ref=f12e640] [cursor=pointer]:
+                - /url: "#development-server"
+              - link "Message format" [ref=f12e642] [cursor=pointer]:
+                - /url: "#message-format"
+              - link "Core commands" [ref=f12e644] [cursor=pointer]:
+                - /url: "#core-commands"
+              - link "Elyx multi-file commands" [ref=f12e646] [cursor=pointer]:
+                - /url: "#elyx-multi-file-commands"
+              - link "Remote debugging" [ref=f12e648] [cursor=pointer]:
+                - /url: "#remote-debugging"
+              - link "Client behavior" [ref=f12e650] [cursor=pointer]:
+                - /url: "#client-behavior"
+              - link "Connection troubleshooting" [ref=f12e652] [cursor=pointer]:
+                - /url: "#connection-troubleshooting"
+  - region "Notifications alt+T"

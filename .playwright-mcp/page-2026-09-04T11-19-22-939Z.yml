@@ -1,0 +1,1951 @@
+- generic [active] [ref=f6e1]:
+  - main [ref=f6e3]:
+    - generic [ref=f6e7]:
+      - generic [ref=f6e9]:
+        - link [ref=f6e10] [cursor=pointer]:
+          - /url: /
+          - img "exteraGram" [ref=f6e11]
+          - text: exteraGram
+        - button "Toggle Sidebar" [ref=f6e12] [cursor=pointer]
+      - list [ref=f6e16]:
+        - generic [ref=f6e17]: Getting Started
+        - listitem [ref=f6e18]:
+          - link "Introduction" [ref=f6e19] [cursor=pointer]:
+            - /url: /docs
+        - listitem [ref=f6e26]:
+          - link "Setup" [ref=f6e27] [cursor=pointer]:
+            - /url: /docs/setup
+        - listitem [ref=f6e33]:
+          - link "First Plugin" [ref=f6e34] [cursor=pointer]:
+            - /url: /docs/first-plugin
+        - generic [ref=f6e42]: Elyx Structured Plugins
+        - generic [ref=f6e43]:
+          - link [ref=f6e44] [cursor=pointer]:
+            - /url: /docs/elyx
+          - list [ref=f6e58]:
+            - listitem [ref=f6e59]:
+              - link "Elyx" [ref=f6e60] [cursor=pointer]:
+                - /url: /docs/elyx
+            - listitem [ref=f6e73]:
+              - link "Quick Start" [ref=f6e74] [cursor=pointer]:
+                - /url: /docs/elyx/quick-start
+            - listitem [ref=f6e82]:
+              - link "ElyxBuilder" [ref=f6e83] [cursor=pointer]:
+                - /url: /docs/elyx/elyxbuilder
+            - listitem [ref=f6e90]:
+              - link "Project Structure" [ref=f6e91] [cursor=pointer]:
+                - /url: /docs/elyx/project-structure
+            - listitem [ref=f6e99]:
+              - link "Metadata" [ref=f6e100] [cursor=pointer]:
+                - /url: /docs/elyx/metadata
+            - listitem [ref=f6e108]:
+              - link "Modules and Imports" [ref=f6e109] [cursor=pointer]:
+                - /url: /docs/elyx/modules-and-imports
+            - listitem [ref=f6e117]:
+              - link "Assets" [ref=f6e118] [cursor=pointer]:
+                - /url: /docs/elyx/assets
+            - listitem [ref=f6e126]:
+              - link "Localization" [ref=f6e127] [cursor=pointer]:
+                - /url: /docs/elyx/localization
+            - listitem [ref=f6e134]:
+              - link "Settings Storage" [ref=f6e135] [cursor=pointer]:
+                - /url: /docs/elyx/settings
+            - listitem [ref=f6e139]:
+              - link "Dependencies" [ref=f6e140] [cursor=pointer]:
+                - /url: /docs/elyx/dependencies
+            - listitem [ref=f6e149]:
+              - link "Development and Build" [ref=f6e150] [cursor=pointer]:
+                - /url: /docs/elyx/development
+            - listitem [ref=f6e158]:
+              - link "Public API" [ref=f6e159] [cursor=pointer]:
+                - /url: /docs/elyx/public-api
+            - listitem [ref=f6e165]:
+              - link "Troubleshooting" [ref=f6e166] [cursor=pointer]:
+                - /url: /docs/elyx/troubleshooting
+        - generic [ref=f6e171]: Basics
+        - listitem [ref=f6e172]:
+          - link "Plugin Class" [ref=f6e173] [cursor=pointer]:
+            - /url: /docs/plugin-class
+        - listitem [ref=f6e178]:
+          - link "Multi-account" [ref=f6e179] [cursor=pointer]:
+            - /url: /docs/multi-account
+        - listitem [ref=f6e187]:
+          - link "Plugin Settings" [ref=f6e188] [cursor=pointer]:
+            - /url: /docs/plugin-settings
+        - listitem [ref=f6e194]:
+          - link "Class Proxy" [ref=f6e195] [cursor=pointer]:
+            - /url: /docs/class-proxy
+        - listitem [ref=f6e208]:
+          - link "Xposed Method Hooking" [ref=f6e209] [cursor=pointer]:
+            - /url: /docs/xposed-hooking
+        - generic [ref=f6e216]: Utils
+        - listitem [ref=f6e217]:
+          - link "Android Utilities" [ref=f6e218] [cursor=pointer]:
+            - /url: /docs/android-utils
+        - listitem [ref=f6e223]:
+          - link "Client Utilities" [ref=f6e224] [cursor=pointer]:
+            - /url: /docs/client-utils
+        - listitem [ref=f6e231]:
+          - link "Text Formatting" [ref=f6e232] [cursor=pointer]:
+            - /url: /docs/text-formatting
+        - listitem [ref=f6e237]:
+          - link "Hook Utilities (Reflection)" [ref=f6e238] [cursor=pointer]:
+            - /url: /docs/hook-utils
+        - listitem [ref=f6e246]:
+          - link "File Utilities" [ref=f6e247] [cursor=pointer]:
+            - /url: /docs/file-utils
+        - listitem [ref=f6e255]:
+          - link "Intents" [ref=f6e256] [cursor=pointer]:
+            - /url: /docs/intents
+        - listitem [ref=f6e262]:
+          - link "Alert Dialog Builder" [ref=f6e263] [cursor=pointer]:
+            - /url: /docs/alert-dialog-builder
+        - listitem [ref=f6e268]:
+          - link "Bulletin Helper" [ref=f6e269] [cursor=pointer]:
+            - /url: /docs/bulletin-helper
+        - generic [ref=f6e275]: Other
+        - listitem [ref=f6e276]:
+          - link "Development Server" [ref=f6e277] [cursor=pointer]:
+            - /url: /docs/dev-server
+        - listitem [ref=f6e286]:
+          - link "PIP & Dependencies" [ref=f6e287] [cursor=pointer]:
+            - /url: /docs/pip
+        - listitem [ref=f6e294]:
+          - link "Available Libraries" [ref=f6e295] [cursor=pointer]:
+            - /url: /docs/available-libraries
+        - listitem [ref=f6e300]:
+          - link "Common Telegram Classes" [ref=f6e301] [cursor=pointer]:
+            - /url: /docs/common-source-classes
+    - main [ref=f6e307]:
+      - generic [ref=f6e308]:
+        - generic [ref=f6e309]:
+          - button "Search ⌘ K" [ref=f6e310] [cursor=pointer]:
+            - text: Search
+            - generic [ref=f6e314]:
+              - generic [ref=f6e315]: ⌘
+              - generic [ref=f6e316]: K
+          - button "Toggle Theme" [ref=f6e317] [cursor=pointer]
+          - link [ref=f6e326] [cursor=pointer]:
+            - /url: https://github.com/exteraSquad
+        - generic [ref=f6e329]:
+          - article [ref=f6e331]:
+            - heading "Class Proxy" [level=1] [ref=f6e332]
+            - paragraph [ref=f6e333]: Create Java subclasses and dynamic proxy classes from Python.
+            - generic [ref=f6e334]:
+              - heading [level=1] [ref=f6e335]:
+                - link "Class Proxy" [ref=f6e336] [cursor=pointer]:
+                  - /url: "#class-proxy"
+                - img "Link to section" [ref=f6e337]
+              - paragraph [ref=f6e340]: The class proxy API allows a plugin to create a real Java class at runtime and implement it in Python.
+              - paragraph [ref=f6e341]: "This is useful when a Java API expects:"
+              - list [ref=f6e342]:
+                - listitem [ref=f6e343]: a subclass of an existing Java class
+                - listitem [ref=f6e344]: an implementation which overrides parent methods
+                - listitem [ref=f6e345]: extra methods declared directly on the generated Java class
+                - listitem [ref=f6e346]: Java fields stored on the generated object
+              - paragraph [ref=f6e347]:
+                - text: The proxy system is built on top of
+                - code [ref=f6e348]: DexMaker
+                - text: ", so the result is an actual Java class which can be passed anywhere the app expects that type."
+              - paragraph [ref=f6e349]:
+                - code [ref=f6e350]: new_instance()
+                - text: returns a Python peer object, not the raw Java instance. Use
+                - code [ref=f6e351]: .java
+                - text: when an API explicitly requires the generated Java object itself.
+              - heading [level=2] [ref=f6e352]:
+                - link "Recommended API" [ref=f6e353] [cursor=pointer]:
+                  - /url: "#recommended-api"
+                - img "Link to section" [ref=f6e354]
+              - paragraph [ref=f6e357]:
+                - text: The recommended API is the managed DSL from
+                - code [ref=f6e358]: extera_utils.classes
+                - text: .
+              - figure [ref=f6e359]:
+                - button "Copy Text" [ref=f6e360] [cursor=pointer]
+                - code [ref=f6e368]:
+                  - generic [ref=f6e369]: from extera_utils.classes import (
+                  - generic [ref=f6e370]: Base,
+                  - generic [ref=f6e371]: java_subclass,
+                  - generic [ref=f6e372]: joverride,
+                  - generic [ref=f6e373]: joverload,
+                  - generic [ref=f6e374]: jmethod,
+                  - generic [ref=f6e375]: jMVELmethod,
+                  - generic [ref=f6e376]: jMVELoverride,
+                  - generic [ref=f6e377]: jclassbuilder,
+                  - generic [ref=f6e378]: jfield,
+                  - generic [ref=f6e379]: jgetmethod,
+                  - generic [ref=f6e380]: jsetmethod,
+                  - generic [ref=f6e381]: jconstructor,
+                  - generic [ref=f6e382]: jpreconstructor,
+                  - generic [ref=f6e383]: )
+              - paragraph [ref=f6e384]: "Main pieces:"
+              - list [ref=f6e385]:
+                - listitem [ref=f6e386]:
+                  - code [ref=f6e387]: Base
+                  - text: ": base Python class for managed Java subclasses"
+                - listitem [ref=f6e388]:
+                  - code [ref=f6e389]: "@java_subclass(JavaClass, Interface1, Interface2, ..., methods=..., constructors=..., custom_name=...)"
+                  - text: ": binds your Python class to a Java base class and optional Java interfaces"
+                - listitem [ref=f6e390]:
+                  - code [ref=f6e391]: "@joverride(...)"
+                  - text: ": overrides an existing Java method"
+                - listitem [ref=f6e392]:
+                  - code [ref=f6e393]: "@joverload(name, arg_types)"
+                  - text: ": overload-friendly alias for"
+                  - code [ref=f6e394]: "@joverride"
+                - listitem [ref=f6e395]:
+                  - code [ref=f6e396]: "@jmethod(...)"
+                  - text: ": adds a new method directly to the generated Java class"
+                - listitem [ref=f6e397]:
+                  - code [ref=f6e398]: jMVELmethod(...)
+                  - text: ": adds a Java method backed by MVEL instead of Python"
+                - listitem [ref=f6e399]:
+                  - code [ref=f6e400]: jMVELoverride(...)
+                  - text: ": overrides a parent Java method with MVEL code"
+                - listitem [ref=f6e401]:
+                  - code [ref=f6e402]: "@jclassbuilder()"
+                  - text: ": lets you modify"
+                  - code [ref=f6e403]: DexMaker
+                  - text: before the class is finalized and loaded
+                - listitem [ref=f6e404]:
+                  - code [ref=f6e405]: jfield(...)
+                  - text: ": adds a Java field to the generated class"
+                - listitem [ref=f6e406]:
+                  - code [ref=f6e407]: jgetmethod(...)
+                  - text: /
+                  - code [ref=f6e408]: jsetmethod(...)
+                  - text: ": generate Java-only getter/setter methods for a field"
+                - listitem [ref=f6e409]:
+                  - code [ref=f6e410]: "@jconstructor(...)"
+                  - text: ": runs Python code after the Java constructor has finished"
+                - listitem [ref=f6e411]:
+                  - code [ref=f6e412]: "@jpreconstructor(...)"
+                  - text: ": modifies constructor arguments before calling the Java parent constructor"
+              - paragraph [ref=f6e413]: "Useful aliases also exist:"
+              - list [ref=f6e414]:
+                - listitem [ref=f6e415]:
+                  - code [ref=f6e416]: jmvelmethod
+                  - text: /
+                  - code [ref=f6e417]: jMVELmethod
+                - listitem [ref=f6e418]:
+                  - code [ref=f6e419]: jmveloverride
+                  - text: /
+                  - code [ref=f6e420]: jMVELoverride
+                - listitem [ref=f6e421]:
+                  - code [ref=f6e422]: joverride
+                  - text: ","
+                  - code [ref=f6e423]: joverload
+                  - text: ","
+                  - code [ref=f6e424]: jmethod
+                  - text: ","
+                  - code [ref=f6e425]: jfield
+                  - text: ","
+                  - code [ref=f6e426]: jconstructor
+                  - text: ","
+                  - code [ref=f6e427]: jpreconstructor
+                - listitem [ref=f6e428]:
+                  - code [ref=f6e429]: jgetmethod
+                  - text: ","
+                  - code [ref=f6e430]: jsetmethod
+                  - text: ","
+                  - code [ref=f6e431]: jclassbuilder
+              - heading [level=2] [ref=f6e432]:
+                - link "Quick Start" [ref=f6e433] [cursor=pointer]:
+                  - /url: "#quick-start"
+                - img "Link to section" [ref=f6e434]
+              - figure [ref=f6e437]:
+                - button "Copy Text" [ref=f6e438] [cursor=pointer]
+                - code [ref=f6e446]:
+                  - generic [ref=f6e447]: from extera_utils.classes import Base, java_subclass, joverload, jfield
+                  - generic [ref=f6e448]: from java.util import ArrayList
+                  - generic [ref=f6e451]: "@java_subclass(ArrayList)"
+                  - generic [ref=f6e452]: "class CountingList(Base):"
+                  - generic [ref=f6e453]: added_count = jfield("int", default=0)
+                  - generic [ref=f6e455]: "@joverload(\"add\", [\"java.lang.Object\"])"
+                  - generic [ref=f6e456]: "def add_item(self, value):"
+                  - generic [ref=f6e457]: self.added_count += 1
+                  - generic [ref=f6e458]: return super().add_item(value)
+                  - generic [ref=f6e461]: items = CountingList.new_instance()
+                  - generic [ref=f6e462]: items.add("Hello")
+                  - generic [ref=f6e463]: items.add("world")
+              - paragraph [ref=f6e464]: "What happens here:"
+              - list [ref=f6e465]:
+                - listitem [ref=f6e466]:
+                  - code [ref=f6e467]: CountingList
+                  - text: becomes a generated Java subclass of
+                  - code [ref=f6e468]: java.util.ArrayList
+                - listitem [ref=f6e469]:
+                  - code [ref=f6e470]: added_count
+                  - text: becomes a real Java field on that class
+                - listitem [ref=f6e471]:
+                  - code [ref=f6e472]: add(Object)
+                  - text: is overridden in Java and routed into Python
+                - listitem [ref=f6e473]:
+                  - code [ref=f6e474]: super().add_item(...)
+                  - text: calls the original parent Java implementation
+              - paragraph [ref=f6e475]:
+                - text: Because
+                - code [ref=f6e476]: ArrayList.add
+                - text: is overloaded, the example uses
+                - code [ref=f6e477]: "@joverload(...)"
+                - text: . For overloaded Java methods, prefer explicit signatures instead of bare
+                - code [ref=f6e478]: "@joverride()"
+                - text: .
+              - heading [level=2] [ref=f6e479]:
+                - link "Creating a Java Subclass" [ref=f6e480] [cursor=pointer]:
+                  - /url: "#creating-a-java-subclass"
+                - img "Link to section" [ref=f6e481]
+              - paragraph [ref=f6e484]:
+                - text: Use
+                - code [ref=f6e485]: "@java_subclass"
+                - text: "for the most readable syntax:"
+              - figure [ref=f6e486]:
+                - button "Copy Text" [ref=f6e487] [cursor=pointer]
+                - code [ref=f6e495]:
+                  - generic [ref=f6e496]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e497]: "class MySubclass(Base):"
+                  - generic [ref=f6e498]: ...
+              - paragraph [ref=f6e499]: "If the generated Java class must also implement interfaces, pass them after the base class:"
+              - figure [ref=f6e500]:
+                - button "Copy Text" [ref=f6e501] [cursor=pointer]
+                - code [ref=f6e509]:
+                  - generic [ref=f6e510]: "@java_subclass(FrameLayout, CustomDelegate1, CustomDelegate2)"
+                  - generic [ref=f6e511]: "class MyCell(Base):"
+                  - generic [ref=f6e512]: ...
+              - paragraph [ref=f6e513]: "This produces a generated Java class equivalent to:"
+              - figure [ref=f6e514]:
+                - button "Copy Text" [ref=f6e515] [cursor=pointer]
+                - code [ref=f6e523]:
+                  - generic [ref=f6e524]: class GeneratedProxy extends FrameLayout implements CustomDelegate1, CustomDelegate2
+              - heading [level=3] [ref=f6e525]:
+                - link "Custom generated class name" [ref=f6e526] [cursor=pointer]:
+                  - /url: "#custom-generated-class-name"
+                - img "Link to section" [ref=f6e527]
+              - generic [ref=f6e533]:
+                - paragraph [ref=f6e534]: App version
+                - paragraph [ref=f6e536]:
+                  - text: Work only in app, which version code >=
+                  - code [ref=f6e537]: "66690"
+              - paragraph [ref=f6e538]:
+                - text: You can control the middle part of the generated Java proxy class name with
+                - code [ref=f6e539]: custom_name=...
+                - text: .
+              - figure [ref=f6e540]:
+                - button "Copy Text" [ref=f6e541] [cursor=pointer]
+                - code [ref=f6e549]:
+                  - generic [ref=f6e550]: "@java_subclass(Object, custom_name=\"DialogCell\")"
+                  - generic [ref=f6e551]: "class Test(Base):"
+                  - generic [ref=f6e552]: ...
+              - paragraph [ref=f6e553]: "That generates a class name in this shape:"
+              - figure [ref=f6e554]:
+                - button "Copy Text" [ref=f6e555] [cursor=pointer]
+                - code [ref=f6e563]:
+                  - generic [ref=f6e564]: Proxy_Object_DialogCell_<hashcode>_<randomnum>
+              - paragraph [ref=f6e565]:
+                - text: If
+                - code [ref=f6e566]: custom_name
+                - text: "is not provided, the proxy system uses the Python class name automatically:"
+              - figure [ref=f6e567]:
+                - button "Copy Text" [ref=f6e568] [cursor=pointer]
+                - code [ref=f6e576]:
+                  - generic [ref=f6e577]: "@java_subclass(Object)"
+                  - generic [ref=f6e578]: "class Test(Base):"
+                  - generic [ref=f6e579]: ...
+              - paragraph [ref=f6e580]: "This becomes:"
+              - figure [ref=f6e581]:
+                - button "Copy Text" [ref=f6e582] [cursor=pointer]
+                - code [ref=f6e590]:
+                  - generic [ref=f6e591]: Proxy_Object_Test_<number>_<number>
+              - paragraph [ref=f6e592]:
+                - text: The same option is available on
+                - code [ref=f6e593]: bind(...)
+                - text: ":"
+              - figure [ref=f6e594]:
+                - button "Copy Text" [ref=f6e595] [cursor=pointer]
+                - code [ref=f6e603]:
+                  - generic [ref=f6e604]: MySubclass.bind(SomeJavaClass, custom_name="SettingsRow")
+              - paragraph [ref=f6e605]:
+                - text: Names are sanitized before generation, so unsupported characters are replaced with
+                - code [ref=f6e606]: _
+                - text: .
+              - paragraph [ref=f6e607]: Generated proxy classes are also loaded through a shared generated-class loader chain, so a proxy created later can reference earlier generated proxy classes when needed.
+              - paragraph [ref=f6e608]: This is still not a substitute for a stable API type. If possible, prefer referencing another proxy through an interface or a common base class instead of depending on the exact generated class.
+              - paragraph [ref=f6e609]: "You can also bind after the class definition:"
+              - figure [ref=f6e610]:
+                - button "Copy Text" [ref=f6e611] [cursor=pointer]
+                - code [ref=f6e619]:
+                  - generic [ref=f6e620]: "class MySubclass(Base):"
+                  - generic [ref=f6e621]: ...
+                  - generic [ref=f6e624]: MySubclass.bind(SomeJavaClass)
+              - paragraph [ref=f6e625]:
+                - text: And
+                - code [ref=f6e626]: bind(...)
+                - text: "supports the same interface list:"
+              - figure [ref=f6e627]:
+                - button "Copy Text" [ref=f6e628] [cursor=pointer]
+                - code [ref=f6e636]:
+                  - generic [ref=f6e637]: MySubclass.bind(FrameLayout, CustomDelegate1, CustomDelegate2)
+              - paragraph [ref=f6e638]: "To get the generated Java class:"
+              - figure [ref=f6e639]:
+                - button "Copy Text" [ref=f6e640] [cursor=pointer]
+                - code [ref=f6e648]:
+                  - generic [ref=f6e649]: proxy_java_class = MySubclass.java_class()
+              - paragraph [ref=f6e650]: "To create an instance:"
+              - figure [ref=f6e651]:
+                - button "Copy Text" [ref=f6e652] [cursor=pointer]
+                - code [ref=f6e660]:
+                  - generic [ref=f6e661]: instance = MySubclass.new_instance()
+                  - generic [ref=f6e662]: "instance2 = MySubclass.new_instance(\"text\", 123) # provide java-constructor args"
+              - paragraph [ref=f6e663]:
+                - code [ref=f6e664]: instance
+                - text: is a Python peer of
+                - code [ref=f6e665]: MySubclass
+                - text: ". If you need the raw Java object:"
+              - figure [ref=f6e666]:
+                - button "Copy Text" [ref=f6e667] [cursor=pointer]
+                - code [ref=f6e675]:
+                  - generic [ref=f6e676]: java_instance = instance.java
+                  - generic [ref=f6e677]: java_instance2 = MySubclass.new_java_instance("text", 123)
+              - paragraph [ref=f6e678]:
+                - text: If you want to pass separate arguments into the Python
+                - code [ref=f6e679]: __init__
+                - text: method, use
+                - code [ref=f6e680]: init_args
+                - text: ":"
+              - figure [ref=f6e681]:
+                - button "Copy Text" [ref=f6e682] [cursor=pointer]
+                - code [ref=f6e690]:
+                  - generic [ref=f6e691]: instance = MySubclass.new_instance("java ctor value", init_args=["python init value"])
+              - paragraph [ref=f6e692]: "In this case:"
+              - list [ref=f6e693]:
+                - listitem [ref=f6e694]:
+                  - code [ref=f6e695]: "\"java ctor value\""
+                  - text: is used for Java constructor resolution
+                - listitem [ref=f6e696]:
+                  - code [ref=f6e697]: "[\"python init value\"]"
+                  - text: is passed to Python
+                  - code [ref=f6e698]: __init__
+              - paragraph [ref=f6e699]:
+                - text: If you already have a raw Java instance of the generated class and want to recover its Python peer, use
+                - code [ref=f6e700]: from_java(...)
+                - text: ":"
+              - figure [ref=f6e701]:
+                - button "Copy Text" [ref=f6e702] [cursor=pointer]
+                - code [ref=f6e710]:
+                  - generic [ref=f6e711]: existing_java = MySubclass.new_java_instance("text")
+                  - generic [ref=f6e712]: peer = MySubclass.from_java(existing_java)
+              - paragraph [ref=f6e713]: "This is useful when:"
+              - list [ref=f6e714]:
+                - listitem [ref=f6e715]: some Java API created or stored the proxy instance for you
+                - listitem [ref=f6e716]: you received the generated object back through another callback
+                - listitem [ref=f6e717]: you want to continue working with the Python peer instead of the raw Java object
+              - heading [level=2] [ref=f6e718]:
+                - link "Overriding Methods" [ref=f6e719] [cursor=pointer]:
+                  - /url: "#overriding-methods"
+                - img "Link to section" [ref=f6e720]
+              - heading [level=3] [ref=f6e723]:
+                - link "Simple Override" [ref=f6e724] [cursor=pointer]:
+                  - /url: "#simple-override"
+                - img "Link to section" [ref=f6e725]
+              - paragraph [ref=f6e728]: "If the Java method name is the same as the Python method name:"
+              - figure [ref=f6e729]:
+                - button "Copy Text" [ref=f6e730] [cursor=pointer]
+                - code [ref=f6e738]:
+                  - generic [ref=f6e739]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e740]: "class MySubclass(Base):"
+                  - generic [ref=f6e741]: "@joverride()"
+                  - generic [ref=f6e742]: "def onClick(self, view):"
+                  - generic [ref=f6e743]: print("Clicked")
+              - heading [level=3] [ref=f6e744]:
+                - link "Override With Another Python Name" [ref=f6e745] [cursor=pointer]:
+                  - /url: "#override-with-another-python-name"
+                - img "Link to section" [ref=f6e746]
+              - paragraph [ref=f6e749]: "If the Java method name is not convenient in Python, pass it explicitly:"
+              - figure [ref=f6e750]:
+                - button "Copy Text" [ref=f6e751] [cursor=pointer]
+                - code [ref=f6e759]:
+                  - generic [ref=f6e760]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e761]: "class MySubclass(Base):"
+                  - generic [ref=f6e762]: "@joverride(\"equals\")"
+                  - generic [ref=f6e763]: "def equals_(self, a, b):"
+                  - generic [ref=f6e764]: return a == b
+              - paragraph [ref=f6e765]:
+                - text: This is useful for names such as
+                - code [ref=f6e766]: equals
+                - text: ","
+                - code [ref=f6e767]: hashCode
+                - text: ", or when you want several Python handlers for overloaded methods."
+              - heading [level=2] [ref=f6e768]:
+                - link "Overloaded Methods" [ref=f6e769] [cursor=pointer]:
+                  - /url: "#overloaded-methods"
+                - img "Link to section" [ref=f6e770]
+              - paragraph [ref=f6e773]: When a Java class has several methods with the same name, use the overload-aware decorators.
+              - figure [ref=f6e774]:
+                - button "Copy Text" [ref=f6e775] [cursor=pointer]
+                - code [ref=f6e783]:
+                  - generic [ref=f6e784]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e785]: "class MySubclass(Base):"
+                  - generic [ref=f6e786]: "@joverload(\"setValue\", [\"int\"])"
+                  - generic [ref=f6e787]: "def set_value_int(self, value):"
+                  - generic [ref=f6e788]: print("int overload", value)
+                  - generic [ref=f6e790]: "@joverload(\"setValue\", [\"java.lang.String\"])"
+                  - generic [ref=f6e791]: "def set_value_text(self, value):"
+                  - generic [ref=f6e792]: print("string overload", value)
+              - paragraph [ref=f6e793]:
+                - text: You can write the same thing with
+                - code [ref=f6e794]: joverride
+                - text: ":"
+              - figure [ref=f6e795]:
+                - button "Copy Text" [ref=f6e796] [cursor=pointer]
+                - code [ref=f6e804]:
+                  - generic [ref=f6e805]: "@joverride(\"setValue\", [\"int\"])"
+                  - generic [ref=f6e806]: "def set_value_int(self, value):"
+                  - generic [ref=f6e807]: ...
+              - heading [level=3] [ref=f6e808]:
+                - link "Supported Type Formats" [ref=f6e809] [cursor=pointer]:
+                  - /url: "#supported-type-formats"
+                - img "Link to section" [ref=f6e810]
+              - paragraph [ref=f6e813]: "Argument and return types may be specified as:"
+              - list [ref=f6e814]:
+                - listitem [ref=f6e815]:
+                  - text: primitive names like
+                  - code [ref=f6e816]: "\"int\""
+                  - text: ","
+                  - code [ref=f6e817]: "\"boolean\""
+                  - text: ","
+                  - code [ref=f6e818]: "\"long\""
+                - listitem [ref=f6e819]:
+                  - text: fully-qualified class names like
+                  - code [ref=f6e820]: "\"java.lang.String\""
+                - listitem [ref=f6e821]:
+                  - text: Java classes returned by
+                  - code [ref=f6e822]: jclass(...)
+                - listitem [ref=f6e823]: Java primitive type objects
+              - paragraph [ref=f6e824]: "Example:"
+              - figure [ref=f6e825]:
+                - button "Copy Text" [ref=f6e826] [cursor=pointer]
+                - code [ref=f6e834]:
+                  - generic [ref=f6e835]: from java import jclass
+                  - generic [ref=f6e837]: View = jclass("android.view.View")
+                  - generic [ref=f6e839]: "@joverload(\"setView\", [View])"
+                  - generic [ref=f6e840]: "def set_view(self, view):"
+                  - generic [ref=f6e841]: ...
+              - heading [level=2] [ref=f6e842]:
+                - link [ref=f6e843] [cursor=pointer]:
+                  - /url: "#calling-parent-methods-with-super"
+                  - text: Calling Parent Methods With
+                  - code [ref=f6e844]: super()
+                - img "Link to section" [ref=f6e845]
+              - paragraph [ref=f6e848]:
+                - text: For overridden methods,
+                - code [ref=f6e849]: super()
+                - text: "works like a normal Python method call:"
+              - figure [ref=f6e850]:
+                - button "Copy Text" [ref=f6e851] [cursor=pointer]
+                - code [ref=f6e859]:
+                  - generic [ref=f6e860]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e861]: "class MySubclass(Base):"
+                  - generic [ref=f6e862]: "@joverride()"
+                  - generic [ref=f6e863]: "def onClick(self, view):"
+                  - generic [ref=f6e864]: print("Before parent")
+                  - generic [ref=f6e865]: result = super().onClick(view)
+                  - generic [ref=f6e866]: print("After parent")
+                  - generic [ref=f6e867]: return result
+              - paragraph [ref=f6e868]: "For overloaded methods, call the Python method name you defined:"
+              - figure [ref=f6e869]:
+                - button "Copy Text" [ref=f6e870] [cursor=pointer]
+                - code [ref=f6e878]:
+                  - generic [ref=f6e879]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e880]: "class MySubclass(Base):"
+                  - generic [ref=f6e881]: "@joverload(\"setValue\", [\"int\"])"
+                  - generic [ref=f6e882]: "def set_value_int(self, value):"
+                  - generic [ref=f6e883]: return super().set_value_int(value)
+              - heading [level=2] [ref=f6e884]:
+                - link "Adding New Java Methods" [ref=f6e885] [cursor=pointer]:
+                  - /url: "#adding-new-java-methods"
+                - img "Link to section" [ref=f6e886]
+              - paragraph [ref=f6e889]:
+                - text: Use
+                - code [ref=f6e890]: "@jmethod"
+                - text: to declare a method which does not exist on the parent Java class.
+              - figure [ref=f6e891]:
+                - button "Copy Text" [ref=f6e892] [cursor=pointer]
+                - code [ref=f6e900]:
+                  - generic [ref=f6e901]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e902]: "class MySubclass(Base):"
+                  - generic [ref=f6e903]: "@jmethod(\"debugLabel\", \"java.lang.String\", [\"int\"])"
+                  - generic [ref=f6e904]: "def build_debug_label(self, value):"
+                  - generic [ref=f6e905]: "return f\"value={value}\""
+              - paragraph [ref=f6e906]:
+                - text: This creates a real Java method named
+                - code [ref=f6e907]: debugLabel(int)
+                - text: on the generated class.
+              - heading [level=3] [ref=f6e908]:
+                - link [ref=f6e909] [cursor=pointer]:
+                  - /url: "#jmethod-signatures"
+                  - code [ref=f6e910]: jmethod
+                  - text: Signatures
+                - img "Link to section" [ref=f6e911]
+              - paragraph [ref=f6e914]: "These forms are supported:"
+              - figure [ref=f6e915]:
+                - button "Copy Text" [ref=f6e916] [cursor=pointer]
+                - code [ref=f6e924]:
+                  - generic [ref=f6e925]: "@jmethod(\"java.lang.String\", [\"int\"])"
+                  - generic [ref=f6e926]: "def my_method(self, value):"
+                  - generic [ref=f6e927]: ...
+                  - generic [ref=f6e929]: "@jmethod(\"debugLabel\", \"java.lang.String\", [\"int\"])"
+                  - generic [ref=f6e930]: "def build_debug_label(self, value):"
+                  - generic [ref=f6e931]: ...
+              - paragraph [ref=f6e932]:
+                - text: If the return type and argument types are not passed explicitly,
+                - code [ref=f6e933]: jmethod
+                - text: "can infer them from Python annotations:"
+              - figure [ref=f6e934]:
+                - button "Copy Text" [ref=f6e935] [cursor=pointer]
+                - code [ref=f6e943]:
+                  - generic [ref=f6e944]: "@jmethod()"
+                  - generic [ref=f6e945]: "def build_debug_label(self, value: \"int\") -> \"java.lang.String\":"
+                  - generic [ref=f6e946]: "return f\"value={value}\""
+              - paragraph [ref=f6e947]: Explicit types are still recommended when the Java signature matters a lot.
+              - heading [level=2] [ref=f6e948]:
+                - link "Adding MVEL Methods" [ref=f6e949] [cursor=pointer]:
+                  - /url: "#adding-mvel-methods"
+                - img "Link to section" [ref=f6e950]
+              - paragraph [ref=f6e953]:
+                - text: If a method is called very often and the logic is simple enough to keep on the Java side, you can generate a method whose body is executed by
+                - code [ref=f6e954]: MVEL
+                - text: instead of calling Python.
+              - figure [ref=f6e955]:
+                - button "Copy Text" [ref=f6e956] [cursor=pointer]
+                - code [ref=f6e964]:
+                  - generic [ref=f6e965]: from extera_utils.classes import Base, java_subclass, jMVELmethod
+                  - generic [ref=f6e968]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e969]: "class MySubclass(Base):"
+                  - generic [ref=f6e970]: debug_label = jMVELmethod(
+                  - generic [ref=f6e971]: return_type="java.lang.String",
+                  - generic [ref=f6e972]: arguments=[("prefix", "java.lang.String"), ("value", "int")],
+                  - generic [ref=f6e973]: code="""
+                  - generic [ref=f6e974]: "return prefix + \": value=\" + value + \", class=\" + java.getClass().getSimpleName();"
+                  - generic [ref=f6e975]: "\"\"\","
+                  - generic [ref=f6e976]: )
+              - paragraph [ref=f6e977]:
+                - text: This creates a real Java method named
+                - code [ref=f6e978]: debug_label(String, int)
+                - text: on the generated class, but its implementation runs through compiled MVEL.
+              - heading [level=3] [ref=f6e979]:
+                - link "Overriding With MVEL" [ref=f6e980] [cursor=pointer]:
+                  - /url: "#overriding-with-mvel"
+                - img "Link to section" [ref=f6e981]
+              - paragraph [ref=f6e984]:
+                - text: For parent methods, use
+                - code [ref=f6e985]: jMVELoverride(...)
+                - text: ":"
+              - figure [ref=f6e986]:
+                - button "Copy Text" [ref=f6e987] [cursor=pointer]
+                - code [ref=f6e995]:
+                  - generic [ref=f6e996]: from extera_utils.classes import Base, java_subclass, jMVELoverride
+                  - generic [ref=f6e999]: "@java_subclass(SomeFactoryClass)"
+                  - generic [ref=f6e1000]: "class OptimizedFactory(Base):"
+                  - generic [ref=f6e1001]: isClickable = jMVELoverride(
+                  - generic [ref=f6e1002]: arguments=[],
+                  - generic [ref=f6e1003]: code="return factory_is_clickable;",
+                  - generic [ref=f6e1004]: )
+              - paragraph [ref=f6e1005]:
+                - text: If the parent method is overloaded, pass explicit argument types just like
+                - code [ref=f6e1006]: "@joverload(...)"
+                - text: ":"
+              - figure [ref=f6e1007]:
+                - button "Copy Text" [ref=f6e1008] [cursor=pointer]
+                - code [ref=f6e1016]:
+                  - generic [ref=f6e1017]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e1018]: "class MySubclass(Base):"
+                  - generic [ref=f6e1019]: add = jMVELoverride(
+                  - generic [ref=f6e1020]: arguments=[("value", "java.lang.Object")],
+                  - generic [ref=f6e1021]: code="""
+                  - generic [ref=f6e1022]: add_calls = add_calls + 1;
+                  - generic [ref=f6e1023]: return SUPER_add(value);
+                  - generic [ref=f6e1024]: "\"\"\","
+                  - generic [ref=f6e1025]: )
+              - heading [level=3] [ref=f6e1026]:
+                - link "MVEL Context" [ref=f6e1027] [cursor=pointer]:
+                  - /url: "#mvel-context"
+                - img "Link to section" [ref=f6e1028]
+              - paragraph [ref=f6e1031]: "Inside MVEL:"
+              - list [ref=f6e1032]:
+                - listitem [ref=f6e1033]: the root object is the generated Java instance, so Java fields and methods can be accessed directly
+                - listitem [ref=f6e1034]:
+                  - code [ref=f6e1035]: java
+                  - text: ": the same generated Java instance"
+                - listitem [ref=f6e1036]:
+                  - code [ref=f6e1037]: python
+                  - text: /
+                  - code [ref=f6e1038]: py
+                  - text: /
+                  - code [ref=f6e1039]: self
+                  - text: ": the attached Python peer object"
+                - listitem [ref=f6e1040]:
+                  - code [ref=f6e1041]: args
+                  - text: ":"
+                  - code [ref=f6e1042]: Object[]
+                  - text: with all method arguments
+                - listitem [ref=f6e1043]:
+                  - code [ref=f6e1044]: argc
+                  - text: ": number of arguments"
+                - listitem [ref=f6e1045]:
+                  - code [ref=f6e1046]: arg0
+                  - text: ","
+                  - code [ref=f6e1047]: arg1
+                  - text: ", ...: positional arguments"
+                - listitem [ref=f6e1048]:
+                  - text: named arguments from
+                  - code [ref=f6e1049]: arguments=[("name", "type"), ...]
+              - paragraph [ref=f6e1050]: "That means all of these are valid:"
+              - figure [ref=f6e1051]:
+                - button "Copy Text" [ref=f6e1052] [cursor=pointer]
+                - code [ref=f6e1060]:
+                  - generic [ref=f6e1061]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e1062]: "class MySubclass(Base):"
+                  - generic [ref=f6e1063]: describe = jMVELmethod(
+                  - generic [ref=f6e1064]: return_type="java.lang.String",
+                  - generic [ref=f6e1065]: arguments=[("value", "int")],
+                  - generic [ref=f6e1066]: code="""
+                  - generic [ref=f6e1067]: return "value=" + value + ", class=" + java.getClass().getSimpleName();
+                  - generic [ref=f6e1068]: "\"\"\","
+                  - generic [ref=f6e1069]: )
+              - paragraph [ref=f6e1070]:
+                - text: For override methods, the generated
+                - code [ref=f6e1071]: SUPER_<methodName>(...)
+                - text: "bridge is also available:"
+              - figure [ref=f6e1072]:
+                - button "Copy Text" [ref=f6e1073] [cursor=pointer]
+                - code [ref=f6e1081]:
+                  - generic [ref=f6e1082]: "@java_subclass(SomeViewClass)"
+                  - generic [ref=f6e1083]: "class MyView(Base):"
+                  - generic [ref=f6e1084]: onMeasure = jMVELoverride(
+                  - generic [ref=f6e1085]: arguments=[("widthMeasureSpec", "int"), ("heightMeasureSpec", "int")],
+                  - generic [ref=f6e1086]: code="""
+                  - generic [ref=f6e1087]: SUPER_onMeasure(
+                  - generic [ref=f6e1088]: android.view.View$MeasureSpec.makeMeasureSpec(
+                  - generic [ref=f6e1089]: android.view.View$MeasureSpec.getSize(widthMeasureSpec),
+                  - generic [ref=f6e1090]: android.view.View$MeasureSpec.EXACTLY
+                  - generic [ref=f6e1091]: ),
+                  - generic [ref=f6e1092]: android.view.View$MeasureSpec.makeMeasureSpec(
+                  - generic [ref=f6e1093]: org.telegram.messenger.AndroidUtilities.dp(68),
+                  - generic [ref=f6e1094]: android.view.View$MeasureSpec.EXACTLY
+                  - generic [ref=f6e1095]: )
+                  - generic [ref=f6e1096]: );
+                  - generic [ref=f6e1097]: return null;
+                  - generic [ref=f6e1098]: "\"\"\","
+                  - generic [ref=f6e1099]: )
+              - paragraph [ref=f6e1100]: That pattern is useful for small hot-path UI overrides where the method body is simple but called very often.
+              - heading [level=3] [ref=f6e1101]:
+                - link "When To Use MVEL" [ref=f6e1102] [cursor=pointer]:
+                  - /url: "#when-to-use-mvel"
+                - img "Link to section" [ref=f6e1103]
+              - list [ref=f6e1106]:
+                - listitem [ref=f6e1107]:
+                  - text: Use
+                  - code [ref=f6e1108]: jfield(..., methods=[jgetmethod(...), jsetmethod(...)])
+                  - text: for pure field getter/setter hot paths. That is still the fastest option.
+                - listitem [ref=f6e1109]:
+                  - text: Use
+                  - code [ref=f6e1110]: jMVELmethod(...)
+                  - text: or
+                  - code [ref=f6e1111]: jMVELoverride(...)
+                  - text: when the method needs a bit of logic, but you still want to avoid calling into Python every time.
+                - listitem [ref=f6e1112]: Keep MVEL bodies small and predictable. If the logic needs Python objects, complex state, or heavy control flow, regular Python overrides are usually easier to maintain.
+              - heading [level=2] [ref=f6e1113]:
+                - link "Adding Java Fields" [ref=f6e1114] [cursor=pointer]:
+                  - /url: "#adding-java-fields"
+                - img "Link to section" [ref=f6e1115]
+              - paragraph [ref=f6e1118]:
+                - text: Use
+                - code [ref=f6e1119]: jfield
+                - text: to declare fields on the generated Java class.
+              - figure [ref=f6e1120]:
+                - button "Copy Text" [ref=f6e1121] [cursor=pointer]
+                - code [ref=f6e1129]:
+                  - generic [ref=f6e1130]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e1131]: "class MySubclass(Base):"
+                  - generic [ref=f6e1132]: counter = jfield("int", default=0)
+                  - generic [ref=f6e1133]: title = jfield("java.lang.String", default="Hello")
+              - paragraph [ref=f6e1134]: "You can read and write them like normal Python attributes:"
+              - figure [ref=f6e1135]:
+                - button "Copy Text" [ref=f6e1136] [cursor=pointer]
+                - code [ref=f6e1144]:
+                  - generic [ref=f6e1145]: self.counter += 1
+                  - generic [ref=f6e1146]: self.title = "Updated"
+              - paragraph [ref=f6e1147]: "Notes:"
+              - list [ref=f6e1148]:
+                - listitem [ref=f6e1149]: the field is generated on the Java class
+                - listitem [ref=f6e1150]: the value is available through the Python peer object as a normal attribute
+                - listitem [ref=f6e1151]: assigning to the field updates the attached Java instance when possible
+              - heading [level=3] [ref=f6e1152]:
+                - link "Java-only Field Accessors" [ref=f6e1153] [cursor=pointer]:
+                  - /url: "#java-only-field-accessors"
+                - img "Link to section" [ref=f6e1154]
+              - paragraph [ref=f6e1157]:
+                - text: If a method is called very often and it only needs to return or update a field value, you can generate a Java-only getter or setter directly from
+                - code [ref=f6e1158]: jfield(...)
+                - text: .
+              - figure [ref=f6e1159]:
+                - button "Copy Text" [ref=f6e1160] [cursor=pointer]
+                - code [ref=f6e1168]:
+                  - generic [ref=f6e1169]: from extera_utils.classes import jfield, jgetmethod, jsetmethod
+                  - generic [ref=f6e1172]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e1173]: "class MySubclass(Base):"
+                  - generic [ref=f6e1174]: shadow_value = jfield(
+                  - generic [ref=f6e1175]: "\"boolean\","
+                  - generic [ref=f6e1176]: default=False,
+                  - generic [ref=f6e1177]: methods=[
+                  - generic [ref=f6e1178]: jgetmethod("isShadow"),
+                  - generic [ref=f6e1179]: jsetmethod("setShadow"),
+                  - generic [ref=f6e1180]: "],"
+                  - generic [ref=f6e1181]: )
+              - paragraph [ref=f6e1182]: "This generates:"
+              - list [ref=f6e1183]:
+                - listitem [ref=f6e1184]:
+                  - text: a Java field named
+                  - code [ref=f6e1185]: shadow_value
+                - listitem [ref=f6e1186]:
+                  - text: a Java method
+                  - code [ref=f6e1187]: isShadow()
+                  - text: which directly returns that field
+                - listitem [ref=f6e1188]:
+                  - text: a Java method
+                  - code [ref=f6e1189]: setShadow(boolean)
+                  - text: which directly writes that field
+              - paragraph [ref=f6e1190]: These accessor methods do not call into Python at all, so they are useful for very hot paths such as repeated UI queries.
+              - paragraph [ref=f6e1191]: "This is especially useful when you want to override a parent getter with a static value:"
+              - figure [ref=f6e1192]:
+                - button "Copy Text" [ref=f6e1193] [cursor=pointer]
+                - code [ref=f6e1201]:
+                  - generic [ref=f6e1202]: "@java_subclass(SomeFactoryClass)"
+                  - generic [ref=f6e1203]: "class OptimizedFactory(Base):"
+                  - generic [ref=f6e1204]: is_shadow_value = jfield(
+                  - generic [ref=f6e1205]: "\"boolean\","
+                  - generic [ref=f6e1206]: default=False,
+                  - generic [ref=f6e1207]: methods=[jgetmethod("isShadow")],
+                  - generic [ref=f6e1208]: )
+              - paragraph [ref=f6e1209]:
+                - text: If
+                - code [ref=f6e1210]: SomeFactoryClass
+                - text: already has
+                - code [ref=f6e1211]: isShadow()
+                - text: ", the generated Java method overrides it in the proxy class and returns the field immediately."
+              - paragraph [ref=f6e1212]: Because generated proxy classes now load through a shared generated-class loader chain, a proxy created later can also reference a proxy class created earlier as a field or method type if you truly need that.
+              - paragraph [ref=f6e1213]: Even so, a stable shared type such as an interface or common base class is still the safer design for public APIs.
+              - heading [level=2] [ref=f6e1214]:
+                - link "Constructors" [ref=f6e1215] [cursor=pointer]:
+                  - /url: "#constructors"
+                - img "Link to section" [ref=f6e1216]
+              - paragraph [ref=f6e1219]: "Constructor hooks are split into two stages:"
+              - list [ref=f6e1220]:
+                - listitem [ref=f6e1221]:
+                  - code [ref=f6e1222]: "@jpreconstructor(...)"
+                  - text: ": before the parent Java constructor call"
+                - listitem [ref=f6e1223]:
+                  - code [ref=f6e1224]: "@jconstructor(...)"
+                  - text: ": after the Java object has already been created"
+              - heading [level=3] [ref=f6e1225]:
+                - link "Pre-constructor" [ref=f6e1226] [cursor=pointer]:
+                  - /url: "#pre-constructor"
+                - img "Link to section" [ref=f6e1227]
+              - paragraph [ref=f6e1230]: "Use this when you need to change constructor arguments:"
+              - figure [ref=f6e1231]:
+                - button "Copy Text" [ref=f6e1232] [cursor=pointer]
+                - code [ref=f6e1240]:
+                  - generic [ref=f6e1241]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e1242]: "class MySubclass(Base):"
+                  - generic [ref=f6e1243]: "@jpreconstructor([\"java.lang.String\"])"
+                  - generic [ref=f6e1244]: "def normalize_text(cls, text):"
+                  - generic [ref=f6e1245]: return [text.strip()]
+              - paragraph [ref=f6e1246]: "The function should return:"
+              - list [ref=f6e1247]:
+                - listitem [ref=f6e1248]:
+                  - code [ref=f6e1249]: None
+                  - text: to keep original arguments
+                - listitem [ref=f6e1250]: a list or tuple with replacement arguments
+                - listitem [ref=f6e1251]: a single value for a one-argument constructor
+              - heading [level=3] [ref=f6e1252]:
+                - link "Post-constructor" [ref=f6e1253] [cursor=pointer]:
+                  - /url: "#post-constructor"
+                - img "Link to section" [ref=f6e1254]
+              - paragraph [ref=f6e1257]: "Use this when the Java object already exists and you want to initialize Python state:"
+              - figure [ref=f6e1258]:
+                - button "Copy Text" [ref=f6e1259] [cursor=pointer]
+                - code [ref=f6e1267]:
+                  - generic [ref=f6e1268]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e1269]: "class MySubclass(Base):"
+                  - generic [ref=f6e1270]: initialized = jfield("boolean", default=False)
+                  - generic [ref=f6e1272]: "@jconstructor([\"java.lang.String\"])"
+                  - generic [ref=f6e1273]: "def init_from_text(self, text):"
+                  - generic [ref=f6e1274]: self.initialized = True
+                  - generic [ref=f6e1275]: self.last_text = text
+              - heading [level=3] [ref=f6e1276]:
+                - link [ref=f6e1277] [cursor=pointer]:
+                  - /url: "#__init__-and-on_post_init"
+                  - code [ref=f6e1278]: __init__
+                  - text: and
+                  - code [ref=f6e1279]: on_post_init
+                - img "Link to section" [ref=f6e1280]
+              - paragraph [ref=f6e1283]: "The managed DSL also supports generic initialization:"
+              - figure [ref=f6e1284]:
+                - button "Copy Text" [ref=f6e1285] [cursor=pointer]
+                - code [ref=f6e1293]:
+                  - generic [ref=f6e1294]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e1295]: "class MySubclass(Base):"
+                  - generic [ref=f6e1296]: "def __init__(self, text):"
+                  - generic [ref=f6e1297]: self.python_only_state = text
+                  - generic [ref=f6e1299]: "def on_post_init(self, text):"
+                  - generic [ref=f6e1300]: print("Java object is ready:", self.java)
+              - paragraph [ref=f6e1301]: "Initialization order is:"
+              - list [ref=f6e1302]:
+                - listitem [ref=f6e1303]:
+                  - code [ref=f6e1304]: "@jpreconstructor(...)"
+                  - text: if matched
+                - listitem [ref=f6e1305]: Java parent constructor
+                - listitem [ref=f6e1306]:
+                  - text: Python
+                  - code [ref=f6e1307]: __init__(...)
+                - listitem [ref=f6e1308]:
+                  - text: matched
+                  - code [ref=f6e1309]: "@jconstructor(...)"
+                - listitem [ref=f6e1310]:
+                  - code [ref=f6e1311]: on_post_init(...)
+              - paragraph [ref=f6e1312]:
+                - text: If you only need a single generic hook,
+                - code [ref=f6e1313]: __init__
+                - text: is usually enough.
+              - paragraph [ref=f6e1314]:
+                - text: If you need different logic for overloaded constructors, use
+                - code [ref=f6e1315]: "@jconstructor(...)"
+                - text: .
+              - heading [level=3] [ref=f6e1316]:
+                - link "Separate Python init arguments" [ref=f6e1317] [cursor=pointer]:
+                  - /url: "#separate-python-init-arguments"
+                - img "Link to section" [ref=f6e1318]
+              - paragraph [ref=f6e1321]:
+                - text: By default, Python
+                - code [ref=f6e1322]: __init__
+                - text: receives the same arguments as the Java constructor.
+              - paragraph [ref=f6e1323]:
+                - text: If you need different Python-only initialization data, pass it explicitly through
+                - code [ref=f6e1324]: new_instance(..., init_args=[...])
+                - text: ":"
+              - figure [ref=f6e1325]:
+                - button "Copy Text" [ref=f6e1326] [cursor=pointer]
+                - code [ref=f6e1334]:
+                  - generic [ref=f6e1335]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e1336]: "class MySubclass(Base):"
+                  - generic [ref=f6e1337]: "def __init__(self, title, debug_mode):"
+                  - generic [ref=f6e1338]: self.title = title
+                  - generic [ref=f6e1339]: self.debug_mode = debug_mode
+                  - generic [ref=f6e1342]: instance = MySubclass.new_instance(
+                  - generic [ref=f6e1343]: "\"java constructor text\","
+                  - generic [ref=f6e1344]: init_args=["Python title", True],
+                  - generic [ref=f6e1345]: )
+              - paragraph [ref=f6e1346]: This is useful when the Java constructor signature and the Python peer state do not match exactly.
+              - heading [level=2] [ref=f6e1347]:
+                - link "Accessing the Attached Java Instance" [ref=f6e1348] [cursor=pointer]:
+                  - /url: "#accessing-the-attached-java-instance"
+                - img "Link to section" [ref=f6e1349]
+              - paragraph [ref=f6e1352]: "Inside a managed subclass:"
+              - list [ref=f6e1353]:
+                - listitem [ref=f6e1354]:
+                  - code [ref=f6e1355]: self.java
+                  - text: is the attached Java instance
+                - listitem [ref=f6e1356]:
+                  - code [ref=f6e1357]: self.this
+                  - text: is an alias to
+                  - code [ref=f6e1358]: self.java
+              - paragraph [ref=f6e1359]: "Example:"
+              - figure [ref=f6e1360]:
+                - button "Copy Text" [ref=f6e1361] [cursor=pointer]
+                - code [ref=f6e1369]:
+                  - generic [ref=f6e1370]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e1371]: "class MySubclass(Base):"
+                  - generic [ref=f6e1372]: "@joverride()"
+                  - generic [ref=f6e1373]: "def onAttached(self):"
+                  - generic [ref=f6e1374]: print(self.java.getClass().getName())
+              - paragraph [ref=f6e1375]: "If Python cannot find an attribute on the peer object, it falls back to the Java instance:"
+              - figure [ref=f6e1376]:
+                - button "Copy Text" [ref=f6e1377] [cursor=pointer]
+                - code [ref=f6e1385]:
+                  - generic [ref=f6e1386]: self.getContext()
+                  - generic [ref=f6e1387]: self.hashCode()
+              - paragraph [ref=f6e1388]: "This means most Java calls work directly on the peer object:"
+              - figure [ref=f6e1389]:
+                - button "Copy Text" [ref=f6e1390] [cursor=pointer]
+                - code [ref=f6e1398]:
+                  - generic [ref=f6e1399]: instance = MySubclass.new_instance()
+                  - generic [ref=f6e1400]: instance.hashCode()
+                  - generic [ref=f6e1401]: instance.getClass().getName()
+              - paragraph [ref=f6e1402]:
+                - text: But if a Java API checks the exact runtime type and expects a real Java object parameter, pass
+                - code [ref=f6e1403]: instance.java
+                - text: .
+              - heading [level=2] [ref=f6e1404]:
+                - link "Wrapping Existing Java Instances" [ref=f6e1405] [cursor=pointer]:
+                  - /url: "#wrapping-existing-java-instances"
+                - img "Link to section" [ref=f6e1406]
+              - paragraph [ref=f6e1409]:
+                - text: Sometimes an API hands your generated object back to you as a plain Java object. In that case, use
+                - code [ref=f6e1410]: from_java(...)
+                - text: to recover the Python peer instead of manually copying state around.
+              - figure [ref=f6e1411]:
+                - button "Copy Text" [ref=f6e1412] [cursor=pointer]
+                - code [ref=f6e1420]:
+                  - generic [ref=f6e1421]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e1422]: "class MySubclass(Base):"
+                  - generic [ref=f6e1423]: "@joverride()"
+                  - generic [ref=f6e1424]: "def onAttached(self):"
+                  - generic [ref=f6e1425]: print("Attached!", self.java)
+                  - generic [ref=f6e1428]: peer = MySubclass.new_instance()
+                  - generic [ref=f6e1429]: raw_java = peer.java
+                  - generic [ref=f6e1431]: "# Later, possibly in another callback:"
+                  - generic [ref=f6e1432]: same_peer = MySubclass.from_java(raw_java)
+                  - generic [ref=f6e1433]: same_peer.onAttached()
+              - paragraph [ref=f6e1434]:
+                - text: If the peer already exists,
+                - code [ref=f6e1435]: from_java(...)
+                - text: returns the same Python object. If it does not, the proxy system creates and binds it.
+              - heading [level=2] [ref=f6e1436]:
+                - link "Passing Python Objects Through Java" [ref=f6e1437] [cursor=pointer]:
+                  - /url: "#passing-python-objects-through-java"
+                - img "Link to section" [ref=f6e1438]
+              - paragraph [ref=f6e1441]:
+                - text: The low-level helper
+                - code [ref=f6e1442]: PyObj
+                - text: is available when you need to carry an arbitrary Python object through Java-facing APIs.
+              - figure [ref=f6e1443]:
+                - button "Copy Text" [ref=f6e1444] [cursor=pointer]
+                - code [ref=f6e1452]:
+                  - generic [ref=f6e1453]: from extera_utils.classes import PyObj
+                  - generic [ref=f6e1456]: "payload = PyObj.create({\"debug\": True, \"label\": \"factory args\"})"
+              - paragraph [ref=f6e1457]:
+                - code [ref=f6e1458]: PyObj
+                - text: "is mainly useful when:"
+              - list [ref=f6e1459]:
+                - listitem [ref=f6e1460]: a Java API needs to carry opaque plugin-owned state
+                - listitem [ref=f6e1461]: you are building low-level adapters or factory layers
+                - listitem [ref=f6e1462]:
+                  - text: you want to place Python data into a Java field or something like
+                  - code [ref=f6e1463]: UItem.object
+              - paragraph [ref=f6e1464]:
+                - text: For normal subclassing and method overrides, you usually do not need
+                - code [ref=f6e1465]: PyObj
+                - text: directly.
+              - heading [level=2] [ref=f6e1466]:
+                - link "Built-in Java Object Modifiers" [ref=f6e1467] [cursor=pointer]:
+                  - /url: "#built-in-java-object-modifiers"
+                - img "Link to section" [ref=f6e1468]
+              - paragraph [ref=f6e1471]: "The user-friendly behavior is now available directly in the Externagram Chaquopy fork, so you can use it for any Java object or Java class without additional wrappers or imports:"
+              - figure [ref=f6e1472]:
+                - button "Copy Text" [ref=f6e1473] [cursor=pointer]
+                - code [ref=f6e1481]:
+                  - generic [ref=f6e1482]: obj.JA.privateField
+                  - generic [ref=f6e1483]: obj.JIR.method1().method2()
+                  - generic [ref=f6e1484]: SomeJavaClass.JGS.someStaticProperty
+              - heading [level=3] [ref=f6e1485]:
+                - link "What is available" [ref=f6e1486] [cursor=pointer]:
+                  - /url: "#what-is-available"
+                - img "Link to section" [ref=f6e1487]
+              - paragraph [ref=f6e1490]: There are two groups of modifiers.
+              - paragraph [ref=f6e1491]: "Persistent modifiers:"
+              - list [ref=f6e1492]:
+                - listitem [ref=f6e1493]:
+                  - code [ref=f6e1494]: JUseGetterAndSetter
+                  - text: /
+                  - code [ref=f6e1495]: JGS
+                - listitem [ref=f6e1496]:
+                  - code [ref=f6e1497]: JNotUseGetterAndSetter
+                  - text: /
+                  - code [ref=f6e1498]: JNGS
+                - listitem [ref=f6e1499]:
+                  - code [ref=f6e1500]: JAccessAll
+                  - text: /
+                  - code [ref=f6e1501]: JA
+                - listitem [ref=f6e1502]:
+                  - code [ref=f6e1503]: JNotAccessAll
+                  - text: /
+                  - code [ref=f6e1504]: JNA
+              - paragraph [ref=f6e1505]: These change the behavior of the current Java object or Java class itself.
+              - paragraph [ref=f6e1506]: "Scoped chain modifiers:"
+              - list [ref=f6e1507]:
+                - listitem [ref=f6e1508]:
+                  - code [ref=f6e1509]: JIgnoreResult
+                  - text: /
+                  - code [ref=f6e1510]: JIR
+                - listitem [ref=f6e1511]:
+                  - code [ref=f6e1512]: JNotIgnoreResult
+                  - text: /
+                  - code [ref=f6e1513]: JNIR
+                - listitem [ref=f6e1514]:
+                  - code [ref=f6e1515]: JSafe
+                  - text: /
+                  - code [ref=f6e1516]: JS
+                - listitem [ref=f6e1517]:
+                  - code [ref=f6e1518]: JNotSafe
+                  - text: /
+                  - code [ref=f6e1519]: JNS
+              - paragraph [ref=f6e1520]: These only affect the current access chain and do not permanently mutate the object.
+              - heading [level=3] [ref=f6e1521]:
+                - link "Default behavior" [ref=f6e1522] [cursor=pointer]:
+                  - /url: "#default-behavior"
+                - img "Link to section" [ref=f6e1523]
+              - paragraph [ref=f6e1526]: "By default:"
+              - list [ref=f6e1527]:
+                - listitem [ref=f6e1528]: getter/setter mode is enabled
+                - listitem [ref=f6e1529]: access-all mode is disabled
+                - listitem [ref=f6e1530]: safe mode is disabled
+                - listitem [ref=f6e1531]: ignore-result mode is disabled
+              - paragraph [ref=f6e1532]: That means regular access tries normal Chaquopy behavior first, but field-like names also prefer JavaBean-style accessors when available.
+              - figure [ref=f6e1533]:
+                - button "Copy Text" [ref=f6e1534] [cursor=pointer]
+                - code [ref=f6e1542]:
+                  - generic [ref=f6e1543]: "# If getTitle() exists, this uses it by default."
+                  - generic [ref=f6e1544]: title = obj.title
+                  - generic [ref=f6e1546]: "# If setTitle(...) exists, this uses it by default."
+                  - generic [ref=f6e1547]: obj.title = "Updated"
+              - paragraph [ref=f6e1548]: "This getter/setter preference applies to:"
+              - list [ref=f6e1549]:
+                - listitem [ref=f6e1550]: Java object instances
+                - listitem [ref=f6e1551]: Java classes when you work with static getters/setters
+              - heading [level=3] [ref=f6e1552]:
+                - link "Getter/Setter mode" [ref=f6e1553] [cursor=pointer]:
+                  - /url: "#gettersetter-mode"
+                - img "Link to section" [ref=f6e1554]
+              - paragraph [ref=f6e1557]:
+                - text: Use
+                - code [ref=f6e1558]: JNGS
+                - text: when you want raw field-style access instead of
+                - code [ref=f6e1559]: getX()
+                - text: /
+                - code [ref=f6e1560]: setX(...)
+                - text: .
+              - figure [ref=f6e1561]:
+                - button "Copy Text" [ref=f6e1562] [cursor=pointer]
+                - code [ref=f6e1570]:
+                  - generic [ref=f6e1571]: "# Disable getter/setter mode only for this object."
+                  - generic [ref=f6e1572]: obj.JNGS
+                  - generic [ref=f6e1574]: "# Now this reads the field path directly instead of trying getResult()."
+                  - generic [ref=f6e1575]: value = obj.result
+                  - generic [ref=f6e1577]: "# Turn getter/setter mode back on."
+                  - generic [ref=f6e1578]: obj.JGS
+              - paragraph [ref=f6e1579]: "The same works on classes:"
+              - figure [ref=f6e1580]:
+                - button "Copy Text" [ref=f6e1581] [cursor=pointer]
+                - code [ref=f6e1589]:
+                  - generic [ref=f6e1590]: "# Static getter/setter mode on the class itself."
+                  - generic [ref=f6e1591]: SomeJavaClass.JGS
+                  - generic [ref=f6e1592]: caption = SomeJavaClass.caption
+                  - generic [ref=f6e1593]: SomeJavaClass.caption = "New value"
+              - paragraph [ref=f6e1594]: "Notes:"
+              - list [ref=f6e1595]:
+                - listitem [ref=f6e1596]:
+                  - text: getter/setter mode is intended for field-like names such as
+                  - code [ref=f6e1597]: title
+                  - text: ","
+                  - code [ref=f6e1598]: result
+                  - text: ","
+                  - code [ref=f6e1599]: messageObject
+                - listitem [ref=f6e1600]:
+                  - text: names which already look like methods, such as
+                  - code [ref=f6e1601]: getClass()
+                  - text: or
+                  - code [ref=f6e1602]: isInterface()
+                  - text: ", stay method-like and are not remapped again"
+              - heading [level=3] [ref=f6e1603]:
+                - link "AccessAll mode" [ref=f6e1604] [cursor=pointer]:
+                  - /url: "#accessall-mode"
+                - img "Link to section" [ref=f6e1605]
+              - paragraph [ref=f6e1608]:
+                - text: Use
+                - code [ref=f6e1609]: JA
+                - text: to allow access to non-public declared members.
+              - figure [ref=f6e1610]:
+                - button "Copy Text" [ref=f6e1611] [cursor=pointer]
+                - code [ref=f6e1619]:
+                  - generic [ref=f6e1620]: "# Without JA, private access raises an error."
+                  - generic [ref=f6e1621]: obj.JA
+                  - generic [ref=f6e1623]: "# Private/protected/package-private declared members become accessible."
+                  - generic [ref=f6e1624]: secret = obj.secretField
+                  - generic [ref=f6e1625]: obj.secretMethod()
+                  - generic [ref=f6e1627]: "# Turn the mode off again on the same object."
+                  - generic [ref=f6e1628]: obj.JNA
+              - paragraph [ref=f6e1629]: "This also works on Java classes for static members:"
+              - figure [ref=f6e1630]:
+                - button "Copy Text" [ref=f6e1631] [cursor=pointer]
+                - code [ref=f6e1639]:
+                  - generic [ref=f6e1640]: SomeJavaClass.JA
+                  - generic [ref=f6e1642]: "# Access a private static field or method."
+                  - generic [ref=f6e1643]: token = SomeJavaClass.secretToken
+                  - generic [ref=f6e1644]: SomeJavaClass.rebuildCache()
+                  - generic [ref=f6e1646]: SomeJavaClass.JNA
+              - paragraph [ref=f6e1647]:
+                - text: Internally, the Chaquopy fork caches declared methods, fields, and nested classes per Java class, so
+                - code [ref=f6e1648]: JA
+                - text: does not re-scan reflection metadata every time.
+              - heading [level=3] [ref=f6e1649]:
+                - link "IgnoreResult mode" [ref=f6e1650] [cursor=pointer]:
+                  - /url: "#ignoreresult-mode"
+                - img "Link to section" [ref=f6e1651]
+              - paragraph [ref=f6e1654]:
+                - text: Use
+                - code [ref=f6e1655]: JIR
+                - text: when you want a method chain to keep returning the original receiver instead of the Java return value.
+              - figure [ref=f6e1656]:
+                - button "Copy Text" [ref=f6e1657] [cursor=pointer]
+                - code [ref=f6e1665]:
+                  - generic [ref=f6e1666]: "# All three calls are made on obj."
+                  - generic [ref=f6e1667]: obj.JIR.setTitle("Hello").requestLayout().invalidate()
+                  - generic [ref=f6e1669]: "# Normal behavior resumes outside that chain."
+                  - generic [ref=f6e1670]: result = obj.methodThatReturnsSomething()
+              - paragraph [ref=f6e1671]:
+                - text: You can turn it off in the same chain with
+                - code [ref=f6e1672]: JNIR
+                - text: ":"
+              - figure [ref=f6e1673]:
+                - button "Copy Text" [ref=f6e1674] [cursor=pointer]
+                - code [ref=f6e1682]:
+                  - generic [ref=f6e1683]: "# The first three calls return the original object."
+                  - generic [ref=f6e1684]: "# method4() then returns its real Java result."
+                  - generic [ref=f6e1685]: value = obj.JIR.method1().method2().method3().JNIR.method4()
+              - heading [level=3] [ref=f6e1686]:
+                - link "Safe mode" [ref=f6e1687] [cursor=pointer]:
+                  - /url: "#safe-mode"
+                - img "Link to section" [ref=f6e1688]
+              - paragraph [ref=f6e1691]:
+                - text: Use
+                - code [ref=f6e1692]: JS
+                - text: when you want safe optional-style chaining.
+              - paragraph [ref=f6e1693]:
+                - text: If some attribute or method is missing anywhere in the chain, the result becomes
+                - code [ref=f6e1694]: JNone
+                - text: instead of raising immediately.
+              - figure [ref=f6e1695]:
+                - button "Copy Text" [ref=f6e1696] [cursor=pointer]
+                - code [ref=f6e1704]:
+                  - generic [ref=f6e1705]: value = obj.JS.someAttr.someOtherAttr.someMethod()
+              - paragraph [ref=f6e1706]:
+                - text: Safe mode also propagates to Java objects returned during the chain, so you do
+                - strong [ref=f6e1707]: not
+                - text: need to write
+                - code [ref=f6e1708]: .JS
+                - text: again after every step.
+              - paragraph [ref=f6e1709]:
+                - text: It also treats
+                - code [ref=f6e1710]: None
+                - text: as safe-empty and converts it to
+                - code [ref=f6e1711]: JNone
+                - text: while safe mode is active.
+              - figure [ref=f6e1712]:
+                - button "Copy Text" [ref=f6e1713] [cursor=pointer]
+                - code [ref=f6e1721]:
+                  - generic [ref=f6e1722]: "# If getInfo() returns None, the chain still stays safe."
+                  - generic [ref=f6e1723]: value = obj.JS.info.details.title
+                  - generic [ref=f6e1725]: "# If any step is missing, you get JNone instead of an exception."
+                  - generic [ref=f6e1726]: value = obj.JS.missing.anything.call()
+              - paragraph [ref=f6e1727]:
+                - text: You can disable it mid-chain with
+                - code [ref=f6e1728]: JNS
+                - text: .
+              - heading [level=3] [ref=f6e1729]:
+                - link [ref=f6e1730] [cursor=pointer]:
+                  - /url: "#jnone"
+                  - code [ref=f6e1731]: JNone
+                - img "Link to section" [ref=f6e1732]
+              - paragraph [ref=f6e1735]:
+                - code [ref=f6e1736]: JNone
+                - text: is the sentinel returned by safe chains when access fails or a safe-chain step returns
+                - code [ref=f6e1737]: None
+                - text: .
+              - paragraph [ref=f6e1738]: "Properties:"
+              - list [ref=f6e1739]:
+                - listitem [ref=f6e1740]: falsy in boolean context
+                - listitem [ref=f6e1741]: keeps swallowing attribute access
+                - listitem [ref=f6e1742]: keeps swallowing calls
+                - listitem [ref=f6e1743]: can be compared by identity when needed
+              - figure [ref=f6e1744]:
+                - button "Copy Text" [ref=f6e1745] [cursor=pointer]
+                - code [ref=f6e1753]:
+                  - generic [ref=f6e1754]: from java import JNone
+                  - generic [ref=f6e1756]: result = obj.JS.maybeNull.value
+                  - generic [ref=f6e1758]: "if result is JNone:"
+                  - generic [ref=f6e1759]: print("No value")
+              - heading [level=3] [ref=f6e1760]:
+                - link "Object-level and class-level examples" [ref=f6e1761] [cursor=pointer]:
+                  - /url: "#object-level-and-class-level-examples"
+                - img "Link to section" [ref=f6e1762]
+              - figure [ref=f6e1765]:
+                - button "Copy Text" [ref=f6e1766] [cursor=pointer]
+                - code [ref=f6e1774]:
+                  - generic [ref=f6e1775]: "# Instance-level flags persist on this object."
+                  - generic [ref=f6e1776]: obj.JNGS
+                  - generic [ref=f6e1777]: obj.JA
+                  - generic [ref=f6e1779]: "# Direct field access, including non-public declared fields."
+                  - generic [ref=f6e1780]: raw = obj.result
+                  - generic [ref=f6e1781]: secret = obj.secretField
+                  - generic [ref=f6e1783]: "# Restore the defaults for this object."
+                  - generic [ref=f6e1784]: obj.JNA
+                  - generic [ref=f6e1785]: obj.JGS
+              - figure [ref=f6e1786]:
+                - button "Copy Text" [ref=f6e1787] [cursor=pointer]
+                - code [ref=f6e1795]:
+                  - generic [ref=f6e1796]: "# Class-level flags persist on this Java class."
+                  - generic [ref=f6e1797]: SomeJavaClass.JGS
+                  - generic [ref=f6e1798]: SomeJavaClass.JA
+                  - generic [ref=f6e1800]: "# Static getter/setter or static field access."
+                  - generic [ref=f6e1801]: current = SomeJavaClass.currentItem
+                  - generic [ref=f6e1802]: SomeJavaClass.currentItem = item
+                  - generic [ref=f6e1803]: hidden = SomeJavaClass.hiddenCache
+                  - generic [ref=f6e1805]: SomeJavaClass.JNA
+              - figure [ref=f6e1806]:
+                - button "Copy Text" [ref=f6e1807] [cursor=pointer]
+                - code [ref=f6e1815]:
+                  - generic [ref=f6e1816]: "# Chain-scoped modifiers do not persist."
+                  - generic [ref=f6e1817]: res = obj.JIR.prepare().bind().show().JNIR.getResult()
+                  - generic [ref=f6e1819]: "# Safe chaining over Java objects and None."
+                  - generic [ref=f6e1820]: title = obj.JS.info.card.title
+              - heading [level=3] [ref=f6e1821]:
+                - link "Practical behavior summary" [ref=f6e1822] [cursor=pointer]:
+                  - /url: "#practical-behavior-summary"
+                - img "Link to section" [ref=f6e1823]
+              - list [ref=f6e1826]:
+                - listitem [ref=f6e1827]:
+                  - code [ref=f6e1828]: JGS
+                  - text: /
+                  - code [ref=f6e1829]: JNGS
+                  - text: and
+                  - code [ref=f6e1830]: JA
+                  - text: /
+                  - code [ref=f6e1831]: JNA
+                  - text: are persistent for the current object or Java class
+                - listitem [ref=f6e1832]:
+                  - code [ref=f6e1833]: JIR
+                  - text: /
+                  - code [ref=f6e1834]: JNIR
+                  - text: and
+                  - code [ref=f6e1835]: JS
+                  - text: /
+                  - code [ref=f6e1836]: JNS
+                  - text: only affect the current chain
+                - listitem [ref=f6e1837]:
+                  - code [ref=f6e1838]: dir(obj)
+                  - text: and
+                  - code [ref=f6e1839]: dir(SomeJavaClass)
+                  - text: expose the modifier names
+                - listitem [ref=f6e1840]:
+                  - code [ref=f6e1841]: JA
+                  - text: works with fields, methods, and nested classes/interfaces declared on the Java class
+                - listitem [ref=f6e1842]:
+                  - code [ref=f6e1843]: JSafe
+                  - text: propagates through returned Java objects automatically
+                - listitem [ref=f6e1844]:
+                  - code [ref=f6e1845]: JSafe
+                  - text: converts
+                  - code [ref=f6e1846]: None
+                  - text: to
+                  - code [ref=f6e1847]: JNone
+                  - text: inside the safe chain
+              - heading [level=3] [ref=f6e1848]:
+                - link "Limitations" [ref=f6e1849] [cursor=pointer]:
+                  - /url: "#limitations"
+                - img "Link to section" [ref=f6e1850]
+              - paragraph [ref=f6e1853]: This is still convenience access, not a full replacement for manual signature-driven reflection.
+              - paragraph [ref=f6e1854]: "Keep in mind:"
+              - list [ref=f6e1855]:
+                - listitem [ref=f6e1856]: if exact overload control matters, explicit Java reflection is still safer
+                - listitem [ref=f6e1857]: non-public lookup is based on declared members and class metadata from the Chaquopy fork
+                - listitem [ref=f6e1858]:
+                  - text: getter/setter preference is only for field-like names, not for method-like names such as
+                  - code [ref=f6e1859]: getX
+              - paragraph [ref=f6e1860]: "If you need precise overload selection, use regular reflection:"
+              - figure [ref=f6e1861]:
+                - button "Copy Text" [ref=f6e1862] [cursor=pointer]
+                - code [ref=f6e1870]:
+                  - generic [ref=f6e1871]: clazz = obj.getClass()
+                  - generic [ref=f6e1872]: method = clazz.getDeclaredMethod("setValue", jint)
+                  - generic [ref=f6e1873]: method.setAccessible(True)
+                  - generic [ref=f6e1874]: method.invoke(obj, 5)
+                  - generic [ref=f6e1876]: "# or"
+                  - generic [ref=f6e1877]: "obj.JA # enable Access All mode"
+                  - generic [ref=f6e1878]: "obj.value = 5 # use setValue(5)"
+              - heading [level=2] [ref=f6e1879]:
+                - link "Full Example" [ref=f6e1880] [cursor=pointer]:
+                  - /url: "#full-example"
+                - img "Link to section" [ref=f6e1881]
+              - figure [ref=f6e1884]:
+                - button "Copy Text" [ref=f6e1885] [cursor=pointer]
+                - code [ref=f6e1893]:
+                  - generic [ref=f6e1894]: from extera_utils.classes import (
+                  - generic [ref=f6e1895]: Base,
+                  - generic [ref=f6e1896]: java_subclass,
+                  - generic [ref=f6e1897]: joverride,
+                  - generic [ref=f6e1898]: joverload,
+                  - generic [ref=f6e1899]: jmethod,
+                  - generic [ref=f6e1900]: jfield,
+                  - generic [ref=f6e1901]: jconstructor,
+                  - generic [ref=f6e1902]: jpreconstructor,
+                  - generic [ref=f6e1903]: )
+                  - generic [ref=f6e1906]: "@java_subclass(SomeJavaClass)"
+                  - generic [ref=f6e1907]: "class DemoProxy(Base):"
+                  - generic [ref=f6e1908]: counter = jfield("int", default=0)
+                  - generic [ref=f6e1909]: title = jfield("java.lang.String", default="Demo")
+                  - generic [ref=f6e1911]: "@jpreconstructor([\"java.lang.String\", \"int\"])"
+                  - generic [ref=f6e1912]: "def normalize_args(cls, title, counter):"
+                  - generic [ref=f6e1913]: return [title.strip(), max(0, counter)]
+                  - generic [ref=f6e1915]: "def __init__(self, title, counter):"
+                  - generic [ref=f6e1916]: "self.python_state = {\"created_with\": title}"
+                  - generic [ref=f6e1918]: "@jconstructor([\"java.lang.String\", \"int\"])"
+                  - generic [ref=f6e1919]: "def init_fields(self, title, counter):"
+                  - generic [ref=f6e1920]: self.title = title
+                  - generic [ref=f6e1921]: self.counter = counter
+                  - generic [ref=f6e1923]: "@joverride()"
+                  - generic [ref=f6e1924]: "def onAttached(self):"
+                  - generic [ref=f6e1925]: self.counter += 1
+                  - generic [ref=f6e1926]: return super().onAttached()
+                  - generic [ref=f6e1928]: "@joverload(\"setValue\", [\"int\"])"
+                  - generic [ref=f6e1929]: "def set_value_int(self, value):"
+                  - generic [ref=f6e1930]: self.counter = value
+                  - generic [ref=f6e1931]: return super().set_value_int(value)
+                  - generic [ref=f6e1933]: "@joverload(\"setValue\", [\"java.lang.String\"])"
+                  - generic [ref=f6e1934]: "def set_value_text(self, value):"
+                  - generic [ref=f6e1935]: self.title = value
+                  - generic [ref=f6e1937]: "@jmethod(\"debugLabel\", \"java.lang.String\", [\"int\"])"
+                  - generic [ref=f6e1938]: "def build_debug_label(self, extra):"
+                  - generic [ref=f6e1939]: "return f\"{self.title} ({self.counter}, extra={extra})\""
+                  - generic [ref=f6e1942]: instance = DemoProxy.new_instance(" Example ", 5)
+                  - generic [ref=f6e1943]: java_instance = instance.java
+              - heading [level=2] [ref=f6e1944]:
+                - link "Full Smoke Test Example" [ref=f6e1945] [cursor=pointer]:
+                  - /url: "#full-smoke-test-example"
+                - img "Link to section" [ref=f6e1946]
+              - paragraph [ref=f6e1949]: "This example is designed to verify almost the entire class proxy API in one place:"
+              - list [ref=f6e1950]:
+                - listitem [ref=f6e1951]: subclass generation
+                - listitem [ref=f6e1952]: Java field creation
+                - listitem [ref=f6e1953]: constructor preprocessing
+                - listitem [ref=f6e1954]: post-constructor hooks
+                - listitem [ref=f6e1955]: overloaded method overrides
+                - listitem [ref=f6e1956]:
+                  - code [ref=f6e1957]: super()
+                  - text: calls
+                - listitem [ref=f6e1958]: custom Java methods
+                - listitem [ref=f6e1959]: access to the attached Java instance
+              - paragraph [ref=f6e1960]:
+                - text: It uses
+                - code [ref=f6e1961]: java.util.ArrayList
+                - text: ", because it is a normal subclassable Java class with overloaded methods and constructors."
+              - figure [ref=f6e1962]:
+                - button "Copy Text" [ref=f6e1963] [cursor=pointer]
+                - code [ref=f6e1971]:
+                  - generic [ref=f6e1972]: from base_plugin import BasePlugin
+                  - generic [ref=f6e1973]: from extera_utils.classes import (
+                  - generic [ref=f6e1974]: Base,
+                  - generic [ref=f6e1975]: java_subclass,
+                  - generic [ref=f6e1976]: jfield,
+                  - generic [ref=f6e1977]: joverride,
+                  - generic [ref=f6e1978]: joverload,
+                  - generic [ref=f6e1979]: jmethod,
+                  - generic [ref=f6e1980]: jconstructor,
+                  - generic [ref=f6e1981]: jpreconstructor,
+                  - generic [ref=f6e1982]: )
+                  - generic [ref=f6e1983]: from java.util import ArrayList
+                  - generic [ref=f6e1986]: "@java_subclass(ArrayList)"
+                  - generic [ref=f6e1987]: "class DebugList(Base):"
+                  - generic [ref=f6e1988]: add_calls = jfield("int", default=0)
+                  - generic [ref=f6e1989]: remove_calls = jfield("int", default=0)
+                  - generic [ref=f6e1990]: last_action = jfield("java.lang.String", default="created")
+                  - generic [ref=f6e1992]: "@jpreconstructor([\"int\"])"
+                  - generic [ref=f6e1993]: "def normalize_capacity(cls, capacity):"
+                  - generic [ref=f6e1994]: "# Ensure capacity is never negative before Java constructor runs."
+                  - generic [ref=f6e1995]: return [max(0, capacity)]
+                  - generic [ref=f6e1997]: "def __init__(self, *args):"
+                  - generic [ref=f6e1998]: "# Python-only state. This is not a Java field."
+                  - generic [ref=f6e1999]: self.history = []
+                  - generic [ref=f6e2001]: "@jconstructor([\"int\"])"
+                  - generic [ref=f6e2002]: "def init_with_capacity(self, capacity):"
+                  - generic [ref=f6e2003]: "self.last_action = f\"capacity:{capacity}\""
+                  - generic [ref=f6e2004]: "self.history.append(f\"ctor(capacity={capacity})\")"
+                  - generic [ref=f6e2006]: "@joverride()"
+                  - generic [ref=f6e2007]: "def size(self):"
+                  - generic [ref=f6e2008]: "# Example of overriding a normal method and still delegating to parent."
+                  - generic [ref=f6e2009]: current = super().size()
+                  - generic [ref=f6e2010]: "self.history.append(f\"size() -> {current}\")"
+                  - generic [ref=f6e2011]: return current
+                  - generic [ref=f6e2013]: "@joverload(\"add\", [\"java.lang.Object\"])"
+                  - generic [ref=f6e2014]: "def add_item(self, value):"
+                  - generic [ref=f6e2015]: self.add_calls += 1
+                  - generic [ref=f6e2016]: "self.last_action = f\"add:{value}\""
+                  - generic [ref=f6e2017]: "self.history.append(f\"add(value={value})\")"
+                  - generic [ref=f6e2018]: return super().add_item(value)
+                  - generic [ref=f6e2020]: "@joverload(\"add\", [\"int\", \"java.lang.Object\"])"
+                  - generic [ref=f6e2021]: "def add_at_index(self, index, value):"
+                  - generic [ref=f6e2022]: self.add_calls += 1
+                  - generic [ref=f6e2023]: "self.last_action = f\"add_at:{index}:{value}\""
+                  - generic [ref=f6e2024]: "self.history.append(f\"add(index={index}, value={value})\")"
+                  - generic [ref=f6e2025]: return super().add_at_index(index, value)
+                  - generic [ref=f6e2027]: "@joverload(\"remove\", [\"int\"])"
+                  - generic [ref=f6e2028]: "def remove_at_index(self, index):"
+                  - generic [ref=f6e2029]: self.remove_calls += 1
+                  - generic [ref=f6e2030]: "self.last_action = f\"remove_at:{index}\""
+                  - generic [ref=f6e2031]: "self.history.append(f\"remove(index={index})\")"
+                  - generic [ref=f6e2032]: return super().remove_at_index(index)
+                  - generic [ref=f6e2034]: "@joverload(\"remove\", [\"java.lang.Object\"])"
+                  - generic [ref=f6e2035]: "def remove_item(self, value):"
+                  - generic [ref=f6e2036]: self.remove_calls += 1
+                  - generic [ref=f6e2037]: "self.last_action = f\"remove:{value}\""
+                  - generic [ref=f6e2038]: "self.history.append(f\"remove(value={value})\")"
+                  - generic [ref=f6e2039]: return super().remove_item(value)
+                  - generic [ref=f6e2041]: "@jmethod(\"debugSummary\", \"java.lang.String\", [])"
+                  - generic [ref=f6e2042]: "def debug_summary(self):"
+                  - generic [ref=f6e2043]: return (
+                  - generic [ref=f6e2044]: "f\"size={self.size()}, \""
+                  - generic [ref=f6e2045]: "f\"add_calls={self.add_calls}, \""
+                  - generic [ref=f6e2046]: "f\"remove_calls={self.remove_calls}, \""
+                  - generic [ref=f6e2047]: "f\"last_action={self.last_action}\""
+                  - generic [ref=f6e2048]: )
+                  - generic [ref=f6e2050]: "@jmethod(\"historyDump\", \"java.lang.String\", [])"
+                  - generic [ref=f6e2051]: "def history_dump(self):"
+                  - generic [ref=f6e2052]: return " | ".join(self.history)
+                  - generic [ref=f6e2055]: "class ProxyDebugPlugin(BasePlugin):"
+                  - generic [ref=f6e2056]: "def on_plugin_load(self):"
+                  - generic [ref=f6e2057]: debug_list = DebugList.new_instance(4)
+                  - generic [ref=f6e2059]: debug_list.add("one")
+                  - generic [ref=f6e2060]: debug_list.add("two")
+                  - generic [ref=f6e2061]: debug_list.add(1, "inserted")
+                  - generic [ref=f6e2062]: debug_list.remove("two")
+                  - generic [ref=f6e2064]: "self.log(f\"Class name: {debug_list.getClass().getName()}\")"
+                  - generic [ref=f6e2065]: "self.log(f\"Java size(): {debug_list.size()}\")"
+                  - generic [ref=f6e2066]: "self.log(f\"Python field add_calls: {debug_list.add_calls}\")"
+                  - generic [ref=f6e2067]: "self.log(f\"Python field remove_calls: {debug_list.remove_calls}\")"
+                  - generic [ref=f6e2068]: "self.log(f\"Java method debugSummary(): {debug_list.debugSummary()}\")"
+                  - generic [ref=f6e2069]: "self.log(f\"Java method historyDump(): {debug_list.historyDump()}\")"
+                  - generic [ref=f6e2071]: "# Access raw Java instance from the Python peer if needed."
+                  - generic [ref=f6e2072]: "self.log(f\"Same object hash: {debug_list.java.hashCode()}\")"
+              - heading [level=3] [ref=f6e2073]:
+                - link "What to expect" [ref=f6e2074] [cursor=pointer]:
+                  - /url: "#what-to-expect"
+                - img "Link to section" [ref=f6e2075]
+              - paragraph [ref=f6e2078]: "If everything works, this example should confirm that:"
+              - list [ref=f6e2079]:
+                - listitem [ref=f6e2080]:
+                  - code [ref=f6e2081]: DebugList.new_instance(4)
+                  - text: selects the
+                  - code [ref=f6e2082]: ArrayList(int)
+                  - text: constructor
+                - listitem [ref=f6e2083]:
+                  - code [ref=f6e2084]: DebugList.new_instance(4)
+                  - text: returns the Python peer object, and
+                  - code [ref=f6e2085]: debug_list.java
+                  - text: is the raw Java instance
+                - listitem [ref=f6e2086]:
+                  - code [ref=f6e2087]: "@jpreconstructor([\"int\"])"
+                  - text: runs before Java construction
+                - listitem [ref=f6e2088]:
+                  - code [ref=f6e2089]: "@jconstructor([\"int\"])"
+                  - text: runs after Java construction
+                - listitem [ref=f6e2090]:
+                  - code [ref=f6e2091]: add_calls
+                  - text: ","
+                  - code [ref=f6e2092]: remove_calls
+                  - text: ", and"
+                  - code [ref=f6e2093]: last_action
+                  - text: behave like Java-backed fields
+                - listitem [ref=f6e2094]:
+                  - text: the correct overloaded
+                  - code [ref=f6e2095]: add
+                  - text: and
+                  - code [ref=f6e2096]: remove
+                  - text: handlers are called
+                - listitem [ref=f6e2097]:
+                  - code [ref=f6e2098]: super()
+                  - text: reaches the original
+                  - code [ref=f6e2099]: ArrayList
+                  - text: implementation
+                - listitem [ref=f6e2100]:
+                  - code [ref=f6e2101]: debugSummary()
+                  - text: and
+                  - code [ref=f6e2102]: historyDump()
+                  - text: exist as real Java methods on the generated class
+              - heading [level=2] [ref=f6e2103]:
+                - link "Custom Settings Example" [ref=f6e2104] [cursor=pointer]:
+                  - /url: "#custom-settings-example"
+                - img "Link to section" [ref=f6e2105]
+              - paragraph [ref=f6e2108]: The settings SDK uses this system internally for custom setting factories.
+              - paragraph [ref=f6e2109]: "Here is a simplified pattern:"
+              - figure [ref=f6e2110]:
+                - button "Copy Text" [ref=f6e2111] [cursor=pointer]
+                - code [ref=f6e2119]:
+                  - generic [ref=f6e2120]: from client_utils import get_media_data_controller
+                  - generic [ref=f6e2121]: from base_plugin import BasePlugin
+                  - generic [ref=f6e2122]: from ui.settings import Text, Custom
+                  - generic [ref=f6e2123]: from extera_utils.classes import Base, java_subclass, joverride
+                  - generic [ref=f6e2125]: from android.util import TypedValue
+                  - generic [ref=f6e2126]: from android.view import View, Gravity
+                  - generic [ref=f6e2127]: from android.widget import LinearLayout, FrameLayout, TextView
+                  - generic [ref=f6e2128]: from android.content import Context
+                  - generic [ref=f6e2130]: from org.telegram.messenger import AndroidUtilities
+                  - generic [ref=f6e2131]: from org.telegram.ui.ActionBar import Theme
+                  - generic [ref=f6e2132]: from org.telegram.ui.Components import LayoutHelper, BackupImageView, UItem
+                  - generic [ref=f6e2134]: from com.exteragram.messenger.plugins import PluginsController, Plugin
+                  - generic [ref=f6e2135]: from com.exteragram.messenger.plugins.models import CustomSetting
+                  - generic [ref=f6e2137]: MATCH_PARENT = -1
+                  - generic [ref=f6e2138]: WRAP_CONTENT = -2
+                  - generic [ref=f6e2140]: "@java_subclass(FrameLayout)"
+                  - generic [ref=f6e2141]: "class PluginCell(Base):"
+                  - generic [ref=f6e2142]: "def on_post_init(self, context: Context):"
+                  - generic [ref=f6e2143]: self.need_divider = False
+                  - generic [ref=f6e2144]: self.setWillNotDraw(False)
+                  - generic [ref=f6e2146]: self.icon_view = BackupImageView(context)
+                  - generic [ref=f6e2147]: self.icon_view.setRoundRadius(AndroidUtilities.dp(8))
+                  - generic [ref=f6e2148]: self.addView(self.icon_view, LayoutHelper.createFrame(48, 48, Gravity.LEFT | Gravity.CENTER_VERTICAL, 16, 0, 0, 0))
+                  - generic [ref=f6e2150]: text_layout = LinearLayout(context)
+                  - generic [ref=f6e2151]: text_layout.setOrientation(LinearLayout.VERTICAL)
+                  - generic [ref=f6e2153]: self.name_text_view = TextView(context)
+                  - generic [ref=f6e2154]: self.name_text_view.setTextColor(Theme.getColor(Theme.key_windowBackgroundWhiteBlackText))
+                  - generic [ref=f6e2155]: self.name_text_view.setTextSize(TypedValue.COMPLEX_UNIT_DIP, 16)
+                  - generic [ref=f6e2156]: self.name_text_view.setLines(1)
+                  - generic [ref=f6e2157]: self.name_text_view.setSingleLine(True)
+                  - generic [ref=f6e2159]: self.author_text_view = TextView(context)
+                  - generic [ref=f6e2160]: self.author_text_view.setTextColor(Theme.getColor(Theme.key_windowBackgroundWhiteGrayText))
+                  - generic [ref=f6e2161]: self.author_text_view.setTextSize(TypedValue.COMPLEX_UNIT_DIP, 13)
+                  - generic [ref=f6e2162]: self.author_text_view.setLines(1)
+                  - generic [ref=f6e2163]: self.author_text_view.setSingleLine(True)
+                  - generic [ref=f6e2165]: text_layout.addView(self.name_text_view, LayoutHelper.createLinear(MATCH_PARENT, WRAP_CONTENT))
+                  - generic [ref=f6e2166]: text_layout.addView(self.author_text_view, LayoutHelper.createLinear(MATCH_PARENT, WRAP_CONTENT, 0, 2, 0, 0))
+                  - generic [ref=f6e2167]: self.addView(text_layout, LayoutHelper.createFrame(MATCH_PARENT, WRAP_CONTENT, Gravity.LEFT | Gravity.CENTER_VERTICAL, 76, 0, 16, 0))
+                  - generic [ref=f6e2169]: "def set_data(self, plugin: Plugin, divider: bool):"
+                  - generic [ref=f6e2170]: self.need_divider = divider
+                  - generic [ref=f6e2171]: self.name_text_view.setText(plugin.getName() or "Unknown Plugin")
+                  - generic [ref=f6e2173]: version = plugin.getVersion() or "1.0"
+                  - generic [ref=f6e2174]: author = plugin.getAuthor() or "Unknown"
+                  - generic [ref=f6e2175]: "self.author_text_view.setText(f\"v{version} • {author}\")"
+                  - generic [ref=f6e2177]: show_icon = plugin.getPack() is not None and plugin.getIndex() >= 0
+                  - generic [ref=f6e2178]: pack, index = (plugin.getPack(), plugin.getIndex()) if show_icon else ("exteraPlugins", 0)
+                  - generic [ref=f6e2179]: get_media_data_controller().setPlaceholderImageByIndex(self.icon_view, pack, index, "100_100")
+                  - generic [ref=f6e2181]: self.requestLayout()
+                  - generic [ref=f6e2183]: "@joverride()"
+                  - generic [ref=f6e2184]: "def onMeasure(self, widthMeasureSpec: int, heightMeasureSpec: int):"
+                  - generic [ref=f6e2185]: super().onMeasure(
+                  - generic [ref=f6e2186]: View.MeasureSpec.makeMeasureSpec(View.MeasureSpec.getSize(widthMeasureSpec), View.MeasureSpec.EXACTLY),
+                  - generic [ref=f6e2187]: View.MeasureSpec.makeMeasureSpec(AndroidUtilities.dp(68), View.MeasureSpec.EXACTLY),
+                  - generic [ref=f6e2188]: )
+                  - generic [ref=f6e2191]: "@java_subclass(CustomSetting.Factory)"
+                  - generic [ref=f6e2192]: "class PluginCellSettingFactory(Base):"
+                  - generic [ref=f6e2193]: "@joverride()"
+                  - generic [ref=f6e2194]: "def create(self, plugin: Plugin, setting: CustomSetting, args):"
+                  - generic [ref=f6e2195]: "if not args:"
+                  - generic [ref=f6e2196]: return None
+                  - generic [ref=f6e2198]: item = UItem.ofFactory(self.java_class())
+                  - generic [ref=f6e2199]: item.object = args
+                  - generic [ref=f6e2200]: return item
+                  - generic [ref=f6e2202]: "@joverride()"
+                  - generic [ref=f6e2203]: "def createView(self, context, list_view, current_account, class_guid, resources_provider):"
+                  - generic [ref=f6e2204]: view = PluginCell.new_instance(context)
+                  - generic [ref=f6e2205]: return view.java
+                  - generic [ref=f6e2207]: "@joverride()"
+                  - generic [ref=f6e2208]: "def bindView(self, view, item, divider, adapter, list_view):"
+                  - generic [ref=f6e2209]: "if not item.object:"
+                  - generic [ref=f6e2210]: return False
+                  - generic [ref=f6e2212]: PluginCell.from_java(view).set_data(item.object, divider)
+                  - generic [ref=f6e2215]: "class TestPlugin(BasePlugin):"
+                  - generic [ref=f6e2216]: "def on_plugin_load(self):"
+                  - generic [ref=f6e2217]: "# plugin_cell_setting_factory_instance"
+                  - generic [ref=f6e2218]: self.pcsfi = PluginCellSettingFactory.new_java_instance()
+                  - generic [ref=f6e2219]: UItem.UItemFactory.setup(self.pcsfi)
+                  - generic [ref=f6e2221]: "def create_settings(self):"
+                  - generic [ref=f6e2222]: plugins = PluginsController.getInstance().plugins.values().toArray()
+                  - generic [ref=f6e2223]: "if not plugins:"
+                  - generic [ref=f6e2224]: return [
+                  - generic [ref=f6e2225]: Text("Restart plugin please, no plugins found")
+                  - generic [ref=f6e2226]: "]"
+                  - generic [ref=f6e2228]: return [
+                  - generic [ref=f6e2229]: Custom(
+                  - generic [ref=f6e2230]: factory=self.pcsfi,
+                  - generic [ref=f6e2231]: factory_args=_p
+                  - generic [ref=f6e2232]: ) for _p in plugins
+                  - generic [ref=f6e2233]: "]"
+              - paragraph [ref=f6e2234]:
+                - text: If you instantiate this proxy with
+                - code [ref=f6e2235]: FactoryProxy.new_instance()
+                - text: ", the result is the Python peer. Pass"
+                - code [ref=f6e2236]: factory.java
+                - text: into APIs which require
+                - code [ref=f6e2237]: CustomSetting.Factory
+                - text: .
+              - paragraph [ref=f6e2238]:
+                - text: For a higher-level settings guide, see
+                - link "Plugin Settings" [ref=f6e2239] [cursor=pointer]:
+                  - /url: /docs/plugin-settings
+                - text: .
+              - heading [level=2] [ref=f6e2240]:
+                - link "Advanced Notes" [ref=f6e2241] [cursor=pointer]:
+                  - /url: "#advanced-notes"
+                - img "Link to section" [ref=f6e2242]
+              - heading [level=3] [ref=f6e2245]:
+                - link "Method Resolution Order" [ref=f6e2246] [cursor=pointer]:
+                  - /url: "#method-resolution-order"
+                - img "Link to section" [ref=f6e2247]
+              - paragraph [ref=f6e2250]:
+                - text: For managed overrides, the proxy system installs a Python bridge so that
+                - code [ref=f6e2251]: super()
+                - text: calls the parent Java implementation.
+              - paragraph [ref=f6e2252]:
+                - text: Because of this, it is best to use
+                - code [ref=f6e2253]: super()
+                - text: only for methods marked with
+                - code [ref=f6e2254]: "@joverride(...)"
+                - text: or
+                - code [ref=f6e2255]: "@joverload(...)"
+                - text: .
+              - heading [level=3] [ref=f6e2256]:
+                - link "Exact Signature Dispatch" [ref=f6e2257] [cursor=pointer]:
+                  - /url: "#exact-signature-dispatch"
+                - img "Link to section" [ref=f6e2258]
+              - paragraph [ref=f6e2261]: "When Java calls Python, the proxy system uses a full signature key internally:"
+              - figure [ref=f6e2262]:
+                - button "Copy Text" [ref=f6e2263] [cursor=pointer]
+                - code [ref=f6e2271]:
+                  - generic [ref=f6e2272]: methodName:int:java.lang.String
+              - paragraph [ref=f6e2273]: This is what makes overloaded methods and constructors work correctly.
+              - heading [level=3] [ref=f6e2274]:
+                - link "Primitive Types" [ref=f6e2275] [cursor=pointer]:
+                  - /url: "#primitive-types"
+                - img "Link to section" [ref=f6e2276]
+              - paragraph [ref=f6e2279]: "Supported primitive type names:"
+              - list [ref=f6e2280]:
+                - listitem [ref=f6e2281]:
+                  - code [ref=f6e2282]: void
+                - listitem [ref=f6e2283]:
+                  - code [ref=f6e2284]: boolean
+                - listitem [ref=f6e2285]:
+                  - code [ref=f6e2286]: byte
+                - listitem [ref=f6e2287]:
+                  - code [ref=f6e2288]: char
+                - listitem [ref=f6e2289]:
+                  - code [ref=f6e2290]: short
+                - listitem [ref=f6e2291]:
+                  - code [ref=f6e2292]: int
+                - listitem [ref=f6e2293]:
+                  - code [ref=f6e2294]: long
+                - listitem [ref=f6e2295]:
+                  - code [ref=f6e2296]: float
+                - listitem [ref=f6e2297]:
+                  - code [ref=f6e2298]: double
+              - heading [level=3] [ref=f6e2299]:
+                - link "When To Use It" [ref=f6e2300] [cursor=pointer]:
+                  - /url: "#when-to-use-it"
+                - img "Link to section" [ref=f6e2301]
+              - paragraph [ref=f6e2304]: "Use class proxy when:"
+              - list [ref=f6e2305]:
+                - listitem [ref=f6e2306]: a Java API requires subclassing instead of interface proxying
+                - listitem [ref=f6e2307]:
+                  - text: you need parent-method calls with
+                  - code [ref=f6e2308]: super()
+                - listitem [ref=f6e2309]: you need overload-specific behavior
+                - listitem [ref=f6e2310]: you want Java fields or extra Java methods on the generated object
+              - paragraph [ref=f6e2311]:
+                - text: Do not use it when a simple
+                - code [ref=f6e2312]: dynamic_proxy(...)
+                - text: is enough for an interface.
+              - paragraph [ref=f6e2313]: Also make sure the base Java class is actually subclassable. Final classes cannot be used as a proxy base class.
+              - heading [level=2] [ref=f6e2314]:
+                - link "Troubleshooting" [ref=f6e2315] [cursor=pointer]:
+                  - /url: "#troubleshooting"
+                - img "Link to section" [ref=f6e2316]
+              - heading [level=3] [ref=f6e2319]:
+                - link [ref=f6e2320] [cursor=pointer]:
+                  - /url: "#super-does-not-work"
+                  - code [ref=f6e2321]: super()
+                  - text: does not work
+                - img "Link to section" [ref=f6e2322]
+              - paragraph [ref=f6e2325]: "Check that:"
+              - list [ref=f6e2326]:
+                - listitem [ref=f6e2327]:
+                  - text: the method is declared with
+                  - code [ref=f6e2328]: "@joverride(...)"
+                  - text: or
+                  - code [ref=f6e2329]: "@joverload(...)"
+                - listitem [ref=f6e2330]: the method name or signature matches the Java parent method
+              - heading [level=3] [ref=f6e2331]:
+                - link "My overload is not called" [ref=f6e2332] [cursor=pointer]:
+                  - /url: "#my-overload-is-not-called"
+                - img "Link to section" [ref=f6e2333]
+              - paragraph [ref=f6e2336]: "Check that:"
+              - list [ref=f6e2337]:
+                - listitem [ref=f6e2338]: the Java name is correct
+                - listitem [ref=f6e2339]: the argument types match the real Java signature exactly
+                - listitem [ref=f6e2340]:
+                  - text: primitive types use primitive names such as
+                  - code [ref=f6e2341]: "\"int\""
+                  - text: instead of wrapper classes
+              - heading [level=3] [ref=f6e2342]:
+                - link "Constructor hook is not called" [ref=f6e2343] [cursor=pointer]:
+                  - /url: "#constructor-hook-is-not-called"
+                - img "Link to section" [ref=f6e2344]
+              - paragraph [ref=f6e2347]: "Check that:"
+              - list [ref=f6e2348]:
+                - listitem [ref=f6e2349]:
+                  - code [ref=f6e2350]: "@jpreconstructor(...)"
+                  - text: or
+                  - code [ref=f6e2351]: "@jconstructor(...)"
+                  - text: uses the correct constructor signature
+                - listitem [ref=f6e2352]: for wildcard constructor hooks, your annotations are either complete or you intentionally omitted the signature
+              - heading [level=3] [ref=f6e2353]:
+                - link [ref=f6e2354] [cursor=pointer]:
+                  - /url: "#field-value-is-always-none"
+                  - text: Field value is always
+                  - code [ref=f6e2355]: None
+                - img "Link to section" [ref=f6e2356]
+              - paragraph [ref=f6e2359]: "Check that:"
+              - list [ref=f6e2360]:
+                - listitem [ref=f6e2361]:
+                  - text: the field was declared with
+                  - code [ref=f6e2362]: jfield(...)
+                - listitem [ref=f6e2363]: the field type is valid
+                - listitem [ref=f6e2364]: the default value is compatible with the declared Java type
+              - heading [level=3] [ref=f6e2365]:
+                - link "Class generation fails immediately" [ref=f6e2366] [cursor=pointer]:
+                  - /url: "#class-generation-fails-immediately"
+                - img "Link to section" [ref=f6e2367]
+              - paragraph [ref=f6e2370]: "Check that:"
+              - list [ref=f6e2371]:
+                - listitem [ref=f6e2372]:
+                  - text: the base class is not
+                  - code [ref=f6e2373]: final
+                - listitem [ref=f6e2374]: constructor signatures match a real constructor
+                - listitem [ref=f6e2375]: overload signatures match real Java method argument types
+            - generic [ref=f6e2376]:
+              - link [ref=f6e2377] [cursor=pointer]:
+                - /url: /docs/plugin-settings
+                - paragraph [ref=f6e2381]: Previous
+                - paragraph [ref=f6e2382]: Plugin Settings
+              - link [ref=f6e2383] [cursor=pointer]:
+                - /url: /docs/xposed-hooking
+                - paragraph [ref=f6e2387]: Next
+                - paragraph [ref=f6e2388]: Xposed Method Hooking
+          - generic [ref=f6e2390]:
+            - heading "On this page" [level=3] [ref=f6e2391]
+            - generic [ref=f6e2396]:
+              - link "Class Proxy" [ref=f6e2397] [cursor=pointer]:
+                - /url: "#class-proxy"
+              - link "Recommended API" [ref=f6e2399] [cursor=pointer]:
+                - /url: "#recommended-api"
+              - link "Quick Start" [ref=f6e2401] [cursor=pointer]:
+                - /url: "#quick-start"
+              - link "Creating a Java Subclass" [ref=f6e2403] [cursor=pointer]:
+                - /url: "#creating-a-java-subclass"
+              - link "Custom generated class name" [ref=f6e2405] [cursor=pointer]:
+                - /url: "#custom-generated-class-name"
+              - link "Overriding Methods" [ref=f6e2409] [cursor=pointer]:
+                - /url: "#overriding-methods"
+              - link "Simple Override" [ref=f6e2413] [cursor=pointer]:
+                - /url: "#simple-override"
+              - link "Override With Another Python Name" [ref=f6e2417] [cursor=pointer]:
+                - /url: "#override-with-another-python-name"
+              - link "Overloaded Methods" [ref=f6e2419] [cursor=pointer]:
+                - /url: "#overloaded-methods"
+              - link "Supported Type Formats" [ref=f6e2423] [cursor=pointer]:
+                - /url: "#supported-type-formats"
+              - link [ref=f6e2427] [cursor=pointer]:
+                - /url: "#calling-parent-methods-with-super"
+                - text: Calling Parent Methods With
+                - code [ref=f6e2431]: super()
+              - link "Adding New Java Methods" [ref=f6e2432] [cursor=pointer]:
+                - /url: "#adding-new-java-methods"
+              - link [ref=f6e2434] [cursor=pointer]:
+                - /url: "#jmethod-signatures"
+                - code [ref=f6e2438]: jmethod
+                - text: Signatures
+              - link "Adding MVEL Methods" [ref=f6e2439] [cursor=pointer]:
+                - /url: "#adding-mvel-methods"
+              - link "Overriding With MVEL" [ref=f6e2443] [cursor=pointer]:
+                - /url: "#overriding-with-mvel"
+              - link "MVEL Context" [ref=f6e2447] [cursor=pointer]:
+                - /url: "#mvel-context"
+              - link "When To Use MVEL" [ref=f6e2449] [cursor=pointer]:
+                - /url: "#when-to-use-mvel"
+              - link "Adding Java Fields" [ref=f6e2451] [cursor=pointer]:
+                - /url: "#adding-java-fields"
+              - link "Java-only Field Accessors" [ref=f6e2455] [cursor=pointer]:
+                - /url: "#java-only-field-accessors"
+              - link "Constructors" [ref=f6e2459] [cursor=pointer]:
+                - /url: "#constructors"
+              - link "Pre-constructor" [ref=f6e2463] [cursor=pointer]:
+                - /url: "#pre-constructor"
+              - link "Post-constructor" [ref=f6e2467] [cursor=pointer]:
+                - /url: "#post-constructor"
+              - link [ref=f6e2469] [cursor=pointer]:
+                - /url: "#__init__-and-on_post_init"
+                - code [ref=f6e2471]: __init__
+                - text: and
+                - code [ref=f6e2472]: on_post_init
+              - link "Separate Python init arguments" [ref=f6e2473] [cursor=pointer]:
+                - /url: "#separate-python-init-arguments"
+              - link "Accessing the Attached Java Instance" [ref=f6e2475] [cursor=pointer]:
+                - /url: "#accessing-the-attached-java-instance"
+              - link "Wrapping Existing Java Instances" [ref=f6e2479] [cursor=pointer]:
+                - /url: "#wrapping-existing-java-instances"
+              - link "Passing Python Objects Through Java" [ref=f6e2481] [cursor=pointer]:
+                - /url: "#passing-python-objects-through-java"
+              - link "Built-in Java Object Modifiers" [ref=f6e2483] [cursor=pointer]:
+                - /url: "#built-in-java-object-modifiers"
+              - link "What is available" [ref=f6e2485] [cursor=pointer]:
+                - /url: "#what-is-available"
+              - link "Default behavior" [ref=f6e2489] [cursor=pointer]:
+                - /url: "#default-behavior"
+              - link "Getter/Setter mode" [ref=f6e2491] [cursor=pointer]:
+                - /url: "#gettersetter-mode"
+              - link "AccessAll mode" [ref=f6e2493] [cursor=pointer]:
+                - /url: "#accessall-mode"
+              - link "IgnoreResult mode" [ref=f6e2495] [cursor=pointer]:
+                - /url: "#ignoreresult-mode"
+              - link "Safe mode" [ref=f6e2497] [cursor=pointer]:
+                - /url: "#safe-mode"
+              - link [ref=f6e2499] [cursor=pointer]:
+                - /url: "#jnone"
+                - code [ref=f6e2501]: JNone
+              - link "Object-level and class-level examples" [ref=f6e2502] [cursor=pointer]:
+                - /url: "#object-level-and-class-level-examples"
+              - link "Practical behavior summary" [ref=f6e2504] [cursor=pointer]:
+                - /url: "#practical-behavior-summary"
+              - link "Limitations" [ref=f6e2506] [cursor=pointer]:
+                - /url: "#limitations"
+              - link "Full Example" [ref=f6e2508] [cursor=pointer]:
+                - /url: "#full-example"
+              - link "Full Smoke Test Example" [ref=f6e2512] [cursor=pointer]:
+                - /url: "#full-smoke-test-example"
+              - link "What to expect" [ref=f6e2514] [cursor=pointer]:
+                - /url: "#what-to-expect"
+              - link "Custom Settings Example" [ref=f6e2518] [cursor=pointer]:
+                - /url: "#custom-settings-example"
+              - link "Advanced Notes" [ref=f6e2522] [cursor=pointer]:
+                - /url: "#advanced-notes"
+              - link "Method Resolution Order" [ref=f6e2524] [cursor=pointer]:
+                - /url: "#method-resolution-order"
+              - link "Exact Signature Dispatch" [ref=f6e2528] [cursor=pointer]:
+                - /url: "#exact-signature-dispatch"
+              - link "Primitive Types" [ref=f6e2530] [cursor=pointer]:
+                - /url: "#primitive-types"
+              - link "When To Use It" [ref=f6e2532] [cursor=pointer]:
+                - /url: "#when-to-use-it"
+              - link "Troubleshooting" [ref=f6e2534] [cursor=pointer]:
+                - /url: "#troubleshooting"
+              - link [ref=f6e2538] [cursor=pointer]:
+                - /url: "#super-does-not-work"
+                - code [ref=f6e2542]: super()
+                - text: does not work
+              - link "My overload is not called" [ref=f6e2543] [cursor=pointer]:
+                - /url: "#my-overload-is-not-called"
+              - link "Constructor hook is not called" [ref=f6e2545] [cursor=pointer]:
+                - /url: "#constructor-hook-is-not-called"
+              - link [ref=f6e2547] [cursor=pointer]:
+                - /url: "#field-value-is-always-none"
+                - text: Field value is always
+                - code [ref=f6e2549]: None
+              - link "Class generation fails immediately" [ref=f6e2550] [cursor=pointer]:
+                - /url: "#class-generation-fails-immediately"
+  - region "Notifications alt+T"

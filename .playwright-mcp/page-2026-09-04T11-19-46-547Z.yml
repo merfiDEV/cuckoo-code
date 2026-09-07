@@ -1,0 +1,218 @@
+- generic [active] [ref=f7e1]:
+  - main [ref=f7e3]:
+    - generic [ref=f7e7]:
+      - generic [ref=f7e9]:
+        - link [ref=f7e10] [cursor=pointer]:
+          - /url: /
+          - img "exteraGram" [ref=f7e11]
+          - text: exteraGram
+        - button "Toggle Sidebar" [ref=f7e12] [cursor=pointer]
+      - list [ref=f7e16]:
+        - generic [ref=f7e17]: Getting Started
+        - listitem [ref=f7e18]:
+          - link "Introduction" [ref=f7e19] [cursor=pointer]:
+            - /url: /docs
+        - listitem [ref=f7e26]:
+          - link "Setup" [ref=f7e27] [cursor=pointer]:
+            - /url: /docs/setup
+        - listitem [ref=f7e33]:
+          - link "First Plugin" [ref=f7e34] [cursor=pointer]:
+            - /url: /docs/first-plugin
+        - generic [ref=f7e42]: Elyx Structured Plugins
+        - generic [ref=f7e43]:
+          - link [ref=f7e44] [cursor=pointer]:
+            - /url: /docs/elyx
+          - list [ref=f7e58]:
+            - listitem [ref=f7e59]:
+              - link "Elyx" [ref=f7e60] [cursor=pointer]:
+                - /url: /docs/elyx
+            - listitem [ref=f7e73]:
+              - link "Quick Start" [ref=f7e74] [cursor=pointer]:
+                - /url: /docs/elyx/quick-start
+            - listitem [ref=f7e82]:
+              - link "ElyxBuilder" [ref=f7e83] [cursor=pointer]:
+                - /url: /docs/elyx/elyxbuilder
+            - listitem [ref=f7e90]:
+              - link "Project Structure" [ref=f7e91] [cursor=pointer]:
+                - /url: /docs/elyx/project-structure
+            - listitem [ref=f7e99]:
+              - link "Metadata" [ref=f7e100] [cursor=pointer]:
+                - /url: /docs/elyx/metadata
+            - listitem [ref=f7e108]:
+              - link "Modules and Imports" [ref=f7e109] [cursor=pointer]:
+                - /url: /docs/elyx/modules-and-imports
+            - listitem [ref=f7e117]:
+              - link "Assets" [ref=f7e118] [cursor=pointer]:
+                - /url: /docs/elyx/assets
+            - listitem [ref=f7e126]:
+              - link "Localization" [ref=f7e127] [cursor=pointer]:
+                - /url: /docs/elyx/localization
+            - listitem [ref=f7e134]:
+              - link "Settings Storage" [ref=f7e135] [cursor=pointer]:
+                - /url: /docs/elyx/settings
+            - listitem [ref=f7e139]:
+              - link "Dependencies" [ref=f7e140] [cursor=pointer]:
+                - /url: /docs/elyx/dependencies
+            - listitem [ref=f7e149]:
+              - link "Development and Build" [ref=f7e150] [cursor=pointer]:
+                - /url: /docs/elyx/development
+            - listitem [ref=f7e158]:
+              - link "Public API" [ref=f7e159] [cursor=pointer]:
+                - /url: /docs/elyx/public-api
+            - listitem [ref=f7e165]:
+              - link "Troubleshooting" [ref=f7e166] [cursor=pointer]:
+                - /url: /docs/elyx/troubleshooting
+        - generic [ref=f7e171]: Basics
+        - listitem [ref=f7e172]:
+          - link "Plugin Class" [ref=f7e173] [cursor=pointer]:
+            - /url: /docs/plugin-class
+        - listitem [ref=f7e178]:
+          - link "Multi-account" [ref=f7e179] [cursor=pointer]:
+            - /url: /docs/multi-account
+        - listitem [ref=f7e187]:
+          - link "Plugin Settings" [ref=f7e188] [cursor=pointer]:
+            - /url: /docs/plugin-settings
+        - listitem [ref=f7e194]:
+          - link "Class Proxy" [ref=f7e195] [cursor=pointer]:
+            - /url: /docs/class-proxy
+        - listitem [ref=f7e208]:
+          - link "Xposed Method Hooking" [ref=f7e209] [cursor=pointer]:
+            - /url: /docs/xposed-hooking
+        - generic [ref=f7e216]: Utils
+        - listitem [ref=f7e217]:
+          - link "Android Utilities" [ref=f7e218] [cursor=pointer]:
+            - /url: /docs/android-utils
+        - listitem [ref=f7e223]:
+          - link "Client Utilities" [ref=f7e224] [cursor=pointer]:
+            - /url: /docs/client-utils
+        - listitem [ref=f7e231]:
+          - link "Text Formatting" [ref=f7e232] [cursor=pointer]:
+            - /url: /docs/text-formatting
+        - listitem [ref=f7e237]:
+          - link "Hook Utilities (Reflection)" [ref=f7e238] [cursor=pointer]:
+            - /url: /docs/hook-utils
+        - listitem [ref=f7e246]:
+          - link "File Utilities" [ref=f7e247] [cursor=pointer]:
+            - /url: /docs/file-utils
+        - listitem [ref=f7e255]:
+          - link "Intents" [ref=f7e256] [cursor=pointer]:
+            - /url: /docs/intents
+        - listitem [ref=f7e262]:
+          - link "Alert Dialog Builder" [ref=f7e263] [cursor=pointer]:
+            - /url: /docs/alert-dialog-builder
+        - listitem [ref=f7e268]:
+          - link "Bulletin Helper" [ref=f7e269] [cursor=pointer]:
+            - /url: /docs/bulletin-helper
+        - generic [ref=f7e275]: Other
+        - listitem [ref=f7e276]:
+          - link "Development Server" [ref=f7e277] [cursor=pointer]:
+            - /url: /docs/dev-server
+        - listitem [ref=f7e286]:
+          - link "PIP & Dependencies" [ref=f7e287] [cursor=pointer]:
+            - /url: /docs/pip
+        - listitem [ref=f7e294]:
+          - link "Available Libraries" [ref=f7e295] [cursor=pointer]:
+            - /url: /docs/available-libraries
+        - listitem [ref=f7e300]:
+          - link "Common Telegram Classes" [ref=f7e301] [cursor=pointer]:
+            - /url: /docs/common-source-classes
+    - main [ref=f7e307]:
+      - generic [ref=f7e308]:
+        - generic [ref=f7e309]:
+          - button "Search Ctrl K" [ref=f7e310] [cursor=pointer]:
+            - text: Search
+            - generic [ref=f7e314]:
+              - generic [ref=f7e315]: Ctrl
+              - generic [ref=f7e316]: K
+          - button "Toggle Theme" [ref=f7e317] [cursor=pointer]
+          - link [ref=f7e326] [cursor=pointer]:
+            - /url: https://github.com/exteraSquad
+        - generic [ref=f7e329]:
+          - article [ref=f7e331]:
+            - heading "Available Libraries" [level=1] [ref=f7e332]
+            - paragraph [ref=f7e333]: A list of pre-installed Python libraries available in the plugin environment.
+            - generic [ref=f7e334]:
+              - paragraph [ref=f7e335]: The plugin environment comes with a specific version of Python and a set of pre-installed third-party libraries that you can use in your plugins without any extra setup.
+              - heading [level=2] [ref=f7e336]:
+                - link "Python Version" [ref=f7e337] [cursor=pointer]:
+                  - /url: "#python-version"
+                - img "Link to section" [ref=f7e338]
+              - list [ref=f7e341]:
+                - listitem [ref=f7e342]:
+                  - strong [ref=f7e343]: Python
+                  - text: ":"
+                  - code [ref=f7e344]: "3.11"
+              - heading [level=2] [ref=f7e345]:
+                - link "Pre-installed Pip Packages" [ref=f7e346] [cursor=pointer]:
+                  - /url: "#pre-installed-pip-packages"
+                - img "Link to section" [ref=f7e347]
+              - paragraph [ref=f7e350]: "You can directly import and use the following libraries in your plugin code:"
+              - list [ref=f7e351]:
+                - listitem [ref=f7e352]:
+                  - strong [ref=f7e353]:
+                    - code [ref=f7e354]: beautifulsoup4
+                  - text: ": A library for pulling data out of HTML and XML files. Useful for web scraping."
+                - listitem [ref=f7e355]:
+                  - strong [ref=f7e356]:
+                    - code [ref=f7e357]: debugpy
+                  - text: ": The official debugger for Python from Microsoft, enabling remote debugging capabilities (used by the Dev Server)."
+                - listitem [ref=f7e358]:
+                  - strong [ref=f7e359]:
+                    - code [ref=f7e360]: lxml
+                  - text: ": A powerful and Pythonic library for processing XML and HTML."
+                - listitem [ref=f7e361]:
+                  - strong [ref=f7e362]:
+                    - code [ref=f7e363]: packaging
+                  - text: ": Core utilities for Python packages."
+                - listitem [ref=f7e364]:
+                  - strong [ref=f7e365]:
+                    - code [ref=f7e366]: pillow
+                  - text: ": The friendly PIL fork (Python Imaging Library). Useful for image manipulation."
+                - listitem [ref=f7e367]:
+                  - strong [ref=f7e368]:
+                    - code [ref=f7e369]: requests
+                  - text: ": A simple, yet elegant, HTTP library. Essential for making web requests."
+                - listitem [ref=f7e370]:
+                  - strong [ref=f7e371]:
+                    - code [ref=f7e372]: PyYAML
+                  - text: ": A YAML parser and emitter for Python."
+              - heading [level=2] [ref=f7e373]:
+                - link "Using Other Libraries" [ref=f7e374] [cursor=pointer]:
+                  - /url: "#using-other-libraries"
+                - img "Link to section" [ref=f7e375]
+              - paragraph [ref=f7e378]:
+                - text: If your plugin requires a library that is
+                - strong [ref=f7e379]: not
+                - text: on this list, you can use the built-in
+                - link "PIP-like package manager" [ref=f7e380] [cursor=pointer]:
+                  - /url: /docs/pip
+                - text: by declaring it in your plugin's
+                - code [ref=f7e381]: __requirements__
+                - text: .
+              - paragraph [ref=f7e382]:
+                - text: However, please note that
+                - strong [ref=f7e383]: binary extensions are not supported
+                - text: . Only pure-Python libraries can be installed. For more details, see the
+                - link "PIP & Dependencies" [ref=f7e384] [cursor=pointer]:
+                  - /url: /docs/pip
+                - text: page.
+            - generic [ref=f7e385]:
+              - link [ref=f7e386] [cursor=pointer]:
+                - /url: /docs/pip
+                - paragraph [ref=f7e390]: Previous
+                - paragraph [ref=f7e391]: PIP & Dependencies
+              - link [ref=f7e392] [cursor=pointer]:
+                - /url: /docs/common-source-classes
+                - paragraph [ref=f7e396]: Next
+                - paragraph [ref=f7e397]: Common Telegram Classes
+          - generic [ref=f7e399]:
+            - heading "On this page" [level=3] [ref=f7e400]
+            - generic [ref=f7e406]:
+              - link "Python Version" [ref=f7e407] [cursor=pointer]:
+                - /url: "#python-version"
+              - link "Pre-installed Pip Packages" [ref=f7e409] [cursor=pointer]:
+                - /url: "#pre-installed-pip-packages"
+              - link "Using Other Libraries" [ref=f7e411] [cursor=pointer]:
+                - /url: "#using-other-libraries"
+  - region "Notifications alt+T"
+  - alert [ref=f7e413]

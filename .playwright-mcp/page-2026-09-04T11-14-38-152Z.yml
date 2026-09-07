@@ -1,0 +1,447 @@
+- generic [active] [ref=e1]:
+  - main [ref=e3]:
+    - generic [ref=e7]:
+      - generic [ref=e9]:
+        - link [ref=e10] [cursor=pointer]:
+          - /url: /
+          - img "exteraGram" [ref=e11]
+          - text: exteraGram
+        - button "Toggle Sidebar" [ref=e12] [cursor=pointer]
+      - list [ref=e16]:
+        - generic [ref=e17]: Getting Started
+        - listitem [ref=e18]:
+          - link "Introduction" [ref=e19] [cursor=pointer]:
+            - /url: /docs
+        - listitem [ref=e26]:
+          - link "Setup" [ref=e27] [cursor=pointer]:
+            - /url: /docs/setup
+        - listitem [ref=e33]:
+          - link "First Plugin" [ref=e34] [cursor=pointer]:
+            - /url: /docs/first-plugin
+        - generic [ref=e42]: Elyx Structured Plugins
+        - generic [ref=e43]:
+          - link [ref=e44] [cursor=pointer]:
+            - /url: /docs/elyx
+          - list [ref=e58]:
+            - listitem [ref=e59]:
+              - link "Elyx" [ref=e60] [cursor=pointer]:
+                - /url: /docs/elyx
+            - listitem [ref=e73]:
+              - link "Quick Start" [ref=e74] [cursor=pointer]:
+                - /url: /docs/elyx/quick-start
+            - listitem [ref=e82]:
+              - link "ElyxBuilder" [ref=e83] [cursor=pointer]:
+                - /url: /docs/elyx/elyxbuilder
+            - listitem [ref=e90]:
+              - link "Project Structure" [ref=e91] [cursor=pointer]:
+                - /url: /docs/elyx/project-structure
+            - listitem [ref=e99]:
+              - link "Metadata" [ref=e100] [cursor=pointer]:
+                - /url: /docs/elyx/metadata
+            - listitem [ref=e108]:
+              - link "Modules and Imports" [ref=e109] [cursor=pointer]:
+                - /url: /docs/elyx/modules-and-imports
+            - listitem [ref=e117]:
+              - link "Assets" [ref=e118] [cursor=pointer]:
+                - /url: /docs/elyx/assets
+            - listitem [ref=e126]:
+              - link "Localization" [ref=e127] [cursor=pointer]:
+                - /url: /docs/elyx/localization
+            - listitem [ref=e134]:
+              - link "Settings Storage" [ref=e135] [cursor=pointer]:
+                - /url: /docs/elyx/settings
+            - listitem [ref=e139]:
+              - link "Dependencies" [ref=e140] [cursor=pointer]:
+                - /url: /docs/elyx/dependencies
+            - listitem [ref=e149]:
+              - link "Development and Build" [ref=e150] [cursor=pointer]:
+                - /url: /docs/elyx/development
+            - listitem [ref=e158]:
+              - link "Public API" [ref=e159] [cursor=pointer]:
+                - /url: /docs/elyx/public-api
+            - listitem [ref=e165]:
+              - link "Troubleshooting" [ref=e166] [cursor=pointer]:
+                - /url: /docs/elyx/troubleshooting
+        - generic [ref=e171]: Basics
+        - listitem [ref=e172]:
+          - link "Plugin Class" [ref=e173] [cursor=pointer]:
+            - /url: /docs/plugin-class
+        - listitem [ref=e178]:
+          - link "Multi-account" [ref=e179] [cursor=pointer]:
+            - /url: /docs/multi-account
+        - listitem [ref=e187]:
+          - link "Plugin Settings" [ref=e188] [cursor=pointer]:
+            - /url: /docs/plugin-settings
+        - listitem [ref=e194]:
+          - link "Class Proxy" [ref=e195] [cursor=pointer]:
+            - /url: /docs/class-proxy
+        - listitem [ref=e208]:
+          - link "Xposed Method Hooking" [ref=e209] [cursor=pointer]:
+            - /url: /docs/xposed-hooking
+        - generic [ref=e216]: Utils
+        - listitem [ref=e217]:
+          - link "Android Utilities" [ref=e218] [cursor=pointer]:
+            - /url: /docs/android-utils
+        - listitem [ref=e223]:
+          - link "Client Utilities" [ref=e224] [cursor=pointer]:
+            - /url: /docs/client-utils
+        - listitem [ref=e231]:
+          - link "Text Formatting" [ref=e232] [cursor=pointer]:
+            - /url: /docs/text-formatting
+        - listitem [ref=e237]:
+          - link "Hook Utilities (Reflection)" [ref=e238] [cursor=pointer]:
+            - /url: /docs/hook-utils
+        - listitem [ref=e246]:
+          - link "File Utilities" [ref=e247] [cursor=pointer]:
+            - /url: /docs/file-utils
+        - listitem [ref=e255]:
+          - link "Intents" [ref=e256] [cursor=pointer]:
+            - /url: /docs/intents
+        - listitem [ref=e262]:
+          - link "Alert Dialog Builder" [ref=e263] [cursor=pointer]:
+            - /url: /docs/alert-dialog-builder
+        - listitem [ref=e268]:
+          - link "Bulletin Helper" [ref=e269] [cursor=pointer]:
+            - /url: /docs/bulletin-helper
+        - generic [ref=e275]: Other
+        - listitem [ref=e276]:
+          - link "Development Server" [ref=e277] [cursor=pointer]:
+            - /url: /docs/dev-server
+        - listitem [ref=e286]:
+          - link "PIP & Dependencies" [ref=e287] [cursor=pointer]:
+            - /url: /docs/pip
+        - listitem [ref=e294]:
+          - link "Available Libraries" [ref=e295] [cursor=pointer]:
+            - /url: /docs/available-libraries
+        - listitem [ref=e300]:
+          - link "Common Telegram Classes" [ref=e301] [cursor=pointer]:
+            - /url: /docs/common-source-classes
+    - main [ref=e307]:
+      - generic [ref=e308]:
+        - generic [ref=e309]:
+          - button "Search Ctrl K" [ref=e310] [cursor=pointer]:
+            - text: Search
+            - generic [ref=e314]:
+              - generic [ref=e315]: Ctrl
+              - generic [ref=e316]: K
+          - button "Toggle Theme" [ref=e317] [cursor=pointer]
+          - link [ref=e326] [cursor=pointer]:
+            - /url: https://github.com/exteraSquad
+        - generic [ref=e329]:
+          - article [ref=e331]:
+            - heading "First Plugin" [level=1] [ref=e332]
+            - paragraph [ref=e333]: Build and test your first real plugin.
+            - generic [ref=e334]:
+              - paragraph [ref=e335]: This page walks through a realistic first plugin for the current SDK.
+              - paragraph [ref=e336]: "We will build a small command plugin:"
+              - list [ref=e337]:
+                - listitem [ref=e338]:
+                  - text: when the user sends
+                  - code [ref=e339]: .hello Alice
+                  - text: ", the plugin rewrites the outgoing message"
+                - listitem [ref=e340]: the greeting template is configurable in plugin settings
+                - listitem [ref=e341]: the example stays synchronous and easy to read on purpose
+              - heading [level=2] [ref=e342]:
+                - link "Before you start" [ref=e343] [cursor=pointer]:
+                  - /url: "#before-you-start"
+                - img "Link to section" [ref=e344]
+              - paragraph [ref=e347]: "Keep these pages nearby:"
+              - list [ref=e348]:
+                - listitem [ref=e349]:
+                  - link "Plugin Class" [ref=e350] [cursor=pointer]:
+                    - /url: /docs/plugin-class
+                - listitem [ref=e351]:
+                  - link "Plugin Settings" [ref=e352] [cursor=pointer]:
+                    - /url: /docs/plugin-settings
+                - listitem [ref=e353]:
+                  - link "Client Utilities" [ref=e354] [cursor=pointer]:
+                    - /url: /docs/client-utils
+              - heading [level=2] [ref=e355]:
+                - link "Minimal plugin shape" [ref=e356] [cursor=pointer]:
+                  - /url: "#minimal-plugin-shape"
+                - img "Link to section" [ref=e357]
+              - paragraph [ref=e360]: "Every plugin file should contain:"
+              - list [ref=e361]:
+                - listitem [ref=e362]: metadata as plain top-level constants
+                - listitem [ref=e363]:
+                  - text: one class inheriting from
+                  - code [ref=e364]: BasePlugin
+              - figure [ref=e365]:
+                - button "Copy Text" [ref=e366] [cursor=pointer]
+                - code [ref=e374]:
+                  - generic [ref=e375]: from base_plugin import BasePlugin
+                  - generic [ref=e377]: __id__ = "hello_world"
+                  - generic [ref=e378]: __name__ = "Hello World"
+                  - generic [ref=e379]: __description__ = "My first exteraGram plugin"
+                  - generic [ref=e380]: __author__ = "Your Name"
+                  - generic [ref=e381]: __version__ = "1.0.0"
+                  - generic [ref=e382]: __icon__ = "exteraPlugins/1"
+                  - generic [ref=e383]: __app_version__ = ">=12.5.1"
+                  - generic [ref=e384]: __sdk_version__ = ">=1.4.4.3"
+                  - generic [ref=e387]: "class HelloWorldPlugin(BasePlugin):"
+                  - generic [ref=e388]: pass
+              - heading [level=2] [ref=e389]:
+                - link "Complete first plugin" [ref=e390] [cursor=pointer]:
+                  - /url: "#complete-first-plugin"
+                - img "Link to section" [ref=e391]
+              - figure [ref=e394]:
+                - button "Copy Text" [ref=e395] [cursor=pointer]
+                - code [ref=e403]:
+                  - generic [ref=e404]: from typing import Any, List
+                  - generic [ref=e406]: from base_plugin import BasePlugin, HookResult, HookStrategy
+                  - generic [ref=e407]: from ui.settings import Header, Input, Text
+                  - generic [ref=e409]: __id__ = "hello_world"
+                  - generic [ref=e410]: __name__ = "Hello World"
+                  - generic [ref=e411]: __description__ = "Rewrites .hello commands into a friendly message"
+                  - generic [ref=e412]: __author__ = "Your Name"
+                  - generic [ref=e413]: __version__ = "1.0.0"
+                  - generic [ref=e414]: __icon__ = "exteraPlugins/1"
+                  - generic [ref=e415]: __app_version__ = ">=12.5.1"
+                  - generic [ref=e416]: __sdk_version__ = ">=1.4.4.3"
+                  - generic [ref=e419]: "DEFAULT_TEMPLATE = \"Hello, {name}!\""
+                  - generic [ref=e422]: "class HelloWorldPlugin(BasePlugin):"
+                  - generic [ref=e423]: "def on_plugin_load(self):"
+                  - generic [ref=e424]: "# Register the outgoing-message hook once when the plugin is loaded."
+                  - generic [ref=e425]: self.add_on_send_message_hook()
+                  - generic [ref=e426]: self.log("Hello World plugin loaded")
+                  - generic [ref=e428]: "def create_settings(self) -> List[Any]:"
+                  - generic [ref=e429]: return [
+                  - generic [ref=e430]: Header(text="Hello World"),
+                  - generic [ref=e431]: Input(
+                  - generic [ref=e432]: key="template",
+                  - generic [ref=e433]: text="Greeting template",
+                  - generic [ref=e434]: default=DEFAULT_TEMPLATE,
+                  - generic [ref=e435]: "subtext=\"Use {name} where the entered name should appear.\","
+                  - generic [ref=e436]: icon="msg_edit",
+                  - generic [ref=e437]: ),
+                  - generic [ref=e438]: Text(
+                  - generic [ref=e439]: text="Example",
+                  - generic [ref=e440]: subtext=".hello Alice -> Hello, Alice!",
+                  - generic [ref=e441]: icon="msg_info",
+                  - generic [ref=e442]: ),
+                  - generic [ref=e443]: "]"
+                  - generic [ref=e445]: "def on_send_message_hook(self, account: int, params: Any) -> HookResult:"
+                  - generic [ref=e446]: "# Some sends are media-only, so always validate that we really have text."
+                  - generic [ref=e447]: "if not isinstance(getattr(params, \"message\", None), str):"
+                  - generic [ref=e448]: return HookResult()
+                  - generic [ref=e450]: raw_text = params.message.strip()
+                  - generic [ref=e451]: "if not raw_text.startswith(\".hello\"):"
+                  - generic [ref=e452]: return HookResult()
+                  - generic [ref=e454]: "# Split only once so \".hello Alice Smith\" keeps the full name."
+                  - generic [ref=e455]: parts = raw_text.split(" ", 1)
+                  - generic [ref=e456]: name = parts[1].strip() if len(parts) > 1 else ""
+                  - generic [ref=e458]: "if not name:"
+                  - generic [ref=e459]: "params.message = \"Usage: .hello <name>\""
+                  - generic [ref=e460]: return HookResult(strategy=HookStrategy.MODIFY, params=params)
+                  - generic [ref=e462]: "# Read the saved template or fall back to the default one."
+                  - generic [ref=e463]: template = self.get_setting("template", DEFAULT_TEMPLATE)
+                  - generic [ref=e465]: "try:"
+                  - generic [ref=e466]: params.message = template.format(name=name)
+                  - generic [ref=e467]: "except Exception:"
+                  - generic [ref=e468]: "# If the user saved a broken template, fail softly and explain why."
+                  - generic [ref=e469]: "params.message = \"Template must contain valid Python format placeholders, for example {name}.\""
+                  - generic [ref=e471]: "# Tell the plugin engine that we changed outgoing message params."
+                  - generic [ref=e472]: return HookResult(strategy=HookStrategy.MODIFY, params=params)
+              - heading [level=2] [ref=e473]:
+                - link "What this example teaches" [ref=e474] [cursor=pointer]:
+                  - /url: "#what-this-example-teaches"
+                - img "Link to section" [ref=e475]
+              - heading [level=3] [ref=e478]:
+                - link "1. Metadata is parsed statically" [ref=e479] [cursor=pointer]:
+                  - /url: "#1-metadata-is-parsed-statically"
+                - img "Link to section" [ref=e480]
+              - paragraph [ref=e483]:
+                - text: The loader reads metadata from the Python file with
+                - code [ref=e484]: AST
+                - text: ", so values such as"
+                - code [ref=e485]: __id__
+                - text: and
+                - code [ref=e486]: __version__
+                - text: should stay as plain top-level constants.
+              - heading [level=3] [ref=e487]:
+                - link "2. Hooks must be registered" [ref=e488] [cursor=pointer]:
+                  - /url: "#2-hooks-must-be-registered"
+                - img "Link to section" [ref=e489]
+              - paragraph [ref=e492]:
+                - text: Implementing
+                - code [ref=e493]: on_send_message_hook(...)
+                - text: "is not enough by itself. You also need:"
+              - figure [ref=e494]:
+                - button "Copy Text" [ref=e495] [cursor=pointer]
+                - code [ref=e503]:
+                  - generic [ref=e504]: "def on_plugin_load(self):"
+                  - generic [ref=e505]: self.add_on_send_message_hook()
+              - heading [level=3] [ref=e506]:
+                - link "3. Settings are regular Python dataclasses" [ref=e507] [cursor=pointer]:
+                  - /url: "#3-settings-are-regular-python-dataclasses"
+                - img "Link to section" [ref=e508]
+              - paragraph [ref=e511]:
+                - text: The settings page is built from objects from
+                - code [ref=e512]: ui.settings
+                - text: .
+              - paragraph [ref=e513]: "In this example:"
+              - list [ref=e514]:
+                - listitem [ref=e515]:
+                  - code [ref=e516]: Header
+                  - text: creates a section title
+                - listitem [ref=e517]:
+                  - code [ref=e518]: Input
+                  - text: persists a string under the key
+                  - code [ref=e519]: "\"template\""
+                - listitem [ref=e520]:
+                  - code [ref=e521]: Text
+                  - text: is just a read-only helper row
+              - heading [level=3] [ref=e522]:
+                - link [ref=e523] [cursor=pointer]:
+                  - /url: "#4-hookresult-decides-what-happens-next"
+                  - text: "4."
+                  - code [ref=e524]: HookResult
+                  - text: decides what happens next
+                - img "Link to section" [ref=e525]
+              - paragraph [ref=e528]: "For outgoing messages:"
+              - list [ref=e529]:
+                - listitem [ref=e530]:
+                  - code [ref=e531]: HookResult()
+                  - text: means "leave it unchanged"
+                - listitem [ref=e532]:
+                  - code [ref=e533]: HookResult(strategy=HookStrategy.MODIFY, params=params)
+                  - text: means "use the updated params"
+                - listitem [ref=e534]:
+                  - code [ref=e535]: HookResult(strategy=HookStrategy.CANCEL)
+                  - text: means "stop the send entirely"
+              - heading [level=2] [ref=e536]:
+                - link "Testing it" [ref=e537] [cursor=pointer]:
+                  - /url: "#testing-it"
+                - img "Link to section" [ref=e538]
+              - list [ref=e541]:
+                - listitem [ref=e542]: Enable the plugin.
+                - listitem [ref=e543]: Open the plugin settings and change the template if you want.
+                - listitem [ref=e544]:
+                  - text: Send
+                  - code [ref=e545]: .hello Alice
+                  - text: in any chat.
+              - paragraph [ref=e546]: "Expected result:"
+              - figure [ref=e547]:
+                - button "Copy Text" [ref=e548] [cursor=pointer]
+                - code [ref=e556]:
+                  - generic [ref=e557]: Hello, Alice!
+              - paragraph [ref=e558]: "If you change the template to:"
+              - figure [ref=e559]:
+                - button "Copy Text" [ref=e560] [cursor=pointer]
+                - code [ref=e568]:
+                  - generic [ref=e569]: "Welcome back, {name}."
+              - paragraph [ref=e570]:
+                - text: then
+                - code [ref=e571]: .hello Alice
+                - text: "becomes:"
+              - figure [ref=e572]:
+                - button "Copy Text" [ref=e573] [cursor=pointer]
+                - code [ref=e581]:
+                  - generic [ref=e582]: Welcome back, Alice.
+              - heading [level=2] [ref=e583]:
+                - link "Common beginner mistakes" [ref=e584] [cursor=pointer]:
+                  - /url: "#common-beginner-mistakes"
+                - img "Link to section" [ref=e585]
+              - list [ref=e588]:
+                - listitem [ref=e589]:
+                  - text: forgetting
+                  - code [ref=e590]: self.add_on_send_message_hook()
+                  - text: in
+                  - code [ref=e591]: on_plugin_load
+                - listitem [ref=e592]: building metadata dynamically instead of using plain constants
+                - listitem [ref=e593]:
+                  - text: assuming
+                  - code [ref=e594]: params.message
+                  - text: always exists
+                - listitem [ref=e595]: doing slow network or file work directly in a hook on the UI thread
+              - paragraph [ref=e596]:
+                - text: If your plugin needs background work, continue with
+                - link "Client Utilities" [ref=e597] [cursor=pointer]:
+                  - /url: /docs/client-utils
+                - text: ", especially"
+                - code [ref=e598]: run_on_queue(...)
+                - text: .
+              - heading [level=2] [ref=e599]:
+                - link "What to explore next" [ref=e600] [cursor=pointer]:
+                  - /url: "#what-to-explore-next"
+                - img "Link to section" [ref=e601]
+              - paragraph [ref=e604]: "After this plugin, the most useful next steps are:"
+              - list [ref=e605]:
+                - listitem [ref=e606]:
+                  - link "Plugin Class" [ref=e607] [cursor=pointer]:
+                    - /url: /docs/plugin-class
+                  - text: for lifecycle and hooks
+                - listitem [ref=e608]:
+                  - link "Plugin Settings" [ref=e609] [cursor=pointer]:
+                    - /url: /docs/plugin-settings
+                  - text: for richer settings UIs
+                - listitem [ref=e610]:
+                  - link "Client Utilities" [ref=e611] [cursor=pointer]:
+                    - /url: /docs/client-utils
+                  - text: for sending messages, requests, and queue work
+              - paragraph [ref=e612]: "To further develop your plugin skills, explore community-made plugins:"
+              - generic [ref=e613]:
+                - link [ref=e614] [cursor=pointer]:
+                  - /url: https://t.me/exteraPlugins
+                  - heading "exteraGram Plugins" [level=3] [ref=e619]
+                  - paragraph [ref=e621]: Official Channel
+                - link [ref=e622] [cursor=pointer]:
+                  - /url: https://t.me/exteraPluginsSup
+                  - heading "exteraGram Plugins" [level=3] [ref=e627]
+                  - paragraph [ref=e629]:
+                    - text: Plugins from supporters; maintained by
+                    - link "@itsv1eds" [ref=e630]:
+                      - /url: https://t.me/itsv1eds
+                - link [ref=e631] [cursor=pointer]:
+                  - /url: https://t.me/exteraDevPlugins
+                  - heading "Dotted" [level=3] [ref=e636]
+                  - paragraph [ref=e638]:
+                    - text: Plugins by
+                    - link "@exteraDev" [ref=e639]:
+                      - /url: https://t.me/exteraDev
+                - link [ref=e640] [cursor=pointer]:
+                  - /url: https://t.me/zwyPlugins
+                  - heading "zwyPlugins" [level=3] [ref=e645]
+                  - paragraph [ref=e647]:
+                    - text: Plugins by
+                    - link "@zwylair" [ref=e648]:
+                      - /url: https://t.me/zwylair
+            - generic [ref=e649]:
+              - link [ref=e650] [cursor=pointer]:
+                - /url: /docs/setup
+                - paragraph [ref=e654]: Previous
+                - paragraph [ref=e655]: Setup
+              - link [ref=e656] [cursor=pointer]:
+                - /url: /docs/elyx
+                - paragraph [ref=e660]: Next
+                - paragraph [ref=e661]: Elyx
+          - generic [ref=e663]:
+            - heading "On this page" [level=3] [ref=e664]
+            - generic [ref=e670]:
+              - link "Before you start" [ref=e671] [cursor=pointer]:
+                - /url: "#before-you-start"
+              - link "Minimal plugin shape" [ref=e673] [cursor=pointer]:
+                - /url: "#minimal-plugin-shape"
+              - link "Complete first plugin" [ref=e675] [cursor=pointer]:
+                - /url: "#complete-first-plugin"
+              - link "What this example teaches" [ref=e677] [cursor=pointer]:
+                - /url: "#what-this-example-teaches"
+              - link "1. Metadata is parsed statically" [ref=e679] [cursor=pointer]:
+                - /url: "#1-metadata-is-parsed-statically"
+              - link "2. Hooks must be registered" [ref=e683] [cursor=pointer]:
+                - /url: "#2-hooks-must-be-registered"
+              - link "3. Settings are regular Python dataclasses" [ref=e685] [cursor=pointer]:
+                - /url: "#3-settings-are-regular-python-dataclasses"
+              - link [ref=e687] [cursor=pointer]:
+                - /url: "#4-hookresult-decides-what-happens-next"
+                - text: "4."
+                - code [ref=e689]: HookResult
+                - text: decides what happens next
+              - link "Testing it" [ref=e690] [cursor=pointer]:
+                - /url: "#testing-it"
+              - link "Common beginner mistakes" [ref=e694] [cursor=pointer]:
+                - /url: "#common-beginner-mistakes"
+              - link "What to explore next" [ref=e696] [cursor=pointer]:
+                - /url: "#what-to-explore-next"
+  - region "Notifications alt+T"
+  - alert [ref=e698]

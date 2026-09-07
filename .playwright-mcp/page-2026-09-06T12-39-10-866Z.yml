@@ -1,0 +1,229 @@
+- generic [ref=f1e2]:
+  - generic [ref=f1e3]:
+    - link "Skip to content" [ref=f1e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=f1e9]:
+      - heading "Navigation Menu" [level=2] [ref=f1e10]
+      - generic [ref=f1e11]:
+        - link "Homepage" [ref=f1e13] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f1e16]:
+          - navigation "Global" [ref=f1e17]:
+            - list [ref=f1e18]:
+              - listitem [ref=f1e19]:
+                - button "Platform" [ref=f1e21] [cursor=pointer]
+              - listitem [ref=f1e24]:
+                - button "Solutions" [ref=f1e26] [cursor=pointer]
+              - listitem [ref=f1e29]:
+                - button "Resources" [ref=f1e31] [cursor=pointer]
+              - listitem [ref=f1e34]:
+                - button "Open Source" [ref=f1e36] [cursor=pointer]
+              - listitem [ref=f1e39]:
+                - button "Enterprise" [ref=f1e41] [cursor=pointer]
+              - listitem [ref=f1e44]:
+                - link "Pricing" [ref=f1e45] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+          - generic [ref=f1e46]:
+            - button "Search or jump to, type / to search" [ref=f1e48] [cursor=pointer]
+            - link "Sign in" [ref=f1e55] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fvscode%2Ftree%2Fmain%2Fsrc%2Fvs%2Fworkbench%2Fbrowser%2Fmedia
+            - link "Sign up" [ref=f1e58] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&source=header-repo&source_repo=microsoft%2Fvscode
+            - button "Appearance settings" [ref=f1e61] [cursor=pointer]
+  - main [ref=f1e68]:
+    - generic [ref=f1e69]:
+      - generic [ref=f1e70]:
+        - generic [ref=f1e72]:
+          - link "microsoft" [ref=f1e76] [cursor=pointer]:
+            - /url: /microsoft
+          - generic [ref=f1e77]: /
+          - strong [ref=f1e78]:
+            - link "vscode" [ref=f1e79] [cursor=pointer]:
+              - /url: /microsoft/vscode
+          - generic [ref=f1e80]: Public
+        - generic [ref=f1e81]:
+          - list:
+            - listitem [ref=f1e82]:
+              - link "You must be signed in to change notification settings" [ref=f1e83] [cursor=pointer]:
+                - /url: /login?return_to=%2Fmicrosoft%2Fvscode
+                - text: Notifications
+            - listitem [ref=f1e86]:
+              - link "Fork 42k" [ref=f1e87] [cursor=pointer]:
+                - /url: /login?return_to=%2Fmicrosoft%2Fvscode
+                - text: Fork
+                - generic "42,005" [ref=f1e90]: 42k
+            - listitem [ref=f1e91]:
+              - link "You must be signed in to star a repository" [ref=f1e93] [cursor=pointer]:
+                - /url: /login?return_to=%2Fmicrosoft%2Fvscode
+                - text: Star
+                - generic "190953 users starred this repository" [ref=f1e96]: 191k
+      - navigation "Repository" [ref=f1e97]:
+        - list [ref=f1e98]:
+          - listitem [ref=f1e99]:
+            - link "Code" [ref=f1e100] [cursor=pointer]:
+              - /url: /microsoft/vscode
+          - listitem [ref=f1e104]:
+            - link "Issues 5k+" [ref=f1e105] [cursor=pointer]:
+              - /url: /microsoft/vscode/issues
+              - generic [ref=f1e109]: Issues
+              - generic "5,000+" [ref=f1e110]: 5k+
+          - listitem [ref=f1e111]:
+            - link "Pull requests 2.6k" [ref=f1e112] [cursor=pointer]:
+              - /url: /microsoft/vscode/pulls
+              - generic [ref=f1e115]: Pull requests
+              - generic "2,554" [ref=f1e116]: 2.6k
+          - listitem [ref=f1e117]:
+            - link "Actions" [ref=f1e118] [cursor=pointer]:
+              - /url: /microsoft/vscode/actions
+          - listitem [ref=f1e122]:
+            - link "Projects" [ref=f1e123] [cursor=pointer]:
+              - /url: /microsoft/vscode/projects
+          - listitem [ref=f1e127]:
+            - link "Wiki" [ref=f1e128] [cursor=pointer]:
+              - /url: /microsoft/vscode/wiki
+          - listitem [ref=f1e132]:
+            - link "Security and quality 43" [ref=f1e133] [cursor=pointer]:
+              - /url: /microsoft/vscode/security
+              - generic [ref=f1e136]: Security and quality
+              - generic "43" [ref=f1e137]
+          - listitem [ref=f1e138]
+        - button "Additional navigation options" [ref=f1e142] [cursor=pointer]
+    - generic [ref=f1e153]:
+      - generic [ref=f1e157]:
+        - generic [ref=f1e158]:
+          - heading "Expand file tree" [level=2] [ref=f1e160]:
+            - button "Expand file tree" [ref=f1e161] [cursor=pointer]
+          - button "main branch" [ref=f1e166] [cursor=pointer]:
+            - generic [ref=f1e167]: main
+          - generic [ref=f1e172]:
+            - navigation [ref=f1e173]:
+              - heading "Breadcrumbs" [level=2] [ref=f1e174]
+              - list [ref=f1e175]:
+                - listitem [ref=f1e176]:
+                  - link "vscode" [ref=f1e177] [cursor=pointer]:
+                    - /url: /microsoft/vscode/tree/main
+                - listitem [ref=f1e178]:
+                  - text: /
+                  - link "src" [ref=f1e179] [cursor=pointer]:
+                    - /url: /microsoft/vscode/tree/main/src
+                - listitem [ref=f1e180]:
+                  - text: /
+                  - link "vs" [ref=f1e181] [cursor=pointer]:
+                    - /url: /microsoft/vscode/tree/main/src/vs
+                - listitem [ref=f1e182]:
+                  - text: /
+                  - link "workbench" [ref=f1e183] [cursor=pointer]:
+                    - /url: /microsoft/vscode/tree/main/src/vs/workbench
+                - listitem [ref=f1e184]:
+                  - text: /
+                  - link "browser" [ref=f1e185] [cursor=pointer]:
+                    - /url: /microsoft/vscode/tree/main/src/vs/workbench/browser
+            - generic [ref=f1e186]:
+              - text: /
+              - heading "media" [level=1] [ref=f1e187]
+              - text: /
+            - button "Copy path" [ref=f1e188] [cursor=pointer]
+        - generic [ref=f1e194]:
+          - heading "Directory actions" [level=2] [ref=f1e195]
+          - combobox "Go to file" [ref=f1e202]
+          - heading "More options" [level=2] [ref=f1e203]
+          - button "More options" [ref=f1e204] [cursor=pointer]
+      - generic [ref=f1e207]:
+        - generic [ref=f1e209]:
+          - heading "Latest commit" [level=2] [ref=f1e210]
+          - generic [ref=f1e213]:
+            - heading "History" [level=2] [ref=f1e214]
+            - link "History" [ref=f1e215] [cursor=pointer]:
+              - /url: /microsoft/vscode/commits/main/src/vs/workbench/browser/media
+        - generic [ref=f1e219]:
+          - heading "Folders and files" [level=2] [ref=f1e220]
+          - table "Folders and files" [ref=f1e221]:
+            - rowgroup [ref=f1e222]:
+              - row [ref=f1e223]:
+                - columnheader "Name" [ref=f1e224]
+                - columnheader "Last commit message" [ref=f1e225]
+                - columnheader "Last commit date" [ref=f1e227]
+            - rowgroup [ref=f1e229]:
+              - row [ref=f1e230]:
+                - cell [ref=f1e231]:
+                  - heading "parent directory" [level=3] [ref=f1e232]
+                  - link "Parent directory" [ref=f1e233] [cursor=pointer]:
+                    - /url: /microsoft/vscode/tree/main/src/vs/workbench/browser
+                    - generic [ref=f1e234]: ..
+              - row "animatedCounterWidget.css, (File)" [ref=f1e237]:
+                - cell [ref=f1e238]:
+                  - link "animatedCounterWidget.css, (File)" [ref=f1e245] [cursor=pointer]:
+                    - /url: /microsoft/vscode/blob/main/src/vs/workbench/browser/media/animatedCounterWidget.css
+                    - text: animatedCounterWidget.css
+                - cell [ref=f1e246]
+                - cell [ref=f1e248]
+              - row "chatPills.css, (File)" [ref=f1e251]:
+                - cell [ref=f1e252]:
+                  - link "chatPills.css, (File)" [ref=f1e259] [cursor=pointer]:
+                    - /url: /microsoft/vscode/blob/main/src/vs/workbench/browser/media/chatPills.css
+                    - text: chatPills.css
+                - cell [ref=f1e260]
+                - cell [ref=f1e262]
+              - row "code-icon.svg, (File)" [ref=f1e265]:
+                - cell [ref=f1e266]:
+                  - link "code-icon.svg, (File)" [ref=f1e273] [cursor=pointer]:
+                    - /url: /microsoft/vscode/blob/main/src/vs/workbench/browser/media/code-icon.svg
+                    - text: code-icon.svg
+                - cell [ref=f1e274]
+                - cell [ref=f1e276]
+              - row "floatingPanels.css, (File)" [ref=f1e279]:
+                - cell [ref=f1e280]:
+                  - link "floatingPanels.css, (File)" [ref=f1e287] [cursor=pointer]:
+                    - /url: /microsoft/vscode/blob/main/src/vs/workbench/browser/media/floatingPanels.css
+                    - text: floatingPanels.css
+                - cell [ref=f1e288]
+                - cell [ref=f1e290]
+              - row "part.css, (File)" [ref=f1e293]:
+                - cell [ref=f1e294]:
+                  - link "part.css, (File)" [ref=f1e301] [cursor=pointer]:
+                    - /url: /microsoft/vscode/blob/main/src/vs/workbench/browser/media/part.css
+                    - text: part.css
+                - cell [ref=f1e302]
+                - cell [ref=f1e304]
+              - row "style.css, (File)" [ref=f1e307]:
+                - cell [ref=f1e308]:
+                  - link "style.css, (File)" [ref=f1e315] [cursor=pointer]:
+                    - /url: /microsoft/vscode/blob/main/src/vs/workbench/browser/media/style.css
+                    - text: style.css
+                - cell [ref=f1e316]
+                - cell [ref=f1e318]
+  - contentinfo [ref=f1e322]:
+    - heading "Footer" [level=2] [ref=f1e323]
+    - generic [ref=f1e324]:
+      - generic [ref=f1e325]:
+        - link "GitHub Homepage" [ref=f1e326] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=f1e329]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f1e330]:
+        - heading "Footer navigation" [level=3] [ref=f1e331]
+        - list "Footer navigation" [ref=f1e332]:
+          - listitem [ref=f1e333]:
+            - link "Terms" [ref=f1e334] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f1e335]:
+            - link "Privacy" [ref=f1e336] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f1e337]:
+            - link "Security" [ref=f1e338] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f1e339]:
+            - link "Status" [ref=f1e340] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f1e341]:
+            - link "Community" [ref=f1e342] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f1e343]:
+            - link "Docs" [ref=f1e344] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f1e345]:
+            - link "Contact" [ref=f1e346] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f1e347]:
+            - button "Manage cookies" [ref=f1e349] [cursor=pointer]
+          - listitem [ref=f1e350]:
+            - button "Do not share my personal information" [ref=f1e352] [cursor=pointer]

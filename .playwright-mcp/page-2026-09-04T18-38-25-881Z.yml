@@ -1,0 +1,1055 @@
+- generic [ref=f20e2]:
+  - generic [ref=f20e4]:
+    - text: Подписывайтесь на наш Telegram и не пропускайте важные новости!
+    - link "Перейти" [ref=f20e8] [cursor=pointer]:
+      - /url: https://t.me/yougame_official
+    - button "Скрыть" [ref=f20e10] [cursor=pointer]
+  - generic [ref=f20e15]:
+    - link "Вход" [ref=f20e16] [cursor=pointer]:
+      - /url: /login/
+    - link "Регистрация" [ref=f20e17] [cursor=pointer]:
+      - /url: /register/
+  - banner [ref=f20e18]:
+    - generic [ref=f20e20]:
+      - link [ref=f20e22] [cursor=pointer]:
+        - /url: /
+        - img "Сайт читов, скриптов и кодов для онлайн игр - YouGame.Biz" [ref=f20e24]
+      - navigation [ref=f20e25]:
+        - generic [ref=f20e26]:
+          - list [ref=f20e28]:
+            - listitem [ref=f20e29]:
+              - generic [ref=f20e30]:
+                - link "Правила" [ref=f20e31] [cursor=pointer]:
+                  - /url: /rules/
+                - button "Toggle expanded" [ref=f20e32] [cursor=pointer]
+            - listitem [ref=f20e33]:
+              - generic [ref=f20e34]:
+                - link "Услуги форума" [ref=f20e35] [cursor=pointer]:
+                  - /url: /threads/88568/
+                - button "Toggle expanded" [ref=f20e36] [cursor=pointer]
+            - listitem [ref=f20e37]:
+              - generic [ref=f20e38]:
+                - link "Пользователи" [ref=f20e39] [cursor=pointer]:
+                  - /url: /members/
+                - button "Toggle expanded" [ref=f20e40] [cursor=pointer]
+            - listitem [ref=f20e41]:
+              - link "Дешёвые читы" [ref=f20e43] [cursor=pointer]:
+                - /url: https://up-game.pro/
+            - listitem [ref=f20e44]:
+              - link "Читы у лисы" [ref=f20e46] [cursor=pointer]:
+                - /url: https://gamebreaker.ru/?utm_source=yougame&utm_medium=text&utm_campaign=header
+            - listitem [ref=f20e47]:
+              - link "Халявные читы" [ref=f20e49] [cursor=pointer]:
+                - /url: https://dragon-hack.pro/
+            - listitem [ref=f20e50]:
+              - link "Приватные читы" [ref=f20e52] [cursor=pointer]:
+                - /url: https://wh-satano.ru/?utm_source=yougame&utm_medium=banner&utm_campaign=header
+            - listitem [ref=f20e53]:
+              - link "Купить читы" [ref=f20e55] [cursor=pointer]:
+                - /url: https://getcheats.io/?utm_source=yougame&utm_medium=link&utm_campaign=04&utm_content=header
+          - generic [aria-hidden] [ref=f20e56] [cursor=pointer]
+  - list [ref=f20e60]:
+    - listitem [ref=f20e61]:
+      - link "Реклама тут за 40к" [ref=f20e63] [cursor=pointer]:
+        - /url: https://t.me/mrGOVARD
+    - listitem [ref=f20e64]:
+      - link "Магазин читов" [ref=f20e66] [cursor=pointer]:
+        - /url: https://wh-satano.ru/?utm_source=yougame&utm_medium=banner&utm_campaign=header2
+    - listitem [ref=f20e67]:
+      - link "Последняя активность" [ref=f20e69] [cursor=pointer]:
+        - /url: /whats-new/latest-activity
+    - listitem [ref=f20e70]:
+      - link "Регистрация" [ref=f20e72] [cursor=pointer]:
+        - /url: /register/
+  - generic [ref=f20e74]:
+    - list [ref=f20e76]:
+      - listitem [ref=f20e77]:
+        - link "Глобальный игровой раздел" [ref=f20e78] [cursor=pointer]:
+          - /url: /categories/437/
+      - listitem [ref=f20e79]:
+        - link "Читы для Minecraft" [ref=f20e80] [cursor=pointer]:
+          - /url: /forums/1178/
+    - table [ref=f20e83]:
+      - rowgroup [ref=f20e84]:
+        - row [ref=f20e85]:
+          - cell [ref=f20e86]:
+            - link [ref=f20e87] [cursor=pointer]:
+              - /url: https://psb.hosting/
+    - paragraph [ref=f20e89]:
+      - link [ref=f20e90] [cursor=pointer]:
+        - /url: https://yougame.biz/threads/339105/
+    - heading "Бесплатные читы Minecraft" [level=1] [ref=f20e93]
+    - generic [ref=f20e97]:
+      - navigation [ref=f20e100]:
+        - generic [ref=f20e101]:
+          - link "Назад" [ref=f20e102] [cursor=pointer]:
+            - /url: /forums/64/page-2
+          - list [ref=f20e103]:
+            - listitem [ref=f20e104]:
+              - link "1" [ref=f20e105] [cursor=pointer]:
+                - /url: /forums/64/
+            - listitem [ref=f20e106]:
+              - link "2" [ref=f20e107] [cursor=pointer]:
+                - /url: /forums/64/page-2
+            - listitem [ref=f20e108] [cursor=pointer]:
+              - link "3" [ref=f20e109]:
+                - /url: /forums/64/page-3
+            - listitem [ref=f20e110]:
+              - link "4" [ref=f20e111] [cursor=pointer]:
+                - /url: /forums/64/page-4
+            - listitem [ref=f20e112]:
+              - link "5" [ref=f20e113] [cursor=pointer]:
+                - /url: /forums/64/page-5
+            - listitem [ref=f20e114]:
+              - button "Перейти к странице" [ref=f20e115] [cursor=pointer]: ...
+            - listitem [ref=f20e116]:
+              - link "86" [ref=f20e117] [cursor=pointer]:
+                - /url: /forums/64/page-86
+          - link "Вперёд" [ref=f20e118] [cursor=pointer]:
+            - /url: /forums/64/page-4
+      - generic [ref=f20e119]:
+        - generic [ref=f20e120]:
+          - generic [ref=f20e123]:
+            - button "Показать фильтры" [ref=f20e124] [cursor=pointer]
+            - button "Очистить фильтры" [ref=f20e125]
+          - generic [ref=f20e126]:
+            - generic [ref=f20e127]:
+              - generic [ref=f20e128]: "Префикс:"
+              - combobox "Префикс" [ref=f20e130]:
+                - option "(Учитывать все)" [selected]
+                - option "Free"
+                - option "Undetected"
+                - option "Detected"
+                - option "Outdated"
+                - option "Crack"
+                - option "On update"
+                - option "Leaked"
+                - option "Конфиг"
+                - option "Важно"
+                - option "Отказано"
+                - option "Принято"
+                - option "Решено"
+                - option "Обновление"
+                - option "Конкурс"
+                - option "Опрос"
+                - option "Розыгрыш"
+            - generic [ref=f20e131]:
+              - generic [ref=f20e132]: "Автор:"
+              - searchbox "Автор:" [ref=f20e134]
+            - generic [ref=f20e135]:
+              - generic [ref=f20e136]: "Последнее обновление:"
+              - combobox "Последнее обновление:" [ref=f20e138]:
+                - option "Всё время" [selected]
+                - option "7 дней"
+                - option "14 дней"
+                - option "30 дней"
+                - option "2 месяцев"
+                - option "3 месяцев"
+                - option "6 месяцев"
+                - option "1 год"
+            - generic [ref=f20e139]:
+              - generic [ref=f20e140]: "Тип темы:"
+              - combobox "Тип темы:" [ref=f20e142]:
+                - option "(Учитывать все)" [selected]
+                - option "Обсуждение"
+                - option "Опрос"
+            - generic [ref=f20e143]:
+              - generic [ref=f20e144]: "Сортировка:"
+              - generic [ref=f20e146]:
+                - generic [ref=f20e147]: Порядок сортировки
+                - combobox "Порядок сортировки" [ref=f20e148]:
+                  - option "Последнее сообщение" [selected]
+                  - option "Первое сообщение"
+                  - option "Заголовок"
+                  - option "Ответы"
+                  - option "Просмотры"
+                  - option "Количество реакций для первого сообщения"
+                - generic [ref=f20e150]: Направление сортировки
+                - combobox "Направление сортировки" [ref=f20e151]:
+                  - option "По убыванию" [selected]
+                  - option "По возрастанию"
+        - generic [ref=f20e155]:
+          - generic [ref=f20e156]:
+            - link [ref=f20e159] [cursor=pointer]:
+              - /url: /members/1890728/
+              - img "fukingbich" [ref=f20e160]: F
+            - generic [ref=f20e161]:
+              - generic [ref=f20e162]:
+                - link "Free" [ref=f20e163] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=165
+                - link "NoRecoil на Rustex Remake" [ref=f20e165] [cursor=pointer]:
+                  - /url: /threads/381610/
+              - generic [ref=f20e166]:
+                - list [ref=f20e167]:
+                  - listitem [ref=f20e168]:
+                    - link "fukingbich" [ref=f20e169] [cursor=pointer]:
+                      - /url: /members/1890728/
+                  - listitem [ref=f20e170]:
+                    - text: ·
+                    - link [ref=f20e171] [cursor=pointer]:
+                      - /url: /threads/381610/
+                      - time [ref=f20e172]: 5 Июн 2026
+                - generic [ref=f20e173]:
+                  - link "5" [ref=f20e174] [cursor=pointer]:
+                    - /url: /threads/381610/page-5
+                  - link "6" [ref=f20e175] [cursor=pointer]:
+                    - /url: /threads/381610/page-6
+                  - link "7" [ref=f20e176] [cursor=pointer]:
+                    - /url: /threads/381610/page-7
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e177]':
+              - generic [ref=f20e178]:
+                - term [ref=f20e179]: "Ответы:"
+                - definition [ref=f20e180]: "120"
+              - generic [ref=f20e181]:
+                - term [ref=f20e182]: "Просмотры:"
+                - definition [ref=f20e183]: 5K
+            - generic [ref=f20e184]:
+              - link [ref=f20e185] [cursor=pointer]:
+                - /url: /threads/381610/page-7#post-3622583
+                - time [ref=f20e186]: 25 Авг 2026
+              - link "wwzavozww" [ref=f20e188] [cursor=pointer]:
+                - /url: /members/2055134/
+            - link [ref=f20e191] [cursor=pointer]:
+              - /url: /members/2055134/
+              - img "wwzavozww" [ref=f20e192]: W
+          - generic [ref=f20e193]:
+            - link [ref=f20e196] [cursor=pointer]:
+              - /url: /members/1077381/
+              - img "pakxr" [ref=f20e197]
+            - generic [ref=f20e198]:
+              - generic [ref=f20e199]:
+                - link "Crack" [ref=f20e200] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "Evel dlc aka volon cracked by hexcore" [ref=f20e202] [cursor=pointer]:
+                  - /url: /threads/385802/
+              - list [ref=f20e204]:
+                - listitem [ref=f20e205]:
+                  - link "pakxr" [ref=f20e206] [cursor=pointer]:
+                    - /url: /members/1077381/
+                - listitem [ref=f20e207]:
+                  - text: ·
+                  - link [ref=f20e208] [cursor=pointer]:
+                    - /url: /threads/385802/
+                    - time [ref=f20e209]: 29 Июл 2026
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e210]':
+              - generic [ref=f20e211]:
+                - term [ref=f20e212]: "Ответы:"
+                - definition [ref=f20e213]: "17"
+              - generic [ref=f20e214]:
+                - term [ref=f20e215]: "Просмотры:"
+                - definition [ref=f20e216]: 1K
+            - generic [ref=f20e217]:
+              - link [ref=f20e218] [cursor=pointer]:
+                - /url: /threads/385802/#post-3622296
+                - time [ref=f20e219]: 25 Авг 2026
+              - link "legacytm14" [ref=f20e221] [cursor=pointer]:
+                - /url: /members/2039065/
+            - link [ref=f20e224] [cursor=pointer]:
+              - /url: /members/2039065/
+              - img "legacytm14" [ref=f20e225]
+          - generic [ref=f20e226]:
+            - link [ref=f20e229] [cursor=pointer]:
+              - /url: /angelw1ngsov/
+              - img "Angelwingsov" [ref=f20e230]
+            - generic [ref=f20e231]:
+              - generic [ref=f20e232]:
+                - link "Crack" [ref=f20e233] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "Javeline 1.21.8" [ref=f20e235] [cursor=pointer]:
+                  - /url: /threads/379569/
+              - generic [ref=f20e236]:
+                - list [ref=f20e237]:
+                  - listitem [ref=f20e238]:
+                    - link "Angelwingsov" [ref=f20e239] [cursor=pointer]:
+                      - /url: /angelw1ngsov/
+                  - listitem [ref=f20e240]:
+                    - text: ·
+                    - link [ref=f20e241] [cursor=pointer]:
+                      - /url: /threads/379569/
+                      - time [ref=f20e242]: 9 Май 2026
+                - generic [ref=f20e243]:
+                  - link "3" [ref=f20e244] [cursor=pointer]:
+                    - /url: /threads/379569/page-3
+                  - link "4" [ref=f20e245] [cursor=pointer]:
+                    - /url: /threads/379569/page-4
+                  - link "5" [ref=f20e246] [cursor=pointer]:
+                    - /url: /threads/379569/page-5
+            - 'generic "Количество реакций к первому сообщению: 4" [ref=f20e247]':
+              - generic [ref=f20e248]:
+                - term [ref=f20e249]: "Ответы:"
+                - definition [ref=f20e250]: "92"
+              - generic [ref=f20e251]:
+                - term [ref=f20e252]: "Просмотры:"
+                - definition [ref=f20e253]: 11K
+            - generic [ref=f20e254]:
+              - link [ref=f20e255] [cursor=pointer]:
+                - /url: /threads/379569/page-5#post-3621692
+                - time [ref=f20e256]: 24 Авг 2026
+              - link "legendary123" [ref=f20e258] [cursor=pointer]:
+                - /url: /members/2051921/
+            - link [ref=f20e261] [cursor=pointer]:
+              - /url: /members/2051921/
+              - img "legendary123" [ref=f20e262]: L
+          - generic [ref=f20e263]:
+            - link [ref=f20e266] [cursor=pointer]:
+              - /url: /members/1077381/
+              - img "pakxr" [ref=f20e267]
+            - generic [ref=f20e268]:
+              - generic [ref=f20e269]:
+                - link "Crack" [ref=f20e270] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "Cryptohor client crack 1.21.11" [ref=f20e272] [cursor=pointer]:
+                  - /url: /threads/386008/
+              - generic [ref=f20e273]:
+                - list [ref=f20e274]:
+                  - listitem [ref=f20e275]:
+                    - link "pakxr" [ref=f20e276] [cursor=pointer]:
+                      - /url: /members/1077381/
+                  - listitem [ref=f20e277]:
+                    - text: ·
+                    - link [ref=f20e278] [cursor=pointer]:
+                      - /url: /threads/386008/
+                      - time [ref=f20e279]: 29 Июл 2026
+                - link "2" [ref=f20e281] [cursor=pointer]:
+                  - /url: /threads/386008/page-2
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e282]':
+              - generic [ref=f20e283]:
+                - term [ref=f20e284]: "Ответы:"
+                - definition [ref=f20e285]: "21"
+              - generic [ref=f20e286]:
+                - term [ref=f20e287]: "Просмотры:"
+                - definition [ref=f20e288]: 2K
+            - generic [ref=f20e289]:
+              - link [ref=f20e290] [cursor=pointer]:
+                - /url: /threads/386008/page-2#post-3621389
+                - time [ref=f20e291]: 24 Авг 2026
+              - link "Nonniixe" [ref=f20e293] [cursor=pointer]:
+                - /url: /members/1918636/
+            - link [ref=f20e296] [cursor=pointer]:
+              - /url: /members/1918636/
+              - img "Nonniixe" [ref=f20e297]
+          - generic [ref=f20e298]:
+            - link [ref=f20e301] [cursor=pointer]:
+              - /url: /members/1588904/
+              - img "Bocxol" [ref=f20e302]: B
+            - generic [ref=f20e303]:
+              - generic [ref=f20e304]:
+                - link "Crack" [ref=f20e305] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "Nemezida Crack | RML" [ref=f20e307] [cursor=pointer]:
+                  - /url: /threads/351393/
+              - generic [ref=f20e308]:
+                - list [ref=f20e309]:
+                  - listitem [ref=f20e310]:
+                    - link "Bocxol" [ref=f20e311] [cursor=pointer]:
+                      - /url: /members/1588904/
+                  - listitem [ref=f20e312]:
+                    - text: ·
+                    - link [ref=f20e313] [cursor=pointer]:
+                      - /url: /threads/351393/
+                      - time [ref=f20e314]: 15 Май 2025
+                - link "2" [ref=f20e316] [cursor=pointer]:
+                  - /url: /threads/351393/page-2
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e317]':
+              - generic [ref=f20e318]:
+                - term [ref=f20e319]: "Ответы:"
+                - definition [ref=f20e320]: "26"
+              - generic [ref=f20e321]:
+                - term [ref=f20e322]: "Просмотры:"
+                - definition [ref=f20e323]: 13K
+            - generic [ref=f20e324]:
+              - link [ref=f20e325] [cursor=pointer]:
+                - /url: /threads/351393/page-2#post-3621293
+                - time [ref=f20e326]: 24 Авг 2026
+              - link "artyom749" [ref=f20e328] [cursor=pointer]:
+                - /url: /members/2017505/
+            - link [ref=f20e331] [cursor=pointer]:
+              - /url: /members/2017505/
+              - img "artyom749" [ref=f20e332]: A
+          - generic [ref=f20e333]:
+            - link [ref=f20e336] [cursor=pointer]:
+              - /url: /members/1930873/
+              - img "zagdsasad" [ref=f20e337]: Z
+            - generic [ref=f20e338]:
+              - generic [ref=f20e339]:
+                - link "Crack" [ref=f20e340] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "Epitaph client 1.21.11 crack by zamik171" [ref=f20e342] [cursor=pointer]:
+                  - /url: /threads/385345/
+              - list [ref=f20e344]:
+                - listitem [ref=f20e345]:
+                  - link "zagdsasad" [ref=f20e346] [cursor=pointer]:
+                    - /url: /members/1930873/
+                - listitem [ref=f20e347]:
+                  - text: ·
+                  - link [ref=f20e348] [cursor=pointer]:
+                    - /url: /threads/385345/
+                    - time [ref=f20e349]: 23 Июл 2026
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e350]':
+              - generic [ref=f20e351]:
+                - term [ref=f20e352]: "Ответы:"
+                - definition [ref=f20e353]: "8"
+              - generic [ref=f20e354]:
+                - term [ref=f20e355]: "Просмотры:"
+                - definition [ref=f20e356]: 1K
+            - generic [ref=f20e357]:
+              - link [ref=f20e358] [cursor=pointer]:
+                - /url: /threads/385345/#post-3620884
+                - time [ref=f20e359]: 23 Авг 2026
+              - link "legacytm14" [ref=f20e361] [cursor=pointer]:
+                - /url: /members/2039065/
+            - link [ref=f20e364] [cursor=pointer]:
+              - /url: /members/2039065/
+              - img "legacytm14" [ref=f20e365]
+          - generic [ref=f20e366]:
+            - link [ref=f20e369] [cursor=pointer]:
+              - /url: /members/1765114/
+              - img "SawaX666" [ref=f20e370]
+            - generic [ref=f20e371]:
+              - generic [ref=f20e372]:
+                - link "Crack" [ref=f20e373] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "ReleonCrack$ [latest]" [ref=f20e375] [cursor=pointer]:
+                  - /url: /threads/377134/
+              - generic [ref=f20e376]:
+                - list [ref=f20e377]:
+                  - listitem [ref=f20e378]:
+                    - link "SawaX666" [ref=f20e379] [cursor=pointer]:
+                      - /url: /members/1765114/
+                  - listitem [ref=f20e380]:
+                    - text: ·
+                    - link [ref=f20e381] [cursor=pointer]:
+                      - /url: /threads/377134/
+                      - time [ref=f20e382]: 16 Апр 2026
+                - link "2" [ref=f20e384] [cursor=pointer]:
+                  - /url: /threads/377134/page-2
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e385]':
+              - generic [ref=f20e386]:
+                - term [ref=f20e387]: "Ответы:"
+                - definition [ref=f20e388]: "24"
+              - generic [ref=f20e389]:
+                - term [ref=f20e390]: "Просмотры:"
+                - definition [ref=f20e391]: 4K
+            - generic [ref=f20e392]:
+              - link [ref=f20e393] [cursor=pointer]:
+                - /url: /threads/377134/page-2#post-3620663
+                - time [ref=f20e394]: 23 Авг 2026
+              - link "dan52323" [ref=f20e396] [cursor=pointer]:
+                - /url: /members/2053876/
+            - link [ref=f20e399] [cursor=pointer]:
+              - /url: /members/2053876/
+              - img "dan52323" [ref=f20e400]
+          - generic [ref=f20e401]:
+            - link [ref=f20e404] [cursor=pointer]:
+              - /url: /members/1214043/
+              - img "mefedikXD" [ref=f20e405]
+            - generic [ref=f20e406]:
+              - generic [ref=f20e407]:
+                - link "Free" [ref=f20e408] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=165
+                - link "Furry Client 26.2 Free" [ref=f20e410] [cursor=pointer]:
+                  - /url: /threads/388052/
+              - list [ref=f20e412]:
+                - listitem [ref=f20e413]:
+                  - link "mefedikXD" [ref=f20e414] [cursor=pointer]:
+                    - /url: /members/1214043/
+                - listitem [ref=f20e415]:
+                  - text: ·
+                  - link [ref=f20e416] [cursor=pointer]:
+                    - /url: /threads/388052/
+                    - time [ref=f20e417]: 21 Авг 2026
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e418]':
+              - generic [ref=f20e419]:
+                - term [ref=f20e420]: "Ответы:"
+                - definition [ref=f20e421]: "11"
+              - generic [ref=f20e422]:
+                - term [ref=f20e423]: "Просмотры:"
+                - definition [ref=f20e424]: "871"
+            - generic [ref=f20e425]:
+              - link [ref=f20e426] [cursor=pointer]:
+                - /url: /threads/388052/#post-3620525
+                - time [ref=f20e427]: 23 Авг 2026
+              - link "Sunzer" [ref=f20e429] [cursor=pointer]:
+                - /url: /members/576612/
+            - link [ref=f20e432] [cursor=pointer]:
+              - /url: /members/576612/
+              - img "Sunzer" [ref=f20e433]: S
+          - generic [ref=f20e434]:
+            - link [ref=f20e437] [cursor=pointer]:
+              - /url: /members/71629/
+              - img "Neki_play" [ref=f20e438]
+            - generic [ref=f20e439]:
+              - generic [ref=f20e440]:
+                - link "Free" [ref=f20e441] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=165
+                - link "Neo Scripts『26.2』" [ref=f20e443] [cursor=pointer]:
+                  - /url: /threads/357851/
+              - generic [ref=f20e444]:
+                - list [ref=f20e445]:
+                  - listitem [ref=f20e446]:
+                    - link "Neki_play" [ref=f20e447] [cursor=pointer]:
+                      - /url: /members/71629/
+                  - listitem [ref=f20e448]:
+                    - text: ·
+                    - link [ref=f20e449] [cursor=pointer]:
+                      - /url: /threads/357851/
+                      - time [ref=f20e450]: 6 Авг 2025
+                - generic [ref=f20e451]:
+                  - link "2" [ref=f20e452] [cursor=pointer]:
+                    - /url: /threads/357851/page-2
+                  - link "3" [ref=f20e453] [cursor=pointer]:
+                    - /url: /threads/357851/page-3
+                  - link "4" [ref=f20e454] [cursor=pointer]:
+                    - /url: /threads/357851/page-4
+            - 'generic "Количество реакций к первому сообщению: 2" [ref=f20e455]':
+              - generic [ref=f20e456]:
+                - term [ref=f20e457]: "Ответы:"
+                - definition [ref=f20e458]: "60"
+              - generic [ref=f20e459]:
+                - term [ref=f20e460]: "Просмотры:"
+                - definition [ref=f20e461]: 10K
+            - generic [ref=f20e462]:
+              - link [ref=f20e463] [cursor=pointer]:
+                - /url: /threads/357851/page-4#post-3620313
+                - time [ref=f20e464]: 23 Авг 2026
+              - link "Neki_play" [ref=f20e466] [cursor=pointer]:
+                - /url: /members/71629/
+            - link [ref=f20e469] [cursor=pointer]:
+              - /url: /members/71629/
+              - img "Neki_play" [ref=f20e470]
+          - generic [ref=f20e471]:
+            - link [ref=f20e474] [cursor=pointer]:
+              - /url: /members/1606391/
+              - img "Karrys" [ref=f20e475]
+            - generic [ref=f20e476]:
+              - generic [ref=f20e477]:
+                - link "Crack" [ref=f20e478] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "Chill Visuals Crack 1.20.1 Fabric ($hit paste visuals)" [ref=f20e480] [cursor=pointer]:
+                  - /url: /threads/370234/
+              - list [ref=f20e482]:
+                - listitem [ref=f20e483]:
+                  - link "Karrys" [ref=f20e484] [cursor=pointer]:
+                    - /url: /members/1606391/
+                - listitem [ref=f20e485]:
+                  - text: ·
+                  - link [ref=f20e486] [cursor=pointer]:
+                    - /url: /threads/370234/
+                    - time [ref=f20e487]: 30 Янв 2026
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e488]':
+              - generic [ref=f20e489]:
+                - term [ref=f20e490]: "Ответы:"
+                - definition [ref=f20e491]: "12"
+              - generic [ref=f20e492]:
+                - term [ref=f20e493]: "Просмотры:"
+                - definition [ref=f20e494]: 4K
+            - generic [ref=f20e495]:
+              - link [ref=f20e496] [cursor=pointer]:
+                - /url: /threads/370234/#post-3619245
+                - time [ref=f20e497]: 22 Авг 2026
+              - link "VEXA66" [ref=f20e499] [cursor=pointer]:
+                - /url: /members/1896905/
+            - link [ref=f20e502] [cursor=pointer]:
+              - /url: /members/1896905/
+              - img "VEXA66" [ref=f20e503]
+          - generic [ref=f20e504]:
+            - link [ref=f20e507] [cursor=pointer]:
+              - /url: /members/877835/
+              - img "Silent Aim" [ref=f20e508]
+            - generic [ref=f20e509]:
+              - generic [ref=f20e510]:
+                - link "Crack" [ref=f20e511] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "Augustus latest crack by twonick" [ref=f20e513] [cursor=pointer]:
+                  - /url: /threads/352566/
+              - generic [ref=f20e514]:
+                - list [ref=f20e515]:
+                  - listitem [ref=f20e516]:
+                    - link "Silent Aim" [ref=f20e517] [cursor=pointer]:
+                      - /url: /members/877835/
+                  - listitem [ref=f20e518]:
+                    - text: ·
+                    - link [ref=f20e519] [cursor=pointer]:
+                      - /url: /threads/352566/
+                      - time [ref=f20e520]: 29 Май 2025
+                - generic [ref=f20e521]:
+                  - link "5" [ref=f20e522] [cursor=pointer]:
+                    - /url: /threads/352566/page-5
+                  - link "6" [ref=f20e523] [cursor=pointer]:
+                    - /url: /threads/352566/page-6
+                  - link "7" [ref=f20e524] [cursor=pointer]:
+                    - /url: /threads/352566/page-7
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e525]':
+              - generic [ref=f20e526]:
+                - term [ref=f20e527]: "Ответы:"
+                - definition [ref=f20e528]: "130"
+              - generic [ref=f20e529]:
+                - term [ref=f20e530]: "Просмотры:"
+                - definition [ref=f20e531]: 46K
+            - generic [ref=f20e532]:
+              - link [ref=f20e533] [cursor=pointer]:
+                - /url: /threads/352566/page-7#post-3617527
+                - time [ref=f20e534]: 20 Авг 2026
+              - link "nekefir4ik" [ref=f20e536] [cursor=pointer]:
+                - /url: /members/1841633/
+            - link [ref=f20e539] [cursor=pointer]:
+              - /url: /members/1841633/
+              - img "nekefir4ik" [ref=f20e540]
+          - generic [ref=f20e541]:
+            - link [ref=f20e544] [cursor=pointer]:
+              - /url: /members/257408/
+              - img "Ko3uHaK" [ref=f20e545]
+            - generic [ref=f20e546]:
+              - generic [ref=f20e547]:
+                - link "Free" [ref=f20e548] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=165
+                - link "Proxy Mod Minecraft 1.8.9 1.12.2 1.16.5" [ref=f20e550] [cursor=pointer]:
+                  - /url: /threads/209732/
+              - list [ref=f20e552]:
+                - listitem [ref=f20e553]:
+                  - link "Ko3uHaK" [ref=f20e554] [cursor=pointer]:
+                    - /url: /members/257408/
+                - listitem [ref=f20e555]:
+                  - text: ·
+                  - link [ref=f20e556] [cursor=pointer]:
+                    - /url: /threads/209732/
+                    - time [ref=f20e557]: 18 Июн 2021
+            - 'generic "Количество реакций к первому сообщению: 3" [ref=f20e558]':
+              - generic [ref=f20e559]:
+                - term [ref=f20e560]: "Ответы:"
+                - definition [ref=f20e561]: "16"
+              - generic [ref=f20e562]:
+                - term [ref=f20e563]: "Просмотры:"
+                - definition [ref=f20e564]: 21K
+            - generic [ref=f20e565]:
+              - link [ref=f20e566] [cursor=pointer]:
+                - /url: /threads/209732/#post-3617198
+                - time [ref=f20e567]: 19 Авг 2026
+              - link "toper282238" [ref=f20e569] [cursor=pointer]:
+                - /url: /members/2050970/
+            - link [ref=f20e572] [cursor=pointer]:
+              - /url: /members/2050970/
+              - img "toper282238" [ref=f20e573]: T
+          - generic [ref=f20e574]:
+            - link [ref=f20e577] [cursor=pointer]:
+              - /url: /members/1971911/
+              - img "MarafedovCracker" [ref=f20e578]: M
+            - generic [ref=f20e579]:
+              - generic [ref=f20e580]:
+                - link "Crack" [ref=f20e581] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "SystemDLC - 13.04" [ref=f20e583] [cursor=pointer]:
+                  - /url: /threads/383380/
+              - generic [ref=f20e584]:
+                - list [ref=f20e585]:
+                  - listitem [ref=f20e586]:
+                    - link "MarafedovCracker" [ref=f20e587] [cursor=pointer]:
+                      - /url: /members/1971911/
+                  - listitem [ref=f20e588]:
+                    - text: ·
+                    - link [ref=f20e589] [cursor=pointer]:
+                      - /url: /threads/383380/
+                      - time [ref=f20e590]: 24 Июн 2026
+                - link "2" [ref=f20e592] [cursor=pointer]:
+                  - /url: /threads/383380/page-2
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e593]':
+              - generic [ref=f20e594]:
+                - term [ref=f20e595]: "Ответы:"
+                - definition [ref=f20e596]: "23"
+              - generic [ref=f20e597]:
+                - term [ref=f20e598]: "Просмотры:"
+                - definition [ref=f20e599]: 4K
+            - generic [ref=f20e600]:
+              - link [ref=f20e601] [cursor=pointer]:
+                - /url: /threads/383380/page-2#post-3616456
+                - time [ref=f20e602]: 18 Авг 2026
+              - link "legacytm14" [ref=f20e604] [cursor=pointer]:
+                - /url: /members/2039065/
+            - link [ref=f20e607] [cursor=pointer]:
+              - /url: /members/2039065/
+              - img "legacytm14" [ref=f20e608]
+          - generic [ref=f20e609]:
+            - link [ref=f20e612] [cursor=pointer]:
+              - /url: /members/1926111/
+              - img "alfr" [ref=f20e613]
+            - generic [ref=f20e614]:
+              - generic [ref=f20e615]:
+                - link "Crack" [ref=f20e616] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "Mio Client v2.2.1" [ref=f20e618] [cursor=pointer]:
+                  - /url: /threads/375751/
+              - list [ref=f20e620]:
+                - listitem [ref=f20e621]:
+                  - link "alfr" [ref=f20e622] [cursor=pointer]:
+                    - /url: /members/1926111/
+                - listitem [ref=f20e623]:
+                  - text: ·
+                  - link [ref=f20e624] [cursor=pointer]:
+                    - /url: /threads/375751/
+                    - time [ref=f20e625]: 1 Апр 2026
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e626]':
+              - generic [ref=f20e627]:
+                - term [ref=f20e628]: "Ответы:"
+                - definition [ref=f20e629]: "19"
+              - generic [ref=f20e630]:
+                - term [ref=f20e631]: "Просмотры:"
+                - definition [ref=f20e632]: 5K
+            - generic [ref=f20e633]:
+              - link [ref=f20e634] [cursor=pointer]:
+                - /url: /threads/375751/#post-3616025
+                - time [ref=f20e635]: 18 Авг 2026
+              - link "standofchik" [ref=f20e637] [cursor=pointer]:
+                - /url: /members/2047702/
+            - link [ref=f20e640] [cursor=pointer]:
+              - /url: /members/2047702/
+              - img "standofchik" [ref=f20e641]
+          - generic [ref=f20e642]:
+            - link [ref=f20e645] [cursor=pointer]:
+              - /url: /members/1277973/
+              - img "DiveriX" [ref=f20e646]
+            - generic [ref=f20e647]:
+              - generic [ref=f20e648]:
+                - link "Outdated" [ref=f20e649] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=14
+                - link "VimeWorld cheat Phantom" [ref=f20e651] [cursor=pointer]:
+                  - /url: /threads/379687/
+              - generic [ref=f20e652]:
+                - list [ref=f20e653]:
+                  - listitem [ref=f20e654]:
+                    - link "DiveriX" [ref=f20e655] [cursor=pointer]:
+                      - /url: /members/1277973/
+                  - listitem [ref=f20e656]:
+                    - text: ·
+                    - link [ref=f20e657] [cursor=pointer]:
+                      - /url: /threads/379687/
+                      - time [ref=f20e658]: 24 Май 2026
+                - generic [ref=f20e659]:
+                  - link "2" [ref=f20e660] [cursor=pointer]:
+                    - /url: /threads/379687/page-2
+                  - link "3" [ref=f20e661] [cursor=pointer]:
+                    - /url: /threads/379687/page-3
+            - 'generic "Количество реакций к первому сообщению: 1" [ref=f20e662]':
+              - generic [ref=f20e663]:
+                - term [ref=f20e664]: "Ответы:"
+                - definition [ref=f20e665]: "50"
+              - generic [ref=f20e666]:
+                - term [ref=f20e667]: "Просмотры:"
+                - definition [ref=f20e668]: 4K
+            - generic [ref=f20e669]:
+              - link [ref=f20e670] [cursor=pointer]:
+                - /url: /threads/379687/page-3#post-3615680
+                - time [ref=f20e671]: 17 Авг 2026
+              - link "dima_2868" [ref=f20e673] [cursor=pointer]:
+                - /url: /members/512626/
+            - link [ref=f20e676] [cursor=pointer]:
+              - /url: /members/512626/
+              - img "dima_2868" [ref=f20e677]: D
+          - generic [ref=f20e678]:
+            - link [ref=f20e681] [cursor=pointer]:
+              - /url: /members/196760/
+              - img "AntiInjects" [ref=f20e682]
+            - generic [ref=f20e683]:
+              - generic [ref=f20e684]:
+                - link "Outdated" [ref=f20e685] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=14
+                - link "[SRC] [FIX] Cristalix HelloWorld Cheat. 21.06.2025" [ref=f20e687] [cursor=pointer]:
+                  - /url: /threads/337486/
+              - generic [ref=f20e688]:
+                - list [ref=f20e689]:
+                  - listitem [ref=f20e690]:
+                    - link "AntiInjects" [ref=f20e691] [cursor=pointer]:
+                      - /url: /members/196760/
+                  - listitem [ref=f20e696]:
+                    - text: ·
+                    - link [ref=f20e697] [cursor=pointer]:
+                      - /url: /threads/337486/
+                      - time [ref=f20e698]: 13 Дек 2024
+                - generic [ref=f20e699]:
+                  - link "8" [ref=f20e700] [cursor=pointer]:
+                    - /url: /threads/337486/page-8
+                  - link "9" [ref=f20e701] [cursor=pointer]:
+                    - /url: /threads/337486/page-9
+                  - link "10" [ref=f20e702] [cursor=pointer]:
+                    - /url: /threads/337486/page-10
+            - 'generic "Количество реакций к первому сообщению: 1" [ref=f20e703]':
+              - generic [ref=f20e704]:
+                - term [ref=f20e705]: "Ответы:"
+                - definition [ref=f20e706]: "198"
+              - generic [ref=f20e707]:
+                - term [ref=f20e708]: "Просмотры:"
+                - definition [ref=f20e709]: 38K
+            - generic [ref=f20e710]:
+              - link [ref=f20e711] [cursor=pointer]:
+                - /url: /threads/337486/page-10#post-3615628
+                - time [ref=f20e712]: 17 Авг 2026
+              - link "register1337" [ref=f20e714] [cursor=pointer]:
+                - /url: /members/1783168/
+            - link [ref=f20e717] [cursor=pointer]:
+              - /url: /members/1783168/
+              - img "register1337" [ref=f20e718]
+          - generic [ref=f20e719]:
+            - link [ref=f20e722] [cursor=pointer]:
+              - /url: /members/1302477/
+              - img "AkriJ0n3x" [ref=f20e723]
+            - generic [ref=f20e724]:
+              - generic [ref=f20e725]:
+                - link "Leaked" [ref=f20e726] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=136
+                - link "VenusWare Free 1.16.5 | Паста Вексайда и Нурика" [ref=f20e728] [cursor=pointer]:
+                  - /url: /threads/325930/
+              - generic [ref=f20e729]:
+                - list [ref=f20e730]:
+                  - listitem [ref=f20e731]:
+                    - link "AkriJ0n3x" [ref=f20e732] [cursor=pointer]:
+                      - /url: /members/1302477/
+                  - listitem [ref=f20e733]:
+                    - text: ·
+                    - link [ref=f20e734] [cursor=pointer]:
+                      - /url: /threads/325930/
+                      - time [ref=f20e735]: 29 Июл 2024
+                - generic [ref=f20e736]:
+                  - link "2" [ref=f20e737] [cursor=pointer]:
+                    - /url: /threads/325930/page-2
+                  - link "3" [ref=f20e738] [cursor=pointer]:
+                    - /url: /threads/325930/page-3
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e739]':
+              - generic [ref=f20e740]:
+                - term [ref=f20e741]: "Ответы:"
+                - definition [ref=f20e742]: "48"
+              - generic [ref=f20e743]:
+                - term [ref=f20e744]: "Просмотры:"
+                - definition [ref=f20e745]: 192K
+            - generic [ref=f20e746]:
+              - link [ref=f20e747] [cursor=pointer]:
+                - /url: /threads/325930/page-3#post-3615117
+                - time [ref=f20e748]: 17 Авг 2026
+              - link "Dante_gta" [ref=f20e750] [cursor=pointer]:
+                - /url: /members/2048489/
+            - link [ref=f20e753] [cursor=pointer]:
+              - /url: /members/2048489/
+              - img "Dante_gta" [ref=f20e754]: D
+          - generic [ref=f20e755]:
+            - link [ref=f20e758] [cursor=pointer]:
+              - /url: /members/1449612/
+              - img "Markst" [ref=f20e759]
+            - generic [ref=f20e760]:
+              - generic [ref=f20e761]:
+                - link "Crack" [ref=f20e762] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "Dmoon DLC 0.0.3" [ref=f20e764] [cursor=pointer]:
+                  - /url: /threads/376388/
+              - generic [ref=f20e765]:
+                - list [ref=f20e766]:
+                  - listitem [ref=f20e767]:
+                    - link "Markst" [ref=f20e768] [cursor=pointer]:
+                      - /url: /members/1449612/
+                  - listitem [ref=f20e769]:
+                    - text: ·
+                    - link [ref=f20e770] [cursor=pointer]:
+                      - /url: /threads/376388/
+                      - time [ref=f20e771]: 7 Апр 2026
+                - link "2" [ref=f20e773] [cursor=pointer]:
+                  - /url: /threads/376388/page-2
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e774]':
+              - generic [ref=f20e775]:
+                - term [ref=f20e776]: "Ответы:"
+                - definition [ref=f20e777]: "21"
+              - generic [ref=f20e778]:
+                - term [ref=f20e779]: "Просмотры:"
+                - definition [ref=f20e780]: 2K
+            - generic [ref=f20e781]:
+              - link [ref=f20e782] [cursor=pointer]:
+                - /url: /threads/376388/page-2#post-3614777
+                - time [ref=f20e783]: 16 Авг 2026
+              - link "legacytm14" [ref=f20e785] [cursor=pointer]:
+                - /url: /members/2039065/
+            - link [ref=f20e788] [cursor=pointer]:
+              - /url: /members/2039065/
+              - img "legacytm14" [ref=f20e789]
+          - generic [ref=f20e790]:
+            - link [ref=f20e793] [cursor=pointer]:
+              - /url: /angelw1ngsov/
+              - img "Angelwingsov" [ref=f20e794]
+            - generic [ref=f20e795]:
+              - generic [ref=f20e796]:
+                - link "Crack" [ref=f20e797] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "PulseVisuals Latest beta *До рекода" [ref=f20e799] [cursor=pointer]:
+                  - /url: /threads/383075/
+              - generic [ref=f20e800]:
+                - list [ref=f20e801]:
+                  - listitem [ref=f20e802]:
+                    - link "Angelwingsov" [ref=f20e803] [cursor=pointer]:
+                      - /url: /angelw1ngsov/
+                  - listitem [ref=f20e804]:
+                    - text: ·
+                    - link [ref=f20e805] [cursor=pointer]:
+                      - /url: /threads/383075/
+                      - time [ref=f20e806]: 19 Июн 2026
+                - link "2" [ref=f20e808] [cursor=pointer]:
+                  - /url: /threads/383075/page-2
+            - 'generic "Количество реакций к первому сообщению: 1" [ref=f20e809]':
+              - generic [ref=f20e810]:
+                - term [ref=f20e811]: "Ответы:"
+                - definition [ref=f20e812]: "26"
+              - generic [ref=f20e813]:
+                - term [ref=f20e814]: "Просмотры:"
+                - definition [ref=f20e815]: 7K
+            - generic [ref=f20e816]:
+              - link [ref=f20e817] [cursor=pointer]:
+                - /url: /threads/383075/page-2#post-3614356
+                - time [ref=f20e818]: 16 Авг 2026
+              - link "jjdfvjkjf" [ref=f20e820] [cursor=pointer]:
+                - /url: /members/1847638/
+            - link [ref=f20e823] [cursor=pointer]:
+              - /url: /members/1847638/
+              - img "jjdfvjkjf" [ref=f20e824]: J
+          - generic [ref=f20e825]:
+            - link [ref=f20e828] [cursor=pointer]:
+              - /url: /members/1901033/
+              - img "SCHYMER44" [ref=f20e829]
+            - generic [ref=f20e830]:
+              - generic [ref=f20e831]:
+                - link "Crack" [ref=f20e832] [cursor=pointer]:
+                  - /url: /forums/64/?prefix_id=15
+                - link "Night DLC 1.21.8 (Marafedov Protect)" [ref=f20e834] [cursor=pointer]:
+                  - /url: /threads/380493/
+              - generic [ref=f20e835]:
+                - list [ref=f20e836]:
+                  - listitem [ref=f20e837]:
+                    - link "SCHYMER44" [ref=f20e838] [cursor=pointer]:
+                      - /url: /members/1901033/
+                  - listitem [ref=f20e839]:
+                    - text: ·
+                    - link [ref=f20e840] [cursor=pointer]:
+                      - /url: /threads/380493/
+                      - time [ref=f20e841]: 24 Май 2026
+                - link "2" [ref=f20e843] [cursor=pointer]:
+                  - /url: /threads/380493/page-2
+            - 'generic "Количество реакций к первому сообщению: 0" [ref=f20e844]':
+              - generic [ref=f20e845]:
+                - term [ref=f20e846]: "Ответы:"
+                - definition [ref=f20e847]: "21"
+              - generic [ref=f20e848]:
+                - term [ref=f20e849]: "Просмотры:"
+                - definition [ref=f20e850]: 4K
+            - generic [ref=f20e851]:
+              - link [ref=f20e852] [cursor=pointer]:
+                - /url: /threads/380493/page-2#post-3613192
+                - time [ref=f20e853]: 14 Авг 2026
+              - link "legacytm14" [ref=f20e855] [cursor=pointer]:
+                - /url: /members/2039065/
+            - link [ref=f20e858] [cursor=pointer]:
+              - /url: /members/2039065/
+              - img "legacytm14" [ref=f20e859]
+      - generic [ref=f20e860]:
+        - navigation [ref=f20e862]:
+          - generic [ref=f20e863]:
+            - link "Назад" [ref=f20e864] [cursor=pointer]:
+              - /url: /forums/64/page-2
+            - list [ref=f20e865]:
+              - listitem [ref=f20e866]:
+                - link "1" [ref=f20e867] [cursor=pointer]:
+                  - /url: /forums/64/
+              - listitem [ref=f20e868]:
+                - link "2" [ref=f20e869] [cursor=pointer]:
+                  - /url: /forums/64/page-2
+              - listitem [ref=f20e870] [cursor=pointer]:
+                - link "3" [ref=f20e871]:
+                  - /url: /forums/64/page-3
+              - listitem [ref=f20e872]:
+                - link "4" [ref=f20e873] [cursor=pointer]:
+                  - /url: /forums/64/page-4
+              - listitem [ref=f20e874]:
+                - link "5" [ref=f20e875] [cursor=pointer]:
+                  - /url: /forums/64/page-5
+              - listitem [ref=f20e876]:
+                - button "Перейти к странице" [ref=f20e877] [cursor=pointer]: ...
+              - listitem [ref=f20e878]:
+                - link "86" [ref=f20e879] [cursor=pointer]:
+                  - /url: /forums/64/page-86
+            - link "Вперёд" [ref=f20e880] [cursor=pointer]:
+              - /url: /forums/64/page-4
+        - link "Войдите или зарегистрируйтесь для ответа." [ref=f20e882] [cursor=pointer]:
+          - /url: /login/
+    - list [ref=f20e884]:
+      - listitem [ref=f20e885]:
+        - link "Глобальный игровой раздел" [ref=f20e886] [cursor=pointer]:
+          - /url: /categories/437/
+      - listitem [ref=f20e887]:
+        - link "Читы для Minecraft" [ref=f20e888] [cursor=pointer]:
+          - /url: /forums/1178/
+  - generic [ref=f20e890]:
+    - generic [ref=f20e893]:
+      - generic [ref=f20e894]: Наши услуги
+      - list [ref=f20e895]:
+        - listitem [ref=f20e896]:
+          - link "Прибрести рекламу" [ref=f20e897] [cursor=pointer]:
+            - /url: https://yougame.biz/threads/29445/#post-228036
+        - listitem [ref=f20e898]:
+          - link "Платное повышение группы" [ref=f20e899] [cursor=pointer]:
+            - /url: https://yougame.biz/account/upgrades
+        - listitem [ref=f20e900]:
+          - link "Поиск вирусов в файлах" [ref=f20e901] [cursor=pointer]:
+            - /url: https://yougame.biz/forums/531/
+        - listitem [ref=f20e902]:
+          - link "Маркетплейс по услугам" [ref=f20e903] [cursor=pointer]:
+            - /url: "https://yougame.biz/forums/1385/>Маркетплейс по читам</a></li>\n<li><a href="
+    - generic [ref=f20e906]:
+      - generic [ref=f20e907]: Полезные ссылки
+      - list [ref=f20e908]:
+        - listitem [ref=f20e909]:
+          - link "Новости форума" [ref=f20e910] [cursor=pointer]:
+            - /url: https://yougame.biz/forums/222/
+        - listitem [ref=f20e911]:
+          - link "Канал в Telegram" [ref=f20e912] [cursor=pointer]:
+            - /url: https://t.me/yougame_official
+        - listitem [ref=f20e913]:
+          - link "Канал вр. админ. форума" [ref=f20e914] [cursor=pointer]:
+            - /url: https://t.me/govthing
+        - listitem [ref=f20e915]:
+          - link "Главные чит. разделы" [ref=f20e916] [cursor=pointer]:
+            - /url: "https://yougame.biz/downloads/>Безопасные беспл. читы</a></li>\n<li><a href="
+    - generic [ref=f20e919]:
+      - generic [ref=f20e920]: О нас
+      - paragraph [ref=f20e921]: "YouGame — крупнейшее русскоязычное сообщество по читам, разработке игрового ПО, реверс-инжинирингу и программированию. По вопросам и жалобам: admin@yougame.biz"
+    - generic [ref=f20e925]:
+      - generic [ref=f20e926]: Поделиться страницей
+      - generic [ref=f20e929]:
+        - generic [ref=f20e930]: Vkontakte
+        - generic [ref=f20e933]: Odnoklassniki
+        - generic [ref=f20e936]: Mail.ru
+        - link "Bluesky" [ref=f20e939] [cursor=pointer]:
+          - /url: "#_xfUid-1-1788547066"
+        - link "WhatsApp" [ref=f20e944] [cursor=pointer]:
+          - /url: "#_xfUid-1-1788547066"
+        - generic [ref=f20e949]: Telegram
+        - link "Viber" [ref=f20e952] [cursor=pointer]:
+          - /url: https://3p3x.adj.st/?adjust_t=u783g1_kw9yml&adjust_fallback=https%3A%2F%2Fwww.viber.com%2F%3Futm_source%3DPartner%26utm_medium%3DSharebutton%26utm_campaign%3DDefualt&adjust_campaign=Sharebutton&adjust_deeplink=viber%3A%2F%2Fforward%3Ftext%3D%257Btitle%257D%2520https%253A%252F%252Fyougame.biz%252Fforums%252F64%252Fpage-3
+        - link "Электронная почта" [ref=f20e955] [cursor=pointer]:
+          - /url: "#_xfUid-1-1788547066"
+        - link "Ссылка" [ref=f20e960] [cursor=pointer]:
+          - /url: "#_xfUid-1-1788547066"
+  - contentinfo [ref=f20e965]:
+    - generic [ref=f20e968]:
+      - list [ref=f20e969]:
+        - listitem [ref=f20e970]:
+          - link "Russian (RU) Custom" [ref=f20e971] [cursor=pointer]:
+            - /url: /misc/language
+      - list [ref=f20e975]:
+        - listitem [ref=f20e976]:
+          - link "Обратная связь" [ref=f20e977] [cursor=pointer]:
+            - /url: https://yougame.biz/contact/
+        - listitem [ref=f20e978]:
+          - link "Условия и правила" [ref=f20e979] [cursor=pointer]:
+            - /url: /pages/rules/
+        - listitem [ref=f20e980]:
+          - link "Политика конфиденциальности" [ref=f20e981] [cursor=pointer]:
+            - /url: /help/privacy-policy/
+        - listitem [ref=f20e982]:
+          - link "Помощь" [ref=f20e983] [cursor=pointer]:
+            - /url: /help/
+        - listitem [ref=f20e984]:
+          - link "RSS" [ref=f20e985] [cursor=pointer]:
+            - /url: /forums/-/index.rss
+            - generic [ref=f20e990]: RSS

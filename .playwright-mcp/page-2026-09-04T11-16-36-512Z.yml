@@ -1,0 +1,432 @@
+- generic [ref=f2e2]:
+  - generic [ref=f2e3]:
+    - link "Skip to content" [ref=f2e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=f2e9]:
+      - heading "Navigation Menu" [level=2] [ref=f2e10]
+      - generic [ref=f2e11]:
+        - link "Homepage" [ref=f2e13] [cursor=pointer]:
+          - /url: /
+        - generic [ref=f2e16]:
+          - navigation "Global" [ref=f2e17]:
+            - list [ref=f2e18]:
+              - listitem [ref=f2e19]:
+                - button "Platform" [ref=f2e21] [cursor=pointer]
+              - listitem [ref=f2e24]:
+                - button "Solutions" [ref=f2e26] [cursor=pointer]
+              - listitem [ref=f2e29]:
+                - button "Resources" [ref=f2e31] [cursor=pointer]
+              - listitem [ref=f2e34]:
+                - button "Open Source" [ref=f2e36] [cursor=pointer]
+              - listitem [ref=f2e39]:
+                - button "Enterprise" [ref=f2e41] [cursor=pointer]
+              - listitem [ref=f2e44]:
+                - link "Pricing" [ref=f2e45] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+          - generic [ref=f2e46]:
+            - button "Search or jump to, type / to search" [ref=f2e48] [cursor=pointer]
+            - link "Sign in" [ref=f2e55] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2FDrKLO%2FTelegram
+            - link "Sign up" [ref=f2e58] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=DrKLO%2FTelegram
+            - button "Appearance settings" [ref=f2e61] [cursor=pointer]
+  - main [ref=f2e68]:
+    - generic [ref=f2e69]:
+      - generic [ref=f2e70]:
+        - generic [ref=f2e72]:
+          - link "DrKLO" [ref=f2e76] [cursor=pointer]:
+            - /url: /DrKLO
+          - generic [ref=f2e77]: /
+          - strong [ref=f2e78]:
+            - link "Telegram" [ref=f2e79] [cursor=pointer]:
+              - /url: /DrKLO/Telegram
+          - generic [ref=f2e80]: Public
+        - generic [ref=f2e81]:
+          - list:
+            - listitem [ref=f2e82]:
+              - link "You must be signed in to change notification settings" [ref=f2e83] [cursor=pointer]:
+                - /url: /login?return_to=%2FDrKLO%2FTelegram
+                - text: Notifications
+            - listitem [ref=f2e86]:
+              - link "Fork 10k" [ref=f2e87] [cursor=pointer]:
+                - /url: /login?return_to=%2FDrKLO%2FTelegram
+                - text: Fork
+                - generic "10,016" [ref=f2e90]: 10k
+            - listitem [ref=f2e91]:
+              - link "You must be signed in to star a repository" [ref=f2e93] [cursor=pointer]:
+                - /url: /login?return_to=%2FDrKLO%2FTelegram
+                - text: Star
+                - generic "29820 users starred this repository" [ref=f2e96]: 29.8k
+      - navigation "Repository" [ref=f2e97]:
+        - list [ref=f2e98]:
+          - listitem [ref=f2e99]:
+            - link "Code" [ref=f2e100] [cursor=pointer]:
+              - /url: /DrKLO/Telegram
+          - listitem [ref=f2e104]:
+            - link "Pull requests 238" [ref=f2e105] [cursor=pointer]:
+              - /url: /DrKLO/Telegram/pulls
+              - generic [ref=f2e108]: Pull requests
+              - generic "238" [ref=f2e109]
+          - listitem [ref=f2e110]:
+            - link "Actions" [ref=f2e111] [cursor=pointer]:
+              - /url: /DrKLO/Telegram/actions
+          - listitem [ref=f2e115]:
+            - link "Projects" [ref=f2e116] [cursor=pointer]:
+              - /url: /DrKLO/Telegram/projects
+          - listitem [ref=f2e120]:
+            - link "Security and quality" [ref=f2e121] [cursor=pointer]:
+              - /url: /DrKLO/Telegram/security
+          - listitem [ref=f2e125]:
+            - link "Insights" [ref=f2e126] [cursor=pointer]:
+              - /url: /DrKLO/Telegram/pulse
+    - generic [ref=f2e143]:
+      - generic [ref=f2e146]:
+        - generic [ref=f2e147]:
+          - generic [ref=f2e148]:
+            - button "master branch" [ref=f2e150] [cursor=pointer]:
+              - generic [ref=f2e151]: master
+            - generic [ref=f2e155]:
+              - link "Go to Branches page" [ref=f2e156] [cursor=pointer]:
+                - /url: /DrKLO/Telegram/branches
+              - link "Go to Tags page" [ref=f2e159] [cursor=pointer]:
+                - /url: /DrKLO/Telegram/tags
+          - generic [ref=f2e162]:
+            - combobox "Go to file" [ref=f2e170]
+            - button "Code" [ref=f2e171] [cursor=pointer]
+        - generic [ref=f2e174]:
+          - generic [ref=f2e175]:
+            - generic [ref=f2e177]:
+              - heading "Latest commit" [level=2] [ref=f2e178]
+              - generic [ref=f2e181]:
+                - heading "History" [level=2] [ref=f2e182]
+                - link "601 Commits" [ref=f2e183] [cursor=pointer]:
+                  - /url: /DrKLO/Telegram/commits/master/
+            - heading "Folders and files" [level=2] [ref=f2e186]
+            - table "Folders and files" [ref=f2e187]:
+              - rowgroup:
+                - row "Name Last commit message Last commit date":
+                  - columnheader "Name"
+                  - columnheader "Last commit message"
+                  - columnheader "Last commit date"
+              - rowgroup [ref=f2e188]:
+                - row "TMessagesProj, (Directory)" [ref=f2e189]:
+                  - cell [ref=f2e190]:
+                    - link "TMessagesProj, (Directory)" [ref=f2e197] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/tree/master/TMessagesProj
+                      - text: TMessagesProj
+                  - cell [ref=f2e198]
+                  - cell [ref=f2e200]
+                - row "TMessagesProj_App, (Directory)" [ref=f2e203]:
+                  - cell [ref=f2e204]:
+                    - link "TMessagesProj_App, (Directory)" [ref=f2e211] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/tree/master/TMessagesProj_App
+                      - text: TMessagesProj_App
+                  - cell [ref=f2e212]
+                  - cell [ref=f2e214]
+                - row "TMessagesProj_AppHockeyApp, (Directory)" [ref=f2e217]:
+                  - cell [ref=f2e218]:
+                    - link "TMessagesProj_AppHockeyApp, (Directory)" [ref=f2e225] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/tree/master/TMessagesProj_AppHockeyApp
+                      - text: TMessagesProj_AppHockeyApp
+                  - cell [ref=f2e226]
+                  - cell [ref=f2e228]
+                - row "TMessagesProj_AppHuawei, (Directory)" [ref=f2e231]:
+                  - cell [ref=f2e232]:
+                    - link "TMessagesProj_AppHuawei, (Directory)" [ref=f2e239] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/tree/master/TMessagesProj_AppHuawei
+                      - text: TMessagesProj_AppHuawei
+                  - cell [ref=f2e240]
+                  - cell [ref=f2e242]
+                - row "TMessagesProj_AppStandalone, (Directory)" [ref=f2e245]:
+                  - cell [ref=f2e246]:
+                    - link "TMessagesProj_AppStandalone, (Directory)" [ref=f2e253] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/tree/master/TMessagesProj_AppStandalone
+                      - text: TMessagesProj_AppStandalone
+                  - cell [ref=f2e254]
+                  - cell [ref=f2e256]
+                - row "TMessagesProj_AppTests, (Directory)" [ref=f2e259]:
+                  - cell [ref=f2e260]:
+                    - link "TMessagesProj_AppTests, (Directory)" [ref=f2e267] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/tree/master/TMessagesProj_AppTests
+                      - text: TMessagesProj_AppTests
+                  - cell [ref=f2e268]
+                  - cell [ref=f2e270]
+                - row "Tools, (Directory)" [ref=f2e273]:
+                  - cell [ref=f2e274]:
+                    - link "Tools, (Directory)" [ref=f2e281] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/tree/master/Tools
+                      - text: Tools
+                  - cell [ref=f2e282]
+                  - cell [ref=f2e284]
+                - row "buildSrc, (Directory)" [ref=f2e287]:
+                  - cell [ref=f2e288]:
+                    - link "buildSrc, (Directory)" [ref=f2e295] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/tree/master/buildSrc
+                      - text: buildSrc
+                  - cell [ref=f2e296]
+                  - cell [ref=f2e298]
+                - row "gradle/wrapper, (Directory)" [ref=f2e301]:
+                  - cell [ref=f2e302]:
+                    - link "gradle/wrapper, (Directory)" [ref=f2e309] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/tree/master/gradle/wrapper
+                      - text: gradle/wrapper
+                  - cell [ref=f2e310]
+                  - cell [ref=f2e312]
+                - row ".gitignore, (File)" [ref=f2e315]:
+                  - cell [ref=f2e316]:
+                    - link ".gitignore, (File)" [ref=f2e323] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/blob/master/.gitignore
+                      - text: .gitignore
+                  - cell [ref=f2e324]
+                  - cell [ref=f2e326]
+                - row ".gitmodules, (File)" [ref=f2e329]:
+                  - cell [ref=f2e330]:
+                    - link ".gitmodules, (File)" [ref=f2e337] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/blob/master/.gitmodules
+                      - text: .gitmodules
+                  - cell [ref=f2e338]
+                  - cell [ref=f2e340]
+                - row "Dockerfile, (File)" [ref=f2e343]:
+                  - cell [ref=f2e344]:
+                    - link "Dockerfile, (File)" [ref=f2e351] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/blob/master/Dockerfile
+                      - text: Dockerfile
+                  - cell [ref=f2e352]
+                  - cell [ref=f2e354]
+                - row "LICENSE, (File)" [ref=f2e357]:
+                  - cell [ref=f2e358]:
+                    - link "LICENSE, (File)" [ref=f2e365] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/blob/master/LICENSE
+                      - text: LICENSE
+                  - cell [ref=f2e366]
+                  - cell [ref=f2e368]
+                - row "README.md, (File)" [ref=f2e371]:
+                  - cell [ref=f2e372]:
+                    - link "README.md, (File)" [ref=f2e379] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/blob/master/README.md
+                      - text: README.md
+                  - cell [ref=f2e380]
+                  - cell [ref=f2e382]
+                - row "apkdiff.py, (File)" [ref=f2e385]:
+                  - cell [ref=f2e386]:
+                    - link "apkdiff.py, (File)" [ref=f2e393] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/blob/master/apkdiff.py
+                      - text: apkdiff.py
+                  - cell [ref=f2e394]
+                  - cell [ref=f2e396]
+                - row "apkfrombundle.py, (File)" [ref=f2e399]:
+                  - cell [ref=f2e400]:
+                    - link "apkfrombundle.py, (File)" [ref=f2e407] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/blob/master/apkfrombundle.py
+                      - text: apkfrombundle.py
+                  - cell [ref=f2e408]
+                  - cell [ref=f2e410]
+                - row "build.gradle, (File)" [ref=f2e413]:
+                  - cell [ref=f2e414]:
+                    - link "build.gradle, (File)" [ref=f2e421] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/blob/master/build.gradle
+                      - text: build.gradle
+                  - cell [ref=f2e422]
+                  - cell [ref=f2e424]
+                - row "gradle.properties, (File)" [ref=f2e427]:
+                  - cell [ref=f2e428]:
+                    - link "gradle.properties, (File)" [ref=f2e435] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/blob/master/gradle.properties
+                      - text: gradle.properties
+                  - cell [ref=f2e436]
+                  - cell [ref=f2e438]
+                - row "gradlew, (File)" [ref=f2e441]:
+                  - cell [ref=f2e442]:
+                    - link "gradlew, (File)" [ref=f2e449] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/blob/master/gradlew
+                      - text: gradlew
+                  - cell [ref=f2e450]
+                  - cell [ref=f2e452]
+                - row "settings.gradle, (File)" [ref=f2e455]:
+                  - cell [ref=f2e456]:
+                    - link "settings.gradle, (File)" [ref=f2e463] [cursor=pointer]:
+                      - /url: /DrKLO/Telegram/blob/master/settings.gradle
+                      - text: settings.gradle
+                  - cell [ref=f2e464]
+                  - cell [ref=f2e466]
+          - generic [ref=f2e470]:
+            - generic [ref=f2e471]:
+              - heading "Repository files navigation" [level=2] [ref=f2e472]
+              - navigation "Repository files" [ref=f2e473]:
+                - list [ref=f2e474]:
+                  - listitem [ref=f2e475]:
+                    - link "README" [ref=f2e476] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=f2e478]:
+                    - link "GPL-2.0 license" [ref=f2e479] [cursor=pointer]:
+                      - /url: "#"
+              - button "Outline" [ref=f2e481] [cursor=pointer]
+            - article [ref=f2e485]:
+              - generic [ref=f2e486]:
+                - heading "Telegram messenger for Android" [level=2] [ref=f2e487]
+                - 'link "Permalink: Telegram messenger for Android" [ref=f2e488] [cursor=pointer]':
+                  - /url: "#telegram-messenger-for-android"
+              - paragraph [ref=f2e491]:
+                - link "Telegram" [ref=f2e492] [cursor=pointer]:
+                  - /url: https://telegram.org
+                - text: is a messaging app with a focus on speed and security. It’s superfast, simple and free. This repo contains the official source code for
+                - link "Telegram App for Android" [ref=f2e493] [cursor=pointer]:
+                  - /url: https://play.google.com/store/apps/details?id=org.telegram.messenger
+                - text: .
+              - generic [ref=f2e494]:
+                - heading "Creating your Telegram Application" [level=2] [ref=f2e495]
+                - 'link "Permalink: Creating your Telegram Application" [ref=f2e496] [cursor=pointer]':
+                  - /url: "#creating-your-telegram-application"
+              - paragraph [ref=f2e499]:
+                - text: We welcome all developers to use our API and source code to create applications on our platform. There are several things we require from
+                - strong [ref=f2e500]: all developers
+                - text: for the moment.
+              - list [ref=f2e501]:
+                - listitem [ref=f2e502]:
+                  - link [ref=f2e503] [cursor=pointer]:
+                    - /url: https://core.telegram.org/api/obtaining_api_id
+                    - strong [ref=f2e504]: Obtain your own api_id
+                  - text: for your application.
+                - listitem [ref=f2e505]:
+                  - text: Please
+                  - strong [ref=f2e506]: do not
+                  - text: use the name Telegram for your app — or make sure your users understand that it is unofficial.
+                - listitem [ref=f2e507]:
+                  - text: Kindly
+                  - strong [ref=f2e508]: do not
+                  - text: use our standard logo (white paper plane in a blue circle) as your app's logo.
+                - listitem [ref=f2e509]:
+                  - text: Please study our
+                  - link [ref=f2e510] [cursor=pointer]:
+                    - /url: https://core.telegram.org/mtproto/security_guidelines
+                    - strong [ref=f2e511]: security guidelines
+                  - text: and take good care of your users' data and privacy.
+                - listitem [ref=f2e512]:
+                  - text: Please remember to publish
+                  - strong [ref=f2e513]: your
+                  - text: code too in order to comply with the licences.
+              - generic [ref=f2e514]:
+                - heading "API, Protocol documentation" [level=3] [ref=f2e515]
+                - 'link "Permalink: API, Protocol documentation" [ref=f2e516] [cursor=pointer]':
+                  - /url: "#api-protocol-documentation"
+              - paragraph [ref=f2e519]:
+                - text: "Telegram API manuals:"
+                - link "https://core.telegram.org/api" [ref=f2e520] [cursor=pointer]:
+                  - /url: https://core.telegram.org/api
+              - paragraph [ref=f2e521]:
+                - text: "MTproto protocol manuals:"
+                - link "https://core.telegram.org/mtproto" [ref=f2e522] [cursor=pointer]:
+                  - /url: https://core.telegram.org/mtproto
+              - generic [ref=f2e523]:
+                - heading "Compilation Guide" [level=3] [ref=f2e524]
+                - 'link "Permalink: Compilation Guide" [ref=f2e525] [cursor=pointer]':
+                  - /url: "#compilation-guide"
+              - paragraph [ref=f2e528]:
+                - strong [ref=f2e529]: Note
+                - text: ": In order to support"
+                - link "reproducible builds" [ref=f2e530] [cursor=pointer]:
+                  - /url: https://core.telegram.org/reproducible-builds
+                - text: ", this repo contains dummy release.keystore, google-services.json and filled variables inside BuildVars.java. Before publishing your own APKs please make sure to replace all these files with your own."
+              - paragraph [ref=f2e531]: You will require Android Studio 2025.1.4, Android NDK 27.2.12479018 and Android SDK 36.
+              - list [ref=f2e532]:
+                - listitem [ref=f2e533]:
+                  - text: "Clone the Telegram source code with its submodules:"
+                  - generic [ref=f2e534]:
+                    - generic [ref=f2e535]: git clone --recursive --shallow-submodules https://github.com/DrKLO/Telegram.git Telegram
+                    - button "Copy code to clipboard" [ref=f2e537] [cursor=pointer]
+                  - text: In case you forgot the
+                  - code [ref=f2e541]: "--recursive"
+                  - text: flag, change to the
+                  - code [ref=f2e542]: Telegram
+                  - text: "directory and run:"
+                  - generic [ref=f2e543]:
+                    - generic [ref=f2e544]: git submodule init && git submodule update --init --recursive --depth=1
+                    - button "Copy code to clipboard" [ref=f2e546] [cursor=pointer]
+                - listitem [ref=f2e550]: Copy your release.keystore into TMessagesProj/config
+                - listitem [ref=f2e551]: Fill out RELEASE_KEY_PASSWORD, RELEASE_KEY_ALIAS, RELEASE_STORE_PASSWORD in gradle.properties to access your release.keystore
+                - listitem [ref=f2e552]:
+                  - text: Go to
+                  - link "https://console.firebase.google.com/" [ref=f2e553] [cursor=pointer]:
+                    - /url: https://console.firebase.google.com/
+                  - text: ", create two android apps with application IDs org.telegram.messenger and org.telegram.messenger.beta, turn on firebase messaging and download google-services.json, which should be copied to the same folder as TMessagesProj."
+                - listitem [ref=f2e554]: Open the project in the Studio (note that it should be opened, NOT imported).
+                - listitem [ref=f2e555]: Fill out values in TMessagesProj/src/main/java/org/telegram/messenger/BuildVars.java – there’s a link for each of the variables showing where and which data to obtain.
+                - listitem [ref=f2e556]: You are ready to compile Telegram.
+              - generic [ref=f2e557]:
+                - heading "Localization" [level=3] [ref=f2e558]
+                - 'link "Permalink: Localization" [ref=f2e559] [cursor=pointer]':
+                  - /url: "#localization"
+              - paragraph [ref=f2e562]:
+                - text: We moved all translations to
+                - link "https://translations.telegram.org/en/android/" [ref=f2e563] [cursor=pointer]:
+                  - /url: https://translations.telegram.org/en/android/
+                - text: . Please use it.
+      - generic [ref=f2e566]:
+        - generic [ref=f2e567]:
+          - heading "About" [level=2] [ref=f2e568]
+          - paragraph [ref=f2e569]: Telegram for Android source
+          - heading "Topics" [level=3] [ref=f2e570]
+          - link "telegram" [ref=f2e572] [cursor=pointer]:
+            - /url: /topics/telegram
+          - heading "Resources" [level=3] [ref=f2e573]
+          - link "Readme" [ref=f2e575] [cursor=pointer]:
+            - /url: "#readme-ov-file"
+          - link "GPL-2.0 license" [ref=f2e579] [cursor=pointer]:
+            - /url: "#GPL-2.0-1-ov-file"
+          - link "Activity" [ref=f2e583] [cursor=pointer]:
+            - /url: /DrKLO/Telegram/activity
+          - heading "Stars" [level=3] [ref=f2e586]
+          - generic [ref=f2e588]:
+            - strong [ref=f2e591]: 29.8k
+            - text: stars
+          - heading "Watchers" [level=3] [ref=f2e592]
+          - generic [ref=f2e594]:
+            - strong [ref=f2e597]: 1.3k
+            - text: watching
+          - heading "Forks" [level=3] [ref=f2e598]
+          - link [ref=f2e600] [cursor=pointer]:
+            - /url: /DrKLO/Telegram/forks
+            - strong [ref=f2e604]: 10.0k
+            - text: forks
+          - link "Report repository" [ref=f2e606] [cursor=pointer]:
+            - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2FDrKLO%2FTelegram&report=DrKLO+%28user%29
+        - heading "Releases" [level=2] [ref=f2e608]
+        - heading "Packages" [level=2] [ref=f2e612]
+        - heading "Used by" [level=2] [ref=f2e615]
+        - heading "Contributors" [level=2] [ref=f2e618]
+        - heading "Languages" [level=2] [ref=f2e621]
+  - contentinfo [ref=f2e624]:
+    - heading "Footer" [level=2] [ref=f2e625]
+    - generic [ref=f2e626]:
+      - generic [ref=f2e627]:
+        - link "GitHub Homepage" [ref=f2e628] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=f2e631]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=f2e632]:
+        - heading "Footer navigation" [level=3] [ref=f2e633]
+        - list "Footer navigation" [ref=f2e634]:
+          - listitem [ref=f2e635]:
+            - link "Terms" [ref=f2e636] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=f2e637]:
+            - link "Privacy" [ref=f2e638] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=f2e639]:
+            - link "Security" [ref=f2e640] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=f2e641]:
+            - link "Status" [ref=f2e642] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=f2e643]:
+            - link "Community" [ref=f2e644] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=f2e645]:
+            - link "Docs" [ref=f2e646] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=f2e647]:
+            - link "Contact" [ref=f2e648] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=f2e649]:
+            - button "Manage cookies" [ref=f2e651] [cursor=pointer]
+          - listitem [ref=f2e652]:
+            - button "Do not share my personal information" [ref=f2e654] [cursor=pointer]

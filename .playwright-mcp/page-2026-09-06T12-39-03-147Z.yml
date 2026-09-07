@@ -1,0 +1,752 @@
+- generic [ref=e2]:
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#start-of-content"
+    - banner [ref=e9]:
+      - heading "Navigation Menu" [level=2] [ref=e10]
+      - generic [ref=e11]:
+        - link "Homepage" [ref=e13] [cursor=pointer]:
+          - /url: /
+        - generic [ref=e16]:
+          - navigation "Global" [ref=e17]:
+            - list [ref=e18]:
+              - listitem [ref=e19]:
+                - button "Platform" [ref=e21] [cursor=pointer]
+              - listitem [ref=e24]:
+                - button "Solutions" [ref=e26] [cursor=pointer]
+              - listitem [ref=e29]:
+                - button "Resources" [ref=e31] [cursor=pointer]
+              - listitem [ref=e34]:
+                - button "Open Source" [ref=e36] [cursor=pointer]
+              - listitem [ref=e39]:
+                - button "Enterprise" [ref=e41] [cursor=pointer]
+              - listitem [ref=e44]:
+                - link "Pricing" [ref=e45] [cursor=pointer]:
+                  - /url: https://github.com/pricing
+          - generic [ref=e46]:
+            - button "Search or jump to, type / to search" [ref=e48] [cursor=pointer]
+            - link "Sign in" [ref=e55] [cursor=pointer]:
+              - /url: /login?return_to=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fvscode
+            - link "Sign up" [ref=e58] [cursor=pointer]:
+              - /url: /signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=microsoft%2Fvscode
+            - button "Appearance settings" [ref=e61] [cursor=pointer]
+  - main [ref=e68]:
+    - generic [ref=e69]:
+      - generic [ref=e70]:
+        - generic [ref=e72]:
+          - link "microsoft" [ref=e76] [cursor=pointer]:
+            - /url: /microsoft
+          - generic [ref=e77]: /
+          - strong [ref=e78]:
+            - link "vscode" [ref=e79] [cursor=pointer]:
+              - /url: /microsoft/vscode
+          - generic [ref=e80]: Public
+        - generic [ref=e81]:
+          - list:
+            - listitem [ref=e82]:
+              - link "You must be signed in to change notification settings" [ref=e83] [cursor=pointer]:
+                - /url: /login?return_to=%2Fmicrosoft%2Fvscode
+                - text: Notifications
+            - listitem [ref=e86]:
+              - link "Fork 42k" [ref=e87] [cursor=pointer]:
+                - /url: /login?return_to=%2Fmicrosoft%2Fvscode
+                - text: Fork
+                - generic "42,005" [ref=e90]: 42k
+            - listitem [ref=e91]:
+              - link "You must be signed in to star a repository" [ref=e93] [cursor=pointer]:
+                - /url: /login?return_to=%2Fmicrosoft%2Fvscode
+                - text: Star
+                - generic "190953 users starred this repository" [ref=e96]: 191k
+      - navigation "Repository" [ref=e97]:
+        - list [ref=e98]:
+          - listitem [ref=e99]:
+            - link "Code" [ref=e100] [cursor=pointer]:
+              - /url: /microsoft/vscode
+          - listitem [ref=e104]:
+            - link "Issues 5k+" [ref=e105] [cursor=pointer]:
+              - /url: /microsoft/vscode/issues
+              - generic [ref=e109]: Issues
+              - generic "5,000+" [ref=e110]: 5k+
+          - listitem [ref=e111]:
+            - link "Pull requests 2.6k" [ref=e112] [cursor=pointer]:
+              - /url: /microsoft/vscode/pulls
+              - generic [ref=e115]: Pull requests
+              - generic "2,554" [ref=e116]: 2.6k
+          - listitem [ref=e117]:
+            - link "Actions" [ref=e118] [cursor=pointer]:
+              - /url: /microsoft/vscode/actions
+          - listitem [ref=e122]:
+            - link "Projects" [ref=e123] [cursor=pointer]:
+              - /url: /microsoft/vscode/projects
+          - listitem [ref=e127]:
+            - link "Wiki" [ref=e128] [cursor=pointer]:
+              - /url: /microsoft/vscode/wiki
+          - listitem [ref=e132]:
+            - link "Security and quality 43" [ref=e133] [cursor=pointer]:
+              - /url: /microsoft/vscode/security
+              - generic [ref=e136]: Security and quality
+              - generic "43" [ref=e137]
+          - listitem [ref=e138]
+        - button "Additional navigation options" [ref=e142] [cursor=pointer]
+    - generic [ref=e156]:
+      - generic [ref=e159]:
+        - generic [ref=e160]:
+          - generic [ref=e161]:
+            - button "main branch" [ref=e163] [cursor=pointer]:
+              - generic [ref=e164]: main
+            - generic [ref=e168]:
+              - link "Go to Branches page" [ref=e169] [cursor=pointer]:
+                - /url: /microsoft/vscode/branches
+              - link "Go to Tags page" [ref=e172] [cursor=pointer]:
+                - /url: /microsoft/vscode/tags
+          - generic [ref=e175]:
+            - combobox "Go to file" [ref=e183]
+            - button "Code" [ref=e184] [cursor=pointer]
+        - generic [ref=e187]:
+          - generic [ref=e188]:
+            - generic [ref=e190]:
+              - heading "Latest commit" [level=2] [ref=e191]
+              - generic [ref=e194]:
+                - heading "History" [level=2] [ref=e195]
+                - link "164,703 Commits" [ref=e196] [cursor=pointer]:
+                  - /url: /microsoft/vscode/commits/main/
+            - heading "Folders and files" [level=2] [ref=e199]
+            - table "Folders and files" [ref=e200]:
+              - rowgroup:
+                - row "Name Last commit message Last commit date":
+                  - columnheader "Name"
+                  - columnheader "Last commit message"
+                  - columnheader "Last commit date"
+              - rowgroup [ref=e201]:
+                - row ".agents/skills, (Directory)" [ref=e202]:
+                  - cell [ref=e203]:
+                    - link ".agents/skills, (Directory)" [ref=e210] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/.agents/skills
+                      - text: .agents/skills
+                  - cell [ref=e211]
+                  - cell [ref=e213]
+                - row ".config, (Directory)" [ref=e216]:
+                  - cell [ref=e217]:
+                    - link ".config, (Directory)" [ref=e224] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/.config
+                      - text: .config
+                  - cell [ref=e225]
+                  - cell [ref=e227]
+                - row ".devcontainer, (Directory)" [ref=e230]:
+                  - cell [ref=e231]:
+                    - link ".devcontainer, (Directory)" [ref=e238] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/.devcontainer
+                      - text: .devcontainer
+                  - cell [ref=e239]
+                  - cell [ref=e241]
+                - row ".eslint-plugin-local, (Directory)" [ref=e244]:
+                  - cell [ref=e245]:
+                    - link ".eslint-plugin-local, (Directory)" [ref=e252] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/.eslint-plugin-local
+                      - text: .eslint-plugin-local
+                  - cell [ref=e253]
+                  - cell [ref=e255]
+                - row ".github, (Directory)" [ref=e258]:
+                  - cell [ref=e259]:
+                    - link ".github, (Directory)" [ref=e266] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/.github
+                      - text: .github
+                  - cell [ref=e267]
+                  - cell [ref=e269]
+                - row ".vscode, (Directory)" [ref=e272]:
+                  - cell [ref=e273]:
+                    - link ".vscode, (Directory)" [ref=e280] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/.vscode
+                      - text: .vscode
+                  - cell [ref=e281]
+                  - cell [ref=e283]
+                - row "build, (Directory)" [ref=e286]:
+                  - cell [ref=e287]:
+                    - link "build, (Directory)" [ref=e294] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/build
+                      - text: build
+                  - cell [ref=e295]
+                  - cell [ref=e297]
+                - row "cli, (Directory)" [ref=e300]:
+                  - cell [ref=e301]:
+                    - link "cli, (Directory)" [ref=e308] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/cli
+                      - text: cli
+                  - cell [ref=e309]
+                  - cell [ref=e311]
+                - row "extensions, (Directory)" [ref=e314]:
+                  - cell [ref=e315]:
+                    - link "extensions, (Directory)" [ref=e322] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/extensions
+                      - text: extensions
+                  - cell [ref=e323]
+                  - cell [ref=e325]
+                - row "remote, (Directory)" [ref=e328]:
+                  - cell [ref=e329]:
+                    - link "remote, (Directory)" [ref=e336] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/remote
+                      - text: remote
+                  - cell [ref=e337]
+                  - cell [ref=e339]
+                - row "resources, (Directory)" [ref=e342]:
+                  - cell [ref=e343]:
+                    - link "resources, (Directory)" [ref=e350] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/resources
+                      - text: resources
+                  - cell [ref=e351]
+                  - cell [ref=e353]
+                - row "scripts, (Directory)" [ref=e356]:
+                  - cell [ref=e357]:
+                    - link "scripts, (Directory)" [ref=e364] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/scripts
+                      - text: scripts
+                  - cell [ref=e365]
+                  - cell [ref=e367]
+                - row "src, (Directory)" [ref=e370]:
+                  - cell [ref=e371]:
+                    - link "src, (Directory)" [ref=e378] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/src
+                      - text: src
+                  - cell [ref=e379]
+                  - cell [ref=e381]
+                - row "test, (Directory)" [ref=e384]:
+                  - cell [ref=e385]:
+                    - link "test, (Directory)" [ref=e392] [cursor=pointer]:
+                      - /url: /microsoft/vscode/tree/main/test
+                      - text: test
+                  - cell [ref=e393]
+                  - cell [ref=e395]
+                - row ".editorconfig, (File)" [ref=e398]:
+                  - cell [ref=e399]:
+                    - link ".editorconfig, (File)" [ref=e406] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.editorconfig
+                      - text: .editorconfig
+                  - cell [ref=e407]
+                  - cell [ref=e409]
+                - row ".eslint-allowed-javascript-files, (File)" [ref=e412]:
+                  - cell [ref=e413]:
+                    - link ".eslint-allowed-javascript-files, (File)" [ref=e420] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.eslint-allowed-javascript-files
+                      - text: .eslint-allowed-javascript-files
+                  - cell [ref=e421]
+                  - cell [ref=e423]
+                - row ".eslint-ignore, (File)" [ref=e426]:
+                  - cell [ref=e427]:
+                    - link ".eslint-ignore, (File)" [ref=e434] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.eslint-ignore
+                      - text: .eslint-ignore
+                  - cell [ref=e435]
+                  - cell [ref=e437]
+                - row ".git-blame-ignore-revs, (File)" [ref=e440]:
+                  - cell [ref=e441]:
+                    - link ".git-blame-ignore-revs, (File)" [ref=e448] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.git-blame-ignore-revs
+                      - text: .git-blame-ignore-revs
+                  - cell [ref=e449]
+                  - cell [ref=e451]
+                - row ".gitattributes, (File)" [ref=e454]:
+                  - cell [ref=e455]:
+                    - link ".gitattributes, (File)" [ref=e462] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.gitattributes
+                      - text: .gitattributes
+                  - cell [ref=e463]
+                  - cell [ref=e465]
+                - row ".gitignore, (File)" [ref=e468]:
+                  - cell [ref=e469]:
+                    - link ".gitignore, (File)" [ref=e476] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.gitignore
+                      - text: .gitignore
+                  - cell [ref=e477]
+                  - cell [ref=e479]
+                - row ".lsifrc.json, (File)" [ref=e482]:
+                  - cell [ref=e483]:
+                    - link ".lsifrc.json, (File)" [ref=e490] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.lsifrc.json
+                      - text: .lsifrc.json
+                  - cell [ref=e491]
+                  - cell [ref=e493]
+                - row ".mailmap, (File)" [ref=e496]:
+                  - cell [ref=e497]:
+                    - link ".mailmap, (File)" [ref=e504] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.mailmap
+                      - text: .mailmap
+                  - cell [ref=e505]
+                  - cell [ref=e507]
+                - row ".mention-bot, (File)" [ref=e510]:
+                  - cell [ref=e511]:
+                    - link ".mention-bot, (File)" [ref=e518] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.mention-bot
+                      - text: .mention-bot
+                  - cell [ref=e519]
+                  - cell [ref=e521]
+                - row ".npmrc, (File)" [ref=e524]:
+                  - cell [ref=e525]:
+                    - link ".npmrc, (File)" [ref=e532] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.npmrc
+                      - text: .npmrc
+                  - cell [ref=e533]
+                  - cell [ref=e535]
+                - row ".nvmrc, (File)" [ref=e538]:
+                  - cell [ref=e539]:
+                    - link ".nvmrc, (File)" [ref=e546] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.nvmrc
+                      - text: .nvmrc
+                  - cell [ref=e547]
+                  - cell [ref=e549]
+                - row ".vscode-test.js, (File)" [ref=e552]:
+                  - cell [ref=e553]:
+                    - link ".vscode-test.js, (File)" [ref=e560] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/.vscode-test.js
+                      - text: .vscode-test.js
+                  - cell [ref=e561]
+                  - cell [ref=e563]
+                - row "AGENTS.md, (File)" [ref=e566]:
+                  - cell [ref=e567]:
+                    - link "AGENTS.md, (File)" [ref=e574] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/AGENTS.md
+                      - text: AGENTS.md
+                  - cell [ref=e575]
+                  - cell [ref=e577]
+                - row "CONTRIBUTING.md, (File)" [ref=e580]:
+                  - cell [ref=e581]:
+                    - link "CONTRIBUTING.md, (File)" [ref=e588] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/CONTRIBUTING.md
+                      - text: CONTRIBUTING.md
+                  - cell [ref=e589]
+                  - cell [ref=e591]
+                - row "LICENSE.txt, (File)" [ref=e594]:
+                  - cell [ref=e595]:
+                    - link "LICENSE.txt, (File)" [ref=e602] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/LICENSE.txt
+                      - text: LICENSE.txt
+                  - cell [ref=e603]
+                  - cell [ref=e605]
+                - row "README.md, (File)" [ref=e608]:
+                  - cell [ref=e609]:
+                    - link "README.md, (File)" [ref=e616] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/README.md
+                      - text: README.md
+                  - cell [ref=e617]
+                  - cell [ref=e619]
+                - row "SECURITY.md, (File)" [ref=e622]:
+                  - cell [ref=e623]:
+                    - link "SECURITY.md, (File)" [ref=e630] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/SECURITY.md
+                      - text: SECURITY.md
+                  - cell [ref=e631]
+                  - cell [ref=e633]
+                - row "ThirdPartyNotices.txt, (File)" [ref=e636]:
+                  - cell [ref=e637]:
+                    - link "ThirdPartyNotices.txt, (File)" [ref=e644] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/ThirdPartyNotices.txt
+                      - text: ThirdPartyNotices.txt
+                  - cell [ref=e645]
+                  - cell [ref=e647]
+                - row "cglicenses.json, (File)" [ref=e650]:
+                  - cell [ref=e651]:
+                    - link "cglicenses.json, (File)" [ref=e658] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/cglicenses.json
+                      - text: cglicenses.json
+                  - cell [ref=e659]
+                  - cell [ref=e661]
+                - row "cgmanifest.json, (File)" [ref=e664]:
+                  - cell [ref=e665]:
+                    - link "cgmanifest.json, (File)" [ref=e672] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/cgmanifest.json
+                      - text: cgmanifest.json
+                  - cell [ref=e673]
+                  - cell [ref=e675]
+                - row "eslint.config.js, (File)" [ref=e678]:
+                  - cell [ref=e679]:
+                    - link "eslint.config.js, (File)" [ref=e686] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/eslint.config.js
+                      - text: eslint.config.js
+                  - cell [ref=e687]
+                  - cell [ref=e689]
+                - row "gulpfile.mjs, (File)" [ref=e692]:
+                  - cell [ref=e693]:
+                    - link "gulpfile.mjs, (File)" [ref=e700] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/gulpfile.mjs
+                      - text: gulpfile.mjs
+                  - cell [ref=e701]
+                  - cell [ref=e703]
+                - row "package-lock.json, (File)" [ref=e706]:
+                  - cell [ref=e707]:
+                    - link "package-lock.json, (File)" [ref=e714] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/package-lock.json
+                      - text: package-lock.json
+                  - cell [ref=e715]
+                  - cell [ref=e717]
+                - row "package.json, (File)" [ref=e720]:
+                  - cell [ref=e721]:
+                    - link "package.json, (File)" [ref=e728] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/package.json
+                      - text: package.json
+                  - cell [ref=e729]
+                  - cell [ref=e731]
+                - row "product.json, (File)" [ref=e734]:
+                  - cell [ref=e735]:
+                    - link "product.json, (File)" [ref=e742] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/product.json
+                      - text: product.json
+                  - cell [ref=e743]
+                  - cell [ref=e745]
+                - row "tsfmt.json, (File)" [ref=e748]:
+                  - cell [ref=e749]:
+                    - link "tsfmt.json, (File)" [ref=e756] [cursor=pointer]:
+                      - /url: /microsoft/vscode/blob/main/tsfmt.json
+                      - text: tsfmt.json
+                  - cell [ref=e757]
+                  - cell [ref=e759]
+          - generic [ref=e763]:
+            - generic [ref=e764]:
+              - heading "Repository files navigation" [level=2] [ref=e765]
+              - navigation "Repository files" [ref=e766]:
+                - list [ref=e767]:
+                  - listitem [ref=e768]:
+                    - link "README" [ref=e769] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=e771]:
+                    - link "Code of conduct" [ref=e772] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=e774]:
+                    - link "Contributing" [ref=e775] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=e777]:
+                    - link "MIT license" [ref=e778] [cursor=pointer]:
+                      - /url: "#"
+                  - listitem [ref=e780]:
+                    - link "Security" [ref=e781] [cursor=pointer]:
+                      - /url: "#"
+              - button "Outline" [ref=e783] [cursor=pointer]
+            - article [ref=e787]:
+              - generic [ref=e788]:
+                - heading "Visual Studio Code - Open Source (\"Code - OSS\")" [level=1] [ref=e789]
+                - 'link "Permalink: Visual Studio Code - Open Source (\"Code - OSS\")" [ref=e790] [cursor=pointer]':
+                  - /url: "#visual-studio-code---open-source-code---oss"
+              - paragraph [ref=e793]:
+                - link [ref=e794] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc
+                  - img "Feature Requests" [ref=e795]
+                - link [ref=e796] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode/issues?utf8=%E2%9C%93&q=is%3Aissue+is%3Aopen+label%3Abug
+                  - img "Bugs" [ref=e797]
+              - generic [ref=e798]:
+                - heading "The Repository" [level=2] [ref=e799]
+                - 'link "Permalink: The Repository" [ref=e800] [cursor=pointer]':
+                  - /url: "#the-repository"
+              - paragraph [ref=e803]:
+                - text: This repository ("
+                - code [ref=e804]: Code - OSS
+                - text: "\") is where we (Microsoft) develop the"
+                - link "Visual Studio Code" [ref=e805] [cursor=pointer]:
+                  - /url: https://code.visualstudio.com
+                - text: product together with the community. Not only do we work on code and issues here, but we also publish our
+                - link "roadmap" [ref=e806] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode/wiki/Roadmap
+                - text: ","
+                - link "monthly iteration plans" [ref=e807] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode/wiki/Iteration-Plans
+                - text: ", and our"
+                - link "endgame plans" [ref=e808] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode/wiki/Running-the-Endgame
+                - text: . This source code is available to everyone under the standard
+                - link "MIT license" [ref=e809] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode/blob/main/LICENSE.txt
+                - text: .
+              - generic [ref=e810]:
+                - heading "Visual Studio Code" [level=2] [ref=e811]
+                - 'link "Permalink: Visual Studio Code" [ref=e812] [cursor=pointer]':
+                  - /url: "#visual-studio-code"
+              - paragraph [ref=e815]:
+                - link [ref=e816] [cursor=pointer]:
+                  - /url: https://private-user-images.githubusercontent.com/1908215/595962420-56af271c-949d-454c-a3ea-16188c063414.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODg2OTg2NDMsIm5iZiI6MTc4ODY5ODM0MywicGF0aCI6Ii8xOTA4MjE1LzU5NTk2MjQyMC01NmFmMjcxYy05NDlkLTQ1NGMtYTNlYS0xNjE4OGMwNjM0MTQucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkwNiUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MDZUMTIzOTAzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MTg5MTExNGYxOTFjOTY0MzQ5NDQwODVmODg5ZDM3MDUzODMwOTk5YTUzY2YwM2RhMTc1ZDU2N2YyYjk3Zjc5YyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGcG5nIn0.f77cJGJ-mknrAdNYPlbQg1Bka9d2LWRu-Y7OKaZXyxc
+                  - img "VS Code in action" [ref=e817]
+              - paragraph [ref=e818]:
+                - link "Visual Studio Code" [ref=e819] [cursor=pointer]:
+                  - /url: https://code.visualstudio.com
+                - text: is a distribution of the
+                - code [ref=e820]: Code - OSS
+                - text: repository with Microsoft-specific customizations released under a traditional
+                - link "Microsoft product license" [ref=e821] [cursor=pointer]:
+                  - /url: https://code.visualstudio.com/License/
+                - text: .
+              - paragraph [ref=e822]:
+                - link "Visual Studio Code" [ref=e823] [cursor=pointer]:
+                  - /url: https://code.visualstudio.com
+                - text: combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle. It provides comprehensive code editing, navigation, and understanding support along with lightweight debugging, a rich extensibility model, and lightweight integration with existing tools.
+              - paragraph [ref=e824]:
+                - text: Visual Studio Code is updated monthly with new features and bug fixes. You can download it for Windows, macOS, and Linux on the
+                - link "Visual Studio Code website" [ref=e825] [cursor=pointer]:
+                  - /url: https://code.visualstudio.com/Download
+                - text: . To get the latest releases every day, install the
+                - link "Insiders build" [ref=e826] [cursor=pointer]:
+                  - /url: https://code.visualstudio.com/insiders
+                - text: .
+              - generic [ref=e827]:
+                - heading "Contributing" [level=2] [ref=e828]
+                - 'link "Permalink: Contributing" [ref=e829] [cursor=pointer]':
+                  - /url: "#contributing"
+              - paragraph [ref=e832]: "There are many ways in which you can participate in this project, for example:"
+              - list [ref=e833]:
+                - listitem [ref=e834]:
+                  - link "Submit bugs and feature requests" [ref=e835] [cursor=pointer]:
+                    - /url: https://github.com/microsoft/vscode/issues
+                  - text: ", and help us verify them as they are checked in"
+                - listitem [ref=e836]:
+                  - text: Review
+                  - link "source code changes" [ref=e837] [cursor=pointer]:
+                    - /url: https://github.com/microsoft/vscode/pulls
+                - listitem [ref=e838]:
+                  - text: Review the
+                  - link "documentation" [ref=e839] [cursor=pointer]:
+                    - /url: https://github.com/microsoft/vscode-docs
+                  - text: and make pull requests for anything from typos to new content.
+              - paragraph [ref=e840]:
+                - text: If you are interested in fixing issues and contributing directly to the codebase, please see the document
+                - link "How to Contribute" [ref=e841] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode/wiki/How-to-Contribute
+                - text: ", which covers the following:"
+              - list [ref=e842]:
+                - listitem [ref=e843]:
+                  - link "How to build and run from source" [ref=e844] [cursor=pointer]:
+                    - /url: https://github.com/microsoft/vscode/wiki/How-to-Contribute
+                - listitem [ref=e845]:
+                  - link "The development workflow, including debugging and running tests" [ref=e846] [cursor=pointer]:
+                    - /url: https://github.com/microsoft/vscode/wiki/How-to-Contribute#debugging
+                - listitem [ref=e847]:
+                  - link "Coding guidelines" [ref=e848] [cursor=pointer]:
+                    - /url: https://github.com/microsoft/vscode/wiki/Coding-Guidelines
+                - listitem [ref=e849]:
+                  - link "Submitting pull requests" [ref=e850] [cursor=pointer]:
+                    - /url: https://github.com/microsoft/vscode/wiki/How-to-Contribute#pull-requests
+                - listitem [ref=e851]:
+                  - link "Finding an issue to work on" [ref=e852] [cursor=pointer]:
+                    - /url: https://github.com/microsoft/vscode/wiki/How-to-Contribute#where-to-contribute
+                - listitem [ref=e853]:
+                  - link "Contributing to translations" [ref=e854] [cursor=pointer]:
+                    - /url: https://aka.ms/vscodeloc
+              - generic [ref=e855]:
+                - heading "Feedback" [level=2] [ref=e856]
+                - 'link "Permalink: Feedback" [ref=e857] [cursor=pointer]':
+                  - /url: "#feedback"
+              - list [ref=e860]:
+                - listitem [ref=e861]:
+                  - text: Ask a question on
+                  - link "Stack Overflow" [ref=e862] [cursor=pointer]:
+                    - /url: https://stackoverflow.com/questions/tagged/vscode
+                - listitem [ref=e863]:
+                  - link "Request a new feature" [ref=e864] [cursor=pointer]:
+                    - /url: /microsoft/vscode/blob/main/CONTRIBUTING.md
+                - listitem [ref=e865]:
+                  - text: Upvote
+                  - link "popular feature requests" [ref=e866] [cursor=pointer]:
+                    - /url: https://github.com/microsoft/vscode/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request+sort%3Areactions-%2B1-desc
+                - listitem [ref=e867]:
+                  - link "File an issue" [ref=e868] [cursor=pointer]:
+                    - /url: https://github.com/microsoft/vscode/issues
+                - listitem [ref=e869]:
+                  - text: Connect with the extension author community on
+                  - link "GitHub Discussions" [ref=e870] [cursor=pointer]:
+                    - /url: https://github.com/microsoft/vscode-discussions/discussions
+                  - text: or
+                  - link "Slack" [ref=e871] [cursor=pointer]:
+                    - /url: https://aka.ms/vscode-dev-community
+                - listitem [ref=e872]:
+                  - text: Follow
+                  - link "@code" [ref=e873] [cursor=pointer]:
+                    - /url: https://x.com/code
+                  - text: and let us know what you think!
+              - paragraph [ref=e874]:
+                - text: See our
+                - link "wiki" [ref=e875] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode/wiki/Feedback-Channels
+                - text: for a description of each of these channels and information on some other available community-driven channels.
+              - generic [ref=e876]:
+                - heading "Related Projects" [level=2] [ref=e877]
+                - 'link "Permalink: Related Projects" [ref=e878] [cursor=pointer]':
+                  - /url: "#related-projects"
+              - paragraph [ref=e881]:
+                - text: Many of the core components and extensions to VS Code live in their own repositories on GitHub. For example, the
+                - link "node debug adapter" [ref=e882] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode-node-debug
+                - text: and the
+                - link "mono debug adapter" [ref=e883] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode-mono-debug
+                - text: repositories are separate from each other. For a complete list, please visit the
+                - link "Related Projects" [ref=e884] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode/wiki/Related-Projects
+                - text: page on our
+                - link "wiki" [ref=e885] [cursor=pointer]:
+                  - /url: https://github.com/microsoft/vscode/wiki
+                - text: .
+              - generic [ref=e886]:
+                - heading "Bundled Extensions" [level=2] [ref=e887]
+                - 'link "Permalink: Bundled Extensions" [ref=e888] [cursor=pointer]':
+                  - /url: "#bundled-extensions"
+              - paragraph [ref=e891]:
+                - text: VS Code includes a set of built-in extensions located in the
+                - link "extensions" [ref=e892] [cursor=pointer]:
+                  - /url: /microsoft/vscode/blob/main/extensions
+                - text: folder, including grammars and snippets for many languages. Extensions that provide rich language support (inline suggestions, Go to Definition) for a language have the suffix
+                - code [ref=e893]: language-features
+                - text: . For example, the
+                - code [ref=e894]: json
+                - text: extension provides coloring for
+                - code [ref=e895]: JSON
+                - text: and the
+                - code [ref=e896]: json-language-features
+                - text: extension provides rich language support for
+                - code [ref=e897]: JSON
+                - text: .
+              - generic [ref=e898]:
+                - heading "Development Container" [level=2] [ref=e899]
+                - 'link "Permalink: Development Container" [ref=e900] [cursor=pointer]':
+                  - /url: "#development-container"
+              - paragraph [ref=e903]: This repository includes a Visual Studio Code Dev Containers / GitHub Codespaces development container.
+              - list [ref=e904]:
+                - listitem [ref=e905]:
+                  - paragraph [ref=e906]:
+                    - text: For
+                    - link "Dev Containers" [ref=e907] [cursor=pointer]:
+                      - /url: https://aka.ms/vscode-remote/download/containers
+                    - text: ", use the"
+                    - strong [ref=e908]: "Dev Containers: Clone Repository in Container Volume..."
+                    - text: command, which creates a Docker volume for better disk I/O on macOS and Windows.
+                  - list [ref=e909]:
+                    - listitem [ref=e910]:
+                      - text: If you already have VS Code and Docker installed, you can also click
+                      - link "here" [ref=e911] [cursor=pointer]:
+                        - /url: https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode
+                      - text: to get started. This will cause VS Code to automatically install the Dev Containers extension if needed, clone the source code into a container volume, and spin up a dev container for use.
+                - listitem [ref=e912]:
+                  - paragraph [ref=e913]:
+                    - text: For Codespaces, install the
+                    - link "GitHub Codespaces" [ref=e914] [cursor=pointer]:
+                      - /url: https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces
+                    - text: extension in VS Code, and use the
+                    - strong [ref=e915]: "Codespaces: Create New Codespace"
+                    - text: command.
+              - paragraph [ref=e916]:
+                - text: Docker / the Codespace should have at least
+                - strong [ref=e917]: 4 cores and 6 GB of RAM (8 GB recommended)
+                - text: to run a full build. See the
+                - link "development container README" [ref=e918] [cursor=pointer]:
+                  - /url: /microsoft/vscode/blob/main/.devcontainer/README.md
+                - text: for more information.
+              - generic [ref=e919]:
+                - heading "Code of Conduct" [level=2] [ref=e920]
+                - 'link "Permalink: Code of Conduct" [ref=e921] [cursor=pointer]':
+                  - /url: "#code-of-conduct"
+              - paragraph [ref=e924]:
+                - text: This project has adopted the
+                - link "Microsoft Open Source Code of Conduct" [ref=e925] [cursor=pointer]:
+                  - /url: https://opensource.microsoft.com/codeofconduct/
+                - text: . For more information, see the
+                - link "Code of Conduct FAQ" [ref=e926] [cursor=pointer]:
+                  - /url: https://opensource.microsoft.com/codeofconduct/faq/
+                - text: or contact
+                - link "opencode@microsoft.com" [ref=e927] [cursor=pointer]:
+                  - /url: mailto:opencode@microsoft.com
+                - text: with any additional questions or comments.
+              - generic [ref=e928]:
+                - heading "License" [level=2] [ref=e929]
+                - 'link "Permalink: License" [ref=e930] [cursor=pointer]':
+                  - /url: "#license"
+              - paragraph [ref=e933]: Copyright (c) Microsoft Corporation. All rights reserved.
+              - paragraph [ref=e934]:
+                - text: Licensed under the
+                - link "MIT" [ref=e935] [cursor=pointer]:
+                  - /url: /microsoft/vscode/blob/main/LICENSE.txt
+                - text: license.
+      - generic [ref=e938]:
+        - generic [ref=e939]:
+          - heading "About" [level=2] [ref=e940]
+          - paragraph [ref=e941]: Visual Studio Code
+          - generic "https://code.visualstudio.com" [ref=e945]:
+            - link "code.visualstudio.com" [ref=e946] [cursor=pointer]:
+              - /url: https://code.visualstudio.com
+          - heading "Topics" [level=3] [ref=e947]
+          - generic [ref=e948]:
+            - link "editor" [ref=e949] [cursor=pointer]:
+              - /url: /topics/editor
+            - link "electron" [ref=e950] [cursor=pointer]:
+              - /url: /topics/electron
+            - link "microsoft" [ref=e951] [cursor=pointer]:
+              - /url: /topics/microsoft
+            - link "typescript" [ref=e952] [cursor=pointer]:
+              - /url: /topics/typescript
+            - link "visual-studio-code" [ref=e953] [cursor=pointer]:
+              - /url: /topics/visual-studio-code
+          - heading "Resources" [level=3] [ref=e954]
+          - link "Readme" [ref=e956] [cursor=pointer]:
+            - /url: "#readme-ov-file"
+          - link "MIT license" [ref=e960] [cursor=pointer]:
+            - /url: "#MIT-1-ov-file"
+          - heading "Code of conduct" [level=3] [ref=e963]
+          - link "Code of conduct" [ref=e965] [cursor=pointer]:
+            - /url: /microsoft/vscode#coc-ov-file
+          - heading "Contributing" [level=3] [ref=e968]
+          - link "Contributing" [ref=e970] [cursor=pointer]:
+            - /url: "#contributing-ov-file"
+          - heading "Security policy" [level=3] [ref=e973]
+          - link "Security policy" [ref=e975] [cursor=pointer]:
+            - /url: "#security-ov-file"
+          - link "Activity" [ref=e979] [cursor=pointer]:
+            - /url: /microsoft/vscode/activity
+          - link "Custom properties" [ref=e983] [cursor=pointer]:
+            - /url: /microsoft/vscode/custom-properties
+          - heading "Stars" [level=3] [ref=e986]
+          - generic [ref=e988]:
+            - strong [ref=e991]: 191.0k
+            - text: stars
+          - heading "Watchers" [level=3] [ref=e992]
+          - generic [ref=e994]:
+            - strong [ref=e997]: 3.5k
+            - text: watching
+          - heading "Forks" [level=3] [ref=e998]
+          - link [ref=e1000] [cursor=pointer]:
+            - /url: /microsoft/vscode/forks
+            - strong [ref=e1004]: 42.0k
+            - text: forks
+          - link "Report repository" [ref=e1006] [cursor=pointer]:
+            - /url: /contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fmicrosoft%2Fvscode&report=microsoft+%28user%29
+        - heading "Releases" [level=2] [ref=e1008]
+        - heading "Used by" [level=2] [ref=e1012]
+        - heading "Contributors" [level=2] [ref=e1015]
+        - heading "Languages" [level=2] [ref=e1018]
+  - contentinfo [ref=e1021]:
+    - heading "Footer" [level=2] [ref=e1022]
+    - generic [ref=e1023]:
+      - generic [ref=e1024]:
+        - link "GitHub Homepage" [ref=e1025] [cursor=pointer]:
+          - /url: https://github.com
+        - generic [ref=e1028]: © 2026 GitHub, Inc.
+      - navigation "Footer" [ref=e1029]:
+        - heading "Footer navigation" [level=3] [ref=e1030]
+        - list "Footer navigation" [ref=e1031]:
+          - listitem [ref=e1032]:
+            - link "Terms" [ref=e1033] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/github-terms/github-terms-of-service
+          - listitem [ref=e1034]:
+            - link "Privacy" [ref=e1035] [cursor=pointer]:
+              - /url: https://docs.github.com/site-policy/privacy-policies/github-privacy-statement
+          - listitem [ref=e1036]:
+            - link "Security" [ref=e1037] [cursor=pointer]:
+              - /url: https://github.com/security
+          - listitem [ref=e1038]:
+            - link "Status" [ref=e1039] [cursor=pointer]:
+              - /url: https://www.githubstatus.com/
+          - listitem [ref=e1040]:
+            - link "Community" [ref=e1041] [cursor=pointer]:
+              - /url: https://github.community/
+          - listitem [ref=e1042]:
+            - link "Docs" [ref=e1043] [cursor=pointer]:
+              - /url: https://docs.github.com/
+          - listitem [ref=e1044]:
+            - link "Contact" [ref=e1045] [cursor=pointer]:
+              - /url: https://support.github.com?tags=dotcom-footer
+          - listitem [ref=e1046]:
+            - button "Manage cookies" [ref=e1048] [cursor=pointer]
+          - listitem [ref=e1049]:
+            - button "Do not share my personal information" [ref=e1051] [cursor=pointer]

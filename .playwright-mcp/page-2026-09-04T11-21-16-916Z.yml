@@ -1,0 +1,645 @@
+- generic [active] [ref=f8e1]:
+  - main [ref=f8e3]:
+    - generic [ref=f8e7]:
+      - generic [ref=f8e9]:
+        - link [ref=f8e10] [cursor=pointer]:
+          - /url: /
+          - img "exteraGram" [ref=f8e11]
+          - text: exteraGram
+        - button "Toggle Sidebar" [ref=f8e12] [cursor=pointer]
+      - list [ref=f8e16]:
+        - generic [ref=f8e17]: Getting Started
+        - listitem [ref=f8e18]:
+          - link "Introduction" [ref=f8e19] [cursor=pointer]:
+            - /url: /docs
+        - listitem [ref=f8e26]:
+          - link "Setup" [ref=f8e27] [cursor=pointer]:
+            - /url: /docs/setup
+        - listitem [ref=f8e33]:
+          - link "First Plugin" [ref=f8e34] [cursor=pointer]:
+            - /url: /docs/first-plugin
+        - generic [ref=f8e42]: Elyx Structured Plugins
+        - generic [ref=f8e43]:
+          - link [ref=f8e44] [cursor=pointer]:
+            - /url: /docs/elyx
+          - list [ref=f8e58]:
+            - listitem [ref=f8e59]:
+              - link "Elyx" [ref=f8e60] [cursor=pointer]:
+                - /url: /docs/elyx
+            - listitem [ref=f8e73]:
+              - link "Quick Start" [ref=f8e74] [cursor=pointer]:
+                - /url: /docs/elyx/quick-start
+            - listitem [ref=f8e82]:
+              - link "ElyxBuilder" [ref=f8e83] [cursor=pointer]:
+                - /url: /docs/elyx/elyxbuilder
+            - listitem [ref=f8e90]:
+              - link "Project Structure" [ref=f8e91] [cursor=pointer]:
+                - /url: /docs/elyx/project-structure
+            - listitem [ref=f8e99]:
+              - link "Metadata" [ref=f8e100] [cursor=pointer]:
+                - /url: /docs/elyx/metadata
+            - listitem [ref=f8e108]:
+              - link "Modules and Imports" [ref=f8e109] [cursor=pointer]:
+                - /url: /docs/elyx/modules-and-imports
+            - listitem [ref=f8e117]:
+              - link "Assets" [ref=f8e118] [cursor=pointer]:
+                - /url: /docs/elyx/assets
+            - listitem [ref=f8e126]:
+              - link "Localization" [ref=f8e127] [cursor=pointer]:
+                - /url: /docs/elyx/localization
+            - listitem [ref=f8e134]:
+              - link "Settings Storage" [ref=f8e135] [cursor=pointer]:
+                - /url: /docs/elyx/settings
+            - listitem [ref=f8e139]:
+              - link "Dependencies" [ref=f8e140] [cursor=pointer]:
+                - /url: /docs/elyx/dependencies
+            - listitem [ref=f8e149]:
+              - link "Development and Build" [ref=f8e150] [cursor=pointer]:
+                - /url: /docs/elyx/development
+            - listitem [ref=f8e158]:
+              - link "Public API" [ref=f8e159] [cursor=pointer]:
+                - /url: /docs/elyx/public-api
+            - listitem [ref=f8e165]:
+              - link "Troubleshooting" [ref=f8e166] [cursor=pointer]:
+                - /url: /docs/elyx/troubleshooting
+        - generic [ref=f8e171]: Basics
+        - listitem [ref=f8e172]:
+          - link "Plugin Class" [ref=f8e173] [cursor=pointer]:
+            - /url: /docs/plugin-class
+        - listitem [ref=f8e178]:
+          - link "Multi-account" [ref=f8e179] [cursor=pointer]:
+            - /url: /docs/multi-account
+        - listitem [ref=f8e187]:
+          - link "Plugin Settings" [ref=f8e188] [cursor=pointer]:
+            - /url: /docs/plugin-settings
+        - listitem [ref=f8e194]:
+          - link "Class Proxy" [ref=f8e195] [cursor=pointer]:
+            - /url: /docs/class-proxy
+        - listitem [ref=f8e208]:
+          - link "Xposed Method Hooking" [ref=f8e209] [cursor=pointer]:
+            - /url: /docs/xposed-hooking
+        - generic [ref=f8e216]: Utils
+        - listitem [ref=f8e217]:
+          - link "Android Utilities" [ref=f8e218] [cursor=pointer]:
+            - /url: /docs/android-utils
+        - listitem [ref=f8e223]:
+          - link "Client Utilities" [ref=f8e224] [cursor=pointer]:
+            - /url: /docs/client-utils
+        - listitem [ref=f8e231]:
+          - link "Text Formatting" [ref=f8e232] [cursor=pointer]:
+            - /url: /docs/text-formatting
+        - listitem [ref=f8e237]:
+          - link "Hook Utilities (Reflection)" [ref=f8e238] [cursor=pointer]:
+            - /url: /docs/hook-utils
+        - listitem [ref=f8e246]:
+          - link "File Utilities" [ref=f8e247] [cursor=pointer]:
+            - /url: /docs/file-utils
+        - listitem [ref=f8e255]:
+          - link "Intents" [ref=f8e256] [cursor=pointer]:
+            - /url: /docs/intents
+        - listitem [ref=f8e262]:
+          - link "Alert Dialog Builder" [ref=f8e263] [cursor=pointer]:
+            - /url: /docs/alert-dialog-builder
+        - listitem [ref=f8e268]:
+          - link "Bulletin Helper" [ref=f8e269] [cursor=pointer]:
+            - /url: /docs/bulletin-helper
+        - generic [ref=f8e275]: Other
+        - listitem [ref=f8e276]:
+          - link "Development Server" [ref=f8e277] [cursor=pointer]:
+            - /url: /docs/dev-server
+        - listitem [ref=f8e286]:
+          - link "PIP & Dependencies" [ref=f8e287] [cursor=pointer]:
+            - /url: /docs/pip
+        - listitem [ref=f8e294]:
+          - link "Available Libraries" [ref=f8e295] [cursor=pointer]:
+            - /url: /docs/available-libraries
+        - listitem [ref=f8e300]:
+          - link "Common Telegram Classes" [ref=f8e301] [cursor=pointer]:
+            - /url: /docs/common-source-classes
+    - main [ref=f8e307]:
+      - generic [ref=f8e308]:
+        - generic [ref=f8e309]:
+          - button "Search ⌘ K" [ref=f8e310] [cursor=pointer]:
+            - text: Search
+            - generic [ref=f8e314]:
+              - generic [ref=f8e315]: ⌘
+              - generic [ref=f8e316]: K
+          - button "Toggle Theme" [ref=f8e317] [cursor=pointer]
+          - link [ref=f8e326] [cursor=pointer]:
+            - /url: https://github.com/exteraSquad
+        - generic [ref=f8e329]:
+          - article [ref=f8e331]:
+            - heading "Xposed Method Hooking" [level=1] [ref=f8e332]
+            - paragraph [ref=f8e333]: Hook Java methods and constructors from Python plugins using MethodHook, MethodReplacement, BaseHook, and filters.
+            - generic [ref=f8e334]:
+              - heading [level=2] [ref=f8e335]:
+                - link "Introduction" [ref=f8e336] [cursor=pointer]:
+                  - /url: "#introduction"
+                - img "Link to section" [ref=f8e337]
+              - paragraph [ref=f8e340]: Xposed-style method hooking lets your plugin intercept method calls inside the app, modify arguments, inspect or replace return values, or skip the original implementation entirely.
+              - paragraph [ref=f8e341]: This is one of the most powerful parts of the plugin SDK, and also one of the easiest to misuse, so it is worth being explicit about the available styles.
+              - heading [level=2] [ref=f8e342]:
+                - link "Hook Handler Styles" [ref=f8e343] [cursor=pointer]:
+                  - /url: "#hook-handler-styles"
+                - img "Link to section" [ref=f8e344]
+              - paragraph [ref=f8e347]: You can provide hook logic in three ways.
+              - heading [level=3] [ref=f8e348]:
+                - link [ref=f8e349] [cursor=pointer]:
+                  - /url: "#1-methodhook"
+                  - text: "1."
+                  - code [ref=f8e350]: MethodHook
+                - img "Link to section" [ref=f8e351]
+              - paragraph [ref=f8e354]:
+                - text: Use
+                - code [ref=f8e355]: MethodHook
+                - text: when you want
+                - code [ref=f8e356]: before_hooked_method(...)
+                - text: and/or
+                - code [ref=f8e357]: after_hooked_method(...)
+                - text: .
+              - figure [ref=f8e358]:
+                - button "Copy Text" [ref=f8e359] [cursor=pointer]
+                - code [ref=f8e367]:
+                  - generic [ref=f8e368]: from base_plugin import MethodHook
+                  - generic [ref=f8e371]: "class TitleLoggerHook(MethodHook):"
+                  - generic [ref=f8e372]: "def before_hooked_method(self, param):"
+                  - generic [ref=f8e373]: title = param.args[0]
+                  - generic [ref=f8e374]: "print(f\"ActionBar title is about to become: {title}\")"
+                  - generic [ref=f8e376]: "def after_hooked_method(self, param):"
+                  - generic [ref=f8e377]: "print(f\"Method finished with result: {param.getResult()}\")"
+              - heading [level=3] [ref=f8e378]:
+                - link [ref=f8e379] [cursor=pointer]:
+                  - /url: "#2-methodreplacement"
+                  - text: "2."
+                  - code [ref=f8e380]: MethodReplacement
+                - img "Link to section" [ref=f8e381]
+              - paragraph [ref=f8e384]:
+                - text: Use
+                - code [ref=f8e385]: MethodReplacement
+                - text: when you want to fully replace the original Java method.
+              - figure [ref=f8e386]:
+                - button "Copy Text" [ref=f8e387] [cursor=pointer]
+                - code [ref=f8e395]:
+                  - generic [ref=f8e396]: from base_plugin import MethodReplacement
+                  - generic [ref=f8e399]: "class TitleReplacer(MethodReplacement):"
+                  - generic [ref=f8e400]: "def replace_hooked_method(self, param):"
+                  - generic [ref=f8e401]: print("Original method was replaced.")
+                  - generic [ref=f8e402]: return None
+              - heading [level=3] [ref=f8e403]:
+                - link [ref=f8e404] [cursor=pointer]:
+                  - /url: "#3-functional-hooks-or-basehook"
+                  - text: 3. Functional hooks or
+                  - code [ref=f8e405]: BaseHook
+                - img "Link to section" [ref=f8e406]
+              - paragraph [ref=f8e409]:
+                - text: For simpler cases, you can skip creating a full class and pass
+                - code [ref=f8e410]: before=
+                - text: and/or
+                - code [ref=f8e411]: after=
+                - text: "directly:"
+              - figure [ref=f8e412]:
+                - button "Copy Text" [ref=f8e413] [cursor=pointer]
+                - code [ref=f8e421]:
+                  - generic [ref=f8e422]: self.hook_method(
+                  - generic [ref=f8e423]: some_method,
+                  - generic [ref=f8e424]: "before=lambda param: self.log(\"Method is about to run!\"),"
+                  - generic [ref=f8e425]: "after=lambda param: self.log(f\"Method finished with result: {param.getResult()}\"),"
+                  - generic [ref=f8e426]: )
+              - paragraph [ref=f8e427]:
+                - text: Internally the SDK wraps that style into
+                - code [ref=f8e428]: BaseHook
+                - text: ", which is a small helper subclass of"
+                - code [ref=f8e429]: MethodHook
+                - text: .
+              - heading [level=2] [ref=f8e430]:
+                - link [ref=f8e431] [cursor=pointer]:
+                  - /url: "#the-param-object"
+                  - text: The
+                  - code [ref=f8e432]: param
+                  - text: Object
+                - img "Link to section" [ref=f8e433]
+              - paragraph [ref=f8e436]:
+                - text: All hook callbacks receive
+                - code [ref=f8e437]: de.robv.android.xposed.XC_MethodHook.MethodHookParam
+                - text: .
+              - paragraph [ref=f8e438]: "The most useful fields and methods are:"
+              - list [ref=f8e439]:
+                - listitem [ref=f8e440]:
+                  - code [ref=f8e441]: param.thisObject
+                  - text: ": instance on which the method was called, or"
+                  - code [ref=f8e442]: None
+                  - text: for static methods
+                - listitem [ref=f8e443]:
+                  - code [ref=f8e444]: param.args
+                  - text: ": method argument array; you can read and modify it"
+                - listitem [ref=f8e445]:
+                  - code [ref=f8e446]: param.method
+                  - text: ": the hooked"
+                  - code [ref=f8e447]: Method
+                  - text: or
+                  - code [ref=f8e448]: Constructor
+                - listitem [ref=f8e449]:
+                  - code [ref=f8e450]: param.getResult()
+                  - text: ": return value of the original method, available after execution"
+                - listitem [ref=f8e451]:
+                  - code [ref=f8e452]: param.setResult(value)
+                  - text: ": sets a result manually"
+              - paragraph [ref=f8e453]:
+                - text: If you call
+                - code [ref=f8e454]: param.setResult(...)
+                - text: inside
+                - code [ref=f8e455]: before_hooked_method(...)
+                - text: ", the original method is skipped."
+              - figure [ref=f8e456]:
+                - button "Copy Text" [ref=f8e457] [cursor=pointer]
+                - code [ref=f8e465]:
+                  - generic [ref=f8e466]: "def before_hooked_method(self, param):"
+                  - generic [ref=f8e467]: "if param.args[0] == \"blocked\":"
+                  - generic [ref=f8e468]: param.setResult(None)
+              - heading [level=2] [ref=f8e469]:
+                - link "Filters" [ref=f8e470] [cursor=pointer]:
+                  - /url: "#filters"
+                - img "Link to section" [ref=f8e471]
+              - paragraph [ref=f8e474]: Filters decide whether your hook callback should run at all.
+              - paragraph [ref=f8e475]: "You can use them in two styles:"
+              - list [ref=f8e476]:
+                - listitem [ref=f8e477]:
+                  - code [ref=f8e478]: "@hook_filters(...)"
+                  - text: on class-based hook methods
+                - listitem [ref=f8e479]:
+                  - code [ref=f8e480]: before_filters=[...]
+                  - text: and
+                  - code [ref=f8e481]: after_filters=[...]
+                  - text: for functional hooks
+              - figure [ref=f8e482]:
+                - button "Copy Text" [ref=f8e483] [cursor=pointer]
+                - code [ref=f8e491]:
+                  - generic [ref=f8e492]: from base_plugin import HookFilter
+                  - generic [ref=f8e495]: self.hook_method(
+                  - generic [ref=f8e496]: some_method,
+                  - generic [ref=f8e497]: "before=lambda p: self.log(\"Arg 0 is null!\"),"
+                  - generic [ref=f8e498]: before_filters=[HookFilter.ArgumentIsNull(0)],
+                  - generic [ref=f8e499]: )
+              - heading [level=3] [ref=f8e500]:
+                - link [ref=f8e501] [cursor=pointer]:
+                  - /url: "#available-hookfilter-helpers"
+                  - text: Available
+                  - code [ref=f8e502]: HookFilter
+                  - text: helpers
+                - img "Link to section" [ref=f8e503]
+              - list [ref=f8e506]:
+                - listitem [ref=f8e507]:
+                  - code [ref=f8e508]: HookFilter.RESULT_IS_NULL
+                - listitem [ref=f8e509]:
+                  - code [ref=f8e510]: HookFilter.RESULT_IS_TRUE
+                - listitem [ref=f8e511]:
+                  - code [ref=f8e512]: HookFilter.RESULT_IS_FALSE
+                - listitem [ref=f8e513]:
+                  - code [ref=f8e514]: HookFilter.RESULT_NOT_NULL
+                - listitem [ref=f8e515]:
+                  - code [ref=f8e516]: HookFilter.ResultIsInstanceOf(clazz)
+                - listitem [ref=f8e517]:
+                  - code [ref=f8e518]: HookFilter.ResultEqual(value)
+                - listitem [ref=f8e519]:
+                  - code [ref=f8e520]: HookFilter.ResultNotEqual(value)
+                - listitem [ref=f8e521]:
+                  - code [ref=f8e522]: HookFilter.ArgumentIsNull(index)
+                - listitem [ref=f8e523]:
+                  - code [ref=f8e524]: HookFilter.ArgumentNotNull(index)
+                - listitem [ref=f8e525]:
+                  - code [ref=f8e526]: HookFilter.ArgumentIsFalse(index)
+                - listitem [ref=f8e527]:
+                  - code [ref=f8e528]: HookFilter.ArgumentIsTrue(index)
+                - listitem [ref=f8e529]:
+                  - code [ref=f8e530]: HookFilter.ArgumentIsInstanceOf(index, clazz)
+                - listitem [ref=f8e531]:
+                  - code [ref=f8e532]: HookFilter.ArgumentEqual(index, value)
+                - listitem [ref=f8e533]:
+                  - code [ref=f8e534]: HookFilter.ArgumentNotEqual(index, value)
+                - listitem [ref=f8e535]:
+                  - code [ref=f8e536]: HookFilter.Condition(condition, object=None)
+                - listitem [ref=f8e537]:
+                  - code [ref=f8e538]: HookFilter.Or(*filters)
+              - heading [level=3] [ref=f8e539]:
+                - link "Class-based filter example" [ref=f8e540] [cursor=pointer]:
+                  - /url: "#class-based-filter-example"
+                - img "Link to section" [ref=f8e541]
+              - figure [ref=f8e544]:
+                - button "Copy Text" [ref=f8e545] [cursor=pointer]
+                - code [ref=f8e553]:
+                  - generic [ref=f8e554]: from base_plugin import HookFilter, MethodHook, hook_filters
+                  - generic [ref=f8e557]: "class ExampleHook(MethodHook):"
+                  - generic [ref=f8e558]: "# Run only if the first argument is null."
+                  - generic [ref=f8e559]: "@hook_filters(HookFilter.ArgumentIsNull(0))"
+                  - generic [ref=f8e560]: "def before_hooked_method(self, param):"
+                  - generic [ref=f8e561]: ...
+                  - generic [ref=f8e563]: "# Run only if the original result is not null."
+                  - generic [ref=f8e564]: "@hook_filters(HookFilter.RESULT_NOT_NULL)"
+                  - generic [ref=f8e565]: "def after_hooked_method(self, param):"
+                  - generic [ref=f8e566]: ...
+              - heading [level=3] [ref=f8e567]:
+                - link "MVEL condition filter example" [ref=f8e568] [cursor=pointer]:
+                  - /url: "#mvel-condition-filter-example"
+                - img "Link to section" [ref=f8e569]
+              - figure [ref=f8e572]:
+                - button "Copy Text" [ref=f8e573] [cursor=pointer]
+                - code [ref=f8e581]:
+                  - generic [ref=f8e582]: from base_plugin import HookFilter, MethodHook, hook_filters
+                  - generic [ref=f8e585]: "class ConditionalHook(MethodHook):"
+                  - generic [ref=f8e586]: "@hook_filters("
+                  - generic [ref=f8e587]: HookFilter.Condition(
+                  - generic [ref=f8e588]: "\"param.args[0] == object || this instanceof android.view.View\","
+                  - generic [ref=f8e589]: object=500,
+                  - generic [ref=f8e590]: )
+                  - generic [ref=f8e591]: )
+                  - generic [ref=f8e592]: "def before_hooked_method(self, param):"
+                  - generic [ref=f8e593]: ...
+              - heading [level=2] [ref=f8e594]:
+                - link "The Hooking Process" [ref=f8e595] [cursor=pointer]:
+                  - /url: "#the-hooking-process"
+                - img "Link to section" [ref=f8e596]
+              - heading [level=3] [ref=f8e599]:
+                - link "1. Find the target method or constructor" [ref=f8e600] [cursor=pointer]:
+                  - /url: "#1-find-the-target-method-or-constructor"
+                - img "Link to section" [ref=f8e601]
+              - paragraph [ref=f8e604]:
+                - text: You usually start with
+                - code [ref=f8e605]: find_class(...)
+                - text: ", then call Java reflection directly on the returned"
+                - code [ref=f8e606]: Class
+                - text: .
+              - figure [ref=f8e607]:
+                - button "Copy Text" [ref=f8e608] [cursor=pointer]
+                - code [ref=f8e616]:
+                  - generic [ref=f8e617]: from hook_utils import find_class
+                  - generic [ref=f8e620]: ActionBarClass = find_class("org.telegram.ui.ActionBar.ActionBar")
+                  - generic [ref=f8e621]: "if not ActionBarClass:"
+                  - generic [ref=f8e622]: self.log("ActionBar class not found!")
+                  - generic [ref=f8e623]: return
+                  - generic [ref=f8e626]: "# Example method: public void setTitle(CharSequence title)"
+                  - generic [ref=f8e627]: CharSequenceClass = find_class("java.lang.CharSequence")
+                  - generic [ref=f8e628]: set_title_method = ActionBarClass.getDeclaredMethod("setTitle", CharSequenceClass)
+                  - generic [ref=f8e629]: set_title_method.setAccessible(True)
+                  - generic [ref=f8e632]: "# Example constructor: public ActionBar(Context context)"
+                  - generic [ref=f8e633]: ContextClass = find_class("android.content.Context")
+                  - generic [ref=f8e634]: action_bar_constructor = ActionBarClass.getDeclaredConstructor(ContextClass)
+                  - generic [ref=f8e635]: action_bar_constructor.setAccessible(True)
+              - generic [ref=f8e639]:
+                - paragraph [ref=f8e640]: "Do not call `getClass()` on the `Class` object"
+                - paragraph [ref=f8e642]:
+                  - code [ref=f8e643]: find_class(...)
+                  - text: already returns a Java
+                  - code [ref=f8e644]: Class
+                  - text: . Call
+                  - code [ref=f8e645]: getDeclaredMethod(...)
+                  - text: or
+                  - code [ref=f8e646]: getDeclaredConstructor(...)
+                  - text: on that object directly.
+              - heading [level=3] [ref=f8e647]:
+                - link "2. Implement the hook handler" [ref=f8e648] [cursor=pointer]:
+                  - /url: "#2-implement-the-hook-handler"
+                - img "Link to section" [ref=f8e649]
+              - figure [ref=f8e652]:
+                - button "Copy Text" [ref=f8e653] [cursor=pointer]
+                - code [ref=f8e661]:
+                  - generic [ref=f8e662]: from base_plugin import MethodHook, MethodReplacement
+                  - generic [ref=f8e665]: "class TitleLoggerHook(MethodHook):"
+                  - generic [ref=f8e666]: "def __init__(self, plugin):"
+                  - generic [ref=f8e667]: self.plugin = plugin
+                  - generic [ref=f8e669]: "def before_hooked_method(self, param):"
+                  - generic [ref=f8e670]: title = param.args[0]
+                  - generic [ref=f8e671]: "self.plugin.log(f\"ActionBar title is being set to: {title}\")"
+                  - generic [ref=f8e672]: "param.args[0] = f\"[Hooked] {title}\""
+                  - generic [ref=f8e674]: "def after_hooked_method(self, param):"
+                  - generic [ref=f8e675]: self.plugin.log("ActionBar title has been set.")
+                  - generic [ref=f8e678]: "class TitleReplacer(MethodReplacement):"
+                  - generic [ref=f8e679]: "def __init__(self, plugin):"
+                  - generic [ref=f8e680]: self.plugin = plugin
+                  - generic [ref=f8e682]: "def replace_hooked_method(self, param):"
+                  - generic [ref=f8e683]: self.plugin.log("ActionBar.setTitle() was replaced.")
+                  - generic [ref=f8e684]: return None
+              - heading [level=3] [ref=f8e685]:
+                - link "3. Apply the hook" [ref=f8e686] [cursor=pointer]:
+                  - /url: "#3-apply-the-hook"
+                - img "Link to section" [ref=f8e687]
+              - figure [ref=f8e690]:
+                - button "Copy Text" [ref=f8e691] [cursor=pointer]
+                - code [ref=f8e699]:
+                  - generic [ref=f8e700]: ActionBarClass = find_class("org.telegram.ui.ActionBar.ActionBar")
+                  - generic [ref=f8e701]: CharSequenceClass = find_class("java.lang.CharSequence")
+                  - generic [ref=f8e703]: set_title_method = ActionBarClass.getDeclaredMethod("setTitle", CharSequenceClass)
+                  - generic [ref=f8e704]: set_title_method.setAccessible(True)
+                  - generic [ref=f8e706]: handler_instance = TitleLoggerHook(self)
+                  - generic [ref=f8e707]: self.unhook_obj = self.hook_method(set_title_method, handler_instance, priority=10)
+                  - generic [ref=f8e709]: "if self.unhook_obj:"
+                  - generic [ref=f8e710]: self.log("Successfully hooked ActionBar.setTitle()")
+              - paragraph [ref=f8e711]: Hooks are removed automatically when your plugin unloads, but you can also unhook manually.
+              - heading [level=3] [ref=f8e712]:
+                - link "4. Hook all methods or all constructors" [ref=f8e713] [cursor=pointer]:
+                  - /url: "#4-hook-all-methods-or-all-constructors"
+                - img "Link to section" [ref=f8e714]
+              - figure [ref=f8e717]:
+                - button "Copy Text" [ref=f8e718] [cursor=pointer]
+                - code [ref=f8e726]:
+                  - generic [ref=f8e727]: MyViewClass = find_class("com.example.MyCustomView")
+                  - generic [ref=f8e728]: unhook_list = self.hook_all_methods(MyViewClass, "onMeasure", TitleLoggerHook(self))
+                  - generic [ref=f8e730]: "if unhook_list:"
+                  - generic [ref=f8e731]: "self.log(f\"Successfully hooked {len(unhook_list)} onMeasure overload(s).\")"
+              - paragraph [ref=f8e732]: "Or:"
+              - figure [ref=f8e733]:
+                - button "Copy Text" [ref=f8e734] [cursor=pointer]
+                - code [ref=f8e742]:
+                  - generic [ref=f8e743]: SomeClass = find_class("com.example.SomeClass")
+                  - generic [ref=f8e744]: constructor_unhooks = self.hook_all_constructors(SomeClass, TitleLoggerHook(self))
+              - heading [level=3] [ref=f8e745]:
+                - link "5. Manual unhooking" [ref=f8e746] [cursor=pointer]:
+                  - /url: "#5-manual-unhooking"
+                - img "Link to section" [ref=f8e747]
+              - figure [ref=f8e750]:
+                - button "Copy Text" [ref=f8e751] [cursor=pointer]
+                - code [ref=f8e759]:
+                  - generic [ref=f8e760]: "if self.unhook_obj:"
+                  - generic [ref=f8e761]: self.unhook_method(self.unhook_obj)
+                  - generic [ref=f8e762]: self.unhook_obj = None
+              - paragraph [ref=f8e763]:
+                - text: If you used
+                - code [ref=f8e764]: hook_all_methods(...)
+                - text: or
+                - code [ref=f8e765]: hook_all_constructors(...)
+                - text: ", iterate over the returned list and unhook each item."
+              - heading [level=2] [ref=f8e766]:
+                - link "Practical Examples" [ref=f8e767] [cursor=pointer]:
+                  - /url: "#practical-examples"
+                - img "Link to section" [ref=f8e768]
+              - heading [level=3] [ref=f8e771]:
+                - 'link "Example 1: modify arguments before the call" [ref=f8e772] [cursor=pointer]':
+                  - /url: "#example-1-modify-arguments-before-the-call"
+                - img "Link to section" [ref=f8e773]
+              - figure [ref=f8e776]:
+                - button "Copy Text" [ref=f8e777] [cursor=pointer]
+                - code [ref=f8e785]:
+                  - generic [ref=f8e786]: from base_plugin import MethodHook
+                  - generic [ref=f8e787]: from hook_utils import find_class
+                  - generic [ref=f8e788]: from java import jint
+                  - generic [ref=f8e791]: "class ToastHook(MethodHook):"
+                  - generic [ref=f8e792]: "def before_hooked_method(self, param):"
+                  - generic [ref=f8e793]: "# Method signature: makeText(Context context, CharSequence text, int duration)"
+                  - generic [ref=f8e794]: original_text = param.args[1]
+                  - generic [ref=f8e795]: "param.args[1] = f\"(Plugin) {original_text}\""
+                  - generic [ref=f8e798]: ToastClass = find_class("android.widget.Toast")
+                  - generic [ref=f8e799]: ContextClass = find_class("android.content.Context")
+                  - generic [ref=f8e800]: CharSequenceClass = find_class("java.lang.CharSequence")
+                  - generic [ref=f8e802]: make_text_method = ToastClass.getDeclaredMethod("makeText", ContextClass, CharSequenceClass, jint)
+                  - generic [ref=f8e803]: self.hook_method(make_text_method, ToastHook())
+              - heading [level=3] [ref=f8e804]:
+                - 'link "Example 2: change the return value after the call" [ref=f8e805] [cursor=pointer]':
+                  - /url: "#example-2-change-the-return-value-after-the-call"
+                - img "Link to section" [ref=f8e806]
+              - figure [ref=f8e809]:
+                - button "Copy Text" [ref=f8e810] [cursor=pointer]
+                - code [ref=f8e818]:
+                  - generic [ref=f8e819]: from base_plugin import MethodHook
+                  - generic [ref=f8e820]: from hook_utils import find_class
+                  - generic [ref=f8e823]: "class BuildVarsHook(MethodHook):"
+                  - generic [ref=f8e824]: "def __init__(self, plugin):"
+                  - generic [ref=f8e825]: self.plugin = plugin
+                  - generic [ref=f8e827]: "def after_hooked_method(self, param):"
+                  - generic [ref=f8e828]: original_result = param.getResult()
+                  - generic [ref=f8e829]: "self.plugin.log(f\"Original result: {original_result}\")"
+                  - generic [ref=f8e830]: param.setResult(False)
+                  - generic [ref=f8e833]: BuildVarsClass = find_class("org.telegram.messenger.BuildVars")
+                  - generic [ref=f8e834]: is_main_app_method = BuildVarsClass.getDeclaredMethod("isMainApp")
+                  - generic [ref=f8e835]: self.hook_method(is_main_app_method, BuildVarsHook(self))
+              - heading [level=3] [ref=f8e836]:
+                - link [ref=f8e837] [cursor=pointer]:
+                  - /url: "#example-3-skip-the-original-call-in-before_hooked_method"
+                  - text: "Example 3: skip the original call in"
+                  - code [ref=f8e838]: before_hooked_method
+                - img "Link to section" [ref=f8e839]
+              - figure [ref=f8e842]:
+                - button "Copy Text" [ref=f8e843] [cursor=pointer]
+                - code [ref=f8e851]:
+                  - generic [ref=f8e852]: from base_plugin import MethodHook
+                  - generic [ref=f8e853]: from hook_utils import find_class
+                  - generic [ref=f8e854]: from java.lang import Boolean, Long
+                  - generic [ref=f8e857]: "class FormatFileSizeHook(MethodHook):"
+                  - generic [ref=f8e858]: "def before_hooked_method(self, param):"
+                  - generic [ref=f8e859]: size = param.args[0]
+                  - generic [ref=f8e861]: "if size < 1024:"
+                  - generic [ref=f8e862]: "# Skip the original method completely."
+                  - generic [ref=f8e863]: "param.setResult(f\"{size} bytes (edited)\")"
+                  - generic [ref=f8e866]: AndroidUtilitiesClass = find_class("org.telegram.messenger.AndroidUtilities")
+                  - generic [ref=f8e867]: format_file_size_method = AndroidUtilitiesClass.getDeclaredMethod(
+                  - generic [ref=f8e868]: "\"formatFileSize\","
+                  - generic [ref=f8e869]: Long.TYPE,
+                  - generic [ref=f8e870]: Boolean.TYPE,
+                  - generic [ref=f8e871]: Boolean.TYPE,
+                  - generic [ref=f8e872]: )
+                  - generic [ref=f8e873]: self.hook_method(format_file_size_method, FormatFileSizeHook())
+              - heading [level=3] [ref=f8e874]:
+                - 'link "Example 4: fully replace a method" [ref=f8e875] [cursor=pointer]':
+                  - /url: "#example-4-fully-replace-a-method"
+                - img "Link to section" [ref=f8e876]
+              - figure [ref=f8e879]:
+                - button "Copy Text" [ref=f8e880] [cursor=pointer]
+                - code [ref=f8e888]:
+                  - generic [ref=f8e889]: from java.lang import String as JString
+                  - generic [ref=f8e891]: from base_plugin import MethodReplacement
+                  - generic [ref=f8e892]: from hook_utils import find_class
+                  - generic [ref=f8e895]: "class NoOpLogger(MethodReplacement):"
+                  - generic [ref=f8e896]: "def replace_hooked_method(self, param):"
+                  - generic [ref=f8e897]: "# Original method is never called."
+                  - generic [ref=f8e898]: return None
+                  - generic [ref=f8e901]: FileLogClass = find_class("org.telegram.messenger.FileLog")
+                  - generic [ref=f8e902]: log_method = FileLogClass.getDeclaredMethod("d", JString)
+                  - generic [ref=f8e903]: self.hook_method(log_method, NoOpLogger())
+              - generic [ref=f8e907]:
+                - paragraph [ref=f8e908]: "Return values in `MethodReplacement`"
+                - generic [ref=f8e909]:
+                  - paragraph [ref=f8e910]:
+                    - text: Your
+                    - code [ref=f8e911]: replace_hooked_method(...)
+                    - text: "becomes the whole implementation. Return a value compatible with the original Java method:"
+                  - list [ref=f8e912]:
+                    - listitem [ref=f8e913]:
+                      - code [ref=f8e914]: None
+                      - text: for
+                      - code [ref=f8e915]: void
+                    - listitem [ref=f8e916]:
+                      - text: Python
+                      - code [ref=f8e917]: bool
+                      - text: /
+                      - code [ref=f8e918]: int
+                      - text: /
+                      - code [ref=f8e919]: float
+                      - text: for primitive Java returns
+                    - listitem [ref=f8e920]: compatible Java or Python object for reference returns
+            - generic [ref=f8e921]:
+              - link [ref=f8e922] [cursor=pointer]:
+                - /url: /docs/class-proxy
+                - paragraph [ref=f8e926]: Previous
+                - paragraph [ref=f8e927]: Class Proxy
+              - link [ref=f8e928] [cursor=pointer]:
+                - /url: /docs/android-utils
+                - paragraph [ref=f8e932]: Next
+                - paragraph [ref=f8e933]: Android Utilities
+          - generic [ref=f8e935]:
+            - heading "On this page" [level=3] [ref=f8e936]
+            - generic [ref=f8e941]:
+              - link "Introduction" [ref=f8e942] [cursor=pointer]:
+                - /url: "#introduction"
+              - link "Hook Handler Styles" [ref=f8e944] [cursor=pointer]:
+                - /url: "#hook-handler-styles"
+              - link [ref=f8e946] [cursor=pointer]:
+                - /url: "#1-methodhook"
+                - text: "1."
+                - code [ref=f8e950]: MethodHook
+              - link [ref=f8e951] [cursor=pointer]:
+                - /url: "#2-methodreplacement"
+                - text: "2."
+                - code [ref=f8e953]: MethodReplacement
+              - link [ref=f8e954] [cursor=pointer]:
+                - /url: "#3-functional-hooks-or-basehook"
+                - text: 3. Functional hooks or
+                - code [ref=f8e956]: BaseHook
+              - link [ref=f8e957] [cursor=pointer]:
+                - /url: "#the-param-object"
+                - text: The
+                - code [ref=f8e961]: param
+                - text: Object
+              - link "Filters" [ref=f8e962] [cursor=pointer]:
+                - /url: "#filters"
+              - link [ref=f8e964] [cursor=pointer]:
+                - /url: "#available-hookfilter-helpers"
+                - text: Available
+                - code [ref=f8e968]: HookFilter
+                - text: helpers
+              - link "Class-based filter example" [ref=f8e969] [cursor=pointer]:
+                - /url: "#class-based-filter-example"
+              - link "MVEL condition filter example" [ref=f8e971] [cursor=pointer]:
+                - /url: "#mvel-condition-filter-example"
+              - link "The Hooking Process" [ref=f8e973] [cursor=pointer]:
+                - /url: "#the-hooking-process"
+              - link "1. Find the target method or constructor" [ref=f8e977] [cursor=pointer]:
+                - /url: "#1-find-the-target-method-or-constructor"
+              - link "2. Implement the hook handler" [ref=f8e981] [cursor=pointer]:
+                - /url: "#2-implement-the-hook-handler"
+              - link "3. Apply the hook" [ref=f8e983] [cursor=pointer]:
+                - /url: "#3-apply-the-hook"
+              - link "4. Hook all methods or all constructors" [ref=f8e985] [cursor=pointer]:
+                - /url: "#4-hook-all-methods-or-all-constructors"
+              - link "5. Manual unhooking" [ref=f8e987] [cursor=pointer]:
+                - /url: "#5-manual-unhooking"
+              - link "Practical Examples" [ref=f8e989] [cursor=pointer]:
+                - /url: "#practical-examples"
+              - 'link "Example 1: modify arguments before the call" [ref=f8e993] [cursor=pointer]':
+                - /url: "#example-1-modify-arguments-before-the-call"
+              - 'link "Example 2: change the return value after the call" [ref=f8e997] [cursor=pointer]':
+                - /url: "#example-2-change-the-return-value-after-the-call"
+              - link [ref=f8e999] [cursor=pointer]:
+                - /url: "#example-3-skip-the-original-call-in-before_hooked_method"
+                - text: "Example 3: skip the original call in"
+                - code [ref=f8e1001]: before_hooked_method
+              - 'link "Example 4: fully replace a method" [ref=f8e1002] [cursor=pointer]':
+                - /url: "#example-4-fully-replace-a-method"
+  - region "Notifications alt+T"
