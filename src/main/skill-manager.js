@@ -329,4 +329,13 @@ class SkillManager {
   }
 }
 
-module.exports = { SkillManager, safeStringify };
+// 全局单例（懒加载）
+let _instance = null;
+function getSkillManager() {
+  if (!_instance) {
+    _instance = new SkillManager();
+  }
+  return _instance;
+}
+
+module.exports = { SkillManager, getSkillManager, safeStringify };
